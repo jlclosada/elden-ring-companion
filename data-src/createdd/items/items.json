@@ -1,0 +1,43 @@
+{
+  "golden_rune_1": {
+    "name_ru": "Золотая руна (1)",
+    "name_en": "Golden Rune (1)",
+    "type_ru": "Инструмент",
+    "type_en": "Tool",
+    "weapon_type_ru": "Расходники",
+    "weapon_type_en": "Consumables",
+    "icon": "golden_rune_1.png",
+    "description_ru": "Золотая руна, излучающая тусклый свет. Используйте, чтобы получить немного рун.",
+    "description_en": "A golden rune emitting a faint light. Use to gain a small amount of runes.",
+    "effect_ru": "Даёт 200 рун при использовании.",
+    "effect_en": "Grants 200 runes when used."
+  },
+  "golden_rune_8": {
+    "name_ru": "Золотая руна (8)",
+    "name_en": "Golden Rune (8)",
+    "type_ru": "Инструмент",
+    "type_en": "Tool",
+    "weapon_type_ru": "Расходники",
+    "weapon_type_en": "Consumables",
+    "icon": "golden_rune_8.png",
+    "price_sell": 3000,
+    "description_ru": "Благодать, дарованная обитателям Междуземья; блестит золотом сквозь время.\nИспользуйте, чтобы получить 3000 рун.\nБлагословенны те, кто родился у подножия Древа Эрд. По крайней мере, жители плато до сих пор в это верят.",
+    "description_en": "Grace bestowed upon the inhabitants of the Lands Between; glimmers gold across the ages.\nUse to gain 3000 runes.\nBlessed are those who were born at the foot of the Erdtree. At least, the denizens of the plateau still believe so.",
+    "effect_ru": "Даёт 3000 рун при использовании.",
+    "effect_en": "Grants 3000 runes when used."
+  },
+  "golden_rune_12": {
+    "name_ru": "Золотая руна (12)",
+    "name_en": "Golden Rune (12)",
+    "type_ru": "Инструмент",
+    "type_en": "Tool",
+    "weapon_type_ru": "Расходники",
+    "weapon_type_en": "Consumables",
+    "icon": "golden_rune_12.png",
+    "price_sell": 7500,
+    "description_ru": "Благодать, дарованная обитателям Междуземья; блестит золотом сквозь время.\nИспользуйте, чтобы получить 7500 рун.\nТе, кто первыми покорились золотой благодати, отмечены самым ярким цветом.",
+    "description_en": "Grace bestowed upon the inhabitants of the Lands Between; glimmers gold across the ages.\nUse to gain 7500 runes.\nThose who first surrendered to golden grace are marked by the brightest color.",
+    "effect_ru": "Даёт 7500 рун при использовании.",
+    "effect_en": "Grants 7500 runes when used."
+  }
+}

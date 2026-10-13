@@ -1,0 +1,62 @@
+{
+    "golden_beast_crest_shield": {
+        "name_ru": "Золотой щит с гербовым зверем",
+        "name_en": "Golden Beast Crest Shield",
+        "icon": "golden_beast_crest_shield.png",
+        "type_ru": "Большой щит",
+        "type_en": "Greatshield",
+        "weapon_type_ru": "Большой щит",
+        "weapon_type_en": "Greatshield",
+        "damage_type_ru": "Дробящий",
+        "damage_type_en": "Strike",
+        "skill_name_ru": "Нет навыка",
+        "skill_name_en": "No Skill",
+        "skill_cost": "- (- -)",
+        "attack": {
+            "physical": 104, "magic": 0, "fire": 0, "lightning": 0, "holy": 0, "crit": 100
+        },
+        "defense": {
+            "physical": 100, "magic": 55, "fire": 55, "lightning": 48, "holy": 55, "guard_boost": 60
+        },
+        "weight": 12.5,
+        "scaling": {
+            "str": "D", "dex": "-", "int": "-", "fth": "-", "arc": "-"
+        },
+        "requirements": {
+            "str": 24, "dex": 0, "int": 0, "fth": 0, "arc": 0
+        },
+        "effects_ru": "Зверь олицетворяет Сероша — старого советника отпрысков золотого рода. Легче большинства щитов своего класса.",
+        "effects_en": "The beast represents Serosh — the old counselor of the golden lineage scions. Lighter than most shields of its class."
+    },
+    "twinbird_kite": {
+        "name_ru": "Треугольный щит с парой птиц",
+        "name_en": "Twinbird Kite Shield",
+        "icon": "twinbird_kite.png",
+        "type_ru": "Средний Щит",
+        "type_en": "Medium Shield",
+        "weapon_type_ru": "Средний Щит",
+        "weapon_type_en": "Medium Shield",
+        "damage_type_ru": "Дробящий",
+        "damage_type_en": "Strike",
+        "skill_name_ru": "Нет навыка",
+        "skill_name_en": "No Skill",
+        "skill_cost": "- (- -)",
+        
+        "attack": {
+            "physical": 78, "magic": 0, "fire": 0, "lightning": 0, "holy": 0, "crit": 100
+        },
+        "defense": {
+            "physical": 100, "magic": 49, "fire": 50, "lightning": 28, "holy": 35, "guard_boost": 55
+        },
+        "weight": 4.5,
+        
+        "scaling": {
+            "str": "D", "dex": "-", "int": "-", "fth": "-", "arc": "-"
+        },
+        "requirements": {
+            "str": 12, "dex": 0, "int": 0, "fth": 0, "arc": 0
+        },
+        "effects_ru": "Увеличивает силу атаки на 5% и сопротивление ко всем типам урона на 10%, если уровень здоровья ниже 20% (в PvP и PvE).",
+        "effects_en": "Increases attack power by 5% and damage negation by 10% when HP is below 20% (in PvP and PvE)."
+    }
+}

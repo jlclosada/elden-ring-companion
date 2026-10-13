@@ -1,0 +1,293 @@
+/**
+ * Catálogo de jefes para la checklist de cada partida (juego base + Shadow of the Erdtree).
+ * Cuando un jefe ya existe como tarea de la guía (`task`), marcarlo aquí marca también la tarea
+ * y viceversa: ambos comparten la misma clave en `run.done`.
+ */
+import { DLC_REGIONS } from './dlc'
+
+// Las entradas de regiones del DLC se marcan `dlc` automáticamente
+const DLC_REGION_IDS = new Set(DLC_REGIONS.map((r) => r.id))
+
+export type BossKind = 'remembrance' | 'major' | 'field' | 'dungeon' | 'evergaol' | 'night'
+
+export interface Boss {
+  id: string
+  name: string
+  /** Nombre en inglés (para buscar) */
+  en: string
+  /** Id de región (regions.ts / dlc.ts) */
+  region: string
+  place: string
+  kind: BossKind
+  required?: boolean
+  dlc?: boolean
+  /** Tarea de la guía equivalente */
+  task?: string
+}
+
+export const BOSS_KIND: Record<BossKind, { label: string; color: string }> = {
+  remembrance: { label: 'Remembranza', color: '#e6c56f' },
+  major: { label: 'Gran enemigo', color: '#e0614f' },
+  field: { label: 'De campo', color: '#e08a4f' },
+  dungeon: { label: 'Mazmorra', color: '#a38bd6' },
+  evergaol: { label: 'Prisión eterna', color: '#8f9fe0' },
+  night: { label: 'Nocturno', color: '#9aa2c4' },
+}
+
+type B = Omit<Boss, 'id' | 'region'>
+const group = (region: string, list: (B & { id: string })[]): Boss[] => list.map((b) => ({ ...b, region }))
+
+export const BOSSES: Boss[] = [
+  // ───────── Necrolimbo ─────────
+  ...group('limgrave', [
+    { id: 'soldier-godrick', name: 'Soldado de Godrick', en: 'Soldier of Godrick', place: 'Cementerio Varado (tutorial)', kind: 'dungeon' },
+    { id: 'tree-sentinel', name: 'Centinela del Árbol', en: 'Tree Sentinel', place: 'Iglesia de Elleh', kind: 'field', task: 'tree-sentinel' },
+    { id: 'agheel', name: 'Dragón volador Agheel', en: 'Flying Dragon Agheel', place: 'Lago de Agheel', kind: 'field', task: 'agheel' },
+    { id: 'margit', name: 'Margit, el Augurio Caído', en: 'Margit, the Fell Omen', place: 'Velo Tormentoso (puerta)', kind: 'major', required: true, task: 'margit' },
+    { id: 'godrick', name: 'Godrick el Injertado', en: 'Godrick the Grafted', place: 'Castillo de Velo Tormentoso', kind: 'remembrance', required: true, task: 'godrick' },
+    { id: 'grafted-scion', name: 'Vástago injertado', en: 'Grafted Scion', place: 'Castillo de Velo Tormentoso', kind: 'field' },
+    { id: 'night-cavalry-limgrave', name: 'Caballería nocturna', en: "Night's Cavalry", place: 'Puente de Agheel (de noche)', kind: 'night' },
+    { id: 'bell-hunter-limgrave', name: 'Cazador de campanillas', en: 'Bell Bearing Hunter', place: 'Choza del Maestro de Armas (de noche)', kind: 'night' },
+    { id: 'tibia-limgrave', name: 'Marinero tibia', en: 'Tibia Mariner', place: 'Aldea de Summonwater', kind: 'field' },
+    { id: 'pumpkin-limgrave', name: 'Cabeza de calabaza loca', en: 'Mad Pumpkin Head', place: 'Ruinas de Waypoint', kind: 'dungeon' },
+    { id: 'crucible-stormhill', name: 'Caballero del Crisol', en: 'Crucible Knight', place: 'Prisión eterna de Colina Tormentosa', kind: 'evergaol' },
+    { id: 'darriwil', name: 'Caballero sabueso Darriwil', en: 'Bloodhound Knight Darriwil', place: 'Prisión eterna del Sabueso', kind: 'evergaol' },
+    { id: 'ulcerated-fringefolk', name: 'Espíritu de árbol ulcerado', en: 'Ulcerated Tree Spirit', place: 'Tumba del Héroe Varado', kind: 'dungeon' },
+    { id: 'watchdog-stormfoot', name: 'Perro guardián del entierro', en: 'Erdtree Burial Watchdog', place: 'Catacumbas de Stormfoot', kind: 'dungeon' },
+    { id: 'duelist-murkwater', name: 'Duelista guardián de tumbas', en: 'Grave Warden Duelist', place: 'Catacumbas de Murkwater', kind: 'dungeon' },
+    { id: 'black-knife-deathtouched', name: 'Asesino del Cuchillo Negro', en: 'Black Knife Assassin', place: 'Catacumbas Tocadas por la Muerte', kind: 'dungeon' },
+    { id: 'beastman-groveside', name: 'Hombre bestia de Farum Azula', en: 'Beastman of Farum Azula', place: 'Cueva de Groveside', kind: 'dungeon' },
+    { id: 'demi-chiefs', name: 'Jefes semihumanos', en: 'Demi-Human Chiefs', place: 'Cueva Costera', kind: 'dungeon' },
+    { id: 'patches', name: 'Patches', en: 'Patches', place: 'Cueva de Murkwater', kind: 'dungeon' },
+    { id: 'troll-limgrave', name: 'Trol excavador', en: 'Stonedigger Troll', place: 'Túneles de Necrolimbo', kind: 'dungeon' },
+    { id: 'guardian-golem', name: 'Gólem guardián', en: 'Guardian Golem', place: 'Cueva del Camino Alto', kind: 'dungeon' },
+  ]),
+  // ───────── Península Llorosa ─────────
+  ...group('weeping', [
+    { id: 'leonine', name: 'Leonino Malnacido', en: 'Leonine Misbegotten', place: 'Castillo de Morne', kind: 'major', task: 'leonine' },
+    { id: 'avatar-weeping', name: 'Avatar del Árbol Áureo', en: 'Erdtree Avatar', place: 'Suroeste de la península', kind: 'field' },
+    { id: 'zamor-weeping', name: 'Héroe antiguo de Zamor', en: 'Ancient Hero of Zamor', place: 'Prisión eterna de la Península', kind: 'evergaol' },
+    { id: 'night-cavalry-weeping', name: 'Caballería nocturna', en: "Night's Cavalry", place: 'Camino de la Península (de noche)', kind: 'night' },
+    { id: 'deathbird-weeping', name: 'Ave de la muerte', en: 'Deathbird', place: 'Al norte del Castillo de Morne (de noche)', kind: 'night' },
+    { id: 'shade-tombsward', name: 'Sombra del cementerio', en: 'Cemetery Shade', place: 'Catacumbas de Tombsward', kind: 'dungeon' },
+    { id: 'miranda-tombsward', name: 'Miranda, la Flor Marchita', en: 'Miranda the Blighted Bloom', place: 'Cueva de Tombsward', kind: 'dungeon' },
+    { id: 'runebear', name: 'Oso rúnico', en: 'Runebear', place: 'Cueva de Earthbore', kind: 'dungeon' },
+    { id: 'scaly-misbegotten', name: 'Malnacido escamoso', en: 'Scaly Misbegotten', place: 'Túnel de Morne', kind: 'dungeon' },
+    { id: 'watchdog-impaler', name: 'Perro guardián del entierro', en: 'Erdtree Burial Watchdog', place: 'Catacumbas del Empalador', kind: 'dungeon' },
+  ]),
+  // ───────── Río Siofra / Nokron / Ainsel ─────────
+  ...group('siofra', [
+    { id: 'ancestor', name: 'Espíritu ancestral', en: 'Ancestor Spirit', place: 'Ruinas de Hallowhorn (Siofra)', kind: 'field', task: 'ancestor' },
+    { id: 'dragonkin-siofra', name: 'Soldado dracónico', en: 'Dragonkin Soldier', place: 'Río Siofra', kind: 'field' },
+  ]),
+  // ───────── Liurnia ─────────
+  ...group('liurnia', [
+    { id: 'smarag', name: 'Dragón de brillo Smarag', en: 'Glintstone Dragon Smarag', place: 'Junto a la Academia', kind: 'field', task: 'smarag-kill' },
+    { id: 'red-wolf-radagon', name: 'Lobo Rojo de Radagon', en: 'Red Wolf of Radagon', place: 'Academia de Raya Lucaria', kind: 'major' },
+    { id: 'rennala', name: 'Rennala, Reina de la Luna Llena', en: 'Rennala, Queen of the Full Moon', place: 'Academia de Raya Lucaria', kind: 'remembrance', required: true, task: 'rennala' },
+    { id: 'loretta', name: 'Caballero real Loretta', en: 'Royal Knight Loretta', place: 'Mansión de Caria', kind: 'major' },
+    { id: 'alecto', name: 'Alecto, Cabecilla del Cuchillo Negro', en: 'Alecto, Black Knife Ringleader', place: 'Prisión eterna de la Cabecilla', kind: 'evergaol', task: 'tiche' },
+    { id: 'bols', name: 'Bols, Caballero cario', en: 'Bols, Carian Knight', place: 'Prisión eterna del Cuco', kind: 'evergaol' },
+    { id: 'adan', name: 'Adan, Ladrón del Fuego', en: 'Adan, Thief of Fire', place: 'Prisión eterna del Malhechor', kind: 'evergaol' },
+    { id: 'onyx-lord', name: 'Señor de ónice', en: 'Onyx Lord', place: 'Prisión eterna de la Tumba Real', kind: 'evergaol' },
+    { id: 'adula', name: 'Dragón de brillo Adula', en: 'Glintstone Dragon Adula', place: 'Catedral de Manus Celes', kind: 'field' },
+    { id: 'royal-revenant', name: 'Aparecido real', en: 'Royal Revenant', place: 'Ruinas del Reino', kind: 'field' },
+    { id: 'omenkiller', name: 'Asesino de Augurios', en: 'Omenkiller', place: 'Aldea de los Albinaurios', kind: 'field' },
+    { id: 'avatar-liurnia', name: 'Avatar del Árbol Áureo', en: 'Erdtree Avatar', place: 'Choza del Vengador', kind: 'field' },
+    { id: 'tibia-liurnia', name: 'Marinero tibia', en: 'Tibia Mariner', place: 'Este de Liurnia', kind: 'field' },
+    { id: 'makar', name: 'Wyrm de magma Makar', en: 'Magma Wyrm Makar', place: 'Precipicio en Ruinas', kind: 'dungeon' },
+    { id: 'night-cavalry-liurnia', name: 'Caballería nocturna', en: "Night's Cavalry", place: 'Camino del Lago (de noche)', kind: 'night' },
+    { id: 'deathrite-liurnia', name: 'Ave del rito mortal', en: 'Death Rite Bird', place: 'Gate Town (de noche)', kind: 'night' },
+    { id: 'bell-hunter-liurnia', name: 'Cazador de campanillas', en: 'Bell Bearing Hunter', place: 'Iglesia de los Votos (de noche)', kind: 'night' },
+    { id: 'crystalians-academy', name: 'Cristalianos', en: 'Crystalians', place: 'Cueva de Cristal de la Academia', kind: 'dungeon' },
+    { id: 'crystalian-tunnel', name: 'Cristaliano', en: 'Crystalian', place: 'Túnel de Cristal de Raya Lucaria', kind: 'dungeon' },
+    { id: 'snail', name: 'Caracol invocaespíritus', en: 'Spirit-Caller Snail', place: "Catacumbas de Road's End", kind: 'dungeon' },
+    { id: 'cleanrot-stillwater', name: 'Caballero Pudrelimpia', en: 'Cleanrot Knight', place: 'Cueva de Stillwater', kind: 'dungeon' },
+    { id: 'bloodhound-lakeside', name: 'Caballero sabueso', en: 'Bloodhound Knight', place: 'Cueva de Cristal del Lago', kind: 'dungeon' },
+    { id: 'shade-blackknife', name: 'Sombra del cementerio', en: 'Cemetery Shade', place: 'Catacumbas del Cuchillo Negro', kind: 'dungeon' },
+    { id: 'watchdog-cliffbottom', name: 'Perro guardián del entierro', en: 'Erdtree Burial Watchdog', place: 'Catacumbas de Cliffbottom', kind: 'dungeon' },
+    { id: 'fell-twins', name: 'Gemelos Funestos', en: 'Fell Twins', place: 'Torre Divina de Altus Este', kind: 'major' },
+  ]),
+  // ───────── Caelid ─────────
+  ...group('caelid', [
+    { id: 'redmane-duo', name: 'Guerrero Malnacido y Caballero del Crisol', en: 'Misbegotten Warrior & Crucible Knight', place: 'Plaza del Castillo Melenarroja', kind: 'major' },
+    { id: 'radahn', name: 'Radahn, el Azote Estelar', en: 'Starscourge Radahn', place: 'Castillo Melenarroja (Festival)', kind: 'remembrance', task: 'radahn' },
+    { id: 'oneil', name: "Comandante O'Neil", en: "Commander O'Neil", place: 'Pantano de Aeonia', kind: 'field' },
+    { id: 'ekzykes', name: 'Ekzykes el Decadente', en: 'Decaying Ekzykes', place: 'Camino de Caelid', kind: 'field' },
+    { id: 'putrid-avatar-caelid', name: 'Avatar pútrido', en: 'Putrid Avatar', place: 'Norte de Caelid', kind: 'field' },
+    { id: 'nox-duo', name: 'Espadachina y Monje Nox', en: 'Nox Swordstress & Nox Monk', place: 'Sellia, Ciudad de la Hechicería', kind: 'field' },
+    { id: 'hugues', name: 'Mago de batalla Hugues', en: 'Battlemage Hugues', place: 'Prisión eterna de Sellia', kind: 'evergaol' },
+    { id: 'night-cavalry-caelid', name: 'Caballería nocturna', en: "Night's Cavalry", place: 'Camino de Caelid (de noche)', kind: 'night' },
+    { id: 'deathrite-caelid', name: 'Ave del rito mortal', en: 'Death Rite Bird', place: 'Sur de Caelid (de noche)', kind: 'night' },
+    { id: 'magma-gael', name: 'Wyrm de magma', en: 'Magma Wyrm', place: 'Túnel de Gael', kind: 'dungeon' },
+    { id: 'frenzied-duelist', name: 'Duelista frenético', en: 'Frenzied Duelist', place: 'Cueva de la Prisión', kind: 'dungeon' },
+    { id: 'putrid-crystalians', name: 'Trío de cristalianos pútridos', en: 'Putrid Crystalians', place: 'Escondite de Sellia', kind: 'dungeon' },
+    { id: 'putrid-spirit', name: 'Espíritu de árbol pútrido', en: 'Putrid Tree Spirit', place: 'Catacumbas de los Caídos', kind: 'dungeon' },
+    { id: 'pumpkin-caelid', name: 'Cabezas de calabaza locas', en: 'Mad Pumpkin Heads', place: 'Ruinas de Waypoint de Caelid', kind: 'dungeon' },
+  ]),
+  ...group('dragonbarrow', [
+    { id: 'greyoll', name: 'Dragona anciana Greyoll', en: 'Elder Dragon Greyoll', place: 'Túmulo de Greyoll', kind: 'field', task: 'greyoll' },
+    { id: 'greyll', name: 'Dragón volador Greyll', en: 'Flying Dragon Greyll', place: 'Puente hacia el Santuario Bestial', kind: 'field' },
+    { id: 'kindred-sanctum', name: 'Pariente de la Hoja Negra', en: 'Black Blade Kindred', place: 'Santuario Bestial', kind: 'field' },
+    { id: 'godskin-caelid', name: 'Apóstol de Piel Divina', en: 'Godskin Apostle', place: 'Torre Divina de Caelid', kind: 'major' },
+    { id: 'beastman-dragonbarrow', name: 'Hombres bestia de Farum Azula', en: 'Beastmen of Farum Azula', place: 'Cueva del Túmulo', kind: 'dungeon' },
+    { id: 'night-cavalry-duo-dragonbarrow', name: 'Dúo de Caballería nocturna', en: "Night's Cavalry Duo", place: 'Túmulo de Greyoll (de noche)', kind: 'night' },
+    { id: 'bell-hunter-dragonbarrow', name: 'Cazador de campanillas', en: 'Bell Bearing Hunter', place: 'Choza del Mercader Aislado (de noche)', kind: 'night' },
+  ]),
+  // ───────── Subsuelo (ríos y Nokron) ─────────
+  ...group('nokron', [
+    { id: 'mimic-tear', name: 'Lágrima imitadora', en: 'Mimic Tear', place: 'Nokron, Ciudad Eterna', kind: 'major' },
+    { id: 'gargoyles', name: 'Gárgolas valerosas', en: 'Valiant Gargoyles', place: 'Acueducto de Siofra', kind: 'major' },
+    { id: 'regal-ancestor', name: 'Espíritu ancestral regio', en: 'Regal Ancestor Spirit', place: 'Ruinas de Hallowhorn (Nokron)', kind: 'remembrance' },
+  ]),
+  ...group('ainsel', [
+    { id: 'dragonkin-nokstella', name: 'Soldado dracónico de Nokstella', en: 'Dragonkin Soldier of Nokstella', place: 'Río Ainsel', kind: 'field' },
+  ]),
+  ...group('lakeofrot', [
+    { id: 'astel', name: 'Astel, Nacido del Vacío', en: 'Astel, Naturalborn of the Void', place: 'Gran Claustro', kind: 'remembrance', task: 'astel' },
+  ]),
+  // ───────── Meseta de Altus / Monte Gelmir ─────────
+  ...group('altus', [
+    { id: 'godefroy', name: 'Godefroy el Injertado', en: 'Godefroy the Grafted', place: 'Prisión eterna del Linaje Dorado', kind: 'evergaol' },
+    { id: 'lansseax', name: 'Dragona antigua Lansseax', en: 'Ancient Dragon Lansseax', place: 'Meseta de Altus', kind: 'field' },
+    { id: 'elemer', name: 'Elemer de la Zarza', en: 'Elemer of the Briar', place: 'Castillo Sombrío', kind: 'major' },
+    { id: 'wormface', name: 'Cara de gusano', en: 'Wormface', place: 'Bosque de Altus', kind: 'field' },
+    { id: 'tree-sentinel-duo', name: 'Dúo de Centinelas del Árbol', en: 'Tree Sentinel Duo', place: 'Camino a la capital', kind: 'field' },
+    { id: 'godskin-windmill', name: 'Apóstol de Piel Divina', en: 'Godskin Apostle', place: 'Aldea de los Molinos de Dominula', kind: 'field' },
+    { id: 'night-cavalry-altus', name: 'Caballería nocturna', en: "Night's Cavalry", place: 'Camino de Altus (de noche)', kind: 'night' },
+    { id: 'garris', name: 'Nigromante Garris', en: 'Necromancer Garris', place: 'Cueva del Sabio', kind: 'dungeon' },
+    { id: 'troll-altus', name: 'Trol excavador', en: 'Stonedigger Troll', place: 'Antiguo Túnel de Altus', kind: 'dungeon' },
+    { id: 'zamor-sainted', name: 'Héroe antiguo de Zamor', en: 'Ancient Hero of Zamor', place: 'Tumba del Héroe Santo', kind: 'dungeon' },
+    { id: 'miranda-perfumer', name: 'Miranda, la Flor Marchita', en: 'Miranda the Blighted Bloom', place: 'Gruta del Perfumista', kind: 'dungeon' },
+    { id: 'tricia', name: 'Perfumista Tricia y Guerrero Malnacido', en: 'Perfumer Tricia & Misbegotten Warrior', place: 'Catacumbas Feas', kind: 'dungeon' },
+    { id: 'ordovis', name: 'Caballero del Crisol Ordovis', en: 'Crucible Knight Ordovis', place: 'Tumba del Héroe de Auriza', kind: 'dungeon' },
+  ]),
+  ...group('gelmir', [
+    { id: 'magma-gelmir', name: 'Wyrm de magma', en: 'Magma Wyrm', place: 'Monte Gelmir', kind: 'field' },
+    { id: 'fallingstar-gelmir', name: 'Bestia estelar adulta', en: 'Full-Grown Fallingstar Beast', place: 'Monte Gelmir', kind: 'field' },
+    { id: 'maggie', name: 'Reina semihumana Maggie', en: 'Demi-Human Queen Maggie', place: 'Aldea del Ermitaño', kind: 'field' },
+    { id: 'kindred-rot', name: 'Parientes de la podredumbre', en: 'Kindred of Rot', place: 'Cueva de Seethewater', kind: 'dungeon' },
+    { id: 'red-wolf-champion', name: 'Lobo Rojo del Campeón', en: 'Red Wolf of the Champion', place: 'Tumba del Héroe de Gelmir', kind: 'dungeon' },
+    { id: 'godskin-noble', name: 'Noble de Piel Divina', en: 'Godskin Noble', place: 'Mansión del Volcán', kind: 'major' },
+    { id: 'abductors', name: 'Vírgenes raptoras', en: 'Abductor Virgins', place: 'Mansión del Volcán', kind: 'dungeon' },
+    { id: 'rykard', name: 'Rykard, Señor de la Blasfemia', en: 'Rykard, Lord of Blasphemy', place: 'Mansión del Volcán', kind: 'remembrance', task: 'rykard' },
+  ]),
+  // ───────── Leyndell ─────────
+  ...group('leyndell', [
+    { id: 'draconic-sentinel', name: 'Centinela dracónico del Árbol', en: 'Draconic Tree Sentinel', place: 'Afueras de la capital', kind: 'field' },
+    { id: 'deathbird-capital', name: 'Ave de la muerte', en: 'Deathbird', place: 'Afueras de la capital (de noche)', kind: 'night' },
+    { id: 'godfrey-shade', name: 'Godfrey, Primer Señor de Elden (sombra dorada)', en: 'Godfrey, First Elden Lord (Golden Shade)', place: 'Leyndell, Capital Real', kind: 'major' },
+    { id: 'morgott', name: 'Morgott, el Rey Augurio', en: 'Morgott, the Omen King', place: 'Trono de Elden', kind: 'remembrance', required: true, task: 'morgott' },
+    { id: 'gideon', name: 'Sir Gideon Ofnir, el Omnisciente', en: 'Sir Gideon Ofnir, the All-Knowing', place: 'Leyndell, Capital de Ceniza', kind: 'major', required: true },
+    { id: 'hoarah-loux', name: 'Godfrey / Hoarah Loux, Guerrero', en: 'Hoarah Loux, Warrior', place: 'Leyndell, Capital de Ceniza', kind: 'remembrance', required: true },
+    { id: 'elden-beast', name: 'Radagon de la Orden Áurea y la Bestia de Elden', en: 'Radagon of the Golden Order / Elden Beast', place: 'Trono de Elden (Capital de Ceniza)', kind: 'remembrance', required: true, task: 'elden-beast' },
+  ]),
+  ...group('shunning', [
+    { id: 'mohg-omen', name: 'Mohg, el Augurio', en: 'Mohg, the Omen', place: 'Cloacas de los Repudiados', kind: 'major' },
+    { id: 'esgar', name: 'Esgar, Sacerdote de la Sangre', en: 'Esgar, Priest of Blood', place: 'Catacumbas de Leyndell', kind: 'dungeon' },
+  ]),
+  ...group('deeproot', [
+    { id: 'siluria', name: 'Caballero del Crisol Siluria', en: 'Crucible Knight Siluria', place: 'Profundidades de las Raíces', kind: 'field' },
+    { id: 'fortissax', name: 'Lichdragón Fortissax', en: 'Lichdragon Fortissax', place: 'Profundidades de las Raíces', kind: 'remembrance', task: 'fortissax' },
+  ]),
+  // ───────── Tierras Prohibidas / Cumbres ─────────
+  ...group('forbidden', [
+    { id: 'kindred-forbidden', name: 'Pariente de la Hoja Negra', en: 'Black Blade Kindred', place: 'Tierras Prohibidas', kind: 'field' },
+  ]),
+  ...group('mountaintops', [
+    { id: 'fire-giant', name: 'Gigante de Fuego', en: 'Fire Giant', place: 'Cumbres de los Gigantes', kind: 'remembrance', required: true, task: 'fire-giant' },
+    { id: 'niall', name: 'Comandante Niall', en: 'Commander Niall', place: 'Castillo Sol', kind: 'major' },
+    { id: 'borealis', name: 'Borealis, la Niebla Helada', en: 'Borealis the Freezing Fog', place: 'Lago Helado', kind: 'field' },
+    { id: 'vyke', name: 'Caballero de la Mesa Redonda Vyke', en: 'Roundtable Knight Vyke', place: 'Prisión eterna del Aspirante a Señor', kind: 'evergaol' },
+    { id: 'avatar-mountaintops', name: 'Avatar del Árbol Áureo', en: 'Erdtree Avatar', place: 'Cumbres de los Gigantes', kind: 'field' },
+    { id: 'deathrite-mountaintops', name: 'Ave del rito mortal', en: 'Death Rite Bird', place: 'Cumbres de los Gigantes (de noche)', kind: 'night' },
+    { id: 'zamor-giant', name: 'Héroe antiguo de Zamor', en: 'Ancient Hero of Zamor', place: 'Tumba del Héroe Vencegigantes', kind: 'dungeon' },
+    { id: 'ulcerated-giants', name: 'Espíritu de árbol ulcerado', en: 'Ulcerated Tree Spirit', place: 'Catacumbas de las Cumbres', kind: 'dungeon' },
+  ]),
+  ...group('snowfield', [
+    { id: 'theodorix', name: 'Gran wyrm Theodorix', en: 'Great Wyrm Theodorix', place: 'Campo Nevado Consagrado', kind: 'field' },
+    { id: 'putrid-avatar-snow', name: 'Avatar pútrido', en: 'Putrid Avatar', place: 'Campo Nevado Consagrado', kind: 'field' },
+    { id: 'night-cavalry-duo-snow', name: 'Dúo de Caballería nocturna', en: "Night's Cavalry Duo", place: 'Campo Nevado (de noche)', kind: 'night' },
+    { id: 'crusader', name: 'Cruzado malnacido', en: 'Misbegotten Crusader', place: 'Cueva de los Desamparados', kind: 'dungeon' },
+    { id: 'stray-mimic', name: 'Lágrima imitadora errante', en: 'Stray Mimic Tear', place: 'Camino Oculto al Árbol Hálito', kind: 'dungeon' },
+  ]),
+  ...group('mohgwyn', [
+    { id: 'mohg', name: 'Mohg, Señor de la Sangre', en: 'Mohg, Lord of Blood', place: 'Palacio de Mohgwyn', kind: 'remembrance', task: 'mohg' },
+  ]),
+  ...group('haligtree', [
+    { id: 'loretta-haligtree', name: 'Loretta, Caballero del Árbol Hálito', en: 'Loretta, Knight of the Haligtree', place: 'Elphael, Sostén del Árbol Hálito', kind: 'major' },
+    { id: 'malenia', name: 'Malenia, Espada de Miquella', en: 'Malenia, Blade of Miquella', place: 'Raíces del Árbol Hálito', kind: 'remembrance', task: 'malenia' },
+  ]),
+  ...group('farum', [
+    { id: 'godskin-duo', name: 'Dúo de Piel Divina', en: 'Godskin Duo', place: 'Farum Azula Desmoronada', kind: 'major' },
+    { id: 'maliketh', name: 'Bestia clérigo / Maliketh, la Hoja Negra', en: 'Maliketh, the Black Blade', place: 'Farum Azula Desmoronada', kind: 'remembrance', required: true, task: 'maliketh' },
+    { id: 'placidusax', name: 'Señor Dragón Placidusax', en: 'Dragonlord Placidusax', place: 'Farum Azula Desmoronada', kind: 'remembrance', task: 'placidusax' },
+  ]),
+
+  // ═════════ Shadow of the Erdtree ═════════
+  ...group('gravesite', [
+    { id: 'dlc-lion', name: 'Bestia Divina León Danzante', en: 'Divine Beast Dancing Lion', place: 'Santuario de Belurat', kind: 'remembrance', required: true, task: 'dlc-lion' },
+    { id: 'dlc-rellana', name: 'Rellana, Caballero de las Lunas Gemelas', en: 'Rellana, Twin Moon Knight', place: 'Castillo Ensis', kind: 'remembrance', required: true, task: 'dlc-rellana' },
+    { id: 'dlc-onze', name: 'Maestro espadachín semihumano Onze', en: 'Demi-Human Swordmaster Onze', place: 'Prisión de Belurat', kind: 'dungeon' },
+    { id: 'dlc-death-knight-fog', name: 'Caballero de la Muerte', en: 'Death Knight', place: 'Catacumbas de la Grieta de Niebla', kind: 'dungeon' },
+    { id: 'dlc-solitary', name: 'Caballero de la Prisión Solitaria', en: 'Knight of the Solitary Gaol', place: 'Mausoleo Sin Nombre del Oeste', kind: 'field' },
+    { id: 'dlc-ghostflame-gravesite', name: 'Dragón de Llama Fantasmal', en: 'Ghostflame Dragon', place: 'Llanura de las Tumbas', kind: 'field' },
+    { id: 'dlc-edredd', name: 'Caballero negro Edredd', en: 'Black Knight Edredd', place: 'Fuerte de la Reprimenda', kind: 'dungeon' },
+    { id: 'dlc-chief-bloodfiend', name: 'Jefe sanguinario', en: 'Chief Bloodfiend', place: 'Cueva de la Desembocadura', kind: 'dungeon' },
+  ]),
+  ...group('cerulean', [
+    { id: 'dlc-ghostflame-cerulean', name: 'Dragón de Llama Fantasmal', en: 'Ghostflame Dragon', place: 'Costa Cerúlea', kind: 'field' },
+    { id: 'dlc-dancer-ranah', name: 'Bailarina de Ranah', en: 'Dancer of Ranah', place: 'Mausoleo Sin Nombre del Sur', kind: 'field' },
+  ]),
+  ...group('charo', [
+    { id: 'dlc-putrescent', name: 'Caballero Putrefacto', en: 'Putrescent Knight', place: 'Fisura del Sarcófago de Piedra', kind: 'remembrance', task: 'dlc-putrescent' },
+    { id: 'dlc-lamenter', name: 'Lamentador', en: 'Lamenter', place: 'Prisión del Lamentador', kind: 'dungeon' },
+  ]),
+  ...group('scadu', [
+    { id: 'dlc-dane', name: 'Dane de Hoja Seca', en: 'Dryleaf Dane', place: 'Ruinas de Moorth', kind: 'field' },
+    { id: 'dlc-ralva', name: 'Ralva, el Gran Oso Rojo', en: 'Ralva the Great Red Bear', place: 'Scadu Altus', kind: 'field' },
+    { id: 'dlc-gaius', name: 'Comandante Gaius', en: 'Commander Gaius', place: 'Base del Torreón de la Sombra', kind: 'major' },
+    { id: 'dlc-hippo', name: 'Hipopótamo dorado', en: 'Golden Hippopotamus', place: 'Torreón de la Sombra', kind: 'major', task: 'dlc-hippo' },
+    { id: 'dlc-messmer', name: 'Messmer el Empalador', en: 'Messmer the Impaler', place: 'Torreón de la Sombra', kind: 'remembrance', required: true, task: 'dlc-messmer' },
+    { id: 'dlc-scadutree-avatar', name: 'Avatar del Árbol Umbrío', en: 'Scadutree Avatar', place: 'Base del Árbol Umbrío', kind: 'remembrance' },
+    { id: 'dlc-rakshasa', name: 'Rakshasa', en: 'Rakshasa', place: 'Mausoleo Sin Nombre del Este', kind: 'field', task: 'dlc-rakshasa' },
+    { id: 'dlc-meera', name: 'Hoja maldita Meera', en: 'Curseblade Meera', place: 'Prisión de Bonny', kind: 'dungeon' },
+    { id: 'dlc-death-knight-scorpion', name: 'Caballero de la Muerte', en: 'Death Knight', place: 'Catacumbas del Río del Escorpión', kind: 'dungeon' },
+    { id: 'dlc-ghostflame-moorth', name: 'Dragón de Llama Fantasmal', en: 'Ghostflame Dragon', place: 'Carretera de Moorth', kind: 'field' },
+  ]),
+  ...group('rauh', [
+    { id: 'dlc-rugalea', name: 'Rugalea, el Gran Oso Rojo', en: 'Rugalea the Great Red Bear', place: 'Base de Rauh', kind: 'field' },
+    { id: 'dlc-romina', name: 'Romina, Santa del Brote', en: 'Romina, Saint of the Bud', place: 'Iglesia del Brote', kind: 'remembrance', required: true, task: 'dlc-romina' },
+  ]),
+  ...group('jagged', [
+    { id: 'dlc-jagged-drake', name: 'Draco del Pico Escarpado', en: 'Jagged Peak Drake', place: 'Faldas del Pico Escarpado', kind: 'field' },
+    { id: 'dlc-senessax', name: 'Dragón antiguo Senessax', en: 'Ancient Dragon Senessax', place: 'Pico Escarpado', kind: 'field' },
+    { id: 'dlc-bayle', name: 'Bayle el Pavoroso', en: 'Bayle the Dread', place: 'Cima del Pico Escarpado', kind: 'remembrance', task: 'dlc-bayle' },
+  ]),
+  ...group('abyssal', [
+    { id: 'dlc-jori', name: 'Jori, Inquisidor Anciano', en: 'Jori, Elder Inquisitor', place: 'Catacumbas de Luz Oscura', kind: 'dungeon' },
+    { id: 'dlc-midra', name: 'Midra, Señor de la Llama Frenética', en: 'Midra, Lord of Frenzied Flame', place: 'Mansión de Midra', kind: 'remembrance', task: 'dlc-midra' },
+  ]),
+  ...group('hinterland', [
+    { id: 'dlc-metyr', name: 'Metyr, Madre de los Dedos', en: 'Metyr, Mother of Fingers', place: 'Catedral de Manus Metyr', kind: 'remembrance' },
+  ]),
+  ...group('enir', [
+    { id: 'dlc-radahn', name: 'Radahn, Consorte Prometido', en: 'Promised Consort Radahn', place: 'Enir-Ilim', kind: 'remembrance', required: true, task: 'dlc-radahn' },
+  ]),
+].map((b) => (DLC_REGION_IDS.has(b.region) ? { ...b, dlc: true } : b))
+
+export const BOSS_BY_ID = Object.fromEntries(BOSSES.map((b) => [b.id, b]))
+
+/** Clave en `run.done`: la de la tarea de la guía si existe, para que ambas se sincronicen. */
+export const bossKey = (b: Boss) => b.task ?? `boss:${b.id}`
+
+export function bossesForRun(dlcEnabled?: boolean) {
+  return dlcEnabled ? BOSSES : BOSSES.filter((b) => !b.dlc)
+}
+
+/** Resumen de jefes derrotados de una partida */
+export function bossProgress(done: Record<string, number>, dlcEnabled?: boolean) {
+  const list = bossesForRun(dlcEnabled)
+  const killed = list.filter((x) => done[bossKey(x)]).length
+  return { killed, total: list.length, pct: list.length ? killed / list.length : 0 }
+}

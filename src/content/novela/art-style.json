@@ -1,0 +1,5 @@
+{
+  "_comment": "Estilo común de las ilustraciones del libro. Lo usan scripts/illustrate.mjs y el Estudio (/estudio).",
+  "style": "dark fantasy oil painting, classical oil on canvas, visible brushstrokes, old master technique, dramatic chiaroscuro, warm golden light against deep shadows, muted earthy palette of ochre, umber and tarnished gold, atmospheric haze, epic scale, painterly, highly detailed, museum quality",
+  "negative": "text, letters, words, caption, watermark, signature, logo, frame, border, photo, photorealistic, 3d render, cgi, anime, cartoon, comic, flat colors, lowres, blurry, jpeg artifacts, oversaturated, neon, deformed, bad anatomy, extra limbs, extra fingers, mutated hands, disfigured face, duplicate"
+}

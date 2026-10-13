@@ -1,0 +1,222 @@
+{
+    "ashes_battlemage_hugues": {
+        "name_ru": "Прах боевого мага Гуго",
+        "name_en": "Battlemage Hugues Ashes",
+        "icon": "ashes_battlemage_hugues.png",
+        "type_ru": "Прах",
+        "type_en": "Spirit Ashes",
+        "weapon_type_ru": "-",
+        "weapon_type_en": "-",
+        "damage_type_ru": "-",
+        "damage_type_en": "-",
+        "skill_name_ru": "-",
+        "skill_name_en": "-",
+        "skill_cost": "-",
+        
+        "summon_params": {
+            "fp_cost": 122,
+            "hp_cost": 0
+        },
+        
+        "attack": {
+            "physical": 0, "magic": 0, "fire": 0, "lightning": 0, "holy": 0, "crit": 0
+        },
+        "defense": {
+            "physical": 0, "magic": 0, "fire": 0, "lightning": 0, "holy": 0, "guard_boost": 0
+        },
+        "weight": 0.0,
+        
+        "scaling": {
+            "str": "-", "dex": "-", "int": "-", "fth": "-", "arc": "-"
+        },
+        "requirements": {
+            "str": 0, "dex": 0, "int": 0, "fth": 0, "arc": 0
+        },
+        "effects_ru": "Призывает дух боевого мага Гуго.",
+        "effects_en": "Summons the spirit of Battlemage Hugues."
+    },
+    "noble_sorcerer_ashes": {
+        "name_ru": "Прах высокородного чародея",
+        "name_en": "Noble Sorcerer Ashes",
+        "icon": "noble_sorcerer_ashes.png",
+        "type_ru": "Прах",
+        "type_en": "Spirit Ashes",
+        "weapon_type_ru": "-",
+        "weapon_type_en": "-",
+        "damage_type_ru": "-",
+        "damage_type_en": "-",
+        "skill_name_ru": "-",
+        "skill_name_en": "-",
+        "skill_cost": "-",
+
+        "summon_params": {
+            "fp_cost": 64,
+            "hp_cost": 0
+        },
+
+        "attack": {
+            "physical": 0, "magic": 0, "fire": 0, "lightning": 0, "holy": 0, "crit": 0
+        },
+        "defense": {
+            "physical": 0, "magic": 0, "fire": 0, "lightning": 0, "holy": 0, "guard_boost": 0
+        },
+        "weight": 0.0,
+
+        "scaling": {
+            "str": "-", "dex": "-", "int": "-", "fth": "-", "arc": "-"
+        },
+        "requirements": {
+            "str": 0, "dex": 0, "int": 0, "fth": 0, "arc": 0
+        },
+        "effects_ru": "Призывает дух высокородного чародея.",
+        "effects_en": "Summons the spirit of a Noble Sorcerer."
+    },
+    "wandering_nobles_ashes": {
+        "name_ru": "Прах странствующих вельмож",
+        "name_en": "Wandering Nobles Ashes",
+        "icon": "wandering_nobles_ashes.png",
+        "type_ru": "Прах",
+        "type_en": "Spirit Ashes",
+        "weapon_type_ru": "-",
+        "weapon_type_en": "-",
+        "damage_type_ru": "-",
+        "damage_type_en": "-",
+        "skill_name_ru": "-",
+        "skill_name_en": "-",
+        "skill_cost": "-",
+
+        "summon_params": {
+            "fp_cost": 28,
+            "hp_cost": 0
+        },
+
+        "attack": {
+            "physical": 0, "magic": 0, "fire": 0, "lightning": 0, "holy": 0, "crit": 0
+        },
+        "defense": {
+            "physical": 0, "magic": 0, "fire": 0, "lightning": 0, "holy": 0, "guard_boost": 0
+        },
+        "weight": 0.0,
+
+        "scaling": {
+            "str": "-", "dex": "-", "int": "-", "fth": "-", "arc": "-"
+        },
+        "requirements": {
+            "str": 0, "dex": 0, "int": 0, "fth": 0, "arc": 0
+        },
+        "effects_ru": "Призывает духов пяти странствующих вельмож.",
+        "effects_en": "Summons the spirits of five Wandering Nobles."
+    },
+    "black_knife_tiche": {
+        "name_ru": "Прах черного ножа Тихеи",
+        "name_en": "Black Knife Tiche Ashes",
+        "icon": "black_knife_tiche.png",
+        "type_ru": "Прах",
+        "type_en": "Spirit Ashes",
+        "weapon_type_ru": "-",
+        "weapon_type_en": "-",
+        "damage_type_ru": "-",
+        "damage_type_en": "-",
+        "skill_name_ru": "-",
+        "skill_name_en": "-",
+        "skill_cost": "-",
+        
+        "summon_params": {
+            "fp_cost": 132,
+            "hp_cost": 0
+        },
+        
+        "attack": {
+            "physical": 0, "magic": 0, "fire": 0, "lightning": 0, "holy": 0, "crit": 0
+        },
+        "defense": {
+            "physical": 0, "magic": 0, "fire": 0, "lightning": 0, "holy": 0, "guard_boost": 0
+        },
+        "weight": 0.0,
+        
+        "scaling": {
+            "str": "-", "dex": "-", "int": "-", "fth": "-", "arc": "-"
+        },
+        "requirements": {
+            "str": 0, "dex": 0, "int": 0, "fth": 0, "arc": 0
+        },
+        "effects_ru": "Призывает дух Тихеи, черного ножа. Очень быстрый и агрессивный дух, использующий силы Смерти.",
+        "effects_en": "Summons the spirit of Black Knife Tiche. A highly agile and aggressive spirit utilizing powers of Destined Death."
+    },
+    "skeletal_militiaman_ashes": {
+        "name_ru": "Прах скелетов-ополченцев",
+        "name_en": "Skeletal Militiaman Ashes",
+        "icon": "skeletal_militiaman_ashes.png",
+        "type_ru": "Прах",
+        "type_en": "Spirit Ashes",
+        "weapon_type_ru": "-",
+        "weapon_type_en": "-",
+        "damage_type_ru": "-",
+        "damage_type_en": "-",
+        "skill_name_ru": "-",
+        "skill_name_en": "-",
+        "skill_cost": "-",
+
+        "summon_params": {
+            "fp_cost": 44,
+            "hp_cost": 0
+        },
+
+        "attack": {
+            "physical": 0, "magic": 0, "fire": 0, "lightning": 0, "holy": 0, "crit": 0
+        },
+        "defense": {
+            "physical": 0, "magic": 0, "fire": 0, "lightning": 0, "holy": 0, "guard_boost": 0
+        },
+        "weight": 0.0,
+
+        "scaling": {
+            "str": "-", "dex": "-", "int": "-", "fth": "-", "arc": "-"
+        },
+        "requirements": {
+            "str": 0, "dex": 0, "int": 0, "fth": 0, "arc": 0
+        },
+        "description_ru": "Горстка праха, где всё ещё обитают духи.\nПризывает духов двух скелетов-ополченцев.\nЭти ополченцы — живые покойники. Они будут воскресать снова и снова, пока не найдётся тот, кто упокоит их навеки. Так судьба насмехается над теми, кто соприкоснулся с корнями Смерти.",
+        "description_en": "A handful of ashes where spirits still dwell.\nSummons the spirits of two skeletal militiamen.\nThese militiamen are Those Lost in Death. They will rise again and again, until a chosen one grants them final rest. Thus does fate mock those who have touched the roots of Death.",
+        "effects_ru": "Призывает двух духов скелетов-ополченцев.",
+        "effects_en": "Summons two skeletal militiamen spirits."
+    },
+    "skeletal_bandit_ashes": {
+        "name_ru": "Прах скелета-разбойника",
+        "name_en": "Skeletal Bandit Ashes",
+        "icon": "skeletal_bandit_ashes.png",
+        "type_ru": "Прах",
+        "type_en": "Spirit Ashes",
+        "weapon_type_ru": "-",
+        "weapon_type_en": "-",
+        "damage_type_ru": "-",
+        "damage_type_en": "-",
+        "skill_name_ru": "-",
+        "skill_name_en": "-",
+        "skill_cost": "-",
+
+        "summon_params": {
+            "fp_cost": 22,
+            "hp_cost": 0
+        },
+
+        "attack": {
+            "physical": 0, "magic": 0, "fire": 0, "lightning": 0, "holy": 0, "crit": 0
+        },
+        "defense": {
+            "physical": 0, "magic": 0, "fire": 0, "lightning": 0, "holy": 0, "guard_boost": 0
+        },
+        "weight": 0.0,
+
+        "scaling": {
+            "str": "-", "dex": "-", "int": "-", "fth": "-", "arc": "-"
+        },
+        "requirements": {
+            "str": 0, "dex": 0, "int": 0, "fth": 0, "arc": 0
+        },
+        "description_ru": "Горстка праха, где всё ещё обитает дух.\nПризывает духа скелета-разбойника.\nЭтот бандит — живой покойник. Он будет воскресать снова и снова, пока не найдётся тот, кто упокоит его навеки.\nПосле ночи коварного заговора в Междуземье появились корни Смерти, а следом — и те, кто живёт после смерти.",
+        "description_en": "A handful of ashes where a spirit still dwells.\nSummons the spirit of a skeletal bandit.\nThis bandit is one of Those Lost in Death. He will rise again and again, until a chosen one grants him final rest.\nAfter the night of the treacherous conspiracy, Deathroot appeared in the Lands Between, and soon after — those who live after death.",
+        "effects_ru": "Призывает дух скелета-разбойника.",
+        "effects_en": "Summons a skeletal bandit spirit."
+    }
+}

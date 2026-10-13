@@ -1,0 +1,108 @@
+{
+    "talisman_pouch": {
+    "name_ru": "Мешочек с талисманами",
+    "name_en": "Talisman Pouch",
+    "type_ru": "Ключевые предметы",
+    "type_en": "Key Items",
+    "weapon_type_ru": "Улучшения",
+    "weapon_type_en": "Upgrades",
+    "icon": "talisman_pouch.png",
+    "description_ru": "Мешочек, расширяющий число доступных слотов для талисманов.",
+    "description_en": "A pouch that increases the number of talisman slots available.",
+    "effect_ru": "Увеличивает количество слотов для талисманов на 1.",
+    "effect_en": "Increases talisman slots by 1."
+    },
+    
+    "dragon_heart": {
+    "name_ru": "Драконье сердце",
+    "name_en": "Dragon Heart",
+    "type_ru": "Ключевые предметы",
+    "type_en": "Key Items",
+    "weapon_type_ru": "Предметы",
+    "weapon_type_en": "Items",
+    "icon": "dragon_heart.png",
+    "description_ru": "Сердце дракона. Можно использовать на алтаре драконьего причастия, чтобы обменять на силу дракона.",
+    "description_en": "A dragon heart. Can be used at a dragon communion altar to exchange for draconic power.",
+    "effect_ru": "Позволяет изучать заклинания драконов в алтарях причастия.",
+    "effect_en": "Allows learning dragon incantations at communion altars."
+    },
+
+    "cracked_pot": {
+    "name_ru": "Треснутый горшок",
+    "name_en": "Cracked Pot",
+    "type_ru": "Ключевые предметы",
+    "type_en": "Key Items",
+    "weapon_type_ru": "Материалы для крафта",
+    "weapon_type_en": "Crafting Materials",
+    "icon": "cracked_pot.png",
+    "description_ru": "Треснутый глиняный горшок. Можно использовать как ёмкость для изготовления различных треснувших горшков.",
+    "description_en": "A cracked clay pot. Can be used as a container for crafting various cracked pots.",
+    "effect_ru": "Используется в крафте для создания метательных предметов.",
+    "effect_en": "Used in crafting to create thrown items."
+    },
+    "tailoring_tools": {
+    "name_ru": "Инструменты портного",
+    "name_en": "Tailoring Tools",
+    "type_ru": "Ключевые предметы",
+    "type_en": "Key Items",
+    "icon": "tailoring_tools.png",
+    "description_ru": "Набор инструментов для работы с тканью. Позволяет изменять внешний вид брони у портного.",
+    "description_en": "A set of tools for working with fabric. Allows altering the appearance of armor at a tailor.",
+    "effect_ru": "Разблокирует возможность изменения внешнего вида брони.",
+    "effect_en": "Unlocks the ability to alter armor appearance."
+  },
+  "larval_tear": {
+    "name_ru": "Слеза личинки",
+    "name_en": "Larval Tear",
+    "type_ru": "Ключевые предметы",
+    "type_en": "Key Items",
+    "weapon_type_ru": "Предметы",
+    "weapon_type_en": "Items",
+    "icon": "larval_tear.png",
+    "description_ru": "Материал для перерождения, необходимый Реннале. Позволяет переродиться и перераспределить очки характеристик.",
+    "description_en": "A material for rebirth, needed by Rennala. Allows rebirth and redistribution of attribute points.",
+    "effect_ru": "Позволяет переродиться у Ренналы и перераспределить очки характеристик персонажа.",
+    "effect_en": "Allows rebirth at Rennala and reallocation of character attribute points."
+  },
+    "sewing_needle": {
+    "name_ru": "Швейная игла",
+    "name_en": "Sewing Needle",
+    "type_ru": "Ключевые предметы",
+    "type_en": "Key Items",
+    "icon": "sewing_needle.png",
+    "description_ru": "Игла для шитья. Используется вместе с инструментами портного для изменения брони.",
+    "description_en": "A sewing needle. Used together with Tailoring Tools to alter armor.",
+    "effect_ru": "Необходима для изменения внешнего вида брони.",
+    "effect_en": "Required for altering armor appearance."
+  },
+  "deathroot": {
+    "name_ru": "Корень Смерти",
+    "name_en": "Deathroot",
+    "type_ru": "Ключевые предметы",
+    "type_en": "Key Items",
+    "weapon_type_ru": "Предметы",
+    "weapon_type_en": "Items",
+    "icon": "deathroot.png",
+    "description_ru": "Корень, порождающий живых покойников.\nТакие корни собирает и поедает жрец-зверь, что обосновался в Зверином прибежище далеко на востоке.\nОднажды Руну Смерти похитили: тогда, в ночь чудовищного заговора был убит первый полубог. Спустя время Руна Смерти проникла в корни Великого древа и расползлась по всему Междуземью. Корни Смерти — её ростки.",
+    "description_en": "A root that gives birth to Those Lost in Death.\nThese roots are collected and devoured by the beast clergyman who has taken up residence in the Bestial Sanctum far to the east.\nOnce, the Rune of Death was stolen: then, on the night of a monstrous conspiracy, the first demigod was slain. Over time, the Rune of Death seeped into the roots of the Greattree and spread across the Lands Between. Deathroot are its sprouts.",
+    "effect_ru": "Подношение Гурранку, зверю-жрецу. Обмен на заклинания и печати.",
+    "effect_en": "Offering to Gurranq, the Beast Clergyman. Exchange for incantations and seals."
+  },
+  "tibias_cookbook": {
+    "name_ru": "Справочник Тибии",
+    "name_en": "Tibia's Cookbook",
+    "type_ru": "Ключевые предметы",
+    "type_en": "Key Items",
+    "weapon_type_ru": "Предметы",
+    "weapon_type_en": "Items",
+    "icon": "tibias_cookbook.png",
+    "description_ru": "Рецепт моряков — древнейших хранителей могил. Содержит описание старинного способа воскрешения мёртвых.\nПрочтите его, чтобы научиться создавать: Зов Тибии.",
+    "description_en": "A record of the techniques of the mariners, the oldest of grave keepers. Contains a description of an ancient method of resurrecting the dead.\nRead it to learn how to craft: Tibia's Summons.",
+    "effect_ru": "Добавляет рецепт создания предмета «Зов Тибии».",
+    "effect_en": "Adds the crafting recipe for Tibia's Summons."
+  }
+}
+
+ 
+    
+

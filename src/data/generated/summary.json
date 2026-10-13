@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-10-12T15:45:38.352Z",
+  "counts": {
+    "weapons": 388,
+    "shields": 81,
+    "armors": 668,
+    "talismans": 126,
+    "sorceries": 85,
+    "incantations": 124,
+    "ashes": 100,
+    "spirits": 85,
+    "items": 592,
+    "ammos": 52,
+    "bosses": 104,
+    "locations": 174,
+    "npcs": 54,
+    "classes": 13
+  },
+  "dlc": {
+    "weapons": 82,
+    "shields": 12,
+    "talismans": 39,
+    "sorceries": 14,
+    "incantations": 26,
+    "ashes": 10,
+    "spirits": 21,
+    "items": 145,
+    "armors": 102
+  }
+}

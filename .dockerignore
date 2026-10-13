@@ -1,0 +1,9 @@
+node_modules
+dist
+.git
+.claude
+scripts/.wiki-cache.json
+*.log
+.DS_Store
+.cache
+

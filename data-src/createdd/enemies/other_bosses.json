@@ -1,0 +1,287 @@
+{
+  "surface": [
+    {
+      "id": "margit_fell_omen",
+      "x": 3274,
+      "y": 6821,
+      "name_ru": "Маргит, Ужасное Знамение",
+      "name_en": "Margit, the Fell Omen",
+      "description_ru": "Босс в Замогилье, охраняет вход в Замок Грозовой Завесы.",
+      "description_en": "Boss in Limgrave, guards the entrance to Stormveil Castle.",
+      "loot_items": ["talisman_pouch"],
+      "image": "margit.png",
+      "resistances": {
+        "phys": 0, "strike": 0, "slash": -10, "pierce": 0, "magic": 0, "fire": 0, "lightning": 0, "holy": 40,
+        "poison": 316, "rot": 316, "bleed": 316, "frost": 316, "sleep": "inf", "madness": "inf", "death": "inf", "poise": 80
+      }
+    },
+    {
+      "id": "tree_sentinel",
+      "x": 3719,
+      "y": 7263,
+      "name_ru": "Страж Древа",
+      "name_en": "Tree Sentinel",
+      "description_ru": "Опциональный босс в Замогилье. Могучий рыцарь из ордена Стражей Древа, прикованный к своей лошади. Патрулирует дорогу между местами благодати «Первый шаг» и «Храм Элле».",
+      "description_en": "Optional boss in Limgrave. A mighty knight of the Tree Sentinels, chained to his horse. Patrols the road between the 'First Step' and 'Church of Elleh' Sites of Grace.",
+      "loot_items": ["golden_halberd"],
+      "image": "tree_sentinel.png",
+      "resistances": {
+        "phys": 10, "strike": 10, "slash": 35, "pierce": 10, "magic": 20, "fire": 40, "lightning": 0, "holy": 40,
+        "poison": 316, "rot": 316, "bleed": 517, "frost": 517, "sleep": 316, "madness": "inf", "death": "inf", "poise": 80
+      }
+    },
+    {
+      "id": "flying_dragon_agheel",
+      "x": 3895,
+      "y": 7214,
+      "name_ru": "Эгхил, крылатый дракон",
+      "name_en": "Flying Dragon Agheel",
+      "description_ru": "Опциональный босс в Замогилье. Один из слабейших потомков древних драконов. Обитает на болотах к северу от Сожжённых руин, появляется при приближении к группе вельмож у костра.",
+      "description_en": "Optional boss in Limgrave. One of the weakest descendants of ancient dragons. Resides in the marshes north of the Scorched Ruins, appearing when approaching a group of nobles at a campfire.",
+      "loot_items": ["dragon_heart"],
+      "image": "agheel.png",
+      "resistances": {
+        "phys": 35, "strike": 35, "slash": 35, "pierce": 10, "magic": 40, "fire": 40, "lightning": 40, "holy": 40,
+        "poison": 526, "rot": 526, "bleed": 526, "frost": 526, "sleep": "inf", "madness": "inf", "death": "inf", "poise": 120
+      }
+    },
+    {
+      "id": "beastman_of_farum_azula",
+      "name_ru": "Зверочеловек из Фарум-Азулы",
+      "name_en": "Beastman of Farum Azula",
+      "description_ru": "Опциональный босс в Замогилье. Зверочеловек с тесаком, обитает в Лесной пещере.",
+      "description_en": "Optional boss in Limgrave. A Beastman with a cleaver, dwells in Groveside Cave.",
+      "image": "beastman.png",
+      "resistances": {
+        "phys": 0, "strike": 0, "slash": -10, "pierce": 0, "magic": 0, "fire": -20, "lightning": 20, "holy": 0,
+        "poison": 226, "rot": 226, "bleed": 310, "frost": 310, "sleep": 169, "madness": "inf", "death": "inf", "poise": 65
+      }
+    },
+    {
+      "id": "beastman_of_farum_azula_2",
+      "name_ru": "Зверочеловек из Фарум-Азулы",
+      "name_en": "Beastman of Farum Azula",
+      "description_ru": "Опциональный парный босс на Звёздных пустошах, локация Пещера Драконьего кургана. Один зверочеловек вооружён тесаком, второй — метательными клинками.",
+      "description_en": "Optional paired boss in Caelid, Dragonbarrow Cave. One beastman is armed with a cleaver, the other with throwing blades.",
+      "image": "beastman.png",
+      "resistances": {
+        "phys": 0, "strike": 0, "slash": -10, "pierce": 0, "magic": 0, "fire": -20, "lightning": 20, "holy": 0,
+        "poison": 226, "rot": 226, "bleed": 310, "frost": 310, "sleep": 169, "madness": "inf", "death": "inf", "poise": 65
+      }
+    },
+    {
+      "id": "grafted_scion_1",
+      "x": 2764,
+      "y": 6645,
+      "name_ru": "Приращенный отпрыск",
+      "name_en": "Grafted Scion",
+      "description_ru": "Опциональный босс в Часовне ожидания. Гротескные существа, напоминающие пауков с человеческими головами и конечностями. Представляют собой людей, изменённых с помощью искусства приращения, применяемого Годриком Сторуким, и скорее всего являются его ближайшими родственниками. Эти немногочисленные потомки золотого рода вооружены двумя тонкими мечами со старинным орнаментом и щитом из тусклого золота с гербом в виде зверя.",
+      "description_en": "Optional boss in the Chapel of Anticipation. Grotesque creatures resembling spiders with human heads and limbs. They are humans transformed through the grafting art used by Godrick the Grafted, and are likely his closest relatives. These few scions of the golden lineage are armed with two slender swords with antique ornamentation and a shield of dull gold with a beast crest.",
+      "loot_items": ["ornamental_straight_sword", "golden_beast_crest_shield"],
+      "image": "grafted_scion.png",
+      "resistances": {
+        "phys": 0, "strike": 0, "slash": -10, "pierce": 0, "magic": 20, "fire": 20, "lightning": 20, "holy": 20,
+        "poison": 324, "rot": 324, "bleed": 235, "frost": 235, "sleep": 235, "madness": "inf", "death": "inf", "poise": 80
+      }
+    },
+    {
+      "id": "grafted_scion_4",
+      "x": 2015,
+      "y": 5455,
+      "name_ru": "Приращенный отпрыск",
+      "name_en": "Grafted Scion",
+      "description_ru": "Появляется в Озёрной Лиурнии на северо-западе от Лачуги любителя креветок, если убить патрулирующего территорию Гигантского рака. С него выпадает слеза личинки.",
+      "description_en": "Appears in Liurnia of the Lakes northwest of the Boilprawn Shack after killing the Giant Crab patrolling the area. Drops a Larval Tear.",
+      "loot_items": ["larval_tear"],
+      "image": "grafted_scion.png",
+      "resistances": {
+        "phys": 0, "strike": 0, "slash": -10, "pierce": 0, "magic": 20, "fire": 20, "lightning": 20, "holy": 20, 
+        "poison": 324, "rot": 324, "bleed": 235, "frost": 235, "sleep": 235, "madness": "inf", "death": "inf", "poise": 80
+      }
+    },
+    {
+      "id": "erdtree_burial_watchdog_1",
+      "name_ru": "Цербер кладбища Древа Эрд",
+      "name_en": "Erdtree Burial Watchdog",
+      "description_ru": "Опциональный босс в Замогилье, локация Катакомбы под скалой. Крупный голем, защищающий гробницы Древа Эрд от воров и расхитителей. Вооружён каменным мечом или посохом.",
+      "description_en": "Optional boss in Limgrave, Stormfoot Catacombs. A large golem guarding Erdtree tombs from thieves and looters. Armed with a stone sword or staff.",
+      "loot_items": [],
+      "image": "erdtree_burial_watchdog.png",
+      "resistances": {
+        "phys": 35, "strike": 10, "slash": 35, "pierce": 35, "magic": 40, "fire": 40, "lightning": 40, "holy": 40,
+        "poison": "inf", "rot": "inf", "bleed": "inf", "frost": "inf", "sleep": "inf", "madness": "inf", "death": "inf", "poise": 80
+      }
+    },
+    {
+      "id": "erdtree_burial_watchdog_2",
+      "name_ru": "Цербер кладбища Древа Эрд",
+      "name_en": "Erdtree Burial Watchdog",
+      "description_ru": "Опциональный босс на Плачущем полуострове, локация Катакомбы Колосажателя. Крупный голем, защищающий гробницы Древа Эрд.",
+      "description_en": "Optional boss in Weeping Peninsula, Impaler's Catacombs. A large golem guarding Erdtree tombs.",
+      "loot_items": [],
+      "image": "erdtree_burial_watchdog.png",
+      "resistances": {
+        "phys": 35, "strike": 10, "slash": 35, "pierce": 35, "magic": 40, "fire": 40, "lightning": 40, "holy": 40,
+        "poison": "inf", "rot": "inf", "bleed": "inf", "frost": "inf", "sleep": "inf", "madness": "inf", "death": "inf", "poise": 80
+      }
+    },
+    {
+      "id": "erdtree_burial_watchdog_3",
+      "name_ru": "Цербер кладбища Древа Эрд",
+      "name_en": "Erdtree Burial Watchdog",
+      "description_ru": "Опциональный парный босс на Звёздных пустошах, локация Катакомбы малого Древа Эрд. Два голема-цербера, охраняющих гробницу.",
+      "description_en": "Optional paired boss in Caelid, Minor Erdtree Catacombs. Two Watchdog golems guarding the tomb.",
+      "loot_items": [],
+      "image": "erdtree_burial_watchdog.png",
+      "resistances": {
+        "phys": 35, "strike": 10, "slash": 35, "pierce": 35, "magic": 40, "fire": 40, "lightning": 40, "holy": 40,
+        "poison": "inf", "rot": "inf", "bleed": "inf", "frost": "inf", "sleep": "inf", "madness": "inf", "death": "inf", "poise": 80
+      }
+    },
+    {
+      "id": "erdtree_burial_watchdog_4",
+      "name_ru": "Цербер кладбища Древа Эрд",
+      "name_en": "Erdtree Burial Watchdog",
+      "description_ru": "Опциональный босс в Озёрной Лиурнии, локация Катакомбы под утёсом. С него выпадает Прах высокородного чародея.",
+      "description_en": "Optional boss in Liurnia of the Lakes, Cliffbottom Catacombs. Drops Noble Sorcerer Ashes.",
+      "loot_items": ["noble_sorcerer_ashes"],
+      "image": "erdtree_burial_watchdog.png",
+      "resistances": {
+        "phys": 35, "strike": 10, "slash": 35, "pierce": 35, "magic": 40, "fire": 40, "lightning": 40, "holy": 40,
+        "poison": "inf", "rot": "inf", "bleed": "inf", "frost": "inf", "sleep": "inf", "madness": "inf", "death": "inf", "poise": 80
+      }
+    },
+    {
+      "id": "erdtree_burial_watchdog_5",
+      "name_ru": "Цербер кладбища Древа Эрд",
+      "name_en": "Erdtree Burial Watchdog",
+      "description_ru": "Опциональный босс на Плато Альтус, локация Катакомбы Виндхэма. Крупный голем, защищающий гробницы Древа Эрд.",
+      "description_en": "Optional boss in Altus Plateau, Wyndham Catacombs. A large golem guarding Erdtree tombs.",
+      "loot_items": [],
+      "image": "erdtree_burial_watchdog.png",
+      "resistances": {
+        "phys": 35, "strike": 10, "slash": 35, "pierce": 35, "magic": 40, "fire": 40, "lightning": 40, "holy": 40,
+        "poison": "inf", "rot": "inf", "bleed": "inf", "frost": "inf", "sleep": "inf", "madness": "inf", "death": "inf", "poise": 80
+      }
+    },
+    {
+      "id": "erdtree_burial_watchdog_6",
+      "name_ru": "Цербер кладбища Древа Эрд",
+      "name_en": "Erdtree Burial Watchdog",
+      "description_ru": "Рядовой противник на Вершинах великанов, локация Могила героя, победителя великанов.",
+      "description_en": "Common enemy in Mountaintops of the Giants, Giant-Conquering Hero's Grave.",
+      "loot_items": [],
+      "image": "erdtree_burial_watchdog.png",
+      "resistances": {
+        "phys": 35, "strike": 10, "slash": 35, "pierce": 35, "magic": 40, "fire": 40, "lightning": 40, "holy": 40,
+        "poison": "inf", "rot": "inf", "bleed": "inf", "frost": "inf", "sleep": "inf", "madness": "inf", "death": "inf", "poise": 80
+      }
+    },
+    {
+      "id": "erdtree_burial_watchdog_7",
+      "name_ru": "Цербер кладбища Древа Эрд",
+      "name_en": "Erdtree Burial Watchdog",
+      "description_ru": "Рядовой противник на Вершинах великанов, локация Катакомбы на Вершине великанов.",
+      "description_en": "Common enemy in Mountaintops of the Giants, Mountaintops Catacombs.",
+      "loot_items": [],
+      "image": "erdtree_burial_watchdog.png",
+      "resistances": {
+        "phys": 35, "strike": 10, "slash": 35, "pierce": 35, "magic": 40, "fire": 40, "lightning": 40, "holy": 40,
+        "poison": "inf", "rot": "inf", "bleed": "inf", "frost": "inf", "sleep": "inf", "madness": "inf", "death": "inf", "poise": 80
+      }
+    },
+    {
+      "id": "erdtree_burial_watchdog_8",
+      "name_ru": "Цербер кладбища Древа Эрд",
+      "name_en": "Erdtree Burial Watchdog",
+      "description_ru": "Рядовой противник на Священном заснеженном поле, локация Катакомбы под священным полем.",
+      "description_en": "Common enemy in Consecrated Snowfield, Consecrated Snowfield Catacombs.",
+      "loot_items": [],
+      "image": "erdtree_burial_watchdog.png",
+      "resistances": {
+        "phys": 35, "strike": 10, "slash": 35, "pierce": 35, "magic": 40, "fire": 40, "lightning": 40, "holy": 40,
+        "poison": "inf", "rot": "inf", "bleed": "inf", "frost": "inf", "sleep": "inf", "madness": "inf", "death": "inf", "poise": 80
+      }
+    },
+    {
+      "id": "tibia_mariner_1",
+      "x": 4436,
+      "y": 6511,
+      "name_ru": "Лодочник Тибия",
+      "name_en": "Tibia Mariner",
+      "description_ru": "Опциональный босс в Замогилье, локация Деревня у вод призыва. Призрачное скелетоподобное существо, управляющее необычной лодкой. Древнейший хранитель могил, способный призывать заплутавших в Смерти.",
+      "description_en": "Optional boss in Limgrave, Summonwater Village. A ghostly skeleton-like being steering an unusual boat. An ancient grave keeper, capable of summoning Those Lost in Death.",
+      "loot_items": ["skeletal_militiaman_ashes", "deathroot"],
+      "image": "tibia_mariner.png",
+      "resistances": {
+        "phys": 10, "strike": -40, "slash": 10, "pierce": 35, "magic": 20, "fire": 20, "lightning": 40, "holy": -40,
+        "poison": "inf", "rot": 316, "bleed": "inf", "frost": "inf", "sleep": "inf", "madness": "inf", "death": "inf", "poise": 80
+      }
+    },
+    {
+      "id": "tibia_mariner_2",
+      "x": 2851,
+      "y": 5271,
+      "name_ru": "Лодочник Тибия",
+      "name_en": "Tibia Mariner",
+      "description_ru": "Опциональный босс в Озёрной Лиурнии, северо-восточнее места благодати «Мост предместья».",
+      "description_en": "Optional boss in Liurnia of the Lakes, northeast of the 'Bridge of Suburb' Site of Grace.",
+      "loot_items": ["skeletal_bandit_ashes", "deathroot"],
+      "image": "tibia_mariner.png",
+      "resistances": {
+        "phys": 10, "strike": -40, "slash": 10, "pierce": 35, "magic": 20, "fire": 20, "lightning": 40, "holy": -40,
+        "poison": "inf", "rot": 316, "bleed": "inf", "frost": "inf", "sleep": "inf", "madness": "inf", "death": "inf", "poise": 80
+      }
+    },
+    {
+      "id": "tibia_mariner_3",
+      "x": 2641,
+      "y": 3283,
+      "name_ru": "Лодочник Тибия",
+      "name_en": "Tibia Mariner",
+      "description_ru": "Опциональный босс на Плато Альтус, локация Руины Виндхэма.",
+      "description_en": "Optional boss in Altus Plateau, Wyndham Ruins.",
+      "loot_items": ["tibias_summons", "deathroot"],
+      "image": "tibia_mariner.png",
+      "resistances": {
+        "phys": 10, "strike": -40, "slash": 10, "pierce": 35, "magic": 20, "fire": 20, "lightning": 40, "holy": -40,
+        "poison": "inf", "rot": 316, "bleed": "inf", "frost": "inf", "sleep": "inf", "madness": "inf", "death": "inf", "poise": 80
+      }
+    },
+    {
+      "id": "tibia_mariner_4",
+      "x": 6001,
+      "y": 1923,
+      "name_ru": "Лодочник Тибия",
+      "name_en": "Tibia Mariner",
+      "description_ru": "Особый противник на Вершинах великанов. Обитает на огромном кладбище к западу от большого ледяного озера, на холмах со стороны северной крепости.",
+      "description_en": "Special enemy in Mountaintops of the Giants. Dwells in a massive graveyard west of the large frozen lake, on the hills near the northern fortress.",
+      "loot_items": ["helphens_steeple", "deathroot"],
+      "image": "tibia_mariner.png",
+      "resistances": {
+        "phys": 10, "strike": -40, "slash": 10, "pierce": 35, "magic": 20, "fire": 20, "lightning": 40, "holy": -40,
+        "poison": "inf", "rot": 316, "bleed": "inf", "frost": "inf", "sleep": "inf", "madness": "inf", "death": "inf", "poise": 80
+      }
+    }
+  ],
+  "underground": [
+    
+  ],
+  "dlc": [
+    {
+      "id": "tibia_mariner_5",
+      "x": 2284,
+      "y": 4859,
+      "name_ru": "Лодочник Тибия",
+      "name_en": "Tibia Mariner",
+      "description_ru": "Особый противник на Лазурном побережье, локация Тайная могила Харо. На реке, к юго-востоку от места благодати «Тайная могила Харо». Призывает Королевских призраков.",
+      "description_en": "Special enemy in Charo's Hidden Grave, Cerulean Coast. On the river, southeast of the 'Charo's Hidden Grave' Site of Grace. Summons Royal Revenants.",
+      "loot_items": ["tibias_cookbook"],
+      "image": "tibia_mariner.png",
+      "resistances": {
+        "phys": 10, "strike": -40, "slash": 10, "pierce": 35, "magic": 20, "fire": 20, "lightning": 40, "holy": -40,
+        "poison": "inf", "rot": 316, "bleed": "inf", "frost": "inf", "sleep": "inf", "madness": "inf", "death": "inf", "poise": 80
+      }
+    }
+  ]
+}

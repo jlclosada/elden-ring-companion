@@ -1,0 +1,113 @@
+{
+    "talisman_radagon_scarseal": {
+        "name_ru": "Печать Радагона от шрамов",
+        "name_en": "Radagon's Scarseal",
+        "icon": "talisman_radagon_scarseal.png",
+        "type_ru": "Талисман",
+        "type_en": "Talisman",
+        "effects_ru": "Повышает силу, ловкость, выносливость и здоровье (+3). Увеличивает получаемый урон (+10%).",
+        "effects_en": "Increases Strength, Dexterity, Endurance, and Vigor (+3). Increases damage taken (+10%)."
+    },
+    "talisman_godfrey": {
+        "name_ru": "Знак Годфри",
+        "name_en": "Godfrey Icon",
+        "icon": "talisman_godfrey_icon.png",
+        "type_ru": "Талисман",
+        "type_en": "Talisman",
+        "effects_ru": "Повышает урон и силу заряжаемых заклинаний и навыков (+15%).",
+        "effects_en": "Enhances charged spells and skills (+15%)."
+    },
+    "talisman_blue_feathered_branchsword": {
+        "name_ru": "Талисман с синими перьями",
+        "name_en": "Blue-Feathered Branchsword",
+        "icon": "blue_feathered_branchsword.png",
+        "type_ru": "Талисман",
+        "type_en": "Talisman",
+        "effects_ru": "Повышает защиту при низком уровне здоровья.",
+        "effects_en": "Raises defense when HP is low."
+    },
+    "red_feathered_branchsword": {
+        "name_ru": "Меч с красными перьями",
+        "name_en": "Red-Feathered Branchsword",
+        "icon": "red_feathered_branchsword.png",
+        "type_ru": "Талисман",
+        "type_en": "Talisman",
+        "effects_ru": "Увеличивает силу атаки при низком здоровье",
+        "effects_en": "Raises attack power when HP is low"
+    },
+    "erdtrees_favor": {
+        "name_ru": "Милость Древа Эрд",
+        "name_en": "Erdtree's Favor",
+        "icon": "erdtrees_favor_0.png",
+        "type_ru": "Талисман",
+        "type_en": "Talisman",
+        "weight": 1.5,
+        "description_ru": "Талисман с изображением особого благословения Древа Эрд.\nГоворят, на заре эпохи Древа Эрд королева Марика лично дарила подобные благословения своим подданным.",
+        "description_en": "A talisman depicting a special blessing of the Erdtree.\nIt is said that at the dawn of the Erdtree's age, Queen Marika personally bestowed such blessings upon her subjects.",
+        "versions": {
+            "+0": {
+                "icon": "erdtrees_favor_0.png",
+                "effect_ru": "ОЗ +3%, Выносливость +7%, Вес снаряжения +5%",
+                "effect_en": "HP +3%, Stamina +7%, Equip Load +5%"
+            },
+            "+1": {
+                "icon": "erdtrees_favor_1.png",
+                "effect_ru": "ОЗ +3.5%, Выносливость +8.5%, Вес снаряжения +6.5%",
+                "effect_en": "HP +3.5%, Stamina +8.5%, Equip Load +6.5%"
+            },
+            "+2": {
+                "icon": "erdtrees_favor_2.png",
+                "effect_ru": "ОЗ +4%, Выносливость +10%, Вес снаряжения +8%",
+                "effect_en": "HP +4%, Stamina +10%, Equip Load +8%"
+            }
+        }
+    },
+    "flamedrake_talisman": {
+        "name_ru": "Талисман огненного дракона",
+        "name_en": "Flamedrake Talisman",
+        "icon": "flamedrake_talisman_0.png",
+        "type_ru": "Талисман",
+        "type_en": "Talisman",
+        "weight": 0.6,
+        "price_buy": "-",
+        "price_sell": 100,
+        "description_ru": "Талисман с изображением древнего дракона красного цвета.\nПовышает сопротивление огню.\nДревние драконы, правившие в доисторическую эпоху, ещё до начала эры Древа Эрд, защищали своего повелителя, как стена из живого камня. Со временем образ дракона стал универсальным символом защиты.",
+        "description_en": "A talisman depicting a red ancient dragon.\nBoosts fire resistance.\nThe ancient dragons, who ruled in the prehistoric era, even before the age of the Erdtree, would protect their lord as a wall of living stone. In time, the image of the dragon became a universal symbol of protection.",
+        "versions": {
+            "+0": {
+                "icon": "flamedrake_talisman_0.png",
+                "effect_ru": "Сопротивление огню +13% (PvP: +4%)",
+                "effect_en": "Fire resistance +13% (PvP: +4%)"
+            },
+            "+1": {
+                "icon": "flamedrake_talisman_1.png",
+                "effect_ru": "Сопротивление огню +17% (PvP: +5%)",
+                "effect_en": "Fire resistance +17% (PvP: +5%)"
+            },
+            "+2": {
+                "icon": "flamedrake_talisman_2.png",
+                "effect_ru": "Сопротивление огню +20% (PvP: +6%)",
+                "effect_en": "Fire resistance +20% (PvP: +6%)"
+            },
+            "+3": {
+                "icon": "flamedrake_talisman_3.png",
+                "effect_ru": "Сопротивление огню +22% (PvP: +7%)",
+                "effect_en": "Fire resistance +22% (PvP: +7%)"
+            }
+        }
+    },
+    "bull_goats_talisman": {
+        "name_ru": "Талисман овцебыка",
+        "name_en": "Bull-Goat's Talisman",
+        "icon": "bull_goats_talisman.png",
+        "type_ru": "Талисман",
+        "type_en": "Talisman",
+        "weight": 0.5,
+        "price_buy": "-",
+        "price_sell": 1000,
+        "description_ru": "Талисман в форме рогов овцебыка.\nУлучшает баланс.\nОвцебык — символ могучего Трагота. Говорят, ему не было равных в бою. Ныне же он превратился в молчаливого соратника всех воинов.",
+        "description_en": "A talisman shaped like a bull-goat's horns.\nImproves poise.\nThe bull-goat is a symbol of the mighty Tragoth. It is said he had no equal in battle. Now, he has become a silent comrade to all warriors.",
+        "effects_ru": "Повышает баланс на 33%.",
+        "effects_en": "Increases poise by 33%."
+    }
+}

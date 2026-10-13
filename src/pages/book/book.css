@@ -1,0 +1,164 @@
+/*
+ * Hoja de estilos de imprenta de «El Anillo Roto» (la procesa Paged.js).
+ * __SIZE__, __MT__, __MB__, __MI__ y __MO__ se sustituyen según el formato elegido
+ * (tamaño de página y márgenes superior, inferior, interior/lomo y exterior).
+ */
+
+@page {
+  size: __SIZE__;
+  margin-top: __MT__;
+  margin-bottom: __MB__;
+  @top-left { font-family: 'Cinzel', serif; font-size: 6.6pt; letter-spacing: .22em; color: #6b5a44; vertical-align: bottom; padding-bottom: 5mm; }
+  @top-right { font-family: 'Cinzel', serif; font-size: 6.6pt; letter-spacing: .22em; color: #6b5a44; vertical-align: bottom; padding-bottom: 5mm; }
+  @bottom-left { font-family: 'EB Garamond', serif; font-size: 9pt; color: #3a3226; vertical-align: top; padding-top: 5mm; }
+  @bottom-right { font-family: 'EB Garamond', serif; font-size: 9pt; color: #3a3226; vertical-align: top; padding-top: 5mm; }
+}
+
+/* Márgenes en espejo: el lomo (interior) es más ancho. Folio en la esquina exterior. */
+@page :left {
+  margin-left: __MO__;
+  margin-right: __MI__;
+  @top-left { content: 'EL ANILLO ROTO'; }
+  @bottom-left { content: counter(page); }
+}
+@page :right {
+  margin-left: __MI__;
+  margin-right: __MO__;
+  @top-right { content: string(titulillo); text-transform: uppercase; }
+  @bottom-right { content: counter(page); }
+}
+
+/* Páginas sin titulillos ni folio: blancas, preliminares, portadillas y primera página de capítulo */
+@page :blank {
+  @top-left { content: none; } @top-right { content: none; }
+  @bottom-left { content: none; } @bottom-right { content: none; }
+}
+@page front {
+  @top-left { content: none; } @top-right { content: none; }
+  @bottom-left { content: none; } @bottom-right { content: none; }
+}
+@page part {
+  @top-left { content: none; } @top-right { content: none; }
+  @bottom-left { content: none; } @bottom-right { content: none; }
+}
+@page chapter:first {
+  @top-left { content: none; } @top-right { content: none; }
+}
+@page back:first {
+  @top-left { content: none; } @top-right { content: none; }
+}
+
+/* ───── Base ───── */
+.libro {
+  font-family: 'EB Garamond', Georgia, serif;
+  font-size: 10.6pt;
+  line-height: 1.42;
+  color: #1c1610;
+  font-variant-numeric: oldstyle-nums;
+  font-kerning: normal;
+  font-feature-settings: 'liga', 'kern';
+}
+.libro.a4 { font-size: 11.5pt; }
+.libro h1, .libro h2, .libro h3 { font-weight: 500; margin: 0; }
+
+.front { page: front; break-before: right; }
+.verso { break-before: left; }
+.part { page: part; break-before: right; }
+.chapter { page: chapter; break-before: right; }
+.back { page: back; break-before: right; }
+.back + .back.continua { break-before: page; }
+
+.titulillo { string-set: titulillo content(text); }
+
+/* ───── Preliminares ───── */
+.halftitle { padding-top: 32%; text-align: center; }
+.halftitle h1 { font-family: 'Cinzel', serif; font-size: 17pt; letter-spacing: .14em; }
+
+.coleccion { padding-top: 30%; text-align: center; font-size: 9pt; color: #5b4a35; }
+.coleccion .sc { font-family: 'Cinzel', serif; letter-spacing: .25em; font-size: 7.5pt; color: #8a6420; }
+
+.titlepage { text-align: center; height: 100%; }
+.titlepage .autor { font-family: 'Cinzel', serif; font-size: 11pt; letter-spacing: .2em; margin-top: 14%; }
+.titlepage h1 { font-family: 'Cinzel', serif; font-size: 30pt; line-height: 1.08; letter-spacing: .04em; margin-top: 22%; }
+.titlepage .subtitulo { font-style: italic; font-size: 12.5pt; margin-top: 5mm; color: #3a3226; }
+.titlepage .orn { color: #8a6420; margin-top: 12mm; font-size: 11pt; letter-spacing: .6em; }
+.titlepage .sello { font-family: 'Cinzel', serif; font-size: 8pt; letter-spacing: .3em; margin-top: 46%; color: #5b4a35; }
+
+.creditos { font-size: 8pt; line-height: 1.5; color: #3a3226; padding-top: 52%; }
+.creditos p { margin: 0 0 2.6mm; }
+
+.dedicatoria { padding-top: 28%; text-align: right; font-style: italic; font-size: 11pt; white-space: pre-line; padding-left: 20%; }
+
+.epigrafe-libro { padding-top: 26%; padding-left: 14%; }
+.epigrafe-libro blockquote { margin: 0; font-style: italic; font-size: 11pt; line-height: 1.5; }
+.epigrafe-libro .fuente { margin-top: 4mm; text-align: right; font-size: 9pt; font-variant: small-caps; letter-spacing: .04em; color: #5b4a35; }
+
+.seccion-titulo { font-family: 'Cinzel', serif; font-size: 13pt; letter-spacing: .18em; text-align: center; margin: 14mm 0 10mm; }
+
+.indice ol { list-style: none; margin: 0; padding: 0; }
+.indice .grupo { margin-top: 6mm; break-inside: avoid; }
+.indice .grupo-titulo { font-family: 'Cinzel', serif; font-size: 7.4pt; letter-spacing: .24em; color: #8a6420; margin-bottom: 1.6mm; }
+.indice li { font-size: 9.8pt; line-height: 1.55; }
+.indice li a { display: flex; align-items: baseline; color: inherit; text-decoration: none; }
+.indice li .n { width: 6mm; flex-shrink: 0; color: #6b5a44; font-variant-numeric: lining-nums; font-size: 8.6pt; }
+.indice li .t { flex: 0 1 auto; }
+.indice li .dots { flex: 1; border-bottom: .5pt dotted #a8977c; margin: 0 1.6mm .9mm; min-width: 6mm; }
+.indice li a::after { content: target-counter(attr(href), page); font-variant-numeric: lining-nums; }
+
+.nota p { margin: 0 0 3mm; text-indent: 0; text-align: justify; hyphens: auto; }
+.nota .firma { text-align: right; font-style: italic; margin-top: 6mm; }
+
+.mapa { text-align: center; }
+.mapa img { width: 100%; height: auto; max-height: 82%; object-fit: contain; margin-top: 10mm; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+.mapa figcaption { font-family: 'Cinzel', serif; font-size: 8pt; letter-spacing: .25em; margin-top: 4mm; color: #5b4a35; }
+
+/* ───── Portadillas de libro ───── */
+.part { text-align: center; }
+.part .num { font-family: 'Cinzel', serif; font-size: 9pt; letter-spacing: .5em; color: #8a6420; padding-top: 30%; }
+.part h1 { font-family: 'Cinzel', serif; font-size: 22pt; letter-spacing: .06em; margin-top: 5mm; }
+.part .orn { color: #8a6420; margin: 9mm 0; letter-spacing: .6em; }
+.part blockquote { margin: 0 auto; max-width: 78%; font-style: italic; font-size: 10pt; line-height: 1.5; color: #3a3226; }
+.part .fuente { margin-top: 3mm; font-size: 8.4pt; font-variant: small-caps; letter-spacing: .04em; color: #6b5a44; }
+
+/* ───── Capítulos ───── */
+.chapter header { text-align: center; padding-top: 16%; margin-bottom: 9mm; }
+.chapter.con-ilustracion header { padding-top: 2mm; margin-bottom: 6mm; }
+.chapter .num { font-family: 'Cinzel', serif; font-size: 7.6pt; letter-spacing: .32em; color: #8a6420; text-transform: uppercase; }
+.chapter h2 { font-family: 'Cinzel', serif; font-size: 17pt; line-height: 1.15; margin-top: 4mm; letter-spacing: .02em; }
+.chapter .era { font-style: italic; font-size: 9.6pt; color: #5b4a35; margin-top: 2.6mm; }
+.chapter .orn { color: #8a6420; font-size: 8pt; margin-top: 4mm; letter-spacing: .5em; }
+.chapter figure { margin: 0 0 7mm; }
+.chapter figure img { display: block; width: 100%; aspect-ratio: 3 / 2; object-fit: cover; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+.texto p { margin: 0; text-indent: 1.15em; text-align: justify; hyphens: auto; -webkit-hyphens: auto; orphans: 2; widows: 2; }
+.texto p.primero, .texto .pausa + p, .texto h3 + p, .texto blockquote + p, .texto [data-split-from] { text-indent: 0; }
+.texto p.primero:not([data-split-from])::first-letter {
+  font-family: 'Cinzel', serif; float: left; font-size: 3.6em; line-height: .82; padding: .07em .07em 0 0; margin-top: .02em; color: #6b4a14;
+}
+.texto p.primero:not([data-split-from])::first-line { font-variant: small-caps; letter-spacing: .03em; }
+.texto .pausa { text-align: center; color: #8a6420; font-size: 7.4pt; letter-spacing: .7em; margin: 4.2mm 0; }
+.texto h3 { font-family: 'Cinzel', serif; font-size: 9.6pt; letter-spacing: .1em; text-align: center; margin: 6mm 0 3mm; color: #6b4a14; }
+.texto blockquote { margin: 3mm 6mm; font-style: italic; }
+.texto em { font-style: italic; }
+
+/* ───── Apéndices ───── */
+.back .seccion-titulo { margin-top: 10mm; }
+.reparto dl, .glosario dl { margin: 0; }
+.reparto .entrada, .glosario .entrada { margin: 0 0 2.6mm; break-inside: avoid; text-align: justify; hyphens: auto; }
+.reparto dt, .glosario dt { display: inline; font-variant: small-caps; letter-spacing: .03em; font-weight: 500; }
+.reparto dt .rol { font-variant: normal; font-style: italic; letter-spacing: 0; font-weight: 400; }
+.reparto dd, .glosario dd { display: inline; margin: 0; }
+.reparto dd::before, .glosario dd::before { content: '. '; }
+.cronologia table { width: 100%; border-collapse: collapse; font-size: 9.4pt; }
+.cronologia td { vertical-align: top; padding: 1.8mm 0; border-bottom: .4pt solid #d8ccb4; }
+.cronologia td.era { width: 30%; font-variant: small-caps; letter-spacing: .03em; padding-right: 3mm; }
+.cronologia td.caps { width: 13%; text-align: right; color: #6b5a44; font-variant-numeric: lining-nums; font-size: 8.6pt; }
+.cronica h3 { font-family: 'Cinzel', serif; font-size: 10.5pt; margin: 7mm 0 1mm; }
+.cronica .epi { font-style: italic; font-size: 9.4pt; color: #5b4a35; margin-bottom: 2mm; }
+.cronica p { margin: 0; text-indent: 1.15em; text-align: justify; hyphens: auto; }
+.cronica h4 { font-size: 9.6pt; font-variant: small-caps; margin: 3mm 0 1mm; font-weight: 500; }
+
+.colofon { text-align: center; padding-top: 40%; font-size: 8.6pt; line-height: 1.6; color: #3a3226; }
+.colofon .orn { color: #8a6420; letter-spacing: .6em; margin-bottom: 5mm; }
+.colofon p { margin: 0 0 2mm; }
+.colofon .sc { font-family: 'Cinzel', serif; font-size: 7.4pt; letter-spacing: .25em; }
