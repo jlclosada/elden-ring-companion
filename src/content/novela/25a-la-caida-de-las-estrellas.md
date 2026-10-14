@@ -8,7 +8,7 @@ Eran más de cincuenta. Edda los miró mientras se preparaban en el patio del ca
 
 —¿Has luchado alguna vez, Tavi de Morne?
 
-—Contra lobos. —Se le quebró la voz—. Y una vez contra un oso. Bueno, el oso se fue.
+—Contra lobos. —Le salió un gallo—. Y una vez contra un oso. Bueno, el oso se fue.
 
 Edda le quitó el escudo de las manos, le ajustó las correas, que llevaba al revés, y se lo devolvió.
 
@@ -30,7 +30,7 @@ Bajaron por un camino estrecho que serpenteaba entre los acantilados hasta la pl
 
 —Millicent, esto no es…
 
-—Lo sé. —La muchacha la miró con sus ojos dorados—. Lo sé. Pero anoche, cuando vi el castillo desde las colinas, con las banderas rojas, sentí algo. Como si ya hubiera estado aquí. Como si esas banderas fueran… —Se interrumpió—. No sé explicarlo. Solo sé que tengo que estar.
+—Ya. —La muchacha la miró con sus ojos dorados—. Pero anoche, cuando vi el castillo desde las colinas, con las banderas rojas, sentí algo. Como si ya hubiera estado aquí. Como si esas banderas fueran… —Se interrumpió—. No sé explicarlo. Solo sé que tengo que estar.
 
 Freyja la miraba con una expresión extraña. Se acercó, despacio, y le examinó la cara, el pelo, la aguja de oro en el hombro.
 
@@ -100,7 +100,7 @@ Freyja luchaba de frente, con una furia terrible, gritando cosas en la lengua de
 
 Y Millicent.
 
-Millicent bailaba. No había otra palabra. Bailaba alrededor de las piernas del gigante con una gracia que no era humana, esquivando los golpes antes de que llegaran, como si supiera exactamente dónde iban a caer. Se agachaba bajo un tajo, giraba sobre un pie, se deslizaba entre las piernas del general, cortaba un tendón y se apartaba antes de que la bestia se diera la vuelta. Edda la miró un instante, entre golpe y golpe, y comprendió lo que estaba viendo. No era Millicent la que luchaba. Era la memoria de su cuerpo. Era Malenia, la Espada de Miquella, la que nunca había conocido la derrota, luchando otra vez contra Radahn a través de una de sus hijas.
+Millicent bailaba. No había otra palabra. Bailaba alrededor de las piernas del gigante con una gracia que no era humana, esquivando los golpes antes de que llegaran, como si supiera exactamente dónde iban a caer. Se agachaba bajo un tajo, giraba sobre un pie, se deslizaba entre las piernas del general, cortaba un tendón y se apartaba antes de que la bestia se diera la vuelta. Edda la miró un instante, entre golpe y golpe, y comprendió lo que estaba viendo. Quien luchaba no era Millicent: era la memoria de su cuerpo. Era Malenia, la Espada de Miquella, la que nunca había conocido la derrota, luchando otra vez contra Radahn a través de una de sus hijas.
 
 —¡Ya sé lo que va a hacer! —gritó Millicent, sin dejar de moverse—. ¡Lo sé! ¡Va a saltar! ¡Apartaos!
 
@@ -130,13 +130,13 @@ Melina se arrodilló a su lado.
 
 —Sí puedes.
 
-—No es eso. —Edda levantó la vista hacia ella—. Puedo. Sé que puedo. Voy a volver una y otra vez hasta que lo consiga. Eso es lo que somos, ¿no? Los Sinluz. Volvemos. —Se le quebró la voz—. Pero él no vuelve. Él lleva siglos ahí abajo y no vuelve. Está ahí dentro, en algún sitio, lo he visto en su cara. Y cada vez que le corto una pierna, pienso que está sintiéndolo. Que está ahí dentro sintiéndolo todo y no puede salir.
+—No es eso. —Edda levantó la vista hacia ella—. Puedo. Sé que puedo. Voy a volver una y otra vez hasta que lo consiga. Eso es lo que somos, ¿no? Los Sinluz. Volvemos. Pero él no vuelve. Él lleva siglos ahí abajo y no vuelve. Está ahí dentro, en algún sitio, lo he visto en su cara. Y cada vez que le corto una pierna, pienso que está sintiéndolo. Que está ahí dentro sintiéndolo todo y no puede salir.
 
 Melina no contestó enseguida. Se quedó mirándola con su único ojo abierto, muy quieta.
 
-—Por eso tienes que volver —dijo al fin, muy bajo—. Porque está ahí dentro. Porque no puede salir. Tú eres la puerta, Edda.
+—Por eso tienes que volver —dijo al fin—. Porque está ahí dentro. Porque no puede salir. Tú eres la puerta, Edda.
 
-Edda la miró durante mucho tiempo. Luego se levantó.
+Edda la miró. Luego se levantó.
 
 * * *
 
@@ -266,11 +266,11 @@ Millicent se volvió hacia ella. Le temblaban los labios.
 
 —Lo sospechaba. Freyja también. —Edda hizo una pausa—. Los sueños de la guerrera del brazo de metal. El baile. Los ojos dorados.
 
-Millicent se quedó callada mucho tiempo. Se abrazó las rodillas con el único brazo que tenía.
+Millicent se abrazó las rodillas con el único brazo que tenía.
 
-—Entonces no soy nadie —dijo al fin, muy bajo—. Soy un trozo de otra. Una semilla de una flor que se pudrió.
+—Entonces no soy nadie —dijo al fin—. Soy un trozo de otra. Una semilla de una flor que se pudrió.
 
-Edda pensó en Nepheli, en lo alto de la almena de Velo Tormentoso, diciendo que no sabía quién había sido pero sabía quién era. Pensó en Lis, que se había acordado de su nombre después de mucho tiempo.
+Edda pensó en Nepheli, en lo alto de la almena de Velo Tormentoso, diciendo que no sabía quién había sido pero sabía quién era. Pensó en Lis, que se había acordado de su nombre después de años sin él.
 
 —Malenia no me habría empujado —dijo—. No me conoce. No le importo. Me habría dejado morir y habría seguido luchando. —Miró a la muchacha—. Tú me empujaste. Eso no lo hizo ella. Eso lo hiciste tú.
 
@@ -278,9 +278,9 @@ Millicent levantó la vista. Tenía los ojos húmedos, dorados a la luz de las b
 
 —¿Tú crees?
 
-—Lo sé.
+—Estoy segura.
 
-La muchacha se quedó mirándola un largo rato. Luego apoyó la cabeza en el hombro de Edda, sin pedir permiso, como hacía Arn cuando estaba cansado. Edda se quedó muy quieta. No la apartó.
+La muchacha se quedó mirándola. Luego apoyó la cabeza en el hombro de Edda, sin pedir permiso, como hacía Arn cuando estaba cansado. Edda se quedó muy quieta. No la apartó.
 
 Al cabo de un rato, Millicent se durmió.
 
@@ -308,13 +308,13 @@ Edda se quedó mirándolo un momento. La tinaja con piernas, con el casco ladead
 
 Se echó a reír.
 
-Fue una risa larga, incontenible, que le salió de muy adentro, de un sitio que llevaba mucho tiempo cerrado. Se rio hasta que le dolieron las costillas, hasta que tuvo que sentarse en la arena, hasta que se le saltaron las lágrimas. Alejandro la miraba, inclinando el casco a un lado y a otro, sin saber muy bien si debía ofenderse.
+Fue una risa larga, incontenible, que le salió de muy adentro, de un sitio que llevaba cerrado desde la Capilla. Se rio hasta que le dolieron las costillas, hasta que tuvo que sentarse en la arena, hasta que se le saltaron las lágrimas. Alejandro la miraba, inclinando el casco a un lado y a otro, sin saber muy bien si debía ofenderse.
 
 —¿He dicho algo gracioso?
 
-—No —dijo Edda, secándose los ojos—. No. Perdona. Es que llevaba mucho tiempo sin reírme. Y ayer… ayer fue un día muy largo.
+—No —dijo Edda, secándose los ojos—. No. Perdona. Es que no me reía desde antes de morir. Y ayer… ayer fue un día muy largo.
 
-—Lo sé. Lo vi todo desde la duna. —La voz de la tinaja se volvió más seria—. Luchaste muy bien. Y al final lo hiciste limpio. Eso es lo más difícil, ¿sabes? Hacerlo limpio. —Se quedó un momento callado—. A veces pienso que por eso llevo a los guerreros dentro de mí. Para que no se pierdan. Para que lo que fueron siga sirviendo para algo.
+—¡Lo vi todo desde la duna! ¡Desde la mismísima cresta! —La voz de la tinaja retumbó, y luego se volvió más seria—. Luchaste muy bien. Y al final lo hiciste limpio. Eso es lo más difícil, ¿sabes? Hacerlo limpio. —Se quedó un momento callado—. A veces pienso que por eso llevo a los guerreros dentro de mí. Para que no se pierdan. Para que lo que fueron siga sirviendo para algo.
 
 Edda dejó de reír. Se quedó mirando la tinaja.
 

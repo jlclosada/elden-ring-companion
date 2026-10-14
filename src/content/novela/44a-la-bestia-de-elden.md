@@ -1,6 +1,6 @@
 La Bestia de Elden salió del pecho de Radagon como sale la luz de una lámpara cuando se rompe el cristal.
 
-No fue de golpe. Fue despacio, como si llevara mucho tiempo encogida dentro de un espacio demasiado pequeño y le costara desplegarse. Primero un brillo, dorado, en la grieta de la armadura. Luego un hilo de luz que subió hacia arriba, retorciéndose. Luego otro. Luego muchos, enredándose entre ellos, tejiéndose, como se tejen las raíces de un árbol joven.
+Salió despacio, como si llevara eras encogida dentro de un espacio demasiado pequeño y le costara desplegarse. Primero un brillo, dorado, en la grieta de la armadura. Luego un hilo de luz que subió hacia arriba, retorciéndose. Luego otro. Luego muchos, enredándose entre ellos, tejiéndose, como se tejen las raíces de un árbol joven.
 
 Radagon se quedó de rodillas mientras le salía del pecho. Con los ojos abiertos, mitad azules, mitad grises. Sin gritar. Sin moverse. Como quien deja salir algo que ha llevado dentro toda la vida y ya no tiene fuerzas para retener.
 
@@ -10,7 +10,7 @@ Edda retrocedió.
 
 Por encima de ella, la cosa que había salido seguía creciendo.
 
-* * *
+---
 
 Era el Anillo hecho carne.
 
@@ -24,7 +24,7 @@ Y en su centro, en lo que podría haber sido su corazón, había una espada.
 
 Una espada dorada, larga, recta, sin adornos. Clavada de arriba abajo en el centro de la bestia, como una columna que la sostuviera.
 
-* * *
+---
 
 La Bestia de Elden no habló.
 
@@ -44,7 +44,7 @@ Debajo, muy lejos, como una moneda en el fondo de un pozo, Edda vio la estatua d
 
 Marika no estaba.
 
-* * *
+---
 
 La última batalla fue la más larga.
 
@@ -60,7 +60,7 @@ Cada vez despertaba en el mismo punto: al pie de la escalinata, en la explanada 
 
 Y cada vez, Edda volvía a entrar.
 
-* * *
+---
 
 En algún momento, entre una muerte y otra, se quedó sentada en la escalinata cubierta de ceniza.
 
@@ -74,19 +74,19 @@ No había nadie a quien salvar ahí dentro. Marika ya no estaba en la cruz. Rada
 
 Podía quedarse sentada. Podía irse. Bajar a la ciudad, salir por la puerta oriental, cruzar Necrolimbo, buscar un barco hacia las Tierras Áridas. Buscar la aldea de las puertas azules. Dejar las piedras en el umbral. Nadie se lo reprocharía. No quedaba nadie para reprochárselo.
 
-Pensó en Melina, ardiendo en la forja con los brazos abiertos, con el ojo ámbar abierto por primera vez. *Mírame. Y dímelo.*
+Pensó en Melina, ardiendo en la forja con los brazos abiertos, con el ojo ámbar abierto por primera vez. _Mírame. Y dímelo._
 
-Pensó en Millicent, sentada contra la rama del puente del Árbol Hálito. *Gracias por las dunas.*
+Pensó en Millicent, sentada contra la rama del puente del Árbol Hierático. _Gracias por las dunas._
 
-Pensó en Alejandro, partiéndose como un héroe. *Y que lo abrazaron antes. Eso también.*
+Pensó en Alejandro, partiéndose como un héroe. _Y que lo abrazaron antes. Eso también._
 
-En Ansbach, cerrando los ojos en un escalón de Enir-Ilim. *Ya no la siento. Qué tranquilidad.*
+En Ansbach, cerrando los ojos en un escalón de Enir-Ilim. _Ya no la siento. Qué tranquilidad._
 
-En Igon, diciéndole los nombres de su mujer y de sus hijos. *Maren, Tobias y Lena. Alguien más los sabe.*
+En Igon, diciéndole los nombres de su mujer y de sus hijos. _Maren, Tobias y Lena. Alguien más los sabe._
 
-En Rellana bajando las espadas. En Messmer pidiendo una mano. En Gaius cayéndose del jabalí de risa. En Midra, separado, con su nombre. En Fia tumbada junto a su príncipe. En Morgott, *ya no es uno, ahora son dos*.
+En Rellana bajando las espadas. En Messmer pidiendo una mano. En Gaius cayéndose del jabalí de risa. En Midra, separado, con su nombre. En Fia tumbada junto a su príncipe. En Morgott, _ya no es uno, ahora son dos_.
 
-En todos los que habían muerto para que ella llegara hasta allí. En todos los que le habían dado algo para que lo llevara. En todos los que habían dicho *dile*.
+En todos los que habían muerto para que ella llegara hasta allí. En todos los que le habían dado algo para que lo llevara. En todos los que habían dicho _dile_.
 
 Y pensó en otra cosa.
 
@@ -98,7 +98,7 @@ Recogió la espada del escalón.
 
 Volvió a entrar.
 
-* * *
+---
 
 Al final —no supo cuánto tiempo después, días o eras— la Bestia de Elden se detuvo.
 
@@ -124,13 +124,13 @@ La miraba a ella.
 
 Como se mira una pieza en un tablero. Una pieza que se ha movido sola. Que no estaba en los planes. Que ha llegado a una casilla donde no debía llegar.
 
-Y Edda sintió, en esa mirada, una pregunta. No con palabras. Con algo más antiguo. Como la pregunta que se le hace a un perro cuando ha hecho algo que no esperabas: *¿Y ahora qué?*
+Y Edda sintió, en esa mirada, una pregunta. No con palabras. Con algo más antiguo. Como la pregunta que se le hace a un perro cuando ha hecho algo que no esperabas: _¿Y ahora qué?_
 
 Edda la miró de vuelta.
 
 No sabía cómo se le devuelve la mirada a algo así. No sabía dónde mirar. Así que miró hacia arriba, hacia lo más lejos, hacia donde las estrellas se volvían más pequeñas, y pensó en todo lo que llevaba encima.
 
-Pensó en Gideon. *No hay nadie al otro lado.* Pensó en Corhyn en la nieve. Pensó en la Madre de los Dedos llorando en el vacío porque la habían abandonado. Pensó en Placidusax en su tormenta, esperando a un dios que se fue sin despedirse. Pensó en Marika, que gobernó en su nombre durante eras y cada día la odió un poco más.
+Pensó en Gideon. _No hay nadie al otro lado._ Pensó en Corhyn en la nieve. Pensó en la Madre de los Dedos llorando en el vacío porque la habían abandonado. Pensó en Placidusax en su tormenta, esperando a un dios que se fue sin despedirse. Pensó en Marika, que gobernó en su nombre durante eras y cada día la odió un poco más.
 
 Pensó en un niño en un umbral.
 
@@ -138,7 +138,7 @@ Pensó en un niño en un umbral.
 
 Y clavó la espada de Hewg en el corazón de la bestia.
 
-* * *
+---
 
 La espada entró sin resistencia.
 
@@ -148,11 +148,11 @@ Y tocó la otra espada. La dorada. La que la bestia llevaba clavada en el centro
 
 Las dos espadas se tocaron con un ruido que Edda no olvidaría nunca. Como el de una campana muy grande que se rompe. Como el de una cadena que se parte.
 
-*Un arma capaz de matar a un dios.*
+_Un arma capaz de matar a un dios._
 
 Hewg lo había conseguido.
 
-* * *
+---
 
 La Bestia de Elden se deshizo.
 
@@ -170,7 +170,7 @@ No supo si la Voluntad Mayor se había ido, o si simplemente había dejado de mi
 
 Solo supo que ya no la miraba.
 
-* * *
+---
 
 El cielo estrellado se desvaneció.
 
@@ -188,7 +188,7 @@ La estatua de oro de Radagon ya no estaba. Se había deshecho.
 
 Alrededor de Marika, flotando en el aire pálido, despacio, como hojas que el viento lleva, estaban los fragmentos del Anillo de Elden. Las runas. Girando. Brillando. Esperando.
 
-* * *
+---
 
 Edda se acercó.
 
@@ -204,67 +204,63 @@ Pero sus dedos, muy levemente, apretaron los de Edda.
 
 Y luego, despacio, abrió los ojos. Azules. Claros. Sin oro, ahora. Solo azules. Los ojos de una muchacha de un valle del oeste que se escondía en los helechos.
 
-—*Te has quedado* —dijo, con la boca, con aquella voz pequeña, ronca, de niña—. *Pensé que te irías. Cuando estabas sentada en la escalinata. Lo vi. Pensé que te irías.*
+—_Te has quedado_ —dijo, con la boca, con aquella voz pequeña, ronca, de niña—. _Pensé que te irías. Cuando estabas sentada en la escalinata. Lo vi. Pensé que te irías._
 
 —Casi.
 
-—*¿Por qué no te fuiste?*
+—_¿Por qué no te fuiste?_
 
-Edda tardó en contestar.
+—Porque había mucha gente que había dicho _dile_ —dijo al fin—. Y alguien tenía que terminar de decirlo.
 
-—Porque había mucha gente que había dicho *dile* —dijo al fin—. Y alguien tenía que terminar de decirlo.
+Marika la miró.
 
-Marika la miró mucho tiempo.
-
-—*Has matado a un dios* —dijo—. *Con la espada de Hewg.*
+—_Has matado a un dios_ —dijo—. _Con la espada de Hewg._
 
 —Se acercaba, dijo él.
 
-—*Se acercaba.* Algo se movió en la cara rota. Una sonrisa. *Dile que lo ha conseguido. Que ya está libre. Que la cadena se ha roto.* Una pausa. *Ya se ha roto. Lo he sentido. Al mismo tiempo que la bestia.*
+—_Se acercaba._ Algo se movió en la cara rota. Una sonrisa. _Dile que lo ha conseguido. Que ya está libre. Que la cadena se ha roto._ Una pausa. _Ya se ha roto. Lo he sentido. Al mismo tiempo que la bestia._
 
 Edda pensó en la fragua de la Mesa Redonda. En Roderika cantando una canción de marcha que desafinaba. En Lis intentando seguirla sin saberse la letra. En el martillo de Hewg golpeando entre las llamas.
 
 —Se lo diré.
 
-* * *
+---
 
-—*Me estoy yendo* —dijo Marika.
+—_Me estoy yendo_ —dijo Marika.
 
 Edda le apretó la mano.
 
-—*No pasa nada.* La reina miró hacia arriba, hacia el oro pálido, hacia donde antes había estado la cruz de zarzas. *La muerte ha vuelto. La de verdad. La que solté yo la noche de los cuchillos y me costó a mi hijo. Ahora puedo usarla.* Le tembló la voz. *Puedo morir. Por fin. Como mi madre. Como Godwyn. Del todo.*
+—_No pasa nada._ La reina miró hacia arriba, hacia el oro pálido, hacia donde antes había estado la cruz de zarzas. _La muerte ha vuelto. La de verdad. La que solté yo la noche de los cuchillos y me costó a mi hijo. Ahora puedo usarla._ _Puedo morir. Por fin. Como mi madre. Como Godwyn. Del todo._
 
 —¿Tienes miedo?
 
-Marika tardó en contestar.
-
-—*No* —dijo al fin—. *Tengo ganas de ver si es verdad. Lo que les dijiste a mis hijos. Que alguien les estaba leyendo. Que estaban esperando.* Cerró los ojos. *Quiero sentarme a escuchar. Hace eras que nadie me lee nada.*
+—_No_ —dijo al fin—. _Tengo ganas de ver si es verdad. Lo que les dijiste a mis hijos. Que alguien les estaba leyendo. Que estaban esperando._ Cerró los ojos. _Quiero sentarme a escuchar. Hace eras que nadie me lee nada._
 
 —Godfrey dijo lo mismo.
 
 Marika abrió los ojos.
 
-—*¿Sí?*
+—_¿Sí?_
 
 —Que iba a bajar a las cloacas. A sentarse a escuchar.
 
 La reina se rio. Una risa muy débil, rota, que le salió por las grietas como luz.
 
-—*Ese bárbaro* —dijo—. *Siempre llegaba tarde a todo. Y siempre llegaba.*
+—_Ese bárbaro_ —dijo—. _Siempre llegaba tarde a todo. Y siempre llegaba._
 
-* * *
+---
 
 Se quedaron un rato en silencio. La luz salía de las grietas de Marika cada vez más débil. Los fragmentos del Anillo giraban en el aire alrededor de las dos.
 
-—*Ahí los tienes* —dijo Marika, mirándolos—. *Los pedazos. Puedes cogerlos. Unirlos. Sentarte en un trono que ya no existe. Ser Señora de Elden. Hacer una Orden nueva. Mejor. Más amable.* Una pausa. *Todos mis hijos quisieron eso. Todos pensaban que lo harían mejor que yo.*
+—_Ahí los tienes_ —dijo Marika, mirándolos—. _Los pedazos. Puedes cogerlos. Unirlos. Sentarte en un trono que ya no existe. Ser Señora de Elden. Hacer una Orden nueva. Mejor. Más amable._ Una pausa. _Todos mis hijos quisieron eso. Todos pensaban que lo harían mejor que yo._
 
-—Lo sé.
+—Me lo dijeron. Uno por uno.
 
-—*¿Lo harías tú?*
+—_¿Lo harías tú?_
 
 Edda miró los fragmentos. Los sintió. Sintió su poder, su peso, su llamada. Sintió que podía tomarlos, que bastaba con alargar la mano. Sintió que el mundo entero esperaba su decisión. Como la había esperado la mirada de más allá de las estrellas.
 
-*¿Y ahora qué?*
+_¿Y ahora qué?_
 
 Pensó en Godrick, injertándose brazos para que lo vieran. En Morgott defendiendo un árbol que lo rechazaba. En Rykard queriendo comerse a los dioses. En Miquella queriendo que todos lo amaran. En Midra sujetando la llama de todos para que no ardieran. En Marika rompiendo el Anillo con un martillo porque no sabía cómo decirles a sus hijos que los quería.
 
@@ -274,25 +270,25 @@ Todos habían querido hacer el mundo mejor. Todos lo habían hecho peor.
 
 Marika la miró.
 
-—*¿No?*
+—_¿No?_
 
-—No sé hacerlo mejor. —Edda se miró las manos—. Sé coger piedras. Sé llevar cartas. Sé mirar a alguien cuando cae. —Le tembló la voz—. No sé hacer leyes.
+—No sé hacerlo mejor. —Edda se miró las manos—. Sé coger piedras. Sé llevar cartas. Sé mirar a alguien cuando cae. No sé hacer leyes.
 
-Marika se la quedó mirando un largo rato. Luego sonrió.
+Marika se la quedó mirando. Luego sonrió.
 
-—*Entonces ya sabes más que yo* —dijo.
+—_Entonces ya sabes más que yo_ —dijo.
 
-* * *
+---
 
 Y entonces Edda se acordó de una promesa.
 
-*Te esperaré al final del camino. Te lo prometo. Aunque no dependa de mí.*
+_Te esperaré al final del camino. Te lo prometo. Aunque no dependa de mí._
 
-*Cuando llegues al Árbol, si llegas, y tengas en la mano todo lo que hace falta para decidir cómo será el mundo… que me llames. Y yo vendré.*
+_Cuando llegues al Árbol, si llegas, y tengas en la mano todo lo que hace falta para decidir cómo será el mundo… que me llames. Y yo vendré._
 
 Soltó la mano de Marika. Se metió la mano por dentro de la camisa, contra la piel, donde había guardado la nota de Ranni para hacerle sitio a las piedras de Godfrey en el bolsillo. La sacó. Arrugada, húmeda de sudor y de sangre, con la letra fina, apretada, inclinada a la derecha.
 
-*Para que no se te olvide que hay alguien esperando al final del camino que no es un niño en un umbral.*
+_Para que no se te olvide que hay alguien esperando al final del camino que no es un niño en un umbral._
 
 Luego metió la mano en el bolsillo de dentro de la capa gris. Y sacó la piedra azul.
 
@@ -300,15 +296,15 @@ Pequeña, redonda, translúcida. Y dentro, en el centro, la luna diminuta, fría
 
 Marika la vio. Abrió mucho los ojos.
 
-—*Su luna* —dijo—. *La de la niña de Rennala. La fea.*
+—_Su luna_ —dijo—. _La de la niña de Rennala. La fea._
 
 —No es fea.
 
-—*No.* Marika sonrió. *Nunca lo fue. Su madre se equivocó. Yo también se lo dije, una vez, en un pasillo de la mansión de Caria, cuando la vi llorar junto a un dibujo de tiza. Que era la luna más bonita que había visto.* Una pausa. *No me creyó. Era la mujer de mi marido. No podía creerme.*
+—_No._ Marika sonrió. _Nunca lo fue. Su madre se equivocó. Yo también se lo dije, una vez, en un pasillo de la mansión de Caria, cuando la vi llorar junto a un dibujo de tiza. Que era la luna más bonita que había visto._ Una pausa. _No me creyó. Era la mujer de mi marido. No podía creerme._
 
 Edda se quedó inmóvil.
 
-—*Llámala* —dijo Marika—. *Ya sé lo que quiere hacer. Lo sé desde la noche de los cuchillos. Le abrí la puerta a ella también, ¿sabes? No solo a las asesinas. A ella.* Cerró los ojos. *Llámala. Y que se lo lleve todo. Lejos. Donde la Voluntad no mire.*
+—_Llámala_ —dijo Marika—. _Ya sé lo que quiere hacer. Lo sé desde la noche de los cuchillos. Le abrí la puerta a ella también, ¿sabes? No solo a las asesinas. A ella._ Cerró los ojos. _Llámala. Y que se lo lleve todo. Lejos. Donde la Voluntad no mire._
 
 Edda levantó la piedra azul a la luz pálida del oro.
 
@@ -320,7 +316,7 @@ Y luego, despacio, empezó a brillar. Más. Más. Hasta que la piedra entera era
 
 Y llamó.
 
-* * *
+---
 
 La reina no vio llegar a la princesa.
 
@@ -330,7 +326,7 @@ Edda se llevó la mano a la bolsa. La abrió. El brote tenía seis hojas. Le fal
 
 La que Marika había tocado.
 
-La miró mucho tiempo. La hoja en la palma abierta de la reina. Luego le cerró los dedos sobre ella, con cuidado. Para que no se le cayera.
+La miró. La hoja en la palma abierta de la reina. Luego le cerró los dedos sobre ella, con cuidado. Para que no se le cayera.
 
 —Yrsa —dijo en voz alta—. Se llamaba Yrsa.
 

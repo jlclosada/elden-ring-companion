@@ -1,6 +1,6 @@
 Belurat olía a incienso y a sangre seca.
 
-La ciudad trepaba por la base de la torre como una enredadera de piedra: terrazas, escalinatas, templos encajados unos sobre otros, puentes colgados entre abismos. En las plazas había tinajas por todas partes. Algunas eran pequeñas, del tamaño de un niño; otras tan grandes que tenían su propio altar, con velas encendidas a sus pies y ofrendas de pan y vino. De muchas salía un murmullo sordo, como el de alguien que reza dormido. Los Cornudos pasaban junto a ellas sin mirarlas, igual que se pasa junto a una fuente.
+La ciudad trepaba por la base de la torre como una enredadera de piedra: terrazas, escalinatas, templos encajados unos sobre otros, puentes colgados entre abismos. En las plazas había tinajas por todas partes. Algunas eran pequeñas, del tamaño de un niño; otras tan grandes que tenían su propio altar, con velas encendidas a sus pies y ofrendas de pan y vino. De muchas salía un murmullo sordo, como el de alguien que reza dormido. Los Cornamentados pasaban junto a ellas sin mirarlas, igual que se pasa junto a una fuente.
 
 Marika entró por la puerta baja con la cabeza cubierta y las manos atadas, acompañada de una bestia negra que caminaba a cuatro patas y no levantaba la vista del suelo.
 
@@ -20,11 +20,11 @@ El guardia rio. Miró a la bestia negra, que no se movía, y luego a la muchacha
 
 El guardia dejó de reír. La dejó pasar.
 
-* * *
+---
 
-La ciudad era más grande de lo que parecía desde el valle. Marika tardó toda la mañana en subir desde la puerta baja hasta las terrazas altas, escoltada por dos guardias que la llevaban de una cuerda como se lleva a una cabra al mercado. Maliketh caminaba detrás, a cuatro patas, con la cabeza gacha. Nadie se fijaba en él. Los Cornudos estaban acostumbrados a ver bestias; muchos tenían rasgos de bestia ellos mismos: orejas largas, colas, pezuñas en lugar de pies. El Crisol los había tocado a todos de una manera u otra.
+La ciudad era más grande de lo que parecía desde el valle. Marika tardó toda la mañana en subir desde la puerta baja hasta las terrazas altas, escoltada por dos guardias que la llevaban de una cuerda como se lleva a una cabra al mercado. Maliketh caminaba detrás, a cuatro patas, con la cabeza gacha. Nadie se fijaba en él. Los Cornamentados estaban acostumbrados a ver bestias; muchos tenían rasgos de bestia ellos mismos: orejas largas, colas, pezuñas en lugar de pies. El Crisol los había tocado a todos de una manera u otra.
 
-En una de las plazas altas, junto a una fuente con forma de toro, había una tinaja más grande que las demás. Estaba pintada de rojo y adornada con guirnaldas de flores secas, y a su alrededor había una docena de Cornudos arrodillados, rezando en voz baja.
+En una de las plazas altas, junto a una fuente con forma de toro, había una tinaja más grande que las demás. Estaba pintada de rojo y adornada con guirnaldas de flores secas, y a su alrededor había una docena de Cornamentados arrodillados, rezando en voz baja.
 
 Marika se detuvo.
 
@@ -38,13 +38,13 @@ Marika no se movió.
 
 —La santa de la primavera. —El guardia se encogió de hombros—. La trajeron hace dos años de un valle del oeste. Dicen que de ella va a salir un santo. Los fieles vienen a rezarle cada día para que se dé prisa.
 
-Marika se quedó mirando la tinaja durante mucho tiempo. El murmullo que salía de ella era bajo, constante, como el de alguien que canta muy lejos. Le pareció reconocer la melodía. Era una canción de cuna. La que Yrsa le cantaba cuando era pequeña y no podía dormir.
+Marika se quedó mirando la tinaja. El murmullo que salía de ella era bajo, constante, como el de alguien que canta muy lejos. Le pareció reconocer la melodía. Era una canción de cuna. La que Yrsa le cantaba cuando era pequeña y no podía dormir.
 
 —Camina —repitió el guardia.
 
-Esta vez caminó. Pero detrás de ella, Maliketh levantó la cabeza por primera vez desde que habían entrado en la ciudad, y miró la tinaja roja con sus ojos amarillos, y gruñó muy bajo.
+Esta vez caminó. Pero detrás de ella, Maliketh levantó la cabeza por primera vez desde que habían entrado en la ciudad, y miró la tinaja roja con sus ojos amarillos, y gruñó.
 
-* * *
+---
 
 Fue en las escalinatas del templo mayor donde vio a Ilmar.
 
@@ -58,13 +58,13 @@ Los guardias se detuvieron, extrañados.
 
 —¿La conoces, hermano? —preguntó uno.
 
-Ilmar tardó mucho en contestar. No apartaba los ojos de Marika.
+Ilmar no apartaba los ojos de Marika.
 
 —No —dijo al fin—. No la conozco.
 
 —Es una chamana. Viene a ofrecerse al Potentado.
 
-—Lo sé. —Ilmar bajó los escalones despacio. Se detuvo frente a ella—. Yo la llevaré. Dejadla conmigo.
+—Ya. —Ilmar bajó los escalones despacio. Se detuvo frente a ella—. Yo la llevaré. Dejadla conmigo.
 
 Los guardias dudaron. Luego se encogieron de hombros, le entregaron la cuerda y se marcharon. Ilmar se quedó con la cuerda en la mano, frente a ella, en la escalinata del templo, mientras el humo del incensario caído subía entre los dos.
 
@@ -82,13 +82,13 @@ Ilmar no pudo sostenerle la mirada.
 
 —Dime de quién es la carne que llevas en la cabeza, Ilmar.
 
-—No lo sé. —Se le quebró la voz—. Te lo juro por el Crisol, Marika, no lo sé. Era todo… era todo mezclado. No sé de quién era. No quise saberlo.
+—No lo sé. Te lo juro por el Crisol, Marika, no lo sé. Era todo… era todo mezclado. No sé de quién era. No quise saberlo.
 
 —Mi madre tenía una canción —dijo Marika, muy despacio—. Una canción de cuna. Hay una tinaja roja en la plaza del toro que la canta.
 
 Ilmar cerró los ojos.
 
-Se quedaron así mucho tiempo, en la escalinata, sin hablar. Los fieles que subían al templo pasaban junto a ellos sin mirarlos. Luego Ilmar abrió los ojos, le soltó a Marika las manos atadas con un tirón del cuchillo que llevaba al cinto, y le devolvió el extremo de la cuerda.
+Se quedaron así en la escalinata, sin hablar. Los fieles que subían al templo pasaban junto a ellos sin mirarlos. Luego Ilmar abrió los ojos, le soltó a Marika las manos atadas con un tirón del cuchillo que llevaba al cinto, y le devolvió el extremo de la cuerda.
 
 —Me salvaste la vida —dijo ella—. En el valle. Entre los helechos. No lo he olvidado.
 
@@ -96,7 +96,7 @@ Se quedaron así mucho tiempo, en la escalinata, sin hablar. Los fieles que sub�
 
 —Pero tampoco he olvidado lo demás.
 
-—Lo sé. —Ilmar se apartó—. ¿A qué has venido, Marika? De verdad. No me digas que a ofrecerte.
+—Ni yo te pido que lo olvides. —Ilmar se apartó—. ¿A qué has venido, Marika? De verdad. No me digas que a ofrecerte.
 
 Ella lo miró. Luego miró hacia arriba, hacia la torre, hacia la espiral de piedra que se perdía en las nubes.
 
@@ -112,11 +112,11 @@ Ilmar se tocó los cuernos, los cuernos enormes, enredados, que le habían devue
 
 —Porque no sé de quién es esta carne —dijo—. Y nunca podré quitármela.
 
-* * *
+---
 
 En el corazón de Belurat, bajo una cúpula de piedra pintada con espirales, vivía el Gran Potentado Ishtur.
 
-Era viejo, tan viejo que su piel se había vuelto translúcida, como el papel encerado, y bajo ella se veían las venas azules latiendo despacio. Tenía los cuernos más enredados que se habían visto en generaciones: le brotaban de la frente y de las sienes, se enroscaban hacia atrás y volvían a avanzar sobre su cráneo como una corona viva, tan pesada que ya no podía mantener la cabeza erguida y tenía que apoyarla en un respaldo de piedra tallada. Los Cornudos decían que estaba más cerca del cielo que ningún otro. Él lo creía también.
+Era viejo, tan viejo que su piel se había vuelto translúcida, como el papel encerado, y bajo ella se veían las venas azules latiendo despacio. Tenía los cuernos más enredados que se habían visto en generaciones: le brotaban de la frente y de las sienes, se enroscaban hacia atrás y volvían a avanzar sobre su cráneo como una corona viva, tan pesada que ya no podía mantener la cabeza erguida y tenía que apoyarla en un respaldo de piedra tallada. Los Cornamentados decían que estaba más cerca del cielo que ningún otro. Él lo creía también.
 
 Ishtur llevaba toda su vida preparándose para subir a lo más alto de Enir-Ilim y cruzar la Puerta Divina. Y llevaba toda su vida sin atreverse.
 
@@ -124,7 +124,7 @@ Ishtur llevaba toda su vida preparándose para subir a lo más alto de Enir-Ilim
 
 —No, señor.
 
-—Porque nadie que haya cruzado la Puerta ha vuelto para contarlo. —El viejo tosió, un sonido húmedo, enfermo—. Mis antepasados la cruzaron. Tres en mil años. Los tres desaparecieron. Unos dicen que se convirtieron en dioses y se fueron a otro mundo. Otros, que la luz los deshizo como la lluvia deshace la arena. Nadie lo sabe. —Se inclinó hacia ella, con un crujido de cuernos—. Y yo tengo miedo, muchacha. Tengo mucho miedo. Soy el más grande de los Cornudos y tengo miedo de una puerta.
+—Porque nadie que haya cruzado la Puerta ha vuelto para contarlo. —El viejo tosió, un sonido húmedo, enfermo—. Mis antepasados la cruzaron. Tres en mil años. Los tres desaparecieron. Unos dicen que se convirtieron en dioses y se fueron a otro mundo. Otros, que la luz los deshizo como la lluvia deshace la arena. Nadie lo sabe. —Se inclinó hacia ella, con un crujido de cuernos—. Y yo tengo miedo, muchacha. Tengo mucho miedo. Soy el más grande de los Cornamentados y tengo miedo de una puerta.
 
 Marika no dijo nada. Lo miraba a los ojos.
 
@@ -138,7 +138,7 @@ El Potentado la miró, sorprendido.
 
 —Porque eran mi familia.
 
-Hubo un silencio largo. Ishtur se echó hacia atrás en su trono, despacio, sin apartar la vista de ella. Ilmar, de pie junto a la puerta, se había quedado blanco.
+Ishtur se echó hacia atrás en su trono, despacio, sin apartar la vista de ella. Ilmar, de pie junto a la puerta, se había quedado blanco.
 
 —Y aun así has venido —dijo el viejo al fin—. Por tu propio pie. A ofrecerte al hombre que ordenó meter a tu familia en tinajas.
 
@@ -168,19 +168,19 @@ El viejo levantó la vista hacia ella. Tenía los ojos llenos de lágrimas.
 
 —No lo hago por ti —dijo Marika—. Lo hago por mí. Necesito que alguien me abra la puerta de la torre. Los guardias no dejarán subir a una chamana sola. Pero al Gran Potentado no le negarán el paso.
 
-Ishtur se la quedó mirando durante mucho tiempo. Luego, despacio, empezó a reírse. Una risa débil, húmeda, rota.
+Ishtur se la quedó mirando. Luego, despacio, empezó a reírse. Una risa débil, húmeda, rota.
 
 —Eres sincera —dijo—. Eres la única persona sincera que ha entrado en esta sala en treinta años. —Se secó las lágrimas—. Muy bien, chamana. Mañana subiremos. Juntos.
 
-* * *
+---
 
 En las celdas bajo la arena de Belurat había un hombre que no tenía cuernos ni dioses.
 
-Se llamaba Hoarah Loux y venía de tierras lejanas, de más allá de cualquier mapa que los Cornudos conocieran: unas llanuras resecas donde los hombres solo valían lo que valían sus brazos. Lo habían capturado en una incursión, borracho, después de una batalla, y lo hacían luchar en la arena contra los guerreros de las bestias divinas para entretener a los fieles en los días de fiesta. Nunca había perdido. Por eso seguía vivo.
+Se llamaba Hoarah Loux y venía de tierras lejanas, de más allá de cualquier mapa que los Cornamentados conocieran: unas llanuras resecas donde los hombres solo valían lo que valían sus brazos. Lo habían capturado en una incursión, borracho, después de una batalla, y lo hacían luchar en la arena contra los guerreros de las bestias divinas para entretener a los fieles en los días de fiesta. Nunca había perdido. Por eso seguía vivo.
 
-Era enorme, de barba gris aunque todavía joven, con el cuerpo cruzado de cicatrices y una risa que retumbaba en las paredes de piedra. Luchaba con un hacha de doble filo que los Cornudos le devolvían solo cuando entraba en la arena. Fuera de ella, lo encadenaban.
+Era enorme, de barba gris aunque todavía joven, con el cuerpo cruzado de cicatrices y una risa que retumbaba en las paredes de piedra. Luchaba con un hacha de doble filo que los Cornamentados le devolvían solo cuando entraba en la arena. Fuera de ella, lo encadenaban.
 
-Marika lo vio luchar aquella misma tarde. Ishtur la había llevado al palco de honor, con su túnica nueva de lino blanco y una corona de flores secas que alguien le había puesto en el pelo, y desde allí vio cómo aquel hombre sin dios se enfrentaba a la danza del león: tres guerreros Cornudos bajo una sola piel de bestia sagrada, moviéndose como uno solo, con seis brazos y seis espadas. Hoarah Loux los esperó en el centro de la arena, riéndose. Cuando cargaron, saltó por encima de la bestia, aterrizó sobre su lomo, y partió la piel en dos de un hachazo, y a los tres hombres de dentro con ella.
+Marika lo vio luchar aquella misma tarde. Ishtur la había llevado al palco de honor, con su túnica nueva de lino blanco y una corona de flores secas que alguien le había puesto en el pelo, y desde allí vio cómo aquel hombre sin dios se enfrentaba a la danza del león: tres guerreros Cornamentados bajo una sola piel de bestia sagrada, moviéndose como uno solo, con seis brazos y seis espadas. Hoarah Loux los esperó en el centro de la arena, riéndose. Cuando cargaron, saltó por encima de la bestia, aterrizó sobre su lomo, y partió la piel en dos de un hachazo, y a los tres hombres de dentro con ella.
 
 La multitud gritó. No de alegría: de rabia. Habían apostado por la bestia sagrada.
 
@@ -194,7 +194,7 @@ Hoarah Loux levantó el hacha hacia el palco, bañado en sangre, y soltó una ca
 
 —Por eso.
 
-* * *
+---
 
 Esa misma noche bajó a las celdas.
 
@@ -228,7 +228,7 @@ Hoarah Loux se rió con aquella risa enorme que hacía temblar las paredes. Lueg
 
 —Entonces no habrás perdido nada que no hubieras perdido ya en esta celda.
 
-El guerrero la miró durante mucho tiempo, en la penumbra.
+El guerrero la miró en la penumbra, rascándose una costra del codo con la uña.
 
 —¿Y después? ¿Qué hay después de la puerta?
 
@@ -238,7 +238,7 @@ El guerrero la miró durante mucho tiempo, en la penumbra.
 
 —Entonces no me sirvas. —Marika le sostuvo la mirada—. Lucha a mi lado.
 
-Hoarah Loux se quedó callado. Luego, por primera vez, la miró de verdad: no como se mira a una presa ni a una enemiga, sino como se mira a alguien que dice algo inesperado.
+Hoarah Loux gruñó. Luego, por primera vez, la miró de verdad: no como se mira a una presa ni a una enemiga, sino como se mira a alguien que dice algo inesperado.
 
 —¿Por qué yo? —preguntó—. Hay guerreros más fuertes en esta ciudad. Con cuernos. Con dioses.
 
@@ -248,7 +248,7 @@ El guerrero la miró un largo momento. Luego extendió las manos encadenadas.
 
 Maliketh entró en la celda y partió las cadenas con los dientes.
 
-* * *
+---
 
 La subida a Enir-Ilim duró un día entero.
 
@@ -262,7 +262,7 @@ Desde allí se veía su valle. Muy lejos, muy pequeño, un manchón verde oscuro
 
 Ilmar se acercó a ella.
 
-—Cuando lleguemos arriba —dijo, muy bajo, para que nadie más lo oyera—, ¿qué harás con él?
+—Cuando lleguemos arriba —dijo, para que nadie más lo oyera—, ¿qué harás con él?
 
 —¿Con quién?
 
@@ -276,15 +276,15 @@ Marika no apartó la vista de la ventana.
 
 —No. —Marika se volvió hacia él—. Haré algo peor. Le dejaré vivir sabiendo que estuvo a un paso de la puerta y que se la cerré yo.
 
-Ilmar la miró durante mucho tiempo.
+Ilmar la miró.
 
 —¿Y conmigo? —preguntó al fin—. ¿Qué harás conmigo?
 
 Marika tardó mucho en contestar.
 
-—Todavía no lo sé —dijo.
+—Todavía no lo sé —dijo. Y era mentira, y los dos lo sabían.
 
-* * *
+---
 
 En lo más alto había una puerta.
 
@@ -316,37 +316,37 @@ Ishtur se volvió, con los ojos muy abiertos, y vio a la muchacha de pelo dorado
 
 Y cruzó la Puerta.
 
-* * *
+---
 
 Al otro lado no había nada. Y luego lo hubo todo.
 
 Marika dejó de tener cuerpo. No sintió dolor, ni frío, ni miedo: sintió que se deshacía como se deshace la sal en el agua, que sus bordes se borraban, que dejaba de saber dónde terminaba ella y dónde empezaba la luz. Y en aquella luz, muy lejos, en el oeste, vio algo.
 
-Una meseta alta, junto a un mar interior. Y en el centro de la meseta, tumbada en la hierba, una bestia hecha de luz dorada. Sus alas eran filamentos de oro; su cuerpo, una constelación que se movía. Estaba quieta. Llevaba mucho tiempo quieta. Esperando.
+Una meseta alta, junto a un mar interior. Y en el centro de la meseta, tumbada en la hierba, una bestia hecha de luz dorada. Sus alas eran filamentos de oro; su cuerpo, una constelación que se movía. Estaba quieta. Llevaba eras quieta. Esperando.
 
 La bestia levantó la cabeza. La miró.
 
-Y Marika, en el instante en que sus miradas se encontraron, vio dentro de ella otra cosa. Un recuerdo que no era suyo. Una torre en el cielo, rodeada de una tormenta que no pasaba. Un patio con musgo blanco y un estanque de agua quieta. Una dragona de escamas blancas como la tiza, de ojos grises como el agua de lluvia, que preguntaba a alguien con cinco cabezas: *¿Seguiré siendo yo, o seré solo la casa donde vive?*
+Y Marika, en el instante en que sus miradas se encontraron, vio dentro de ella otra cosa. Un recuerdo que no era suyo. Una torre en el cielo, rodeada de una tormenta que no pasaba. Un patio con musgo blanco y un estanque de agua quieta. Una dragona de escamas blancas como la tiza, de ojos grises como el agua de lluvia, que preguntaba a alguien con cinco cabezas: _¿Seguiré siendo yo, o seré solo la casa donde vive?_
 
 Y la respuesta que nadie le había dado.
 
-*No lo sé.*
+_No lo sé._
 
 Marika comprendió. La bestia había vivido en otra antes que en ella. Había entrado en aquella dragona blanca, y la dragona había dejado de ser ella misma, poco a poco, a lo largo de una era, hasta que solo quedó la casa donde vivía la luz. Y luego la luz se había marchado, al oeste, a esperar a otra.
 
 A ella.
 
-*¿Seguiré siendo yo?*, preguntó Marika, en algún lugar sin voz.
+_¿Seguiré siendo yo?_, preguntó Marika, en algún lugar sin voz.
 
 La bestia no contestó. Nunca contestaba. Solo la miró con aquellos ojos sin pupila, de oro líquido, y se levantó de la hierba, y abrió las alas, y se lanzó hacia ella a través de todas las leguas que las separaban, a través de la luz, a través de la Puerta.
 
 Marika pensó en su madre. En Tilde. En la Abuela moviendo los labios. En una figurita de madera con forma de león.
 
-*Seguiré siendo yo*, pensó. *Lo decido yo. No tú.*
+_Seguiré siendo yo_, pensó. _Lo decido yo. No tú._
 
 Y abrió los brazos.
 
-* * *
+---
 
 Los que se quedaron en la cima de la torre vieron cómo la luz la envolvía.
 
@@ -364,13 +364,13 @@ Bajó la vista hacia el viejo.
 
 Ishtur cayó de rodillas.
 
-Abajo, en la tierra, ocurrieron dos cosas al mismo tiempo. Al oeste, muy lejos, en la meseta alta junto al mar interior donde había esperado la bestia, brotó un árbol de oro. Un retoño, pequeño todavía, pero que crecería hasta tocar el cielo y que los hombres llamarían Árbol Áureo. Y allí mismo, en la tierra de los Cornudos, brotó su reflejo: un árbol oscuro, retorcido, cuyas ramas extendieron una sombra sobre todo el territorio. El Árbol Umbrío.
+Abajo, en la tierra, ocurrieron dos cosas al mismo tiempo. Al oeste, muy lejos, en la meseta alta junto al mar interior donde había esperado la bestia, brotó un árbol de oro. Un retoño, pequeño todavía, pero que crecería hasta tocar el cielo y que los hombres llamarían Árbol Áureo. Y allí mismo, en la tierra de los Cornamentados, brotó su reflejo: un árbol oscuro, retorcido, cuyas ramas extendieron una sombra sobre todo el territorio. El Árbol Umbrío.
 
-Los Cornudos de Belurat salieron a las terrazas y miraron al cielo, que se había vuelto gris, y comprendieron que algo había sido robado. Su puerta, su ascensión, su destino. Una chamana de la aldea que ellos mismos habían vaciado les había arrebatado el cielo.
+Los Cornamentados de Belurat salieron a las terrazas y miraron al cielo, que se había vuelto gris, y comprendieron que algo había sido robado. Su puerta, su ascensión, su destino. Una chamana de la aldea que ellos mismos habían vaciado les había arrebatado el cielo.
 
 Lo llamaron traición. Lo llamarían así durante todas las generaciones que vinieron después.
 
-* * *
+---
 
 Hoarah Loux encontró a Marika sentada en el borde de la cima, con los pies colgando sobre el abismo. Tenía la túnica blanca manchada de sangre y la corona de flores secas todavía en el pelo, torcida.
 
@@ -380,7 +380,7 @@ Hoarah Loux encontró a Marika sentada en el borde de la cima, con los pies colg
 
 —¿Cómo se siente?
 
-Marika tardó en contestar. Se miró las manos. Seguían siendo las suyas, pequeñas, con una cicatriz en el pulgar de cuando se cortó con un cuchillo de su madre a los nueve años.
+Marika se miró las manos. Seguían siendo las suyas, pequeñas, con una cicatriz en el pulgar de cuando se cortó con un cuchillo de su madre a los nueve años.
 
 —Como si hubiera algo muy grande dentro de mí —dijo al fin—. Algo que quiere decidir por mí. Y como si yo le estuviera diciendo que no a cada momento.
 
@@ -396,13 +396,13 @@ El guerrero frunció el ceño.
 
 —Nunca he sabido.
 
-—Lo sé. Por eso te daré a alguien que lo sepa por ti.
+—Ya. Por eso te daré a alguien que lo sepa por ti.
 
 Marika alzó la mano y en el aire, a su lado, se formó una figura de luz: un león espectral, enorme, de melena dorada y ojos tranquilos. El espíritu de una bestia antigua, señor de todas las bestias, que la diosa había llamado desde algún lugar entre las estrellas.
 
 —Se llama Serosh —dijo—. Si lo llevas sobre tus hombros, él contendrá tu furia. Serás más que un guerrero. Serás un rey.
 
-Hoarah Loux miró al león durante mucho tiempo. Luego miró a la mujer que había sido una chamana y ahora era un dios, y que le ofrecía todo a cambio de dejar de ser quien era.
+Hoarah Loux miró al león. Luego miró a la mujer que había sido una chamana y ahora era un dios, y que le ofrecía todo a cambio de dejar de ser quien era.
 
 —¿Y si un día quiero volver a ser solo yo?
 
@@ -416,7 +416,7 @@ El guerrero se arrodilló. El león se posó sobre sus hombros como se posa la n
 
 —Godfrey —dijo.
 
-* * *
+---
 
 Ilmar la esperaba en la escalera, al pie de la plataforma. Estaba sentado en un escalón, con el incensario apagado entre las manos y los cuernos enormes inclinados hacia el suelo.
 
@@ -430,7 +430,7 @@ Marika se detuvo frente a él. Godfrey y Maliketh se quedaron detrás, esperando
 
 —Bajaré. Me dirán traidor. Quizá me maten. —Se encogió de hombros—. Quizá me lo merezca.
 
-Marika lo miró durante mucho tiempo. Luego se metió la mano en el bolsillo de la túnica y sacó algo. Una figurita de madera con forma de león.
+Marika lo miró. Luego se metió la mano en el bolsillo de la túnica y sacó algo. Una figurita de madera con forma de león.
 
 Ilmar la miró. Se le llenaron los ojos de lágrimas.
 
@@ -440,13 +440,13 @@ Ilmar la miró. Se le llenaron los ojos de lágrimas.
 
 Bajó los escalones. Godfrey y Maliketh la siguieron. Ilmar se quedó sentado en la escalera, con la figurita de madera en la mano, mirándolos alejarse hasta que desaparecieron en la espiral de la torre.
 
-Años después, cuando los soldados del Árbol Umbrío servían ya a la Orden y los Cornudos eran un pueblo vencido que rezaba en secreto a su Crisol, hubo en Belurat un sacerdote de cuernos enormes que cuidaba de las tinajas de la plaza del toro. Les cambiaba las velas, les traía flores, les cantaba. A la tinaja roja le cantaba siempre la misma canción, una canción de cuna de un valle del oeste que nadie más en la ciudad conocía. Y cuando le preguntaban por qué, decía que estaba esperando a que saliera un santo. Que hacía falta que alguien estuviera allí cuando saliera.
+Años después, cuando los soldados del Árbol Umbrío servían ya a la Orden y los Cornamentados eran un pueblo vencido que rezaba en secreto a su Crisol, hubo en Belurat un sacerdote de cuernos enormes que cuidaba de las tinajas de la plaza del toro. Les cambiaba las velas, les traía flores, les cantaba. A la tinaja roja le cantaba siempre la misma canción, una canción de cuna de un valle del oeste que nadie más en la ciudad conocía. Y cuando le preguntaban por qué, decía que estaba esperando a que saliera un santo. Que hacía falta que alguien estuviera allí cuando saliera.
 
 Nunca salió ninguno.
 
-* * *
+---
 
-Abandonaron la tierra de los Cornudos a la mañana siguiente, mientras el Árbol Umbrío extendía su sombra a sus espaldas. Maliketh caminaba al frente; Godfrey, con el león sobre los hombros, cerraba la marcha. Marika iba en medio, en silencio, sin mirar atrás.
+Abandonaron la tierra de los Cornamentados a la mañana siguiente, mientras el Árbol Umbrío extendía su sombra a sus espaldas. Maliketh caminaba al frente; Godfrey, con el león sobre los hombros, cerraba la marcha. Marika iba en medio, en silencio, sin mirar atrás.
 
 Pero sí miró una vez. Antes de cruzar el último paso de montaña, se detuvo y volvió la cabeza hacia el valle alto donde había nacido, hacia los bosques antiguos y las casas de árbol que ya nadie habitaba.
 

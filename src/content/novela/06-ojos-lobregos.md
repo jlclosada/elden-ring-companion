@@ -10,7 +10,7 @@ La bestia bajó en persona a la puerta oriental. Los guardias se apartaron como 
 
 —Hueles a lago —dijo.
 
-—Vengo de un lago —respondió Burren, sin apartar la mirada, aunque le castañeteaban los dientes—. De un lago donde vivía un dios. Hace dos lunas llegó una mujer en una barca y habló con él. No lo mató. Pero le dijo que volvería. Y hace once días volvió, porque nosotros, los de la aldea, seguimos llevándole muchachas al dios aunque él nos había dicho que no las quería. —Se le quebró la voz—. Esta vez sí lo mató. Delante de todos. Con un fuego negro que no daba luz. Y luego nos miró a nosotros y nos dijo: «Ahora ya no tenéis a quién culpar».
+—Vengo de un lago —respondió Burren, sin apartar la mirada, aunque le castañeteaban los dientes—. De un lago donde vivía un dios. Hace dos lunas llegó una mujer en una barca y habló con él. No lo mató. Pero le dijo que volvería. Y hace once días volvió, porque nosotros, los de la aldea, seguimos llevándole muchachas al dios aunque él nos había dicho que no las quería. Esta vez sí lo mató. Delante de todos. Con un fuego negro que no daba luz. Y luego nos miró a nosotros y nos dijo: «Ahora ya no tenéis a quién culpar».
 
 Maliketh no dijo nada durante un rato. El agua de la lluvia le chorreaba por el pelaje negro.
 
@@ -20,7 +20,7 @@ Maliketh no dijo nada durante un rato. El agua de la lluvia le chorreaba por el 
 
 —Levanta —dijo Maliketh—. Mi hermana querrá oírte.
 
-* * *
+---
 
 El consejo de guerra se reunió aquella misma noche en la gran sala de la Torre de los Dedos.
 
@@ -64,7 +64,7 @@ Godfrey se enderezó. Los generales se miraron entre sí. Nadie le decía que no
 
 —¿Y tú? —dijo Godfrey en voz baja, solo para ella—. ¿Ha visto la tuya?
 
-Marika no contestó. No hizo falta.
+Marika no contestó.
 
 El Señor de Elden apretó los puños. Durante un instante, los generales creyeron que iba a gritar, o a golpear la mesa, o a marcharse dando un portazo. Pero Godfrey solo miró a su esposa durante un largo momento, y luego miró a la bestia negra que esperaba junto a la puerta, y lo entendió.
 
@@ -84,7 +84,7 @@ Fue Maliketh quien respondió.
 
 —Puedo —dijo—. Para eso me hizo.
 
-* * *
+---
 
 Marika fue a buscarlo esa noche, mucho después de que el consejo se disolviera.
 
@@ -100,7 +100,7 @@ Marika se sentó a su lado, en el suelo, descalza, con las rodillas recogidas. D
 
 Marika apoyó la barbilla en las rodillas.
 
-—¿Recuerdas la tierra de los Cornudos? —preguntó—. ¿La noche en que bajamos de las montañas?
+—¿Recuerdas la tierra de los Cornamentados? —preguntó—. ¿La noche en que bajamos de las montañas?
 
 —Lo recuerdo todo.
 
@@ -118,7 +118,7 @@ La bestia no se movió.
 
 —¿Y si quisieras? —Marika se volvió hacia él—. ¿Y si mañana quisieras ser otra cosa? ¿Podrías?
 
-Maliketh tardó mucho en contestar. Cuando lo hizo, su voz era distinta: más baja, más torpe, como la de alguien que no está acostumbrado a hablar de sí mismo.
+Cuando Maliketh contestó, su voz era distinta: más baja, más torpe, como la de alguien que no está acostumbrado a hablar de sí mismo.
 
 —No sé qué otra cosa podría ser —dijo—. Cuando estoy lejos de ti, hermana, no sé qué soy. Camino, como, duermo, pero no soy nada. Es como si me faltara la mitad. Como si fuera una sombra sin nadie que la proyecte. —Levantó la cabeza y la miró—. Solo cuando me pides algo sé quién soy. No me preguntes si quiero ser tu muerte. Pregúntame si quiero ser algo. Y la respuesta es que sí, y que no sé ser otra cosa.
 
@@ -152,7 +152,7 @@ El Señor de Elden se sentó a su lado, con un crujido de armadura. Le pasó un 
 
 Marika apoyó la cabeza en su pecho y no contestó.
 
-* * *
+---
 
 Maliketh cruzó las Tierras Intermedias en nueve días.
 
@@ -184,15 +184,13 @@ A su lado, de pie, apoyado en un bastón, había un hombre viejo con una cicatri
 
 —Esta sí.
 
-La Reina sonrió. Luego ladeó la cabeza y lo miró con el ojo crepuscular, fijamente, durante mucho tiempo. Maliketh la vio fruncir el ceño. La vio inclinarse hacia delante en el trono. La vio palidecer.
+La Reina sonrió. Luego ladeó la cabeza y lo miró con el ojo crepuscular, fijamente. Maliketh la vio fruncir el ceño. La vio inclinarse hacia delante en el trono. La vio palidecer.
 
 —Ozren —dijo, sin apartar la mirada—. ¿Ves algo raro en él?
 
 —Es una bestia enorme con ganas de matarnos —respondió el viejo—. Me parece bastante raro.
 
 —No veo su muerte. —La Reina se levantó del trono—. Lo miro y no hay nada. Ninguna sombra. Ninguna mancha. Es como mirar un agujero en el mundo. —Bajó los escalones de piedra, despacio, hasta quedar al mismo nivel que él—. ¿Qué eres?
-
-Maliketh tardó en contestar.
 
 —Su sombra —dijo al fin—. Cuando ella era una muchacha, los Dedos me ataron a ella. No a la Voluntad. No al Anillo. A ella. Lo que yo sea, lo soy por ella. Nadie me escribió en ningún otro sitio.
 
@@ -206,11 +204,11 @@ La Reina se rio. Fue una risa sorprendentemente cálida, casi alegre, que hizo q
 
 —Habla.
 
-* * *
+---
 
 —Tu diosa quiere quitar la muerte del mundo —dijo la Reina—. ¿Lo sabes?
 
-—Lo sé.
+—Sí.
 
 —¿Y te parece bien?
 
@@ -222,7 +220,7 @@ Maliketh no contestó.
 
 —Eso es lo que quiere para todos. Para los hombres, para las bestias, para los dioses. Que nadie descanse nunca. Que los viejos sigan vivos con los huesos rotos y los enfermos sigan vivos con la carne podrida y los que sufren sigan sufriendo para siempre, porque así lo ha decidido una muchacha descalza junto a un árbol de oro. —La Reina se detuvo frente a él—. Yo veo la muerte de todas las cosas, sombra. Y te digo que la muerte no es el enemigo. Es lo único justo que hay en este mundo. Es lo único que nos iguala a todos. Al mendigo y al rey, al hombre y al dios. Quitársela al mundo es la mayor crueldad que se ha cometido nunca.
 
-Maliketh la miró durante mucho tiempo.
+Maliketh la miró.
 
 —Quizá tengas razón —dijo.
 
@@ -242,7 +240,7 @@ La Reina lo miró a los ojos. Luego asintió, despacio, como quien acepta algo q
 
 —Lo sé —respondió Maliketh—. Pero yo sí la merezco a ella.
 
-* * *
+---
 
 Los Piel de Dios se lanzaron sobre él.
 
@@ -270,11 +268,11 @@ Ozren se volvió a mirarla. Tenía los ojos llenos de lágrimas.
 
 —Tisaia…
 
-—Lo sé. —Ella le tocó la cicatriz de la boca, como había hecho aquella primera noche en el monasterio, veinte años atrás—. Yo también. Ahora apártate y déjame hacer esto bien.
+—Calla. —Ella le tocó la cicatriz de la boca, como había hecho aquella primera noche en el monasterio, veinte años atrás—. Yo también. Ahora apártate y déjame hacer esto bien.
 
 El viejo se apartó. Se quedó de rodillas en la hierba quemada, con la espada caída a su lado.
 
-* * *
+---
 
 La Reina desenvainó su arma.
 
@@ -306,11 +304,11 @@ Fue suficiente.
 
 Maliketh saltó. La derribó contra el suelo. Le cerró las fauces sobre el cuello.
 
-* * *
+---
 
 No murió enseguida.
 
-Se quedó tendida en la hierba quemada, con la garganta abierta y el mandoble caído a su lado, mirando el cielo. Las primeras estrellas empezaban a aparecer. Maliketh se apartó de ella, jadeando, con la boca llena de sangre, y se quedó de rodillas a su lado. No sabía por qué. Algo le impedía irse.
+Se quedó tendida en la hierba quemada, con la garganta abierta y el mandoble caído a su lado, mirando el cielo. Las primeras estrellas empezaban a aparecer. Maliketh se apartó de ella, jadeando, con la boca llena de sangre, y se quedó de rodillas a su lado. Algo le impedía irse.
 
 Ozren se arrastró hasta ella. Le tomó la cabeza entre las manos.
 
@@ -358,7 +356,7 @@ Ozren la miró, y luego miró a la bestia.
 
 —Ella dio la vida para impedirlo.
 
-—Lo sé.
+—También lo sé.
 
 —¿Y aun así lo harás?
 
@@ -378,7 +376,7 @@ Luego subió, se sentó junto a la tumba, encendió en su brasero una llama negr
 
 Vivió muchos años más. Solo. Y se acordó de ella cada noche, tal como ella le había dicho.
 
-* * *
+---
 
 Maliketh tardó catorce días en volver a Leyndell.
 
@@ -402,7 +400,7 @@ Marika se arrodilló a su lado. Le tocó la herida del pecho, y él gruñó de d
 
 La bestia abrió la garra. En su palma latía la luz negra.
 
-Marika se quedó mirándola durante mucho tiempo. Por un instante, Maliketh creyó ver en sus ojos algo parecido al miedo. Luego ella alargó la mano y tocó la runa con la punta de los dedos, y la luz negra tembló, como si la reconociera.
+Marika se quedó mirándola. Por un instante, Maliketh creyó ver en sus ojos algo parecido al miedo. Luego ella alargó la mano y tocó la runa con la punta de los dedos, y la luz negra tembló, como si la reconociera.
 
 —Estaba en su ojo —dijo Maliketh—. Por eso veía la muerte de todo. La llevaba dentro.
 
@@ -412,8 +410,6 @@ Marika se quedó mirándola durante mucho tiempo. Por un instante, Maliketh crey
 
 —¿Te dijo algo?
 
-Maliketh tardó en contestar.
-
 —Que la muerte es lo único justo que hay en el mundo —dijo—. Que quitarla es la mayor crueldad.
 
 Marika cerró los ojos.
@@ -422,7 +418,7 @@ Marika cerró los ojos.
 
 —Yo no creo nada, hermana. Yo he vuelto.
 
-Ella abrió los ojos y lo miró, y Maliketh vio que estaba llorando. Nunca la había visto llorar. Ni siquiera en la montaña, la noche que bajaron de la tierra de los Cornudos.
+Ella abrió los ojos y lo miró, y Maliketh vio que estaba llorando. Nunca la había visto llorar. Ni siquiera en la montaña, la noche que bajaron de la tierra de los Cornamentados.
 
 —Voy a sacarla —dijo Marika, mirando la runa—. Del Anillo. Del mundo.
 

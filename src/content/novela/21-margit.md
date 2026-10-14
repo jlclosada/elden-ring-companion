@@ -96,7 +96,7 @@ A la sexta, fue ella quien preguntó. Estaban los dos jadeando, a veinte pasos e
 
 —Entonces, ¿por qué?
 
-El gigante tardó mucho en contestar. El viento le revolvía el pelo blanco.
+El viento le revolvía al gigante el pelo blanco.
 
 —Porque alguien tiene que hacerlo —dijo al fin—. Porque el Árbol está en peligro. Porque todos los hijos de la diosa lo han traicionado, y el único que queda para defenderlo es el que ella nunca quiso. —Levantó el bastón—. Y porque se lo prometí a alguien que ya no está.
 
@@ -162,13 +162,11 @@ Melina miraba el fuego de la gracia. Tenía el grillete en las manos; se lo hab�
 
 Melina no se movió. Seguía mirando el grillete en sus manos.
 
-—Hay quien ama lo que lo rechaza —dijo al fin, muy bajo—. Más de lo que lo ama nadie. Porque es lo único que conoce. Porque desde niño lo ha mirado desde lejos, a través de una rendija, y ha pensado que era lo más hermoso del mundo. —Le devolvió el grillete a Edda—. Y cuanto más lo rechaza, más lo ama. Como un perro al que pegan y vuelve.
+—Hay quien ama lo que lo rechaza —dijo al fin—. Más de lo que lo ama nadie. Porque es lo único que conoce. Porque desde niño lo ha mirado desde lejos, a través de una rendija, y ha pensado que era lo más hermoso del mundo. —Le devolvió el grillete a Edda—. Y cuanto más lo rechaza, más lo ama. Como un perro al que pegan y vuelve.
 
 Edda se quedó mirándola.
 
 —Hablas como si lo conocieras.
-
-Melina tardó mucho en contestar.
 
 —Conozco a alguien como él —dijo al fin—. Que también nació donde no lo querían. Y que también sigue esperando que algún día lo quieran. —Se levantó—. Mañana usa el grillete. Pero cuando lo uses, Edda, mírale a los ojos. Te lo pido.
 
@@ -198,7 +196,7 @@ El gigante se quedó quieto. Algo en su cara —en su cara antigua, de piedra, d
 
 —Yo también prometí algo a alguien que ya no está —dijo, despacio.
 
-—Lo sé. Me lo dijiste.
+—Me lo dijiste.
 
 —Y tampoco pude cumplirlo del todo. —Margit miró hacia el este, hacia el Árbol—. Me pidió que me defendiera a mí mismo primero. Que el Árbol tenía muchos defensores y yo solo uno. —Se rio, una risa ronca, rota—. No le hice caso.
 
@@ -288,7 +286,7 @@ Melina se quedó muy quieta.
 
 —¿La conoces?
 
-La muchacha tardó mucho en contestar. Cuando lo hizo, su voz temblaba un poco.
+Cuando la muchacha contestó, su voz temblaba un poco.
 
 —He oído hablar de ella —dijo—. Una sacerdotisa ciega. De hace muchísimo tiempo. Dicen que cuidó de unos niños que nadie quería, en un lugar muy oscuro. Que les enseñó a leer con los dedos.
 

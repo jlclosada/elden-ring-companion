@@ -20,7 +20,7 @@ Bajó la escalera sin prisa, peldaño a peldaño, apoyándose en el bastón. De 
 
 —No lo hice sola —dijo Edda.
 
-—Lo sé. Mi hija estaba contigo. —Gideon se detuvo a dos pasos de ella—. Nepheli. ¿Está bien?
+—Naturalmente que no. Mi hija estaba contigo. —Gideon se detuvo a dos pasos de ella—. Nepheli. ¿Está bien?
 
 —Está viva. Se ha quedado en el castillo.
 
@@ -30,7 +30,7 @@ Hubo una pausa. Edda no podía verle la cara, pero vio cómo los dedos largos se
 
 —Dice que alguien tiene que estar allí para que no vuelva a pasar. Para que las aldeas sepan que ya no vive un monstruo en Velo Tormentoso. Que es de la sangre de Godfrey, y que ya era hora de que alguien de esa sangre hiciera algo que mereciera la pena en ese sitio.
 
-Gideon tardó mucho en contestar. Cuando lo hizo, su voz seguía siendo suave, pero había algo debajo, algo frío y metálico, como una moneda en el fondo de un pozo.
+Cuando Gideon contestó, su voz seguía siendo suave, pero había algo debajo, algo frío y metálico, como una moneda en el fondo de un pozo.
 
 —Nepheli tiene buen corazón —dijo—. Siempre lo ha tenido. Es su mayor virtud y su peor defecto. —Hizo un gesto vago con la mano—. Le pedí que esperara. No esperó. Bien. Veremos qué hace con un castillo lleno de cadáveres y una corona que no quiere. —Se volvió hacia la escalera—. Quizá aprenda algo.
 
@@ -62,7 +62,7 @@ Edda se sentó en un taburete, junto a la puerta. El herrero siguió golpeando. 
 
 —¿Por qué estás encadenado? —preguntó Edda, al cabo de un rato.
 
-—Porque me trajeron para forjar. —Golpe—. Hace mucho tiempo. Cuando había una reina en la capital y el Árbol era tan joven que todavía se le podían contar las ramas. —Golpe—. Me cogieron en las montañas del este. Me trajeron con cadenas. Y una noche bajó ella, sola, sin guardias, y se sentó donde estás tú ahora.
+—Porque me trajeron para forjar. —Golpe—. Cuando había una reina en la capital y el Árbol era tan joven que todavía se le podían contar las ramas. —Golpe—. Me cogieron en las montañas del este. Me trajeron con cadenas. Y una noche bajó ella, sola, sin guardias, y se sentó donde estás tú ahora.
 
 —¿Quién?
 
@@ -146,7 +146,7 @@ Enia no contestó. Los dedos se habían recogido, cerrados, como una mano que se
 
 En un rincón oscuro, junto a la chimenea, había una mujer.
 
-Era alta, de pelo negro recogido en una trenza larga, envuelta en un manto oscuro de lana gruesa. Llevaba al cuello una cadena con un colgante de hueso. Estaba sentada en el suelo, con la espalda contra la pared, y sostenía en el regazo algo envuelto en tela, como un bebé dormido. Lo mecía. Le cantaba algo muy bajo, una canción sin palabras, una nana.
+Era alta, de pelo negro recogido en una trenza larga, envuelta en un manto oscuro de lana gruesa. Llevaba al cuello una cadena con un colgante de hueso. Estaba sentada en el suelo, con la espalda contra la pared, y sostenía en el regazo algo envuelto en tela, como un bebé dormido. Lo mecía. Le cantaba algo entre dientes, una canción sin palabras, una nana.
 
 Al ver a Edda, dejó de cantar y sonrió. Era una sonrisa tan cansada que Edda sintió ganas de sentarse a su lado sin decir nada.
 
@@ -164,7 +164,7 @@ Fia se quedó pensando. La pregunta pareció hacerle gracia.
 
 Edda se arrodilló y la dejó abrazarla.
 
-Fue un abrazo largo, cálido, extrañamente reconfortante. Fia olía a lana, a tierra húmeda y a algo más profundo, a raíces, a sótano, a algo que había estado mucho tiempo bajo tierra. Edda sintió un calor que le subía desde el pecho, y también algo que se le iba: un peso pequeño, frío, que no sabía que llevaba hasta que se lo quitaron. Cuando Fia la soltó, Edda se sintió más fuerte y más ligera a la vez.
+Fue un abrazo largo, cálido, extrañamente reconfortante. Fia olía a lana, a tierra húmeda y a algo más profundo, a raíces, a sótano, a algo que había estado siglos bajo tierra. Edda sintió un calor que le subía desde el pecho, y también algo que se le iba: un peso pequeño, frío, que no sabía que llevaba hasta que se lo quitaron. Cuando Fia la soltó, Edda se sintió más fuerte y más ligera a la vez.
 
 —¿Qué me has quitado?
 
@@ -176,7 +176,7 @@ Edda no supo qué decir. Bajó la vista hacia el bulto del regazo de Fia. Entre 
 
 Fia volvió a envolverlo con cuidado, con mucho cuidado, como se arropa a un niño que ha empezado a despertarse.
 
-—Algo que me dieron a guardar —dijo—. Hace mucho tiempo. —Lo meció un poco—. ¿Sabes lo que es una trucha?
+—Algo que me dieron a guardar —dijo, y lo meció un poco—. ¿Sabes lo que es una trucha?
 
 La pregunta era tan absurda que Edda soltó una risa corta.
 
@@ -186,7 +186,7 @@ La pregunta era tan absurda que Edda soltó una risa corta.
 
 —¿Qué le pasó?
 
-Fia no contestó. Siguió meciendo la raíz, y volvió a cantar muy bajo la nana sin palabras. Edda se levantó despacio, sin hacer ruido, y la dejó allí.
+Fia no contestó. Siguió meciendo la raíz, y volvió a cantar la nana sin palabras. Edda se levantó despacio, sin hacer ruido, y la dejó allí.
 
 * * *
 
@@ -239,8 +239,6 @@ Edda se sentó en una silla junto al sofá.
 Rogier se quedó un rato mirando al techo. Cuando habló, se le había ido el tono de broma.
 
 —Porque nadie lo hacía. Porque la Noche de los Cuchillos Negros es el día en que el mundo se rompió, y en todas las bibliotecas de Liurnia no hay un solo libro que explique cómo fue posible. Unas asesinas entraron en la ciudad más vigilada de las Tierras Intermedias, robaron un fragmento de la Runa que custodiaba un dios, y mataron a un semidiós en su propia torre. —Se volvió hacia ella—. ¿Tú sabes lo difícil que es eso? Es imposible. A menos que alguien de dentro les abriera la puerta.
-
-Edda se quedó callada.
 
 Rogier le habló durante horas, con una pasión que lo hacía olvidar la herida: de Godwyn, de la noche de los cuchillos, del cuerpo del príncipe que había muerto solo a medias, de las catacumbas bajo la capital donde decía haber visto raíces que crecían hacia abajo en lugar de hacia arriba. Le habló de las asesinas, que eran todas mujeres y todas tenían la cara cubierta y se movían como la sombra de una vela. Le habló de un amigo de la infancia.
 
@@ -308,7 +306,7 @@ Diallos la miró.
 
 —No lo sé. —Edda terminó la sopa—. Pero si encuentras al que mató a Lanya, haz lo que creas que ella habría querido. No lo que haría tu hermano.
 
-Diallos se quedó mucho tiempo callado. Luego, por primera vez, sonrió. Era una sonrisa torpe, de hombre que no está acostumbrado.
+Diallos se quedó callado. Luego, por primera vez, sonrió. Era una sonrisa torpe, de hombre que no está acostumbrado.
 
 —Habría querido que me comiera la sopa antes de que se enfriara —dijo—. Siempre me reñía por eso.
 
@@ -338,7 +336,7 @@ Melina no pareció sorprendida.
 
 Melina se quedó muy quieta. No dijo nada durante tanto tiempo que Edda pensó que iba a desaparecer, como hacía siempre que una pregunta le resultaba demasiado difícil. Pero no desapareció. Se quedó mirando su propia mano, la mano que ponía sobre la frente de Edda cada vez que convertía las runas en fuerza.
 
-—No sé de qué hablan —dijo al fin, muy bajo—. Te lo juro. No lo sé.
+—No sé de qué hablan —dijo al fin—. Te lo juro. No lo sé.
 
 Edda la creyó. Y fue eso, precisamente eso, lo que la inquietó.
 

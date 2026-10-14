@@ -16,8 +16,6 @@ Malenia sonrió. Era una sonrisa pequeña, seca, la de alguien que ha oído much
 
 —También dices eso siempre. —Malenia giró la cabeza hacia él, aunque no podía verlo—. ¿Sabes lo que me gustaría, hermano? Que un día vinieras a sentarte aquí y no me prometieras nada. Que me contaras qué has comido. O qué tiempo hace. Algo que no fuera curarme.
 
-Miquella se quedó callado.
-
 —Hoy hace sol —dijo al fin—. Mucho. Las hojas del Árbol brillan tanto que los jardineros llevan sombrero. He comido pan con miel y una pera. La pera estaba dura.
 
 Malenia se rio. Era una risa breve, sorprendida, como un hipo.
@@ -26,7 +24,7 @@ Malenia se rio. Era una risa breve, sorprendida, como un hipo.
 
 —De nada. —Miquella le cogió la mano de carne, la que le quedaba—. Pero te curaré igual.
 
-* * *
+---
 
 Los gemelos habían nacido en la Torre de los Dedos una noche de verano, y desde la primera semana todos supieron que estaban malditos.
 
@@ -38,8 +36,6 @@ La primera mancha apareció cuando tenía cuatro años. Una gota roja en el tobi
 
 —¿Qué es? —preguntó.
 
-Marika tardó mucho en contestar.
-
 —Una flor —dijo al fin—. De un dios exterior. Uno que adora la descomposición. —Miró a su hija, que chapoteaba en el agua sin entender nada—. Ha anidado en ella antes de nacer.
 
 —¿Cómo lo sabes?
@@ -48,7 +44,7 @@ Marika tardó mucho en contestar.
 
 Radagon no preguntó qué hijo. No preguntó qué serpiente. Ya había aprendido, en los años de matrimonio con la diosa, que había preguntas que era mejor no hacer. Pero aquella noche, en la cama, despierto en la oscuridad junto a su esposa, que fingía dormir, se dio cuenta de que tampoco sentía la necesidad de preguntarlo. Como si ya lo supiera. Como si lo hubiera sabido siempre, en algún lugar de sí mismo al que no tenía acceso.
 
-* * *
+---
 
 Miquella lo intentó todo.
 
@@ -72,7 +68,7 @@ Pero el Fundamentalismo no curaba la podredumbre. Ninguna oración, ninguna ley 
 
 —La Orden no sirve —le dijo un día Miquella a su padre, con la serenidad terrible de los niños que han dejado de serlo—. No para esto.
 
-Radagon estaba de pie junto a la ventana de su estudio, mirando el Árbol. Se quedó callado mucho tiempo.
+Radagon estaba de pie junto a la ventana de su estudio, mirando el Árbol.
 
 —No —dijo al fin—. No para esto.
 
@@ -86,7 +82,7 @@ El padre se volvió hacia él. Tenía en los ojos algo que Miquella no le había
 
 Radagon no contestó. Pero tampoco le llevó la contraria. Quizá él también lo sabía.
 
-* * *
+---
 
 Entonces Miquella dejó el Fundamentalismo y empezó a buscar en otra parte.
 
@@ -106,7 +102,7 @@ Miquella estaba sentado en un taburete, con los pies colgando, mirando el fuego 
 
 —Quizá yo también pueda arreglarme algún día.
 
-Orsa dejó el martillo. Se quedó mirando al niño dios durante mucho tiempo con sus ojos pequeños de oso.
+Orsa dejó el martillo. Se quedó mirando al niño dios con sus ojos pequeños de oso.
 
 —Tú no estás roto —dijo—. Eres pequeño. No es lo mismo.
 
@@ -120,7 +116,7 @@ Malenia, con los ojos vendados, palpó la aguja con los dedos de la mano que le 
 
 —¿Qué es?
 
-—Oro sin alear. Sin Árbol. Sin Voluntad. —Miquella le guio la mano hasta la parte interior del brazo, junto al codo—. Aquí.
+—Oro sin alear. Sin Árbol. Sin Voluntad. Inmaculado. —Miquella le guio la mano hasta la parte interior del brazo, junto al codo—. Aquí.
 
 Ella obedeció. La aguja entró en la carne sin dolor, y durante un instante la podredumbre que le latía bajo la piel se quedó quieta, como un animal asustado.
 
@@ -138,11 +134,11 @@ Malenia se llevó la mano a la aguja. Bajo la venda de los ojos, por primera vez
 
 —Hoy no hace falta que me cuentes qué has comido.
 
-* * *
+---
 
 Miquella le hizo también prótesis.
 
-Las forjaron él y Orsa en el mismo taller, con el mismo oro sin alear, durante cinco años más. Un brazo de metal dorado, articulado como uno de verdad, con dedos que se cerraban y se abrían como los de una mano viva. Y luego, cuando la podredumbre le fue devorando las piernas por debajo de las rodillas, dos piernas: largas, finas, de articulaciones perfectas, que se movían con un leve chasquido metálico.
+Las forjaron él y Orsa en el mismo taller, con el mismo oro inmaculado, durante cinco años más. Un brazo de metal dorado, articulado como uno de verdad, con dedos que se cerraban y se abrían como los de una mano viva. Y luego, cuando la podredumbre le fue devorando las piernas por debajo de las rodillas, dos piernas: largas, finas, de articulaciones perfectas, que se movían con un leve chasquido metálico.
 
 Malenia aprendió a caminar con ellas. Tardó un año. Se cayó cientos de veces. Se levantaba siempre, en silencio, apretando los dientes, sin dejar que nadie la ayudara.
 
@@ -158,7 +154,7 @@ Aprendió. Primero a caminar. Después a correr. Una mañana de primavera, Mique
 
 Después aprendió a luchar.
 
-* * *
+---
 
 El espadachín ciego llegó a Leyndell un día de otoño, y nadie lo invitó.
 
@@ -186,7 +182,7 @@ Malenia dejó de golpear el muñeco. Se volvió hacia la voz.
 
 —¿Qué quieres?
 
-—Enseñarte. —El viejo caminó hacia ella, despacio, hasta quedar a tres pasos—. Hace mucho tiempo, más del que puedes imaginar, bajé a las profundidades bajo Liurnia. Había allí un lago de agua roja. Y en el lago, un dios. Un dios exterior que era la podredumbre misma. Lo vencí. Sin verlo. Lo sellé en el fondo del lago, y lo dejé allí, dormido. —Hizo una pausa—. Pero los dioses no mueren, niña. Solo esperan. Y ese dios encontró la manera de salir. Encontró un vientre. El de tu madre. Y anidó en ti.
+—Enseñarte. —El viejo caminó hacia ella, despacio, hasta quedar a tres pasos—. Hace más tiempo del que puedes imaginar, bajé a las profundidades bajo Liurnia. Había allí un lago de agua roja. Y en el lago, un dios. Un dios exterior que era la podredumbre misma. Lo vencí. Sin verlo. Lo sellé en el fondo del lago, y lo dejé allí, dormido. —Hizo una pausa—. Pero los dioses no mueren, niña. Solo esperan. Y ese dios encontró la manera de salir. Encontró un vientre. El de tu madre. Y anidó en ti.
 
 Malenia se quedó muy quieta.
 
@@ -198,7 +194,7 @@ Malenia se quedó muy quieta.
 
 —Porque eres la única persona del mundo que lleva a ese dios dentro. Y yo soy la única persona del mundo que lo ha vencido. —El viejo sonrió—. Me parece que tenemos mucho que hablar.
 
-* * *
+---
 
 El espadachín la entrenó durante doce años.
 
@@ -236,7 +232,7 @@ Malenia se quitó la venda de los ojos, que ya no servían de nada, y se la volv
 
 —Porque una espada necesita a alguien que la empuñe —dijo—. Si no, es solo un trozo de metal. Y yo no quiero ser solo un trozo de metal.
 
-* * *
+---
 
 Miquella tenía otro don, y era el más peligroso de todos.
 
@@ -260,13 +256,13 @@ Miquella le puso una mano en la cabeza.
 
 —Vete a casa —le dijo—. Y no vuelvas a pegar a nadie.
 
-El soldado se fue. Al día siguiente, dejó la guardia de la capital y se presentó en la Torre de los Dedos pidiendo servir a Miquella. Murió tres años después, defendiéndolo en un viaje al norte. No sabía por qué lo había hecho. Solo sabía que lo amaba.
+El soldado se fue. Al día siguiente, dejó la guardia de la capital y se presentó en la Torre de los Dedos pidiendo servir a Miquella. Murió tres años después, defendiéndolo en un viaje al norte. Le abrieron el vientre en un vado y siguió de pie en el agua hasta que pasó el carro del niño. Nunca supo explicar por qué. Solo que lo amaba.
 
 —No les obligo —le dijo Miquella a Malenia aquella noche, en voz baja, cuando nadie más los oía—. Solo… les pido que me quieran. Y me quieren.
 
 —¿Y eso no es obligar?
 
-Miquella no contestó durante mucho tiempo.
+Miquella no contestó.
 
 —No lo sé —dijo al fin—. A veces pienso que sí. Que no tienen elección. Y me da miedo. —Se abrazó las rodillas—. Pero luego pienso en ese niño mendigo. En que nadie le habría defendido si yo no hubiera hecho que ese soldado me quisiera. Y no sé qué es peor.
 
@@ -278,7 +274,7 @@ Malenia le pasó el brazo de metal por los hombros.
 
 —Porque te quiero desde antes de nacer. —Malenia sonrió—. Compartíamos vientre. No tuviste tiempo de hechizarme.
 
-* * *
+---
 
 Había algo más en él, algo que pocos sabían.
 
@@ -298,7 +294,7 @@ Miquella lo supo. Nunca dijo nada. Pero una noche, Malenia lo encontró dormido 
 
 Trina era el amor de Miquella. La parte de él que amaba sin pedir nada a cambio. Y nadie, ni siquiera Malenia, supo nunca del todo dónde terminaba uno y empezaba la otra.
 
-* * *
+---
 
 Radahn visitaba Leyndell de vez en cuando, entre campaña y campaña, y Miquella lo adoraba.
 
@@ -322,13 +318,13 @@ Radahn dejó de reír.
 
 —Sí.
 
-El general se quedó mucho tiempo en silencio, mirando el Árbol.
+El general se quedó en silencio, mirando el Árbol.
 
 —¿Por qué yo? —preguntó al fin—. Hay otros. Godwyn. Mi hermano Rykard. Morgott, si lo dejaran salir.
 
-—Porque eres el único que sostiene algo que pesa demasiado sin quejarse nunca. —Miquella señaló hacia el cielo, hacia las estrellas inmóviles que empezaban a verse en el atardecer—. Llevas años sujetándolas. Te duele. Lo sé. Lo veo cuando te crees que nadie mira. Y nunca lo dices. —Se volvió hacia él—. Un dios necesita a alguien así a su lado.
+—Porque eres el único que sostiene algo que pesa demasiado sin quejarse nunca. —Miquella señaló hacia el cielo, hacia las estrellas inmóviles que empezaban a verse en el atardecer—. Llevas años sujetándolas. Te duele. Lo veo cuando te crees que nadie mira. Y nunca lo dices. —Se volvió hacia él—. Un dios necesita a alguien así a su lado.
 
-Radahn no dijo nada durante mucho tiempo. Luego, despacio, puso su enorme mano sobre la cabeza del niño.
+Radahn no dijo nada. Luego, despacio, puso su enorme mano sobre la cabeza del niño.
 
 —Está bien —dijo—. Si alguna vez llegas a dios, seré tu consorte. Pero a cambio, tú harás algo por mí.
 
@@ -338,7 +334,7 @@ Radahn se agachó y se lo dijo al oído. Nadie más lo escuchó. Ni siquiera las
 
 —Eso costará mucho —dijo.
 
-—Lo sé.
+—Bah.
 
 —Quizá todo.
 
@@ -348,7 +344,7 @@ Miquella asintió, muy serio. Se dieron la mano como dos guerreros que sellan un
 
 Ese pacto acabaría costándoles todo.
 
-* * *
+---
 
 En el norte de las Tierras Intermedias, más allá de las cumbres de los gigantes y de un campo de nieve consagrada, Miquella plantó un árbol.
 
@@ -364,31 +360,31 @@ Era pequeño, apenas una rama con hojas. Miquella lo regó con su propia sangre 
 
 Quería que creciera hasta convertirse en un Árbol Áureo propio: un árbol sin la Voluntad Mayor, sin los Dedos, sin la Orden. Un árbol que curara su maldición y la de su hermana. Un árbol para todos los que el otro árbol había rechazado.
 
-Lo llamó el Árbol Hálito.
+Lo llamó el Árbol Hierático.
 
-* * *
+---
 
 Alrededor del árbol se refugiaron los que nadie quería.
 
-Llegaron poco a poco, durante años, siguiendo rumores, siguiendo sueños con nenúfares lila. Los Malnacidos que habían escapado de la esclavitud de las canteras. Los albinaurios perseguidos por los inquisidores de Rykard. Los deformes, los proscritos, los olvidados. Orsa, la herrera con cara de oso, llegó el segundo año y montó una forja junto a las raíces. Hesper, la muchacha de las cocinas, llegó el tercero con otras siete soñadoras de Trina.
+Llegaron poco a poco, durante años, siguiendo rumores, siguiendo sueños con nenúfares lila. Los Malnacidos que habían escapado de la esclavitud de las canteras. Los albinaúricos perseguidos por los inquisidores de Rykard. Los deformes, los proscritos, los olvidados. Orsa, la herrera con cara de oso, llegó el segundo año y montó una forja junto a las raíces. Hesper, la muchacha de las cocinas, llegó el tercero con otras siete soñadoras de Trina.
 
-Una caballera de Caria, Loretta, ya veterana y con canas en el pelo, abandonó su servicio en la mansión de la luna y fundó en las ramas del árbol un santuario para los albinaurios. Llegó una tarde de primavera, sola, con su alabarda al hombro, y se arrodilló ante Miquella en la plaza de Elphael.
+Una caballera de Caria, Loretta, ya veterana y con canas en el pelo, abandonó su servicio en la mansión de la luna y fundó en las ramas del árbol un santuario para los albinaúricos. Llegó una tarde de primavera, sola, con su alabarda al hombro, y se arrodilló ante Miquella en la plaza de Elphael.
 
 —Serví a una reina que cantaba —dijo—. Ahora solo canta a un huevo que no va a nacer. Necesito servir a alguien que todavía quiera algo.
 
-Miquella la miró durante mucho tiempo.
+Miquella la miró.
 
 —Yo quiero muchas cosas —dijo.
 
 —Por eso he venido.
 
-Los caballeros del Árbol Hálito se trenzaban coronas de oro sin alear y juraban defender a Miquella con su vida. La primera en jurar fue una mujer alta, de hombros anchos y rostro severo, una antigua soldado de la guardia de la capital que había seguido a Malenia hasta el norte después de verla bailar su danza de acero en un torneo. Se llamaba Finlay. Juró arrodillada en la nieve, con la lanza ante sí, y cuando Malenia le preguntó por qué, Finlay tardó mucho en contestar.
+Los caballeros del Árbol Hierático se trenzaban coronas de oro sin alear y juraban defender a Miquella con su vida. La primera en jurar fue una mujer alta, de hombros anchos y rostro severo, una antigua soldado de la guardia de la capital que había seguido a Malenia hasta el norte después de verla bailar su danza de acero en un torneo. Se llamaba Finlay. Juró arrodillada en la nieve, con la lanza ante sí, y cuando Malenia le preguntó por qué, Finlay se quitó el yelmo, que no se quitaba nunca.
 
 —Porque nunca he visto a nadie luchar así —dijo al fin—. Y quiero estar cerca cuando lo vuelva a hacer.
 
-Durante un tiempo, el Árbol Hálito fue lo más parecido a un refugio que habían conocido las Tierras Intermedias.
+Durante un tiempo, el Árbol Hierático fue lo más parecido a un refugio que habían conocido las Tierras Intermedias.
 
-* * *
+---
 
 —¿Crees que funcionará? —le preguntó Malenia, de pie junto a él en lo alto de Elphael, con el viento helado agitándole el pelo rojo.
 
@@ -400,7 +396,7 @@ Habían pasado diez años desde que plantaron el retoño. Miquella miraba el ár
 
 —Y todas las cumplo.
 
-Malenia se quedó callada un rato. Luego se volvió hacia él, aunque no podía verlo.
+Malenia se volvió hacia él, aunque no podía verlo.
 
 —Hermano —dijo—. Si no funciona. Si un día el árbol no crece más, o la flor se abre, o la aguja deja de servir. Prométeme una cosa.
 

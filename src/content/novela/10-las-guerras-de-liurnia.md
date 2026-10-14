@@ -8,7 +8,7 @@ La llamaron brillo. Con los siglos aprendieron que en aquellas piedras azules qu
 
 Ningún hechicero sabía ya qué significaban. Pero nadie se atrevía a tirarlas.
 
-* * *
+---
 
 Mil años después de Iven, la Academia la dirigían dos maestros a los que se recordaría como los Hechiceros Primigenios, Azur y Lusat.
 
@@ -16,7 +16,7 @@ Estudiaban la Corriente Primigenia, una magia tan antigua y tan peligrosa que po
 
 Hasta que llegó Rennala.
 
-* * *
+---
 
 Rennala y su hermana Rellana eran princesas de Caria, una familia antigua de la orilla occidental del lago que adoraba a la luna. Eran gemelas, aunque no se parecían en nada: Rennala era alta, lenta, soñadora, con el pelo negro larguísimo y una voz que cantaba incluso cuando hablaba. Rellana era más baja, rápida, impaciente, con el pelo cortado a la altura de los hombros y una espada de madera siempre en la mano.
 
@@ -48,7 +48,7 @@ Rennala se rio.
 
 Desde aquella noche, Rennala tuvo una luna llena que la acompañó siempre, que aparecía sobre su cabeza cuando cantaba y se apagaba cuando estaba triste. Y Rellana tuvo dos lunas gemelas, una dorada y otra azul, que nunca se separaban. Y cuando las dos hermanas se peleaban —que era a menudo—, la luna de Rennala y las lunas de Rellana se encendían a la vez sobre la mansión, y los criados sabían que había que esconderse.
 
-* * *
+---
 
 Las dos estudiaron con el conde Ymir, un maestro hechicero de la orilla norte, un hombre larguirucho, de barba gris y gafas de cristal de brillo, que conocía el cosmos como nadie y que les enseñaba en la torre de su castillo, sentado en el suelo con las piernas cruzadas.
 
@@ -70,7 +70,7 @@ Sobre el lago apareció su luna llena, más grande de lo que nunca había sido, 
 
 Rennala los hechizó a todos. Se convirtió en su señora.
 
-* * *
+---
 
 Su primera orden fue prohibir el estudio de la Corriente Primigenia.
 
@@ -96,7 +96,7 @@ Lusat dio un paso adelante.
 
 —Entonces id a buscarlo a otra parte.
 
-Hubo un silencio largo.
+Nadie se movió en la sala del trono.
 
 —¿Nos desterráis? —preguntó Azur.
 
@@ -104,7 +104,7 @@ Hubo un silencio largo.
 
 Azur se marchó al Monte Gelmir; Lusat volvió a su ciudad natal, Sellia. Ambos acabarían, siglos después, convertidos ellos mismos en piedra, inmóviles, contemplando el vacío. Rennala lo supo, años después, por un viajero. Se pasó toda una noche llorando, sin saber muy bien por qué.
 
-* * *
+---
 
 Así nació la casa real de Caria tal como se la conoce: Rennala como reina, la Academia como corte, y a su servicio los caballeros encantados, guerreros de la más alta honra cuyas espadas llevaban brillo incrustado y podían lanzar hechizos en mitad del combate. Nunca fueron más de veinte.
 
@@ -122,7 +122,7 @@ Rennala se quedó mirándola un largo momento. Luego se rio, y su luna se encend
 
 Junto a los caballeros luchaban trolls —compañeros de juventud de la reina, ligados a ella por un juramento— que eran tratados como verdaderos caballeros. Eran enormes, lentos, de piel gris como la piedra y ojos pequeños y tristes, descendientes lejanos y degradados de los gigantes de las cumbres. Uno de ellos, el más sabio, se llamaba Iji y forjaba sus armas. Llevaba siempre al cuello un collar de cuentas de hierro que, según decía, había pertenecido a su linaje desde los tiempos en que los suyos eran gigantes; las cuentas eran iguales a las que llevaba en la barba un pariente lejano, un gigante de barba roja que se había quedado solo en lo alto de una montaña.
 
-* * *
+---
 
 Leyndell no podía tolerar un reino de magos al otro lado del lago.
 
@@ -144,7 +144,7 @@ Solo Maliketh, que lo vio llegar a la corte aquella primera mañana, se quedó m
 
 Marika no contestó.
 
-* * *
+---
 
 La primera guerra de Liurnia duró cinco años y no tuvo vencedor.
 
@@ -154,13 +154,13 @@ En el quinto año, Radagon se retiró. No porque hubiera perdido; porque había 
 
 Loretta lo vio marcharse desde lo alto de la torre del puente norte. El guerrero de pelo rojo iba al frente de su ejército, a caballo, con el martillo a la espalda. Y en el último momento, antes de desaparecer en la niebla, se volvió y miró hacia la mansión real, al otro lado del lago, donde la luna llena de Rennala brillaba sobre las torres.
 
-Se quedó mirándola mucho tiempo.
+Se quedó mirándola.
 
-* * *
+---
 
 La segunda guerra fue peor.
 
-Radagon volvió tres años después, con el doble de hombres y algo distinto en los ojos. No era rabia. Era determinación. Rompió las defensas de Caria en el puente del sur, en una batalla que duró tres días y en la que murieron once de los veinte caballeros encantados. Loretta sobrevivió con una flecha en el hombro. Avanzó por las orillas del lago, quemando las aldeas de pescadores. Y llegó hasta las murallas de la mansión real.
+Radagon volvió tres años después, con el doble de hombres y algo distinto en los ojos. Ya no era rabia, sino determinación. Rompió las defensas de Caria en el puente del sur, en una batalla que duró tres días y en la que murieron once de los veinte caballeros encantados. Loretta sobrevivió con una flecha en el hombro. Avanzó por las orillas del lago, quemando las aldeas de pescadores. Y llegó hasta las murallas de la mansión real.
 
 Allí, ante la puerta, se encontró por fin con Rennala.
 
@@ -176,7 +176,7 @@ Rennala sonrió.
 
 —Es lo mismo.
 
-Radagon se quedó mirándola durante mucho tiempo. La luna le iluminaba la cara, el pelo rojo, los ojos. Y Loretta, desde el patio, vio algo en la cara del guerrero que no esperaba ver en un conquistador. Vio a un hombre que llevaba ocho años mirando una luna desde el otro lado de un lago.
+Radagon se quedó mirándola. La luna le iluminaba la cara, el pelo rojo, los ojos. Y Loretta, desde el patio, vio algo en la cara del guerrero que no esperaba ver en un conquistador. Vio a un hombre que llevaba ocho años mirando una luna desde el otro lado de un lago.
 
 —No —dijo Radagon.
 
@@ -192,7 +192,7 @@ Rennala no se movió.
 
 —No puedo. —Radagon sonrió apenas—. Si me voy, la diosa me enviará otra vez. Y yo volveré. Y la próxima vez traeré el triple de hombres, y romperé tu muralla, y quemaré tu mansión, porque es lo que se espera de mí. —Se arrodilló en el barro, junto al martillo—. Así que te propongo otra cosa. Habla conmigo. Una noche. Solo una. En algún sitio que no sea ni tuyo ni mío. Y si después de esa noche quieres que me vaya, me iré, y le diré a la diosa que Liurnia es inconquistable, y no volveré nunca.
 
-La reina lo miró durante mucho tiempo desde lo alto de la muralla.
+La reina lo miró desde lo alto de la muralla.
 
 —¿Y si no quiero que te vayas? —preguntó al fin.
 
@@ -200,7 +200,7 @@ Radagon levantó la vista.
 
 —Entonces tendremos un problema distinto.
 
-* * *
+---
 
 Hablaron en la Iglesia de los Votos.
 
@@ -226,27 +226,23 @@ Luego hablaron de otras cosas.
 
 Él le preguntó por la luna. Ella le contó la noche de las lunas gemelas, a los diez años, con su hermana, en la orilla. Él le preguntó por su hermana. Ella le dijo que se había ido a Leyndell, que había renunciado a todo para servir a un hijo de la diosa con fuego en los ojos, y que la echaba de menos cada día.
 
-Ella le preguntó de dónde venía. Él se quedó callado mucho tiempo.
+Ella le preguntó de dónde venía. Él removió las brasas con la punta de la bota.
 
 —No lo sé —dijo al fin—. Esa es la verdad, reina. No recuerdo nada antes de la corte. Una mañana me desperté en una cama de la Torre de los Dedos, con este martillo al lado y una certeza absoluta de que tenía que servir a la diosa. No recuerdo a mis padres. No recuerdo mi infancia. No recuerdo ni una sola cosa antes de aquella mañana.
 
 —Eso es imposible.
 
-—Lo sé. —Radagon miró el fuego—. A veces sueño con cosas. Con un valle alto, con casas hechas de árboles. Con una torre en espiral. Con una mujer de pelo dorado que mira por una ventana. Pero cuando me despierto, no sé si son recuerdos o sueños. —Levantó la vista hacia ella—. Tú eres lo primero que recuerdo de verdad. Lo primero que es mío. Te vi cantar desde el otro lado del lago, hace ocho años, y fue la primera vez que sentí algo que no me había dicho nadie que sintiera.
+—Ya. —Radagon miró el fuego—. A veces sueño con cosas. Con un valle alto, con casas hechas de árboles. Con una torre en espiral. Con una mujer de pelo dorado que mira por una ventana. Pero cuando me despierto, no sé si son recuerdos o sueños. —Levantó la vista hacia ella—. Tú eres lo primero que recuerdo de verdad. Lo primero que es mío. Te vi cantar desde el otro lado del lago, hace ocho años, y fue la primera vez que sentí algo que no me había dicho nadie que sintiera.
 
-Rennala no dijo nada durante mucho tiempo.
+Rennala no dijo nada.
 
-—Eso es lo más triste que me han dicho nunca —dijo al fin.
-
-—Lo sé.
-
-—Y lo más bonito.
+—Eso es lo más triste que me han dicho nunca —dijo al fin—. Y lo más bonito.
 
 Radagon la miró. Ella le sostuvo la mirada.
 
 —Vuelve mañana —dijo Rennala—. A nado, si quieres. Pero vuelve.
 
-* * *
+---
 
 Volvió. La noche siguiente, y la otra, y durante treinta noches.
 
@@ -274,7 +270,7 @@ Rennala se quedó inmóvil.
 
 En la puerta de la iglesia, Loretta dejó caer la alabarda.
 
-* * *
+---
 
 Se purificó al amanecer, en la orilla de la isla, derramándose el Rocío Celestial sobre la cabeza. El agua brilló un instante sobre su pelo rojo y se desvaneció. Y se casaron allí mismo, en la Iglesia de los Votos, una semana después, desde la que se veían a la vez el Árbol Áureo de la capital y las torres azules de la Academia.
 
@@ -296,9 +292,9 @@ Las dos casas, la del Árbol y la de la Luna, quedaron unidas.
 
 Rennala le regaló un mandoble, como mandaba la tradición de las reinas de Caria con sus esposos: una espada de luz de luna. Radagon se cortó el pelo rojo para honrarla. Se quedó en Caria, aprendió hechicería en la Academia, ordenó a los preceptores mágicos de la familia que llevaran máscaras para que todos los asuntos de la casa quedaran en privado.
 
-Marika no dijo nada cuando le llegó la noticia. Ni una palabra. Maliketh, que estaba a su lado cuando el mensajero leyó la carta, la vio quedarse mirando por la ventana durante mucho tiempo, hacia el oeste, hacia el lago. Y luego la vio sonreír. Era una sonrisa extraña, que Maliketh no le había visto nunca. Como la de alguien que deja ir algo sabiendo que volverá.
+Marika no dijo nada cuando le llegó la noticia. Ni una palabra. Maliketh, que estaba a su lado cuando el mensajero leyó la carta, la vio quedarse mirando por la ventana, hacia el oeste, hacia el lago. Y luego la vio sonreír. Era una sonrisa extraña, que Maliketh no le había visto nunca. Como la de alguien que deja ir algo sabiendo que volverá.
 
-* * *
+---
 
 Tuvieron tres hijos.
 
@@ -324,13 +320,13 @@ Años después, en el conflicto del Azote Estelar, unas estrellas cayeron sobre 
 
 Lo que nadie entendió entonces fue lo que significaba detener las estrellas. Si las estrellas no se movían, el destino tampoco.
 
-* * *
+---
 
 El segundo fue Rykard.
 
 Era el más ambicioso de los tres y también el más frío. Desde niño coleccionaba cosas: piedras, insectos, huesos de animales. Los clasificaba en cajas con etiquetas. Cuando un sirviente le preguntó una vez por qué, Rykard, con siete años, contestó que quería saber cómo eran las cosas por dentro, y que para eso había que abrirlas.
 
-De joven sirvió a la Orden como justiciero: mandaba una compañía de inquisidores que perseguían y torturaban a los herejes del Árbol, en especial a los albinaurios. Era eficaz, metódico, implacable. Su padre lo miraba con una mezcla de orgullo y de miedo. Su madre, con tristeza.
+De joven sirvió a la Orden como justiciero: mandaba una compañía de inquisidores que perseguían y torturaban a los herejes del Árbol, en especial a los albinaúricos. Era eficaz, metódico, implacable. Su padre lo miraba con una mezcla de orgullo y de miedo. Su madre, con tristeza.
 
 —¿Disfrutas haciéndolo? —le preguntó Rennala una vez, cuando volvió a la mansión después de una campaña en el sur con las manos todavía manchadas.
 
@@ -340,7 +336,7 @@ Rykard se lo pensó con calma.
 
 Pasó largas temporadas en el Monte Gelmir, el volcán del noroeste, donde descubrió los antiguos maleficios de magma de una religión olvidada que adoraba a una serpiente. En un viaje a tierras lejanas conoció a una bailarina llamada Tanith, una mujer de ojos negros y movimientos de humo, y la tomó por esposa. Fue lo único en su vida que hizo sin clasificarlo en una caja.
 
-* * *
+---
 
 La tercera fue Ranni.
 
@@ -356,7 +352,7 @@ Era una luna oscura. Fría, plomiza, envuelta en misterio. No brillaba como la d
 
 —Esa es la tuya —le dijo Rennala, apretándole la mano—. Te ha elegido.
 
-Ranni se quedó mirándola mucho tiempo.
+Ranni se quedó mirándola.
 
 —Es fea —dijo.
 
@@ -378,7 +374,7 @@ La vieja la miró con sus ojos blancos.
 
 Ranni no dijo nada. Pero aquella noche, de vuelta a casa, miró al cielo, hacia las estrellas que su hermano tenía agarradas, y pensó que le gustaría que algún día se movieran.
 
-* * *
+---
 
 Los Dedos, como siempre, también la vieron.
 
@@ -390,7 +386,7 @@ Radagon no lo aprobó. Fue la única vez que Rennala lo vio enfadado de verdad.
 
 —¿Como a quién?
 
-Radagon se quedó callado. Miró hacia el este, hacia el resplandor dorado del Árbol.
+Radagon miró hacia el este, hacia el resplandor dorado del Árbol.
 
 —No lo sé —dijo al fin, despacio, como quien busca una palabra que se le escapa—. Como a alguien. No recuerdo a quién.
 
@@ -398,15 +394,15 @@ Rennala lo miró con una inquietud que no supo explicar.
 
 Ranni, Blaidd e Iji jugaban juntos de niños en los jardines de la mansión. El troll los dejaba subirse a sus hombros. El lobo fingía perder las peleas. La princesa reía muy pocas veces, pero cuando lo hacía era con ellos. Y Loretta, que ya era capitana de los caballeros encantados, los vigilaba desde la escalinata con la alabarda en la mano, y a veces, cuando la reina no miraba, bajaba al jardín y jugaba con ellos.
 
-* * *
+---
 
 Fueron años felices. Los últimos.
 
-Una noche, Radagon salió al jardín de la mansión y se quedó mucho tiempo mirando hacia el este, hacia el resplandor dorado del Árbol que se veía en el horizonte, al otro lado del lago. Rennala lo encontró allí al amanecer.
+Una noche, Radagon salió al jardín de la mansión y se quedó mirando hacia el este, hacia el resplandor dorado del Árbol que se veía en el horizonte, al otro lado del lago. Rennala lo encontró allí al amanecer.
 
 —¿Qué miras?
 
-Radagon tardó en contestar. Tenía el pelo otra vez largo; en los últimos meses había dejado de cortárselo, y volvía a ser rojo como el fuego.
+Tenía el pelo otra vez largo; en los últimos meses había dejado de cortárselo, y volvía a ser rojo como el fuego.
 
 —Mi casa —dijo.
 

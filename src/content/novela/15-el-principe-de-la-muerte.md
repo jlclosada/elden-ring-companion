@@ -80,8 +80,6 @@ Fia seguía allí, sentada junto a lo que quedaba del trono, cuando el caballero
 
 —¿Y ahora qué es?
 
-Fia tardó en responder.
-
 —Lo llaman el Príncipe de la Muerte —dijo—. Allá arriba. Ya les ha llegado.
 
 —¿El qué?
@@ -136,7 +134,7 @@ Fortissax bajó a las Profundidades en la primavera del quinto año.
 
 Fia lo oyó llegar mucho antes de verlo: un estruendo en los túneles, rocas que caían, raíces que se partían. Y luego, en la entrada de la cámara, una cabeza enorme de piedra gris, con cuernos como torres y ojos que brillaban con un rojo apagado, como brasas a punto de extinguirse. El dragón era demasiado grande para los túneles; había tenido que abrirse paso a la fuerza, y tenía las escamas rayadas y sangrantes.
 
-Se quedó mirando al Príncipe de la Muerte durante mucho tiempo.
+Se quedó mirando al Príncipe de la Muerte.
 
 —*¿Eso es él?* —preguntó. Su voz no sonaba en el aire; sonaba dentro de la cabeza, profunda, cansada, como el eco de una tormenta que se aleja.
 
@@ -240,9 +238,7 @@ D dejó la copa en la mesa. Se quedó mirando la lluvia por la ventana.
 
 —¿Y tú?
 
-—Yo pienso que si la Orden se equivoca en esto, se equivoca en todo. —D se volvió hacia él, y había algo en sus ojos que Rogier no había visto nunca: miedo—. Y si se equivoca en todo, entonces no tengo nada. Ni yo ni mi hermano. Fue la Orden la que nos dijo que no éramos monstruos. Si la Orden miente…
-
-No terminó la frase. No hizo falta.
+—Yo pienso que si la Orden se equivoca en esto, se equivoca en todo. —D se volvió hacia él, y había algo en sus ojos que Rogier no había visto nunca: miedo—. Y si se equivoca en todo, entonces no tengo nada. Ni yo ni mi hermano. Fue la Orden la que nos dijo que no éramos monstruos. Si la Orden miente, somos lo que dicen los críos cuando nos tiran piedras. Bichos de cementerio. Cosas que hay que quemar.
 
 —Algún día los cazarás a todos —dijo Rogier, despacio—. Y entonces descubrirás que no has matado nada malo.
 
@@ -274,7 +270,7 @@ Cuando el sol regresó, Miquella bajó las manos. Estaba muy pálido.
 
 —Lo siento, comandante —dijo.
 
-Niall no respondió. Se quedó mirando el cielo vacío durante mucho tiempo, con las piernas de hierro hundidas en la nieve. Aquel fracaso fue otra grieta más. Una de las muchas que, juntas, acabarían rompiéndolo todo.
+Niall no respondió. Se quedó mirando el cielo vacío, con las piernas de hierro hundidas en la nieve. Aquel fracaso fue otra grieta más. Una de las muchas que, juntas, acabarían rompiéndolo todo.
 
 * * *
 

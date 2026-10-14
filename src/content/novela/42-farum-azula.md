@@ -38,7 +38,7 @@ Se sentó en el suelo de piedra, con la espalda contra una columna rota. Alejand
 
 *Ámbar. Sigue siendo ámbar.*
 
-Alejandro escuchó en silencio, sin moverse. Cuando ella terminó, la tinaja se quedó callada un rato largo. El viento soplaba entre las ruinas. Un trozo de torre se desprendió de un fragmento cercano y cayó, girando, hacia las nubes.
+Alejandro escuchó en silencio, sin moverse. Cuando ella terminó, la tinaja no dijo nada, cosa rara en ella. El viento soplaba entre las ruinas. Un trozo de torre se desprendió de un fragmento cercano y cayó, girando, hacia las nubes.
 
 —Lo siento —dijo al fin Alejandro, con una voz más baja que de costumbre—. De verdad. Era una buena muchacha. La veía a tu lado siempre, ¿sabes? En las dunas, en el castillo. Aunque no se dejara ver. Los guerreros tinaja vemos cosas que los demás no ven. Por dentro. —Se tocó el costado, la grieta—. La veía mirarte. Como se mira a alguien que va delante en un camino de montaña, para saber dónde pisar.
 
@@ -146,7 +146,7 @@ Edda se detuvo en la entrada.
 
 Alejandro se detuvo a su lado.
 
-La bestia abrió los ojos. Los volvió hacia la entrada. Se quedó mirándola un largo rato, sin dejar de mascar.
+La bestia abrió los ojos. Los volvió hacia la entrada. Se quedó mirándola sin dejar de mascar.
 
 —Una Sinluz —gruñó, con una voz ronca, de garganta de animal—. ¿Me has traído más?
 
@@ -156,7 +156,7 @@ La bestia abrió los ojos. Los volvió hacia la entrada. Se quedó mirándola un
 
 —¿Quién eres?
 
-La bestia no contestó enseguida. Se quedó mirando la raíz durante mucho tiempo. Luego, despacio, la dejó caer al suelo, entre las demás.
+La bestia no contestó enseguida. Se quedó mirando la raíz. Luego, despacio, la dejó caer al suelo, entre las demás.
 
 —Bernahl no te ha detenido —dijo. Su voz había cambiado. Ya no era la de una bestia hambrienta. Era más grave. Más clara. La de algo mucho más antiguo que se despierta—. Ha muerto. Lo he sentido. En la escalinata.
 
@@ -168,7 +168,7 @@ La bestia no contestó enseguida. Se quedó mirando la raíz durante mucho tiemp
 
 La bestia abrió los ojos.
 
-Se quedó inmóvil mucho tiempo.
+Dejó de masticar.
 
 —Tranquilo —repitió—. Sí. Cuando como, se me olvida. Todo. Quién soy. Lo que hice. Lo que no hice. —Bajó la vista hacia las raíces del suelo—. Y luego vuelve. Siempre vuelve.
 
@@ -184,7 +184,7 @@ Una espada negra, larga, curva, que no brillaba. Que absorbía la luz a su alred
 
 —Soy Maliketh —dijo la bestia—. La Hoja Negra. La Sombra de la Reina Marika. Guardián de la Runa de la Muerte. —Levantó la espada—. Mi hermana me la entregó para que nadie pudiera morir de verdad salvo por su voluntad. Y me la robaron. Y llevo eras recuperándola. Trozo a trozo. Raíz a raíz.
 
-—Lo sé.
+—Ya.
 
 —No sabes nada.
 
@@ -198,9 +198,9 @@ La espada negra tembló en su mano.
 
 —¿Quién te ha dicho eso?
 
-Edda tardó en contestar. Pensó en todo lo que había oído. En la Mesa Redonda, en la torre de Ranni, en la boca de Rogier muriéndose en un sofá. En lo que había leído en el libro de Ansel, en la Tierra de las Sombras. En lo que Melina sabía sin saber por qué lo sabía.
+Edda pensó en todo lo que había oído. En la Mesa Redonda, en la torre de Ranni, en la boca de Rogier muriéndose en un sofá. En lo que había leído en el libro de Ansel, en la Tierra de las Sombras. En lo que Melina sabía sin saber por qué lo sabía.
 
-—Nadie —dijo al fin—. Lo sé. —Dio un paso dentro de la sala—. Y sé cuál es la palabra.
+—Nadie —dijo al fin—. Lo he juntado yo. —Dio un paso dentro de la sala—. Y sé cuál es la palabra.
 
 Maliketh no dijo nada.
 
@@ -210,9 +210,9 @@ La bestia se tambaleó.
 
 Fue un movimiento pequeño. Apenas medio paso atrás. Pero la espada negra bajó, despacio, hasta que la punta tocó el suelo de piedra y el polvo negro se apartó a su alrededor, como el agua se aparta de una piedra caliente.
 
-—Isolde —dijo Maliketh, muy bajo, con una voz que ya no era la de un guardián ni la de una bestia. Era la de alguien que pronuncia un nombre que lleva eras sin pronunciar—. Me dijo que grabara algo. Algo que fuera mío. Que no fuera de mi hermana ni del Árbol ni de la muerte. Solo mío. —Se le quebró la voz—. Y grabé la palabra que me había enseñado esa noche en el sótano. Con mis garras sobre las letras de su libro.
+—Isolde —dijo Maliketh, con una voz que ya no era la de un guardián ni la de una bestia. Era la de alguien que pronuncia un nombre que lleva eras sin pronunciar—. Me dijo que grabara algo. Algo que fuera mío. Que no fuera de mi hermana ni del Árbol ni de la muerte. Solo mío. Y grabé la palabra que me había enseñado esa noche en el sótano. Con mis garras sobre las letras de su libro.
 
-—Lo sé.
+Edda no lo interrumpió.
 
 —Murió cuando los gemelos cumplieron dieciséis años. —Maliketh cerró los ojos—. Bajé a verla. Me senté junto a su camastro, como ella se sentaba junto al mío cuando yo era el herido y ella me traía caldo de cebada. —Le temblaba la voz—. Me pidió una cosa. Antes de morir. Solo una.
 
@@ -234,7 +234,7 @@ Maliketh no se movió.
 
 La bestia cerró los ojos con fuerza.
 
-—Su hermana le leyó —siguió Edda—. Una hermana que no conocía. La pequeña. La que nació al pie del Árbol y nadie registró. Le leyó una carta que le había escrito Godwyn la noche que lo mataron. La había llevado toda su vida contra el corazón. —Le tembló la voz—. Se murió escuchándola. Sonriendo.
+—Su hermana le leyó —siguió Edda—. Una hermana que no conocía. La pequeña. La que nació al pie del Árbol y nadie registró. Le leyó una carta que le había escrito Godwyn la noche que lo mataron. La había llevado toda su vida contra el corazón. Se murió escuchándola. Sonriendo.
 
 Maliketh no dijo nada. Le temblaba la mano de la espada.
 
@@ -256,11 +256,11 @@ Maliketh levantó la cabeza.
 
 * * *
 
-Se quedaron así un rato largo, de rodillas los dos en el suelo de piedra, frente a frente, con la espada negra entre ellos. Alejandro se había quedado en la entrada de la sala, inmóvil. Los relámpagos sin ruido iluminaban la cúpula partida.
+Se quedaron así, de rodillas los dos en el suelo de piedra, frente a frente, con la espada negra entre ellos. Alejandro se había quedado en la entrada de la sala, inmóvil. Los relámpagos sin ruido iluminaban la cúpula partida.
 
 —¿Por qué has venido? —preguntó Maliketh al fin.
 
-—Por la muerte. —Edda miró la espada—. El Árbol arde. Melina lo ha quemado. Se ha convertido en la llama de la forja. —Le tembló la voz al decirlo en voz alta por primera vez—. Pero dentro del Árbol hay alguien. Tu hermana. Y para llegar hasta ella, la muerte tiene que volver al mundo. Si no, nada termina. Nada se acaba nunca. Todo se queda a medias, como Godwyn en su trono.
+—Por la muerte. —Edda miró la espada—. El Árbol arde. Melina lo ha quemado. Se ha convertido en la llama de la forja. —Era la primera vez que lo decía en voz alta, y sonó peor de lo que había pensado—. Pero dentro del Árbol hay alguien. Tu hermana. Y para llegar hasta ella, la muerte tiene que volver al mundo. Si no, nada termina. Nada se acaba nunca. Todo se queda a medias, como Godwyn en su trono.
 
 —Melina —repitió Maliketh—. La pequeña. La que leyó la carta.
 
@@ -270,7 +270,7 @@ Se quedaron así un rato largo, de rodillas los dos en el suelo de piedra, frent
 
 —Sí. —Edda abrió el puño. La piedra ámbar brillaba en la palma—. Esto es lo que dejó.
 
-Maliketh se quedó mirando la piedra mucho tiempo. La luz cálida, quieta, de dentro.
+Maliketh se quedó mirando la piedra. La luz cálida, quieta, de dentro.
 
 —Ámbar —dijo.
 
@@ -292,9 +292,9 @@ Recogió la espada negra del suelo. La empuñó con la mano derecha, y Edda vio 
 
 —No puedo dártela —dijo.
 
-—Lo sé.
+—Ya lo sé.
 
-—Mi hermana me la entregó. —Maliketh se puso en guardia—. Juré guardarla. Es lo único que me queda de ella. De lo que fuimos. Cuando era una muchacha descalza en un valle y yo un cachorro negro que la seguía por los caminos. —Le tembló la voz—. Si te la doy, no queda nada.
+—Mi hermana me la entregó. —Maliketh se puso en guardia—. Juré guardarla. Es lo único que me queda de ella. De lo que fuimos. Cuando era una muchacha descalza en un valle y yo un cachorro negro que la seguía por los caminos. Si te la doy, no queda nada.
 
 Edda pensó en Messmer. *Es lo único que sé hacer.*
 
@@ -366,7 +366,7 @@ Maliketh la miró. Sus ojos amarillos se volvieron, por un instante, de un color
 
 Maliketh abrió los ojos.
 
-—Isolde decía eso —dijo, muy bajo—. Que la sombra también tiene derecho a quedarse quieta cuando el cuerpo se va. —Sonrió, con una sonrisa extraña en aquel hocico de lobo—. No le hice caso.
+—Isolde decía eso —dijo—. Que la sombra también tiene derecho a quedarse quieta cuando el cuerpo se va. —Sonrió, con una sonrisa extraña en aquel hocico de lobo—. No le hice caso.
 
 Se quedó callado un momento.
 
@@ -390,7 +390,7 @@ Luego se deshizo en una niebla negra que se elevó hacia la cúpula partida y se
 
 Y la Runa de la Muerte quedó libre.
 
-Edda la sintió escapar. Una corriente fría, oscura, que salió del sitio donde había estado el pecho de Maliketh y se extendió por el aire de la sala, por la ciudad, por el cielo, hacia abajo, hacia el mundo. No era cruel. No era terrible. Era como el agua de un río en invierno, como la niebla de la llanura gris del sueño de Fortissax: fría, pero limpia.
+Edda la sintió escapar. Una corriente fría, oscura, que salió del sitio donde había estado el pecho de Maliketh y se extendió por el aire de la sala, por la ciudad, por el cielo, hacia abajo, hacia el mundo. No era cruel. Ni terrible. Era como el agua de un río en invierno, como la niebla de la llanura gris del sueño de Fortissax: fría, pero limpia.
 
 La muerte volvía al mundo.
 
@@ -424,7 +424,7 @@ Edda se arrodilló junto a él. Puso las manos sobre la grieta, como si pudiera 
 
 —¿Qué?
 
-—Cuando me sacaste de la arena. En las dunas. —La tinaja ladeó el casco—. Y luego te reíste. Te reíste tanto que tuviste que sentarte. Y me dijiste que llevabas mucho tiempo sin reírte. —Le tembló la voz, la voz de barro—. Nadie se había reído nunca conmigo. Se reían de mí. De la tinaja con piernas. Tú te reíste conmigo.
+—Cuando me sacaste de la arena. En las dunas. —La tinaja ladeó el casco—. Y luego te reíste. Te reíste tanto que tuviste que sentarte. Y me dijiste que no te reías desde antes de morir la primera vez. —La voz de barro hizo un ruido raro, como una tapa mal puesta—. Nadie se había reído nunca conmigo. Se reían de mí. De la tinaja con piernas. Tú te reíste conmigo.
 
 Edda no pudo contestar. Tenía la garganta cerrada.
 
@@ -440,7 +440,7 @@ Y Alejandro se quedó en silencio.
 
 * * *
 
-Edda se quedó arrodillada entre los pedazos mucho tiempo.
+Edda se quedó arrodillada entre los pedazos hasta que el líquido rojo dejó de humear.
 
 Dentro de la tinaja rota, en el fondo de una de las mitades, entre el líquido rojo que se enfriaba, había algo. Un trozo de algo. Pequeño, rojo, caliente todavía, que latía muy despacio. Como un corazón pequeño. Como una brasa.
 
@@ -462,9 +462,9 @@ Inmenso. Más grande que Bayle, más grande que Fortissax, más grande que nada.
 
 Placidusax. El Señor de los Dragones. El Señor de Elden de antes del Árbol. El que llevaba eras esperando a que volviera su dios.
 
-Edda se quedó mirándolo mucho tiempo.
+Edda se quedó mirándolo.
 
-Luego, sin saber muy bien por qué, subió.
+Luego subió. No tenía ningún motivo, y eso le pareció motivo suficiente.
 
 * * *
 
@@ -482,15 +482,13 @@ Era dorado. Viejísimo. Con la pupila estrecha como una rendija. Se fijó en ell
 
 —*Todos vienen a por algo.*
 
-Edda tardó en contestar.
-
 —Bayle ha muerto —dijo.
 
 El ojo dorado se quedó inmóvil.
 
 —Lo mató un pescador de un pueblo que Bayle quemó al huir de aquí. Con un arco. Le atravesó el ojo. —Edda hizo una pausa—. Antes de morir, Bayle miró hacia el oeste. Hacia aquí. Y dijo el nombre de su compañera. Vyrka. Dijo que ya iba.
 
-La cabeza no dijo nada durante mucho tiempo. Luego se abrió otro ojo. En otra cabeza. Y luego en la tercera.
+La cabeza no dijo nada. Luego se abrió otro ojo. En otra cabeza. Y luego en la tercera.
 
 Tres ojos dorados, mirándola.
 
@@ -510,13 +508,11 @@ Los ojos se abrieron.
 
 —*¿Por qué me lo cuentas?*
 
-Edda tardó en contestar.
-
 —Porque ya no queda nadie que te odie —dijo al fin—. Y pensé que alguien debía decírtelo.
 
 * * *
 
-El dragón no dijo nada durante mucho tiempo.
+El dragón no dijo nada.
 
 La tormenta giraba alrededor de la plataforma. Los relámpagos sin ruido iluminaban las escamas grises, los muñones dorados, las tres cabezas dormidas que ya no dormían.
 
@@ -546,7 +542,7 @@ Edda pensó en una mujer que se iba de una tormenta hacia el oeste, sin despedir
 
 Las tres cabezas no se movieron. Pero Edda vio que los muñones dorados temblaban.
 
-—*Lo sabía* —dijo la voz, al fin, muy bajo—. *Lo he sabido siempre.* Una pausa. *Y le estoy agradecido. Por la mentira. Me dio una era entera de esperar. Que es mejor que una era entera de no tener nada.* Otra pausa. *Debí decírselo. Que lo sabía. Que no hacía falta pedir perdón.*
+—*Lo sabía* —dijo la voz, al fin—. *Lo he sabido siempre.* Una pausa. *Y le estoy agradecido. Por la mentira. Me dio una era entera de esperar. Que es mejor que una era entera de no tener nada.* Otra pausa. *Debí decírselo. Que lo sabía. Que no hacía falta pedir perdón.*
 
 —Creo que se murió pidiéndolo igual.
 
@@ -560,7 +556,7 @@ Las tres cabezas no se movieron. Pero Edda vio que los muñones dorados temblaba
 
 —*Yo me quedo.* Las tres cabezas se apoyaron otra vez en la piedra. *Ahora que la muerte ha vuelto, quizá me llegue. Algún día. Quizá pueda dejar de esperar.* Una pausa. *O quizá no. Quizá siga esperando. Es lo único que sé hacer.*
 
-Edda se quedó mirándolo un largo rato.
+Edda se quedó mirándolo.
 
 Luego se dio la vuelta y lo dejó dormir.
 

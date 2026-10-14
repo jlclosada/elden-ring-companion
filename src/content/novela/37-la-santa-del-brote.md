@@ -24,11 +24,11 @@ Edda pensó en la llanura gris de Fortissax, en la ceniza, en la espada tirada a
 
 —Que dejó de luchar.
 
-Dane se quedó mirándola un largo rato. Luego sonrió, despacio, con una sonrisa que le arrugó toda la cara.
+Dane se quedó mirándola. Luego sonrió, despacio, con una sonrisa que le arrugó toda la cara.
 
 —Entonces ya sabes lo más importante —dijo—. Ahora solo te falta aprender el resto.
 
-* * *
+---
 
 Dane le enseñó durante tres días.
 
@@ -42,19 +42,19 @@ Lo hizo en el puente, sin moverse de él. Le enseñó a golpear con las manos ab
 
 El segundo día le enseñó una patada que hacía brotar del suelo una llama pequeña, dorada, como la de una vela. Edda tardó toda la tarde en conseguirlo. La primera vez que le salió, la llama le quemó la bota y Dane se rio tanto que tuvo que sentarse.
 
-—La reina enseñaba esto —dijo, cuando se le pasó la risa—. A sus monjes. Hace mucho tiempo, antes de ser diosa del todo. Cuando todavía recordaba que había sido una muchacha que tuvo que aprender a sobrevivir.
+—La reina enseñaba esto —dijo, cuando se le pasó la risa—. A sus monjes. Antes de ser diosa del todo. Cuando todavía recordaba que había sido una muchacha que tuvo que aprender a sobrevivir.
 
 —¿Ella sabía luchar así?
 
 —Lo aprendió de un prisionero. —Dane se sentó en las losas del puente, con las piernas cruzadas—. Eso cuentan los más viejos de la Hoja Seca, que lo oyeron de los más viejos antes que ellos. Que cuando era joven estuvo en esta tierra, en una ciudad de tinajas al pie de una torre, y que bajó a las celdas una noche y encontró a un guerrero encadenado comiéndose una rata cruda. Un guerrero enorme, salvaje, que luchaba con las manos desnudas porque le habían quitado todas las armas. —Sonrió—. Y que ese guerrero le enseñó a pelear. Y que después fue rey.
 
-Edda pensó en la sombra del trono de Leyndell. La barba dorada. El león. *Luchas como una madre.*
+Edda pensó en la sombra del trono de Leyndell. La barba dorada. El león. _Luchas como una madre._
 
 —Godfrey —dijo.
 
 —Eso dicen. —Dane se encogió de hombros—. Yo no lo sé. Nunca lo conocí. Pero conocí a los que conocieron a los que lo conocieron. Así se transmiten estas cosas. De mano en mano. Como un fuego pequeño. —Hizo una pausa—. Mucha gente olvida que la reina también fue eso. Una muchacha que tuvo que aprender a pelear con las manos en una celda.
 
-* * *
+---
 
 El tercer día, Dane se puso en guardia frente a ella.
 
@@ -84,11 +84,11 @@ Dane retrocedió un paso. Se quedó mirándola con sorpresa. Luego se rio.
 
 La mariposa gris volvió a posarse en el ala de su sombrero.
 
-* * *
+---
 
 Más allá del puente, en un valle cerrado entre montañas, estaban las ruinas de Rauh.
 
-Edda las vio desde lo alto de un collado y se quedó sin aliento. Era una ciudad antigua de los Cornudos, de piedra rosada, casi del color de la carne, con templos de cúpulas bajas y torres finas que se alzaban sobre un mar de flores. Flores rojas, escarlatas, que cubrían el suelo, las escaleras, los muros, los tejados. Tantas que la ciudad entera parecía estar en llamas. O sangrando.
+Edda las vio desde lo alto de un collado y se quedó sin aliento. Era una ciudad antigua de los Cornamentados, de piedra rosada, casi del color de la carne, con templos de cúpulas bajas y torres finas que se alzaban sobre un mar de flores. Flores rojas, escarlatas, que cubrían el suelo, las escaleras, los muros, los tejados. Tantas que la ciudad entera parecía estar en llamas. O sangrando.
 
 Flores de podredumbre.
 
@@ -100,9 +100,9 @@ Ansbach la alcanzó en el collado. Había llegado por otro camino, siguiendo un 
 
 —No —dijo Ansbach—. Esto es más antiguo.
 
-Tenía razón. Edda lo supo al bajar. La podredumbre de Rauh no era la de Malenia, la que había brotado de una flor en la llanura de Aeonia y había podrido una tierra entera en una tarde. Era la otra. La de antes. La original. La que había existido mucho antes de que naciera la semidiosa, antes de que hubiera Árbol, antes de que los Cornudos construyeran sus tinajas.
+Tenía razón. Edda lo supo al bajar. La podredumbre de Rauh no era la de Malenia, la que había brotado de una flor en la llanura de Aeonia y había podrido una tierra entera en una tarde. Era la otra. La de antes. La original. La que había existido mucho antes de que naciera la semidiosa, antes de que hubiera Árbol, antes de que los Cornamentados construyeran sus tinajas.
 
-—Había un dios aquí —dijo Ansbach, mientras caminaban entre las flores por una calle de losas rosadas—. Uno de los de fuera. De los que vinieron de las estrellas, como la Voluntad, pero distinto. Un dios de la descomposición. De lo que se pudre para que crezca otra cosa. —Miró las flores—. Los Cornudos más antiguos le rezaban. Rauh fue su templo. Luego llegó el Crisol, y luego la reina con su Orden, y el dios se durmió. O lo durmieron.
+—Había un dios aquí —dijo Ansbach, mientras caminaban entre las flores por una calle de losas rosadas—. Uno de los de fuera. De los que vinieron de las estrellas, como la Voluntad, pero distinto. Un dios de la descomposición. De lo que se pudre para que crezca otra cosa. —Miró las flores—. Los Cornamentados más antiguos le rezaban. Rauh fue su templo. Luego llegó el Crisol, y luego la reina con su Orden, y el dios se durmió. O lo durmieron.
 
 —¿Lo durmieron?
 
@@ -110,13 +110,13 @@ Tenía razón. Edda lo supo al bajar. La podredumbre de Rauh no era la de Maleni
 
 Edda pensó en Millicent. En el baile en el claro frente a la iglesia de Gowry, con la espada trazando arcos perfectos en el aire rojo. En la guerrera del brazo de metal de sus sueños.
 
-*Malenia.*
+_Malenia._
 
 —Ya lo ha encontrado —dijo.
 
 Ansbach la miró, pero no preguntó.
 
-* * *
+---
 
 En el centro de la ciudad, en una iglesia de piedra rosada, había una mujer.
 
@@ -142,21 +142,19 @@ Edda pensó en la mesa puesta para cuatro en la aldea abandonada de Caelid. En l
 
 Romina inclinó la cabeza, como si la estudiara. Los ojos rojos la recorrieron de arriba abajo.
 
-—Eso dicen los que no la entienden —dijo, sin enfadarse—. Los que solo ven el principio. La aldea que se pudre. Pero no se quedan a ver lo que crece después. —Señaló las flores de la iglesia—. Esto. Esto crece después. Mil años después de que se pudriera la última familia de Rauh, aquí está. Más hermoso que cualquier cosa que hicieran los Cornudos con sus manos.
+—Eso dicen los que no la entienden —dijo, sin enfadarse—. Los que solo ven el principio. La aldea que se pudre. Pero no se quedan a ver lo que crece después. —Señaló las flores de la iglesia—. Esto. Esto crece después. Mil años después de que se pudriera la última familia de Rauh, aquí está. Más hermoso que cualquier cosa que hicieran los Cornamentados con sus manos.
 
 —¿Y la familia?
 
-Romina tardó en contestar.
-
 —La familia es la tierra donde crece —dijo al fin—. Es lo que somos todos. Tierra donde crece algo más hermoso que nosotros.
 
-* * *
+---
 
 —Has venido a quemar el árbol de sellado —dijo Romina—. ¿Verdad?
 
 Edda no contestó enseguida. Ansbach, a su espalda, en la puerta de la iglesia, se movió.
 
-—El que cierra el camino hacia Enir-Ilim —siguió Romina—. Al pie del Árbol Umbrío. El que plantó el niño dorado para que nadie lo siguiera. —Sonrió—. Lo sé. Todos los que llegan hasta aquí vienen a lo mismo. Y para quemarlo necesitas la única llama que puede quemar lo que plantó un dios.
+—El que cierra el camino hacia Enir-Ilim —siguió Romina—. Al pie del Árbol Umbrío. El que plantó el niño dorado para que nadie lo siguiera. —Sonrió—. Todos los que llegan hasta aquí vienen a lo mismo. Y para quemarlo necesitas la única llama que puede quemar lo que plantó un dios.
 
 Señaló hacia el altar. Sobre él, dentro de una lámpara de bronce con forma de serpiente enroscada, ardía una llama. Pequeña, de color negro y dorado, inmóvil.
 
@@ -176,13 +174,13 @@ Romina sonrió, y los ojos rojos le brillaron con algo que se parecía a la ador
 
 —Ella —dijo—. La diosa de la podredumbre. La que duerme dentro de la Espada de Miquella. La hermana del niño. La que no conoce la derrota. —Las flores de su cuerpo se abrieron todas a la vez—. Ha florecido dos veces. Una en la llanura de Aeonia, cuando se abrió la flor. Otra… otra no lo sé. Pero cuando florezca por tercera vez, el dios de esta ciudad despertará dentro de ella. Del todo. Y será hermoso. Lo más hermoso que verás nunca.
 
-Edda pensó en Millicent apoyando la cabeza en su hombro en el patio del Castillo Melenarroja. *Entonces no soy nadie. Soy un trozo de otra. Una semilla de una flor que se pudrió.*
+Edda pensó en Millicent apoyando la cabeza en su hombro en el patio del Castillo Melenarroja. _Entonces no soy nadie. Soy un trozo de otra. Una semilla de una flor que se pudrió._
 
 —No me parece hermoso —dijo.
 
 —No importa lo que te parezca. —Romina se puso en guardia—. La belleza no pide permiso.
 
-* * *
+---
 
 Romina luchaba como una flor que se abre.
 
@@ -198,7 +196,7 @@ Edda corrió. Las flores cayeron tras ella, y donde caían, la piedra se pudría
 
 Se refugió detrás de una columna. Respiró. Cerró los ojos.
 
-*Dejando de mirar lo que te ataca. Y mirando lo que proteges.*
+_Dejando de mirar lo que te ataca. Y mirando lo que proteges._
 
 Pensó en la bolsa de cuero del cuello. En el brote. Tres hojas. Una chamana. Una madre que había sido cortada en pedazos y metida en una tinaja para que de su carne creciera algo, y de la que solo había crecido una hierba pequeña, después de eras.
 
@@ -206,11 +204,11 @@ Romina decía que de la podredumbre crecía algo más hermoso.
 
 Pero lo que había crecido de la tinaja no era más hermoso que Yrsa. Era lo que quedaba de ella. Y quería decirle a su hija que la había visto correr.
 
-*No es lo mismo*, pensó Edda. *Que algo crezca de ti no es lo mismo que seguir siendo tú.*
+_No es lo mismo_, pensó Edda. _Que algo crezca de ti no es lo mismo que seguir siendo tú._
 
 Salió de detrás de la columna.
 
-* * *
+---
 
 Cuando Romina bajó del aire para un último golpe, con la lanza por delante y las alas abiertas, Edda no retrocedió. No levantó la espada. Esperó, con las manos abiertas, como Dane le había enseñado en el puente. Y cuando la punta curva de la lanza llegó a un palmo de su pecho, la atrapó con las dos manos.
 
@@ -238,13 +236,13 @@ Se le cerraban los ojos.
 
 —¿Te acuerdas? —preguntó Edda.
 
-Romina se quedó callada mucho tiempo. Las últimas flores de su piel se cerraban.
+Las últimas flores de su piel se cerraban.
 
 —Mira —susurró al fin—. Era «Mira». Me llamaba «Mira». —Se le escapó una lágrima, roja—. Qué nombre tan raro. Mira.
 
 Y se deshizo en pétalos. No rojos. Blancos. Una lluvia de pétalos blancos, pequeños, como los de un manzano en primavera, que flotaron un instante en la luz roja del rosetón y luego cayeron despacio sobre las flores escarlatas de la iglesia, y las cubrieron, y por un momento todo fue blanco.
 
-* * *
+---
 
 Edda cogió la lámpara del altar.
 
@@ -264,11 +262,11 @@ Ansbach la esperaba en la puerta de la iglesia. Había visto todo desde allí, a
 
 —A la niña de debajo.
 
-Ansbach se quedó mirándola un largo rato. Luego asintió.
+Ansbach se quedó mirándola. Luego asintió.
 
 —Mi señor nunca preguntaba los nombres —dijo—. Los de los albinauricos del pantano. Los de las doncellas. Decía que no los necesitaban. Que tenían el suyo. —Se volvió hacia el valle—. Ahora creo que se equivocaba. Que es lo único que necesitan.
 
-* * *
+---
 
 El árbol de sellado estaba al pie del Árbol Umbrío, en un claro rodeado de espinas negras.
 
@@ -284,7 +282,7 @@ El perfume.
 
 Se apartó un paso. Como en el salón de Mohgwyn.
 
-* * *
+---
 
 —No lo quemes —dijo una voz a su espalda.
 
@@ -292,7 +290,7 @@ Edda se volvió.
 
 Leda estaba de pie en el borde del claro, con su espada fina como una aguja en la mano. Tenía la armadura blanca y dorada impecable, como siempre, sin una mancha. La cara seria, severa. Los ojos azules fijos en la lámpara de la mano de Edda.
 
-Detrás de ella había otros. Caballeros con armaduras blancas y doradas como la suya, con el emblema del Árbol Hálito en el pecho: una docena, en silencio, con las manos en las empuñaduras. Y Freyja, la gladiadora, un poco apartada, con el espadón al hombro y una expresión que Edda no supo leer.
+Detrás de ella había otros. Caballeros con armaduras blancas y doradas como la suya, con el emblema del Árbol Hierático en el pecho: una docena, en silencio, con las manos en las empuñaduras. Y Freyja, la gladiadora, un poco apartada, con el espadón al hombro y una expresión que Edda no supo leer.
 
 Ansbach estaba a un lado del claro, separado de todos, con la mano en la empuñadura de su espada.
 
@@ -300,9 +298,9 @@ Ansbach estaba a un lado del claro, separado de todos, con la mano en la empuña
 
 —¿Y qué está haciendo?
 
-—Convertirse en dios. —Leda no apartó la vista de la lámpara—. En un dios distinto. Uno que ame a todos por igual. Uno que no abandone a nadie, como los abandonó la reina. Como abandonó a sus hijos. Como la Voluntad abandonó a la madre de los dedos. —Le tembló la voz, apenas—. Un dios que no se vaya.
+—Convertirse en dios. —Leda no apartó la vista de la lámpara—. En un dios distinto. Uno que ame a todos por igual. Uno que no abandone a nadie, como los abandonó la reina. Como abandonó a sus hijos. Como la Voluntad abandonó a la madre de los dedos. Un dios que no se vaya.
 
-Edda se quedó mirándola. Pensó en las cruces de la llanura. *He dejado aquí mi amor.* Pensó en la estatua de Trina en el prado. En Mohg llevándose la mano a la cabeza. En el sarcófago vacío del almacén. En Gaius esperando a un hermano que no volvería, porque un niño le había prometido que sería su consorte si moría.
+Edda se quedó mirándola. Pensó en las cruces de la llanura. _He dejado aquí mi amor._ Pensó en la estatua de Trina en el prado. En Mohg llevándose la mano a la cabeza. En el sarcófago vacío del almacén. En Gaius esperando a un hermano que no volvería, porque un niño le había prometido que sería su consorte si moría.
 
 —¿Y si yo quiero detenerlo?
 
@@ -310,9 +308,9 @@ Leda la miró por fin a la cara. Los ojos azules estaban fríos.
 
 —Entonces serás mi enemiga.
 
-* * *
+---
 
-Edda no se movió durante mucho tiempo, con la lámpara en la mano.
+Edda no se movió, con la lámpara en la mano.
 
 —Leda —dijo al fin—. ¿Alguna vez te has apartado?
 
@@ -326,11 +324,11 @@ Leda no contestó.
 
 —¿Alguna vez lo has hecho tú? —insistió Edda—. ¿Apartarte un paso? ¿Para ver si lo que sientes es tuyo?
 
-—Lo que siento es mío. —Leda apretó la empuñadura de la aguja—. Lo he sentido desde que era una niña. Desde que lo vi por primera vez en Leyndell, en su cuarto, con una luna de cristal azul en la ventana que le había regalado una caballera de Caria. Me sonrió. —Le tembló la voz—. Nadie me había sonreído así nunca.
+—Lo que siento es mío. —Leda apretó la empuñadura de la aguja—. Lo he sentido desde que era una niña. Desde que lo vi por primera vez en Leyndell, en su cuarto, con una luna de cristal azul en la ventana que le había regalado una caballera de Caria. Me sonrió. Nadie me había sonreído así nunca.
 
 —Mohg decía lo mismo. Que nadie le había enseñado a querer así.
 
-—¡Mohg lo robó! —A Leda se le quebró la voz por primera vez—. ¡Lo arrancó de su capullo! ¡Lo bajó a un palacio de sangre!
+—¡Mohg lo robó! —gritó Leda, y por primera vez se le oyó la rabia entera—. ¡Lo arrancó de su capullo! ¡Lo bajó a un palacio de sangre!
 
 —Y luego se pasó años de rodillas delante de él, llorando, diciéndole que lo amaba. —Edda la miró—. Ansbach estaba allí. Lo vio. Dice que su señor nunca había querido a nadie así. Que algo le cambió. Que no lo pensaba él solo.
 
@@ -338,13 +336,13 @@ Leda se volvió hacia Ansbach. El viejo caballero le sostuvo la mirada.
 
 —Es verdad —dijo Ansbach—. Lo vi. Siglos.
 
-Hubo un silencio largo. El perfume del árbol blanco flotaba en el claro, dulce, insistente.
+El perfume del árbol blanco flotaba en el claro, dulce, insistente.
 
 Freyja, detrás de Leda, se movió. Dio un paso atrás. Un solo paso.
 
 Edda la vio. Leda no.
 
-* * *
+---
 
 —Lo siento, Leda —dijo Edda.
 
@@ -362,7 +360,7 @@ Edda lo notó de golpe, como se nota que alguien deja de apretarte la mano. La t
 
 El camino se abrió: una escalera de raíces, enorme, retorcida, que subía por el tronco gris del Árbol Umbrío hasta perderse en las nubes plateadas.
 
-* * *
+---
 
 Edda miró hacia atrás.
 
@@ -370,7 +368,7 @@ Leda la miraba desde el borde del claro. No había sorpresa en su cara. Ni rabia
 
 —Ya veo —dijo—. Entonces nos veremos arriba.
 
-Se dio la vuelta. Los caballeros del Árbol Hálito la siguieron, uno por uno, hacia el otro extremo del claro, hacia otro camino.
+Se dio la vuelta. Los caballeros del Árbol Hierático la siguieron, uno por uno, hacia el otro extremo del claro, hacia otro camino.
 
 Freyja no se movió.
 
@@ -380,13 +378,13 @@ Leda se detuvo. Se volvió.
 
 La gladiadora estaba de pie en el mismo sitio, con el espadón al hombro, mirando el árbol que ardía. Tenía la mano en el costado, donde la armadura tenía la abolladura más profunda. Donde un niño le había chupado el veneno de una herida en la llanura de Aeonia.
 
-—Se ha ido —dijo Freyja, muy bajo—. Lo que sentía. Cuando ha empezado a arder. Se ha ido de golpe. —Se miró la mano—. Pensaba que era una deuda. Llevaba siglos pensando que era una deuda.
+—Se ha ido —gruñó Freyja—. Lo que sentía. Cuando ha empezado a arder. Se ha ido de golpe. —Se miró la mano—. Pensaba que era una deuda. Llevaba siglos pensando que era una deuda.
 
 —Lo es —dijo Leda.
 
-—No lo sé. —Freyja levantó la vista hacia ella—. Ya no lo sé. Me salvó. Eso es verdad. Me chupó la podredumbre del costado con la boca. Eso es verdad. —Le tembló la voz—. Pero lo que sentía después… lo que me hizo seguirlo hasta aquí… no sé si era mío.
+—No lo sé. —Freyja levantó la vista hacia ella—. Ya no lo sé. Me salvó. Eso es verdad. Me chupó la podredumbre del costado con la boca. Eso es verdad. Pero lo que sentía después… lo que me hizo seguirlo hasta aquí… no sé si era mío.
 
-Leda la miró durante mucho tiempo. Luego, sin decir nada, se dio la vuelta y se fue. Sus pasos se perdieron entre los árboles grises.
+Leda la miró. Luego, sin decir nada, se dio la vuelta y se fue. Sus pasos se perdieron entre los árboles grises.
 
 Freyja se quedó en el claro. Junto a Edda. Junto a Ansbach. Mirando el árbol que terminaba de arder.
 
@@ -394,9 +392,9 @@ Freyja se quedó en el claro. Junto a Edda. Junto a Ansbach. Mirando el árbol q
 
 —No necesitas mi permiso.
 
-—Lo sé. —Freyja casi sonrió—. Pero te lo pido igual. Las de las Tierras Áridas pedimos permiso antes de entrar en casa ajena.
+—Ya lo sé, no soy idiota. —Freyja casi sonrió—. Pero te lo pido igual. Las de las Tierras Áridas pedimos permiso antes de entrar en casa ajena.
 
-* * *
+---
 
 Ansbach no dijo nada durante un rato. Miraba la escalera de raíces que subía hacia las nubes.
 

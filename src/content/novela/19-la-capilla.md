@@ -196,7 +196,7 @@ Edda lo pensó.
 
 —Decían que algo se había roto. Que la reina del otro lado del mar había roto algo. Un anillo. Los viejos de la aldea decían que la promesa iba a cumplirse por fin, que los que perdimos la luz volveríamos. —Se encogió de hombros—. Nadie les hacía caso.
 
-Varré no dijo nada durante mucho tiempo.
+Varré se rio por la nariz, encantado.
 
 —El Anillo se rompió hace muchísimo tiempo, corderito —dijo al fin—. La guerra que vino después, la Fractura, duró generaciones. Y terminó hace siglos. Siglos. —Hizo una pausa—. Lo que tú recuerdas como hace un mes, en este mundo fue hace más tiempo del que nadie vivo puede recordar.
 
@@ -236,7 +236,7 @@ Se alejó por el camino sin mirar atrás. Antes de desaparecer entre los árbole
 
 * * *
 
-Edda se quedó de rodillas en la hierba mucho tiempo.
+Edda se quedó de rodillas en la hierba.
 
 El sol se movió por el cielo dorado. Las hojas del Árbol caían despacio, sin tocar nunca el suelo. Un zorro pasó a su lado, la olfateó, y siguió su camino. Y Edda seguía allí, de rodillas, con las manos en la tierra.
 
@@ -300,7 +300,7 @@ Edda cogió otra ramita y la echó también.
 
 —Por tu caravana.
 
-Las dos ramitas ardieron juntas. Ninguno de los dos dijo nada más durante mucho tiempo.
+Las dos ramitas ardieron juntas. Ninguno de los dos dijo nada más.
 
 * * *
 
@@ -322,7 +322,7 @@ Edda no tenía nada con qué pagar. El mercader la miró de arriba abajo, se enc
 
 —Sobre todo de mí.
 
-Edda se rio. Le sorprendió. Era la primera vez que se reía desde que había muerto, y le dolió un poco, como duele estirar un músculo que lleva mucho tiempo quieto.
+Edda se rio. Le sorprendió. Era la primera vez que se reía desde que había muerto, y le dolió un poco, como duele estirar un músculo que lleva años quieto.
 
 —¿Por qué sigues aquí, Kalé? —preguntó—. Si tu gente está muerta. Si ya no hay nada que vender.
 
@@ -330,7 +330,7 @@ El mercader se quedó pensando un rato.
 
 —Porque alguien tiene que acordarse de la música —dijo al fin—. Si me voy, si me muero, si dejo de cantarla, desaparece del todo. Como si nunca hubiera existido. Y no quiero eso. —La miró—. ¿Y tú? ¿Por qué no te has tirado por el acantilado?
 
-Edda tardó mucho en contestar.
+Edda tardó mucho en contestar. Era la primera vez que se lo preguntaba nadie, y la primera que se lo preguntaba ella.
 
 —Porque quiero saber qué pasó —dijo al fin—. Por qué me han traído aquí. Qué es eso tan importante que la gracia ha esperado siglos junto a mis huesos para que lo haga. —Miró el Árbol, que brillaba en el cielo nocturno como una lámpara enorme—. Si mi hijo me esperó en vano, al menos quiero saber para qué.
 

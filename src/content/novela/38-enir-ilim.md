@@ -16,7 +16,7 @@ Edda se volvió hacia él.
 
 —¿A los gemelos?
 
-—A los que vinieron después. —Ansbach se quedó mirando la gracia—. Los gemelos ya eran viejos. Morgott ya había subido. Mohg seguía abajo, en su celda, en la sala que luego convirtió en templo. Era enorme ya. Y me pidió que le leyera. —Se le quebró la voz—. Me dijo que una mujer ciega les leía, de niños. Que hacía mucho que nadie le leía.
+—A los que vinieron después. —Ansbach se quedó mirando la gracia—. Los gemelos ya eran viejos. Morgott ya había subido. Mohg seguía abajo, en su celda, en la sala que luego convirtió en templo. Era enorme ya. Y me pidió que le leyera. Me dijo que una mujer ciega les leía, de niños. Que hacía mucho que nadie le leía.
 
 —¿Y le leíste?
 
@@ -32,7 +32,7 @@ Nadie dijo nada durante un rato.
 
 —Freyja —dijo Ansbach de pronto—. ¿Por qué has subido?
 
-La gladiadora tardó en contestar.
+La gladiadora se sorbió los mocos y escupió.
 
 —Para verle la cara —dijo al fin—. Al niño. Para ver si lo que siento cuando lo veo es mío o es suyo.
 
@@ -42,7 +42,7 @@ Freyja se tocó el costado. La abolladura de la armadura.
 
 —Entonces me habrá salvado la vida para quitarme otra cosa —dijo—. Y quiero saber qué.
 
-* * *
+---
 
 Al tercer día, la escalera terminó en una puerta.
 
@@ -56,7 +56,7 @@ En lo más alto, en la copa del árbol, por encima de todo, había un edificio m
 
 La única luz dorada en toda la Tierra de las Sombras.
 
-—La Puerta de la Divinidad —dijo Ansbach, sin aliento, apoyado en el marco de la puerta—. Los Cornudos la construyeron hace eras. Para crear dioses. Allí arriba es donde subían los elegidos al final de su ascensión, después de las tinajas, después de las pruebas, para convertirse en divinidad. —Se le endureció la cara—. O para morir intentándolo.
+—La Puerta de la Divinidad —dijo Ansbach, sin aliento, apoyado en el marco de la puerta—. Los Cornamentados la construyeron hace eras. Para crear dioses. Allí arriba es donde subían los elegidos al final de su ascensión, después de las tinajas, después de las pruebas, para convertirse en divinidad. —Se le endureció la cara—. O para morir intentándolo.
 
 —Como la de Belurat.
 
@@ -74,7 +74,7 @@ Dio un paso atrás.
 
 Freyja, a su lado, dio un paso atrás también.
 
-* * *
+---
 
 La ciudad estaba vacía. O casi.
 
@@ -82,13 +82,13 @@ Recorrieron sus calles durante horas, subiendo hacia la luz. No había habitante
 
 Edda se detuvo junto a una. Le tocó la mano levantada.
 
-No era piedra. Era carne. Carne gris, endurecida, seca, como la corteza de un árbol. Fría. Pero no tanto como debería.
+Carne, no piedra. Carne gris, endurecida, seca, como la corteza de un árbol. Fría. Pero no tanto como debería.
 
 —Están vivos —dijo.
 
 Ansbach se acercó. Tocó otra estatua. Retiró la mano de golpe.
 
-—Los que subieron hasta aquí —dijo, muy bajo—. Los Cornudos de antes. Los que vinieron a la Puerta a convertirse en dioses. —Miró a su alrededor, a los miles de figuras arrodilladas—. Se quedaron aquí. Mirándola. Adorándola. Esperando a que los dejara pasar. Y no los dejó. Y se quedaron. Hasta convertirse en esto.
+—Los que subieron hasta aquí —dijo—. Los Cornamentados de antes. Los que vinieron a la Puerta a convertirse en dioses. —Miró a su alrededor, a los miles de figuras arrodilladas—. Se quedaron aquí. Mirándola. Adorándola. Esperando a que los dejara pasar. Y no los dejó. Y se quedaron. Hasta convertirse en esto.
 
 Edda pensó en los Guardianes ciegos del bosque de Midra. En los alumnos de la Academia que pasaban las páginas en blanco de libros sin letras. En el eco de Loretta en el patio de Caria.
 
@@ -98,7 +98,7 @@ Ansbach no contestó. Se quedó mirando una de las estatuas, la más cercana, un
 
 —Sí —dijo al fin—. Como Mohg.
 
-* * *
+---
 
 En la plaza más alta de Enir-Ilim, al pie de la última escalinata que subía hacia la Puerta de la Divinidad, los esperaban.
 
@@ -106,7 +106,7 @@ Era una plaza amplia, redonda, rodeada de columnas, con el suelo de losas grises
 
 Y en la plaza, de pie, esperándolos, estaba Leda.
 
-Tenía la armadura blanca y dorada manchada de barro por primera vez desde que Edda la conocía. El pelo rubio, corto, despeinado por el viento. La espada fina como una aguja en la mano. Detrás de ella había caballeros: los mismos del claro, los del Árbol Hálito, con sus armaduras blancas. Diez, doce. Y otros. Seguidores que Edda no conocía, de todas las procedencias, que habían cruzado a la Tierra de las Sombras tocando el brazo marchito y habían subido hasta allí. Una mujer con túnica de peregrina. Un hombre enorme con armadura de gigante. Un muchacho con un escudo demasiado grande para él.
+Tenía la armadura blanca y dorada manchada de barro por primera vez desde que Edda la conocía. El pelo rubio, corto, despeinado por el viento. La espada fina como una aguja en la mano. Detrás de ella había caballeros: los mismos del claro, los del Árbol Hierático, con sus armaduras blancas. Diez, doce. Y otros. Seguidores que Edda no conocía, de todas las procedencias, que habían cruzado a la Tierra de las Sombras tocando el brazo marchito y habían subido hasta allí. Una mujer con túnica de peregrina. Un hombre enorme con armadura de gigante. Un muchacho con un escudo demasiado grande para él.
 
 Edda se detuvo en seco.
 
@@ -114,7 +114,7 @@ Edda se detuvo en seco.
 
 El muchacho del escudo levantó la cabeza. Era él. Tavi de Morne. El del festival de Caelid. El que había visto todo desde las rocas y había dicho que iba a contar que el gigante lloraba al final.
 
-—Tú —dijo Tavi, muy bajo—. La de las dunas.
+—Tú —dijo Tavi—. La de las dunas.
 
 —¿Qué haces aquí?
 
@@ -124,7 +124,7 @@ El muchacho del escudo levantó la cabeza. Era él. Tavi de Morne. El del festiv
 
 Tavi no contestó. Pero Edda vio que le temblaban las manos en el borde del escudo.
 
-* * *
+---
 
 —Leda —dijo Edda.
 
@@ -132,7 +132,7 @@ Tavi no contestó. Pero Edda vio que le temblaban las manos en el borde del escu
 
 —Nunca te juré nada.
 
-—No hace falta jurar. —Leda dio un paso adelante—. Él nos eligió a todos. Te eligió a ti también. Cuando tocaste su mano en el palacio de sangre, te eligió. Te trajo hasta aquí. Te dio una tierra entera para que la conocieras. —Le tembló la voz—. Y lo has traicionado.
+—No hace falta jurar. —Leda dio un paso adelante—. Él nos eligió a todos. Te eligió a ti también. Cuando tocaste su mano en el palacio de sangre, te eligió. Te trajo hasta aquí. Te dio una tierra entera para que la conocieras. Y lo has traicionado, perra desagradecida.
 
 —Me trajo hasta aquí para que lo amara. —Edda no se movió—. No para que lo conociera. Son cosas distintas.
 
@@ -142,13 +142,13 @@ Tavi no contestó. Pero Edda vio que le temblaban las manos en el borde del escu
 
 Leda se quedó inmóvil.
 
-—Tú no sabes nada de Trina —dijo, muy bajo.
+—Tú no sabes nada de Trina —escupió.
 
 —Me senté con ella en un umbral. —Edda se tocó el pecho—. Me dejó elegir qué sueño llevarme. Y me dijo que cuando llegara aquí, delante de él, me acordara de que hay cosas que yo elegí querer. —La miró—. ¿Qué has elegido tú, Leda?
 
 Leda no contestó. Le temblaba la punta de la aguja.
 
-—¿Y vosotros? —preguntó Edda, mirando a los demás. A los caballeros del Árbol Hálito. A la peregrina. Al hombre de la armadura de gigante. A Tavi—. ¿Vosotros también?
+—¿Y vosotros? —preguntó Edda, mirando a los demás. A los caballeros del Árbol Hierático. A la peregrina. Al hombre de la armadura de gigante. A Tavi—. ¿Vosotros también?
 
 Nadie se movió durante un largo momento.
 
@@ -160,7 +160,7 @@ Se quedó mirando sus propias manos con los ojos muy abiertos.
 
 —Se ha ido un poco —dijo, casi sin voz—. Al apartarme. Lo que sentía. Se ha ido un poco.
 
-* * *
+---
 
 Leda se volvió hacia él.
 
@@ -168,7 +168,7 @@ Leda se volvió hacia él.
 
 —Lo siento —dijo el muchacho, y se le llenaron los ojos de lágrimas—. Lo siento, señora Leda. Pero es verdad. Al apartarme se va. —Retrocedió otro paso—. Y si se va al apartarme, no era mío.
 
-Uno de los caballeros del Árbol Hálito bajó la espada. Luego otro. La peregrina se dio la vuelta y echó a andar hacia la escalinata de bajada, despacio, sin mirar atrás. El hombre de la armadura de gigante se sentó en el borde de la fuente seca, con la cabeza entre las manos.
+Uno de los caballeros del Árbol Hierático bajó la espada. Luego otro. La peregrina se dio la vuelta y echó a andar hacia la escalinata de bajada, despacio, sin mirar atrás. El hombre de la armadura de gigante se sentó en el borde de la fuente seca, con la cabeza entre las manos.
 
 En menos de lo que se tarda en contar diez, Leda estaba sola en la plaza.
 
@@ -184,7 +184,7 @@ Sola, con la aguja en la mano, rodeada de gente que se había apartado un paso.
 
 Leda gritó. Un grito sin palabras, roto. Y se lanzó contra Edda.
 
-* * *
+---
 
 Fue una pelea corta. Y la más triste de toda la Tierra de las Sombras.
 
@@ -208,7 +208,7 @@ Se apartó de Freyja de un salto y se lanzó otra vez contra Edda, por el otro l
 
 Y entonces Ansbach se metió en medio.
 
-* * *
+---
 
 Fue tan rápido que Edda casi no lo vio. El viejo caballero, que había estado apoyado en su espada junto a una columna, sin moverse, sin decir nada, dio dos pasos y se interpuso entre Edda y la aguja.
 
@@ -236,23 +236,19 @@ Edda se arrodilló a su lado. Le cogió la mano. Estaba fría.
 
 Leda la miró. Los ojos azules estaban limpios. Por primera vez desde que la conocía, Edda los vio sin aquel brillo febril. Solo azules. Solo los ojos de una mujer joven que se estaba muriendo.
 
-—Tenía doce años —dijo Leda, muy bajo—. Cuando lo vi por primera vez. En su cuarto. Con la luna de cristal en la ventana. Me sonrió. —Se le escapó una lágrima—. Y desde entonces no he vuelto a sentir otra cosa. Nada. Nada más que eso.
-
-—Lo sé.
+—Tenía doce años —dijo Leda—. Cuando lo vi por primera vez. En su cuarto. Con la luna de cristal en la ventana. Me sonrió. —Se le escapó una lágrima—. Y desde entonces no he vuelto a sentir otra cosa. Nada. Nada más que eso.
 
 —¿Era mío? —Leda le apretó la mano—. Lo que sentía. ¿Era mío?
 
-Edda tardó en contestar.
-
 —No lo sé —dijo al fin—. Pero la niña de doce años que se quedó mirando la luna de cristal sí era tuya.
 
-Leda la miró un largo rato. Luego, despacio, sonrió. Una sonrisa pequeña, sorprendida, de niña.
+Leda la miró. Luego, despacio, sonrió. Una sonrisa pequeña, sorprendida, de niña.
 
 —La luna era azul —dijo—. Me acuerdo. Era muy bonita.
 
 Y se dejó caer hacia delante, contra el hombro de Edda.
 
-* * *
+---
 
 Ansbach seguía de pie. Con la aguja de Leda clavada en el pecho. Apoyado en una columna.
 
@@ -270,9 +266,9 @@ No quería dejarlo. Pero la luz dorada caía por la escalinata, y la sentía, y 
 
 —Volveré —dijo.
 
-—Lo sé. —Ansbach cerró los ojos—. Ve.
+—Naturalmente. —Ansbach cerró los ojos—. Ve.
 
-* * *
+---
 
 No la siguió.
 
@@ -292,9 +288,7 @@ Edda se arrodilló a su lado. Le cogió la mano.
 
 —Escucha… escucha bien. —Ansbach le apretó la mano con una fuerza sorprendente—. Cuando subas. Cuando lo veas. No lo mires a los ojos. No dejes que te hable. Si lo hace, si te dice que te ama, no le creas. —Tosió sangre—. Él no ama. Él… él hace que lo amen. Que no es lo mismo. Que nunca es lo mismo.
 
-—Lo sé.
-
-—Bien. —Ansbach sonrió—. Bien. —Se quedó callado un momento—. Y… si ves a mi señor. Si ves lo que queda de él. El cuerpo. Lo que hayan hecho con él. —Le tembló la voz—. Dile que su viejo consejero lo siente. Que no supe protegerlo. Que le leí todas las noches hasta el final. Aunque no me oyera.
+—Bien. —Ansbach sonrió—. Bien. Y… si ves a mi señor. Si ves lo que queda de él. El cuerpo. Lo que hayan hecho con él. Dile que su viejo consejero lo siente. Que no supe protegerlo. Que le leí todas las noches hasta el final. Aunque no me oyera.
 
 —Se lo diré.
 
@@ -310,9 +304,9 @@ Ansbach asintió despacio. Luego miró hacia arriba. Hacia la luz dorada.
 
 Y no los volvió a abrir.
 
-* * *
+---
 
-Edda se quedó un largo rato junto a él. Luego le cruzó la espada sobre el pecho, como Igon tenía cruzado el arco, y le cerró los dedos sobre la empuñadura.
+Edda se quedó junto a él. Luego le cruzó la espada sobre el pecho, como Igon tenía cruzado el arco, y le cerró los dedos sobre la empuñadura.
 
 Tavi se acercó. El muchacho tenía la cara mojada.
 
@@ -346,7 +340,7 @@ Edda miró hacia arriba. Hacia la luz.
 
 —Yo tengo que subir.
 
-* * *
+---
 
 Freyja la esperaba en lo alto de la escalinata, junto a la puerta de la torre de la copa.
 

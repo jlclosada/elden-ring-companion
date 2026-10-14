@@ -22,15 +22,15 @@ Edda no pudo contestar enseguida.
 
 —Lo sé. —Ranni sonrió. Era la sonrisa de la catedral, la pequeña, sorprendida—. Y yo te prometí que vendría.
 
-* * *
+---
 
-Se miraron durante un largo rato, en silencio, en mitad de la noche que Ranni había traído consigo.
+Se miraron en silencio, en mitad de la noche que Ranni había traído consigo.
 
-Edda pensó en la primera vez que la había visto. Una bruja alta, de cuatro brazos, con un sombrero enorme de ala ancha, en un camino de Necrolimbo junto a la Iglesia de Elleh, de noche, dándole una campanilla para llamar a los lobos. *Y no necesito que una espantapájaros con cuatro brazos y un sombrero ridículo me lo recuerde.* Pensó en la muñeca de la torre, inmóvil junto a la ventana, hablando sin mover los labios. *Blaidd exagera. Han sido novecientos.* En la muchacha muerta sobre el altar de la catedral, abriendo los ojos. *Me tiemblan.*
+Edda pensó en la primera vez que la había visto. Una bruja alta, de cuatro brazos, con un sombrero enorme de ala ancha, en un camino de Necrolimbo junto a la Iglesia de Elleh, de noche, dándole una campanilla para llamar a los lobos. _Y no necesito que una espantapájaros con cuatro brazos y un sombrero ridículo me lo recuerde._ Pensó en la muñeca de la torre, inmóvil junto a la ventana, hablando sin mover los labios. _Blaidd exagera. Han sido novecientos._ En la muchacha muerta sobre el altar de la catedral, abriendo los ojos. _Me tiemblan._
 
-Pensó en una nota arrugada contra la piel. *No sé si esto se hace así. No he escrito nunca una carta.*
+Pensó en una nota arrugada contra la piel. _No sé si esto se hace así. No he escrito nunca una carta._
 
-Pensó en Rogier, en su sofá roto de la biblioteca de la Mesa Redonda, diciéndole con el último aliento: *Ten cuidado con ella. Es muy lista.*
+Pensó en Rogier, en su sofá roto de la biblioteca de la Mesa Redonda, diciéndole con el último aliento: _Ten cuidado con ella. Es muy lista._
 
 —Fuiste tú —dijo—. La Noche de los Cuchillos Negros. Rogier me lo dijo antes de morir.
 
@@ -40,17 +40,17 @@ Ranni no apartó la mirada.
 
 Edda no dijo nada.
 
-—No te pido que me perdones —siguió Ranni—. Ni que lo entiendas. Solo que sepas que lo hice sabiendo lo que hacía. Que sabía que alguien iba a morir. No sabía que sería él. —Le tembló la voz, apenas—. Pero sabía que sería alguien.
+—No te pido que me perdones —siguió Ranni—. Ni que lo entiendas. Solo que sepas que lo hice sabiendo lo que hacía. Que sabía que alguien iba a morir. No sabía que sería él. Pero sabía que sería alguien.
 
 —Fia lo esperó siglos en las raíces —dijo Edda—. Un dragón luchó contra la niebla dentro de su sueño hasta pudrirse. Su hermano llevó una carta suya contra el corazón toda la vida.
 
-—Lo sé.
+—Sí.
 
 —Rogier murió de un cuchillo negro. Con su amigo de la infancia cogiéndole la mano.
 
-—Lo sé. —Ranni bajó la vista. Los cuatro ojos—. Lo vi. Tengo ojos en muchos sitios. Vi todo. Cada cosa. —Se le quebró la voz—. Llevo novecientos años viéndolo todo desde una silla junto a una ventana.
+—Lo sé. —Ranni bajó la vista. Los cuatro ojos—. Lo vi. Tengo ojos en muchos sitios. Vi todo. Cada cosa. Llevo novecientos años viéndolo todo desde una silla junto a una ventana.
 
-Edda la miró mucho tiempo.
+Edda la miró.
 
 —Yo maté a mucha gente en una guerra —dijo al fin—. Antes de morir. Soldados que también tenían hijos esperando en umbrales. Y después de morir, maté a todos los hijos de esta mujer. —Señaló a Marika—. Uno por uno. Algunos me lo pidieron. Otros no.
 
@@ -64,13 +64,13 @@ Ranni levantó la vista.
 
 Se quedaron un momento en silencio.
 
-—¿Y ahora? —preguntó Ranni, muy bajo.
+—¿Y ahora? —preguntó Ranni.
 
 Edda se levantó. Despacio. Le dolía todo. Se acercó a la princesa. Se detuvo delante de ella, a un paso.
 
 —Ahora tengo cosas para ti —dijo—. Como las tenía para ella.
 
-* * *
+---
 
 Ranni se quedó inmóvil.
 
@@ -96,7 +96,7 @@ Ranni se llevó una mano a la boca.
 
 Era la máscara de plata de Ymir. Edda no la había dejado en el altar de la capilla, al final. La había vuelto a coger antes de bajar a la Madre de los Dedos, sin saber por qué. La giró. Por dentro, en el lado que tocaba la cara, con letra pequeña, cuidada, de maestro:
 
-*Rennala. Rellana. Ranni. Radahn. Rykard.*
+_Rennala. Rellana. Ranni. Radahn. Rykard._
 
 Ranni cogió la máscara con las dos manos. Se quedó mirando los nombres.
 
@@ -106,13 +106,13 @@ Ranni cogió la máscara con las dos manos. Se quedó mirando los nombres.
 
 Ranni apretó la máscara contra el pecho.
 
-* * *
+---
 
 —Loretta —dijo Edda.
 
 Ranni levantó la cabeza.
 
-—La de verdad. No su eco. Estaba en el Árbol Hálito. Guardaba la entrada a las raíces, donde estaba Malenia. —Edda hizo una pausa—. Ha muerto. Luchando conmigo. Junto a un lago rojo.
+—La de verdad. No su eco. Estaba en el Árbol Hierático. Guardaba la entrada a las raíces, donde estaba Malenia. —Edda hizo una pausa—. Ha muerto. Luchando conmigo. Junto a un lago rojo.
 
 —Loretta. —Ranni cerró los ojos—. Me enseñaba a usar la espada de madera en el jardín cuando mi madre no miraba. Yo le ganaba siempre.
 
@@ -132,7 +132,7 @@ Luego, muy despacio, se llevó la mano libre a la nariz. Como en la catedral. Co
 
 —Novecientos años. —A Ranni se le escapó una lágrima por uno de los ojos de abajo—. Y alguien se acordaba de mis pecas.
 
-* * *
+---
 
 —Y Rellana —dijo Edda.
 
@@ -162,11 +162,11 @@ Ranni bajó la máscara.
 
 —¿Qué?
 
-Edda tardó en contestar. Sintió que se le subía la sangre a la cara, como en la torre de Ensis.
+Edda sintió que se le subía la sangre a la cara, como en la torre de Ensis.
 
 —Que su sobrina se había enamorado de una Sinluz —dijo—. Y que qué disparate. Qué disparate tan de vuestra familia.
 
-* * *
+---
 
 Ranni se rio.
 
@@ -174,7 +174,7 @@ Fue una risa pequeña, sorprendida, como un hipo, que se le escapó sin querer y
 
 —Cuatro —dijo, sin dejar de reír, con la máscara de Ymir apretada contra el pecho—. Han sido cuatro.
 
-—Lo sé. Llevo la cuenta.
+—Llevo la cuenta.
 
 —Qué disparate —dijo Ranni, secándose la cara con el dorso de la mano—. Mi tía tenía razón. Siempre tenía razón en las cosas que no importaban. —Se le quebró la risa—. Y en las que sí.
 
@@ -196,9 +196,9 @@ Ranni dio el paso que faltaba.
 
 Le cogió la cara con las dos manos. Las tenía frías, como la noche. Pero eran de carne. Y le temblaban.
 
-—Me tiemblan —dijo Ranni, muy bajo—. Otra vez.
+—Me tiemblan —dijo Ranni—. Otra vez. Es ridículo.
 
-—Lo sé.
+—Ya lo veo.
 
 —No sé hacer esto.
 
@@ -208,25 +208,25 @@ Le cogió la cara con las dos manos. Las tenía frías, como la noche. Pero eran
 
 Y la besó.
 
-* * *
+---
 
 Fue un beso torpe, corto, frío, de dos personas que no sabían hacerlo. Ranni tenía los labios fríos y le temblaban. Edda tenía sangre en la boca y ceniza en la cara. Duró lo que dura una respiración.
 
-Cuando se separaron, ninguna de las dos dijo nada durante mucho tiempo.
+Cuando se separaron, ninguna de las dos dijo nada.
 
 Las estrellas se movían despacio a su alrededor.
 
-—Novecientos años —dijo Ranni al fin, muy bajo— esperando a que se moviera el cielo. Y no me había dado cuenta de que estaba esperando otra cosa.
+—Novecientos años —dijo Ranni al fin— esperando a que se moviera el cielo. Y no me había dado cuenta de que estaba esperando otra cosa.
 
 Edda no contestó. Le cogió una de las manos frías. La sostuvo.
 
-* * *
+---
 
 —Ahora tengo que pedirte algo —dijo Ranni, al cabo de un rato—. Lo último.
 
 —Dímelo.
 
-—Esta era —Ranni señaló a su alrededor, a la noche estrellada, a los fragmentos del Anillo que seguían flotando en el aire, dorados todavía, girando despacio alrededor de Marika— ha terminado. La Orden Áurea ha muerto. El Árbol se ha quemado. La muerte ha vuelto. Y la Voluntad Mayor nos mira desde lejos. —Levantó la vista hacia arriba—. La has sentido. Lo sé. Al final. Cuando clavaste la espada.
+—Esta era —Ranni señaló a su alrededor, a la noche estrellada, a los fragmentos del Anillo que seguían flotando en el aire, dorados todavía, girando despacio alrededor de Marika— ha terminado. La Orden Áurea ha muerto. El Árbol se ha quemado. La muerte ha vuelto. Y la Voluntad Mayor nos mira desde lejos. —Levantó la vista hacia arriba—. La has sentido. Al final. Cuando clavaste la espada.
 
 —Ha dejado de mirar.
 
@@ -240,19 +240,19 @@ Edda no contestó. Le cogió una de las manos frías. La sostuvo.
 
 —De dioses. De árboles. De anillos. De voluntades que no son las suyas. —Ranni la miró—. Libre para equivocarse. Para buscar. Para dudar. Para coger piedras para niños muertos sin que nadie le diga que es inútil. —Sonrió—. Libre para tener miedo, y para ser valiente a pesar del miedo. Como tú.
 
-Edda se quedó callada mucho tiempo.
+Edda miró los fragmentos de estrellas que giraban, lentos, sobre la ceniza.
 
 —¿Y yo?
 
 Ranni le apretó la mano.
 
-—Tú vendrás conmigo —dijo—. Si quieres. Como mi consorte. Como te pedí en la catedral. No para gobernar. No hay nada que gobernar allí. Para viajar. Para ver lo que hay más allá de las estrellas. —Le tembló la voz—. Durante mil años, si hace falta. O más.
+—Tú vendrás conmigo —dijo—. Si quieres. Como mi consorte. Como te pedí en la catedral. No para gobernar. No hay nada que gobernar allí. Para viajar. Para ver lo que hay más allá de las estrellas. Durante mil años, si hace falta. O más.
 
 —¿Mil años?
 
 —Las estrellas están muy lejos.
 
-* * *
+---
 
 Edda miró los fragmentos del Anillo, flotando en el aire, dorados.
 
@@ -260,9 +260,9 @@ Podía tomarlos. Lo sabía. Marika se lo había dicho. Podía unirlos, sentarse 
 
 Pensó en todos los que habían intentado hacer lo mismo.
 
-Pensó en Melina, en la forja. *Lo que hagas dentro, es tuyo. Elige lo que quieras. Elige bien.*
+Pensó en Melina, en la forja. _Lo que hagas dentro, es tuyo. Elige lo que quieras. Elige bien._
 
-Pensó en Trina en el umbral. *Lo que eliges querer es tuyo. Lo que te obligan a querer no.*
+Pensó en Trina en el umbral. _Lo que eliges querer es tuyo. Lo que te obligan a querer no._
 
 Pensó en Midra, separado, con su nombre, cogido de la mano.
 
@@ -274,13 +274,13 @@ Ranni la miró. Los cuatro ojos se abrieron a la vez.
 
 —No. —Edda sonrió—. Pero creo que es lo que haría alguien a quien nadie ha obligado a elegir.
 
-Ranni se quedó mirándola mucho tiempo.
+Ranni se quedó mirándola.
 
 —Y vendré contigo —dijo Edda.
 
 Ranni no dijo nada. Le apretó la mano con tanta fuerza que le dolió.
 
-* * *
+---
 
 —Pero antes —dijo Edda.
 
@@ -292,9 +292,9 @@ Ranni se quedó inmóvil.
 
 —Me lo prometiste aunque no dependiera de ti —dijo Edda.
 
-—Lo sé.
+—Lo recuerdo. Fue una imprudencia.
 
-—Antes de irnos a las estrellas. Antes de los mil años. —A Edda se le quebró la voz—. Quiero ir. Quiero dejarlas. Quiero pintar la puerta.
+—Antes de irnos a las estrellas. Antes de los mil años. Quiero ir. Quiero dejarlas. Quiero pintar la puerta.
 
 Ranni la miró con una ternura que Edda no le había visto nunca, ni en la torre, ni en la catedral.
 
@@ -302,11 +302,11 @@ Ranni la miró con una ternura que Edda no le había visto nunca, ni en la torre
 
 —Está al otro lado del mar.
 
-—Lo sé. —Ranni sonrió—. Tengo ojos en muchos sitios. Uno de ellos lleva mucho tiempo mirando las Tierras Áridas. Desde que me contaste lo de la piedra azul del lago. —Hizo una pausa—. Hay un sitio. Al norte de las Llanuras Secas. A tres días del paso de las Piedras Rojas. Donde hubo un pozo. Y donde quedan puertas.
+—Lo sé. —Ranni sonrió—. Tengo ojos en muchos sitios. Uno de ellos lleva meses mirando las Tierras Áridas. Desde que me contaste lo de la piedra azul del lago. —Hizo una pausa—. Hay un sitio. Al norte de las Llanuras Secas. A tres días del paso de las Piedras Rojas. Donde hubo un pozo. Y donde quedan puertas.
 
 Edda no pudo contestar.
 
-* * *
+---
 
 Ranni extendió las manos hacia los fragmentos del Anillo.
 
@@ -320,9 +320,9 @@ Se volvió hacia Marika.
 
 La reina seguía tumbada en el suelo oscuro, rota, con los ojos cerrados y la hoja verde en la mano. La luz que salía de sus grietas se había apagado casi del todo. Solo quedaba un brillo débil, aquí y allá, como brasas en una chimenea a medianoche.
 
-Ranni se arrodilló a su lado. Se inclinó sobre ella. Se quedó mirándola un largo rato. A la cara de las estatuas. A la cara de su padre, que también era ella.
+Ranni se arrodilló a su lado. Se inclinó sobre ella. Se quedó mirándola. A la cara de las estatuas. A la cara de su padre, que también era ella.
 
-—Me dijiste una vez que mi luna era bonita —dijo, muy bajo—. En un pasillo de la mansión. Cuando lloraba junto al dibujo. —Le apartó un mechón de pelo dorado de la cara—. No te creí. Eras la mujer de mi padre. Y mi padre.
+—Me dijiste una vez que mi luna era bonita —dijo—. En un pasillo de la mansión. Cuando lloraba junto al dibujo. —Le apartó un mechón de pelo dorado de la cara—. No te creí. Eras la mujer de mi padre. Y mi padre.
 
 Marika no contestó.
 
@@ -336,7 +336,7 @@ Los labios de Marika se movieron. Edda lo vio. Una sonrisa. Pequeña. La de una 
 
 Y luego la última luz de las grietas se apagó.
 
-* * *
+---
 
 Se quedaron un rato junto a ella. En silencio. Con las estrellas girando y los fragmentos del Anillo brillando plateados alrededor de Ranni.
 
@@ -344,7 +344,7 @@ Luego Edda recogió las cosas del suelo. La caja de cartas de Messmer. Las dos p
 
 Abrió la caja de cartas. Cogió una al azar, del fondo, de las más antiguas. La desdobló. La letra era la misma, firme, cuidada, pero más infantil. Como la de alguien que acaba de aprender a escribir con un tutor paciente.
 
-*Madre. Hoy ha venido una serpiente nueva a mi ventana. Es roja. Le he puesto de nombre Primavera porque has venido en primavera. Aldous dice que las serpientes no tienen nombre. Le he dicho que esta sí. Vuelve pronto. Te espero en lo alto de la torre. Messmer.*
+_Madre. Hoy ha venido una serpiente nueva a mi ventana. Es roja. Le he puesto de nombre Primavera porque has venido en primavera. Aldous dice que las serpientes no tienen nombre. Le he dicho que esta sí. Vuelve pronto. Te espero en lo alto de la torre. Messmer._
 
 Edda la volvió a doblar. La dejó encima de las demás.
 
@@ -354,7 +354,7 @@ La serpiente roja de Rellana se le había subido al hombro. Miraba la caja.
 
 La serpiente levantó la cabeza.
 
-* * *
+---
 
 —Vamos —dijo Ranni, levantándose.
 
@@ -368,7 +368,7 @@ Se tocó el puño. La piedra ámbar.
 
 —Antes de cruzar el mar —dijo— tengo que devolver algunas cosas.
 
-—Lo sé. —Ranni le cogió la mano—. Te acompaño.
+—Me lo imaginaba. —Ranni le cogió la mano—. Te acompaño.
 
 —¿Puedes?
 

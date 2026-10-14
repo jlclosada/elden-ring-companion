@@ -6,7 +6,7 @@ Pell, su ayuda de cámara, iba en el mismo carro. Sentado junto a la mujer alta,
 
 Nadie lo reconoció.
 
-* * *
+---
 
 Llegaron a Necrolimbo con un puñado de soldados que también habían desertado y se encerraron en Velo Tormentoso, el castillo que su antepasado Godfrey había arrebatado al viejo Señor de la Tormenta.
 
@@ -32,11 +32,11 @@ Pell dejó la infusión en la mesa. Se arrodilló junto a la silla de su señor,
 
 —Señor —dijo—. Yo os he visto crecer. Os he visto aprender a montar, y caeros, y volver a subir. Os he visto llorar por un perro que se murió cuando teníais siete años. —Le puso una mano en la rodilla—. Para mí no sois el nieto aguado de nadie. Sois el niño que lloraba por su perro.
 
-Godrick lo miró durante mucho tiempo. Luego apartó la vista.
+Godrick lo miró. Luego apartó la vista.
 
 —Eso no sirve de nada, Pell —dijo—. Los reyes no lloran por perros.
 
-* * *
+---
 
 Era un hombre pequeño, en todos los sentidos que importan. Idolatraba a Godfrey, el primer Señor de Elden, y quería que su lejano antepasado pudiera ver sus hazañas. Llevaba un hacha con un león grabado, como la de Godfrey; hacía que sus soldados lucieran el Árbol y a Serosh en los estandartes; se hacía llamar señor de todo lo dorado. Pero sus propios criados lo despreciaban, y él lo sabía.
 
@@ -46,13 +46,13 @@ Radahn bajó de Caelid para desafiarlo. Se plantó ante las murallas de Velo Tor
 
 Godrick no fue.
 
-Malenia marchó hacia el sur desde el Árbol Hálito con su ejército de caballeros de la podredumbre limpia, bajando por la gran calzada de Bellum, venciendo a todo el que se le ponía delante. Iba camino de Caelid, a enfrentarse a Radahn. No tenía ningún interés en Necrolimbo. Pero al pasar cerca de Velo Tormentoso, Godrick cometió el error de insultarla.
+Malenia marchó hacia el sur desde el Árbol Hierático con su ejército de caballeros de la podredumbre limpia, bajando por la gran calzada de Bellum, venciendo a todo el que se le ponía delante. Iba camino de Caelid, a enfrentarse a Radahn. No tenía ningún interés en Necrolimbo. Pero al pasar cerca de Velo Tormentoso, Godrick cometió el error de insultarla.
 
 Lo hizo desde las murallas, con un heraldo. El heraldo gritó, a petición de su señor, que la Espada de Miquella era una lisiada podrida que se escondía detrás de su hermano pequeño, y que si tenía valor, que viniera a Velo Tormentoso a medirse con el señor de todo lo dorado.
 
 Malenia se detuvo en el camino. Se volvió hacia el castillo. Y se desvió de su ruta solo para responderle.
 
-* * *
+---
 
 El combate duró un suspiro.
 
@@ -82,11 +82,11 @@ Godrick siguió sollozando, con la cara en el barro.
 
 Y se marchó sin matarlo.
 
-Godrick se quedó de rodillas en el barro mucho tiempo, hasta que el ejército de la Espada de Miquella desapareció por el camino del este. Luego se levantó, recogió los dos trozos de su hacha, y volvió al castillo. Al pasar por la puerta, vio a sus soldados en las almenas. Ninguno lo miraba. Todos apartaban la vista.
+Godrick se quedó de rodillas en el barro, meado encima, hasta que el ejército de la Espada de Miquella desapareció por el camino del este. Luego se levantó, recogió los dos trozos de su hacha, y volvió al castillo. Al pasar por la puerta, vio a sus soldados en las almenas. Ninguno lo miraba. Todos apartaban la vista.
 
 Esa noche no quiso la infusión de corteza amarga. Ni la siguiente. Ni nunca más.
 
-* * *
+---
 
 Godrick volvió a encerrarse en Velo Tormentoso, más humillado que nunca. Y allí empezó a injertarse.
 
@@ -112,7 +112,7 @@ Pell no contestó. Subió las escaleras de las mazmorras, despacio, sin volverse
 
 Nunca contó a nadie lo que había visto. Pero años después, en la taberna de un pueblo de la costa donde acabó sus días, a veces se quedaba mirando el fuego y decía en voz baja que la grandeza era como una runa: que no te hace grande, solo te hace desear serlo. Y que había conocido a un niño que lloraba por un perro, y que ese niño se había convertido en una araña de brazos que cosía niños en una mazmorra, y que no sabía en qué momento exacto había pasado.
 
-* * *
+---
 
 En las mazmorras del castillo, Godrick creó criaturas monstruosas. Los Vástagos Injertados: niños a los que unía brazos, piernas y espadas hasta convertirlos en arañas de carne que custodiaban los pasillos. En el comedor colgaban miembros cortados, como piezas de caza. En los patios, cadáveres de trolls despedazados, de los que arrancaba los brazos más fuertes para coserlos a su propio cuerpo.
 
@@ -122,7 +122,7 @@ Godrick lo miró con sus ojos pequeños, rodeado de brazos que se movían solos.
 
 —Para que me vean —dijo—. Algún día, alguien tendrá que verme.
 
-* * *
+---
 
 En el Monte Gelmir, Rykard declaró la guerra a los dioses.
 
@@ -134,7 +134,7 @@ Tanith lo miró con sus ojos negros, de humo.
 
 —¿Y yo? —preguntó—. ¿Qué has visto en mi fondo?
 
-Rykard tardó mucho en contestar.
+Rykard se pasó la lengua bífida por los labios, una costumbre nueva que a ella le daba asco.
 
 —Nada —dijo al fin—. Nunca te he abierto. Eres lo único en el mundo que no he querido saber cómo era por dentro.
 
@@ -144,7 +144,7 @@ Sus ideas, aunque blasfemas, atrajeron a muchos. Guerreros, renegados, desertore
 
 Leyndell envió sus ejércitos contra el volcán.
 
-* * *
+---
 
 La batalla del Monte Gelmir fue la más espantosa de toda la Fractura.
 
@@ -152,11 +152,11 @@ Duró años, en las laderas de roca negra, entre ríos de lava y tormentas de ce
 
 Un soldado de Leyndell llamado Corvin, de diecinueve años, escribió una carta a su madre desde el noveno campamento de la ladera. La carta nunca llegó. La encontraron siglos después, en una grieta de la roca, junto a unos huesos.
 
-*Madre. Aquí no hay comida desde hace dos meses. Ayer el sargento Brann murió de fiebre, y esta mañana los demás lo han… no puedo escribirlo. Yo no he comido. Te lo juro. Pero tengo tanta hambre que ya no sé cuánto aguantaré. Por las noches, algunos de los hombres ven algo en el fondo de sus ojos. Una luz amarilla. Dicen que les habla. Que les dice que todo esto acabará pronto, que todo se fundirá en una sola cosa y ya no habrá dolor ni hambre ni nada. Yo no la he visto todavía. Pero tengo miedo de verla. Y tengo miedo de que, cuando la vea, me guste.*
+_Madre. Aquí no hay comida desde hace dos meses. Ayer el sargento Brann murió de fiebre, y esta mañana los demás lo han… no puedo escribirlo. Yo no he comido. Te lo juro. Pero tengo tanta hambre que ya no sé cuánto aguantaré. Por las noches, algunos de los hombres ven algo en el fondo de sus ojos. Una luz amarilla. Dicen que les habla. Que les dice que todo esto acabará pronto, que todo se fundirá en una sola cosa y ya no habrá dolor ni hambre ni nada. Yo no la he visto todavía. Pero tengo miedo de verla. Y tengo miedo de que, cuando la vea, me guste._
 
 En el noveno campamento de la ladera, entre los supervivientes más destrozados, algunos soldados empezaron a ver una llama amarilla en el fondo de sus propios ojos: la Llama Frenética, la locura que aparece allí donde el sufrimiento es demasiado grande. Los que la veían se volvían tranquilos, sonrientes, distantes. Dejaban de comer. Dejaban de luchar. Se sentaban en la roca a mirar el horizonte, y algunos, una mañana, se levantaban y caminaban hacia la lava sin dejar de sonreír.
 
-* * *
+---
 
 En las entrañas del Monte Gelmir vivía una serpiente.
 
@@ -178,15 +178,13 @@ Tanith no dijo nada. Lo miraba con sus ojos negros.
 
 —¿Y tú? —preguntó Tanith—. ¿Seguirás siendo tú?
 
-Rykard tardó en contestar.
-
 —No lo sé.
 
 Metió la mano en la túnica y sacó un frasco pequeño, de cristal, con un líquido claro.
 
 —Es un tónico de olvido —dijo—. Lo he preparado yo. Si lo bebes, me olvidarás. Olvidarás que existí, que me casé contigo, que te traje desde tu tierra. Te será más fácil. Podrás irte. Podrás volver a bailar en otro sitio, para otra gente, sin acordarte de que tu esposo bajó a una caverna y se convirtió en una serpiente.
 
-Tanith miró el frasco durante mucho tiempo. Luego lo cogió. Lo destapó. Y, sin decir nada, sin apartar los ojos de los de su esposo, vertió el tónico en el suelo de roca, gota a gota, hasta que no quedó nada.
+Tanith miró el frasco. Luego lo cogió. Lo destapó. Y, sin decir nada, sin apartar los ojos de los de su esposo, vertió el tónico en el suelo de roca, gota a gota, hasta que no quedó nada.
 
 —No hay dolor más grande que olvidarte —dijo.
 
@@ -196,7 +194,7 @@ Rykard la miró. Y entonces sonrió. Era la primera vez en años que alguien lo 
 
 Le dio un beso en la frente. Luego se dio la vuelta y bajó a la oscuridad, hacia la serpiente.
 
-* * *
+---
 
 Se dejó devorar.
 
@@ -214,7 +212,7 @@ Mantuvo abierta la Mansión del Volcán, siguió presidiendo los banquetes, sigu
 
 Nunca supo si él la oía. Nunca dejó de hablarle.
 
-* * *
+---
 
 Morgott salió de las cloacas el mismo día en que se rompieron sus grilletes.
 
@@ -252,7 +250,7 @@ Mohg sonrió. Era su sonrisa de siempre, tranquila, untuosa, amable.
 
 —Madre. La de verdad. La que me quiere sin que nadie la obligue. —Mohg se acercó a su hermano y le puso una mano en el hombro—. Ven conmigo, Morgott. Te querrá a ti también. Podemos fundar algo nuestro. Una familia. Una dinastía. Donde nadie tenga que esconder los cuernos.
 
-Morgott lo miró durante mucho tiempo. A su gemelo. Al que había dormido a su lado durante toda su vida, en la misma celda, encadenado a la misma pared. Al que jugaba con piedras y hacía círculos con una roja en el centro.
+Morgott lo miró. A su gemelo. Al que había dormido a su lado durante toda su vida, en la misma celda, encadenado a la misma pared. Al que jugaba con piedras y hacía círculos con una roja en el centro.
 
 —No puedo —dijo al fin—. Le prometí a Godwyn que defendería el Árbol si alguna vez estaba en peligro. Y está en peligro, Mohg. Lo siento aquí. —Se tocó el pecho—. Está ardiendo.
 
@@ -260,7 +258,7 @@ Morgott lo miró durante mucho tiempo. A su gemelo. Al que había dormido a su l
 
 —Por eso. —Morgott apretó los puños—. Por eso tengo que cumplir. Porque él ya no puede.
 
-Mohg se quedó callado. Luego, despacio, retiró la mano del hombro de su hermano.
+Mohg retiró la mano del hombro de su hermano.
 
 —Entonces aquí nos separamos —dijo.
 
@@ -272,19 +270,19 @@ Se abrazaron. Torpemente, con un crujido de cuernos, como dos hombres que nunca 
 
 Morgott se quedó solo en la celda un momento. Miró el círculo de piedras que había dejado su hermano, ahora sin la roja en el centro. Luego subió.
 
-* * *
+---
 
 Subió por los túneles, por las escaleras olvidadas, por los pozos, hasta que salió a la luz. Era la primera vez en su vida que veía el sol. Le dolieron los ojos. Le dolió todo. Se quedó de pie en la plaza del Árbol, encorvado bajo sus cuernos, con la Gran Runa latiendo en su pecho, y miró por primera vez en su vida el Árbol de cerca.
 
 Era más hermoso de lo que había imaginado. Infinitamente más.
 
-Se quedó mirándolo durante mucho tiempo. No le importó que la gente que pasaba por la plaza se detuviera a mirarlo, a señalarlo, a apartarse de él con miedo. No le importó que una mujer gritara al ver sus cuernos, ni que un niño echara a correr. Solo miraba el Árbol. Y lloraba.
+Se quedó mirándolo. No le importó que la gente que pasaba por la plaza se detuviera a mirarlo, a señalarlo, a apartarse de él con miedo. No le importó que una mujer gritara al ver sus cuernos, ni que un niño echara a correr. Solo miraba el Árbol. Y lloraba.
 
 Fue entonces cuando oyó la voz.
 
 —Tú eres Morgott.
 
-Se volvió. Junto a la base del Árbol, apoyada en una raíz, había una mujer joven. Menuda, de pelo negro corto, vestida con una armadura de escamas negras que no hacía ruido al moverse. Tenía una sonrisa en la cara, pero era una sonrisa triste, de alguien que lleva mucho tiempo esperando.
+Se volvió. Junto a la base del Árbol, apoyada en una raíz, había una mujer joven. Menuda, de pelo negro corto, vestida con una armadura de escamas negras que no hacía ruido al moverse. Tenía una sonrisa en la cara, pero era una sonrisa triste, de alguien que lleva siglos esperando.
 
 —¿Quién eres?
 
@@ -302,7 +300,7 @@ Cogió el papel con sus manos enormes, grises, temblorosas. Lo desdobló. Y vio 
 
 Leyó.
 
-*Hermano. No sé por qué te escribo esto esta noche. He soñado contigo. Soñé que me decías que el Árbol estaba en peligro, y yo te decía que no. Quizá tenías razón. Quiero que sepas que te quiero. Que algún día te sacaré de ahí. Y que si alguna vez me pasa algo, quiero que sepas que tu hermano dorado nunca se ha avergonzado de ti. Ni una sola vez. Ni un solo día. Eres lo mejor que tengo en este mundo, Morgott. Más que el Árbol. Más que la Orden. Más que nada. Defiéndete a ti mismo primero, como decía nuestro padre. El Árbol tiene muchos defensores. Tú solo tienes uno. Y ese uno soy yo. Godwyn.*
+_Hermano. No sé por qué te escribo esto esta noche. He soñado contigo. Soñé que me decías que el Árbol estaba en peligro, y yo te decía que no. Quizá tenías razón. Quiero que sepas que te quiero. Que algún día te sacaré de ahí. Y que si alguna vez me pasa algo, quiero que sepas que tu hermano dorado nunca se ha avergonzado de ti. Ni una sola vez. Ni un solo día. Eres lo mejor que tengo en este mundo, Morgott. Más que el Árbol. Más que la Orden. Más que nada. Defiéndete a ti mismo primero, como decía nuestro padre. El Árbol tiene muchos defensores. Tú solo tienes uno. Y ese uno soy yo. Godwyn._
 
 Morgott leyó la carta tres veces. Luego se sentó en el suelo, en la plaza del Árbol, con la carta apretada contra el pecho, y lloró como no había llorado nunca. Ni cuando murió Isolde. Ni cuando le pusieron las cadenas. Ni cuando vio por primera vez el Árbol de cerca.
 
@@ -310,17 +308,15 @@ Tiche se sentó a su lado. No dijo nada. Se quedó allí, junto al augurio de cu
 
 —¿Fuiste tú? —preguntó Morgott al fin, con la voz rota—. ¿Fuiste tú quien lo…?
 
-Tiche tardó mucho en contestar.
-
 —Estaba allí —dijo—. No fui yo quien clavó el cuchillo. Pero estaba allí. Y no lo impedí. —Lo miró a los ojos—. Me preguntó mi nombre. Me dijo que no temblara. Y me pidió que te trajera esto. Es lo único que he podido hacer por él.
 
-Morgott la miró durante mucho tiempo. Luego dobló la carta y se la guardó en el pecho, debajo de la capa, junto a la Gran Runa.
+Morgott la miró. Luego dobló la carta y se la guardó en el pecho, debajo de la capa, junto a la Gran Runa.
 
 —Gracias —dijo.
 
 Tiche se levantó. Se fue. No volvieron a verse nunca. Pero Morgott llevó aquella carta encima durante el resto de su vida, debajo de la armadura, contra el corazón. Y cuando, siglos después, una Sinluz lo derrotó en lo alto del trono de Leyndell, la carta seguía allí, amarillenta, gastada, con las letras grandes y claras casi borradas por el roce.
 
-* * *
+---
 
 Leyndell estaba en desorden. Los nobles habían huido. Los sacerdotes rezaban sin saber a quién. Los ejércitos de los semidioses se acercaban por todos los caminos.
 
@@ -342,7 +338,7 @@ Luego el capitán que había preguntado, un hombre viejo con una cicatriz en la 
 
 Uno a uno, los demás soldados se arrodillaron.
 
-* * *
+---
 
 La segunda defensa de Leyndell fue su obra maestra.
 
@@ -354,13 +350,11 @@ En la capital, mientras tanto, gobernaba como el Monarca Velado. Nadie veía su 
 
 —¿Por qué os escondéis, mi señor? —le preguntó una vez el capitán viejo, el nieto de Hargen, en la sala del trono, una noche—. Todos sabemos quién sois.
 
-Morgott tardó mucho en contestar.
-
 —Porque la Orden no puede ser defendida por un augurio —dijo al fin—. No a la vista de todos. Si la gente viera que el defensor del Árbol tiene cuernos, dejaría de creer en el Árbol. —Se tocó la capucha—. Así que me escondo. Para que la Orden siga siendo pura. Aunque yo no lo sea.
 
 El capitán no dijo nada. Pero aquella noche, en su casa, se emborrachó por primera vez en muchos años.
 
-* * *
+---
 
 Una noche, cuando la guerra ya había empezado a amainar, Morgott subió las escaleras hasta la base del Árbol.
 
@@ -378,9 +372,9 @@ Las espinas no se movieron.
 
 Las espinas no se movieron.
 
-Se quedó allí mucho tiempo, de pie ante las espinas, con la frente sangrando. Después bajó las escaleras y volvió a su puesto. Siguió defendiendo el Árbol que no lo quería, porque no sabía hacer otra cosa.
+Se quedó allí hasta el alba, de pie ante las espinas, con la frente sangrando. Después bajó las escaleras y volvió a su puesto. Siguió defendiendo el Árbol que no lo quería, porque no sabía hacer otra cosa.
 
-* * *
+---
 
 Mohg no defendió nada. Mohg se fue.
 
@@ -400,15 +394,15 @@ Fundó también una orden de caballería, los Caballeros de la Sangre Pura, y pu
 
 —¿Para qué queréis una dinastía, mi señor? —le preguntó Ansbach una vez, mientras paseaban junto al lago de sangre de Mohgwyn.
 
-Mohg tardó en contestar. En la penumbra roja del palacio, sus cuernos proyectaban sombras enormes sobre el agua.
+En la penumbra roja del palacio, sus cuernos proyectaban sombras enormes sobre el agua.
 
 —Para tener una familia —dijo—. Una de verdad. Una que me haya elegido, no que me haya tocado.
 
 Ansbach no entendió entonces lo que su señor quería decir. Lo entendería mucho después, en otra tierra, cuando ya fuera demasiado tarde.
 
-* * *
+---
 
-Ranni se escondió en la Mansión Caria, al oeste de Liurnia, con su cuerpo de muñeca. Dormía largas temporadas, porque la muñeca se cansaba más que un cuerpo de verdad. Mientras dormía, sus aliados —Blaidd, Iji, el preceptor Seluvis— trabajaban para ella en secreto. Y Loretta, que había vuelto de visita a la mansión desde el Árbol Hálito, se quedó un tiempo montando guardia en la escalinata, como en los viejos tiempos, aunque la reina a la que había servido ya no cantaba.
+Ranni se escondió en la Mansión Caria, al oeste de Liurnia, con su cuerpo de muñeca. Dormía largas temporadas, porque la muñeca se cansaba más que un cuerpo de verdad. Mientras dormía, sus aliados —Blaidd, Iji, el preceptor Seluvis— trabajaban para ella en secreto. Y Loretta, que había vuelto de visita a la mansión desde el Árbol Hierático, se quedó un tiempo montando guardia en la escalinata, como en los viejos tiempos, aunque la reina a la que había servido ya no cantaba.
 
 La Academia de Raya Lucaria se declaró neutral. Selló sus puertas con barreras mágicas que solo se abrían con una llave especial, y se olvidó del mundo. En el corazón de su biblioteca, en una urna de cristal, una brasa roja que llevaba mil años encendida empezó a apagarse aquel invierno. Ningún hechicero supo por qué.
 

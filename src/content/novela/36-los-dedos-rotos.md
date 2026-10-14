@@ -54,7 +54,7 @@ Edda pensó en Placidusax, esperando en su tormenta a un dios que se había ido.
 
 —¿Trastornado?
 
-Ymir no contestó. Se volvió hacia el fresco y se quedó mirándolo mucho tiempo, con las manos juntas.
+Ymir no contestó. Se volvió hacia el fresco, con las manos juntas.
 
 —Ya lo verás —dijo al fin.
 
@@ -62,7 +62,7 @@ Ymir no contestó. Se volvió hacia el fresco y se quedó mirándolo mucho tiemp
 
 Esa noche, Ymir la invitó a cenar.
 
-Cenaron en una sala pequeña, en lo alto de una de las torres-dedo, con una sola ventana redonda que daba al valle. Había pan, queso, vino aguado, unas frutas pequeñas y ácidas. Ymir apenas comió. Bebía vino despacio, a sorbos pequeños, y hablaba. Le gustaba hablar. Hablaba como hablan los que llevan mucho tiempo sin nadie que los escuche.
+Cenaron en una sala pequeña, en lo alto de una de las torres-dedo, con una sola ventana redonda que daba al valle. Había pan, queso, vino aguado, unas frutas pequeñas y ácidas. Ymir apenas comió. Bebía vino despacio, a sorbos pequeños, y hablaba. Le gustaba hablar. Hablaba como hablan los que llevan años sin nadie que los escuche.
 
 Le habló de las estrellas. De cómo se movían, de lo que significaban, de los astrólogos de las cumbres que las habían estudiado antes que nadie. Le habló de la escuela del lago, de los niños a los que había enseñado, sentado en el suelo de la torre de su castillo con las piernas cruzadas, sosteniendo una piedra de brillo entre los dedos.
 
@@ -84,7 +84,7 @@ El conde se quedó inmóvil. Detrás de la máscara, los ojos se le abrieron muc
 
 —Rellana. La de las dos lunas. —Edda lo miró—. La maté en Castillo Ensis. Hace dos semanas. Guardaba la puerta de Messmer.
 
-Ymir no dijo nada durante mucho tiempo. Se quedó sentado, inmóvil, con las manos sobre la mesa. Luego, muy despacio, se quitó la máscara de plata.
+Ymir se quedó sentado, inmóvil, con las manos sobre la mesa. Luego, muy despacio, se quitó la máscara de plata.
 
 Debajo había una cara vieja, viejísima, de piel arrugada como el papel, con unos ojos grises, acuosos, rodeados de pliegues profundos. Y en la frente, en el centro, entre las cejas, una marca. Una cicatriz pálida, abultada, como una ampolla que no se ha reventado. Edda la miró un instante y apartó la vista. Había algo debajo de esa piel. Algo que se movía.
 
@@ -100,15 +100,13 @@ Edda no dijo nada.
 
 —Bajó las espadas. —Edda se miró las manos—. En el último momento. Cuando encontré el hueco entre sus dos lunas. Dijo que solo una persona lo había encontrado antes que yo. Su sobrina. De niña. Jugando en el jardín.
 
-—Ranni. —Ymir cerró los ojos—. La de la luna fea. Le enseñé a dibujar estrellas. Tenía siete años. Dibujaba mejor que su madre.
-
-Se quedó callado mucho tiempo.
+—Ranni. —Ymir cerró los ojos—. La de la luna fea. Le enseñé a dibujar estrellas. Tenía siete años. Dibujaba mejor que su madre. Se manchaba de tinta hasta los codos.
 
 —¿Por qué te fuiste? —preguntó Edda—. Del lago. De las estrellas. Si las amabas tanto.
 
 Ymir abrió los ojos. Miró por la ventana redonda, hacia el cielo plateado, sin estrellas.
 
-—Porque un día miré hacia arriba —dijo— y me pregunté quién las había puesto allí. Y no pude dejar de preguntármelo. —Le tembló la voz—. Amar algo no basta, forastera. Cuando amas algo mucho tiempo, quieres saber de dónde viene. Quieres conocer a quien lo hizo. Quieres que te mire. —Se tocó la cicatriz de la frente, con la punta de los dedos—. Y seguí el rastro. De las estrellas a los Dedos. De los Dedos a su madre. Crucé al otro lado detrás de Rellana, porque pensé que donde iba ella iría la respuesta. Y la encontré aquí. En esta catedral. Durmiendo.
+—Porque un día miré hacia arriba —dijo— y me pregunté quién las había puesto allí. Y no pude dejar de preguntármelo. Amar algo no basta, forastera. Cuando amas algo muchos años, quieres saber de dónde viene. Quieres conocer a quien lo hizo. Quieres que te mire. —Se tocó la cicatriz de la frente, con la punta de los dedos—. Y seguí el rastro. De las estrellas a los Dedos. De los Dedos a su madre. Crucé al otro lado detrás de Rellana, porque pensé que donde iba ella iría la respuesta. Y la encontré aquí. En esta catedral. Durmiendo.
 
 —¿Y te ha mirado?
 
@@ -126,7 +124,7 @@ Se había vuelto a poner la máscara. Volvía a hablar con su voz suave, musical
 
 —Porque no puedo llegar. —Ymir levantó las manos, mostrando los dedos largos, temblorosos—. Soy viejo. Las ruinas están lejos, en sitios peligrosos. Y además… —Bajó la voz—. Además, si las toco yo, me hablará a mí. Y no sé si estoy preparado para lo que me diga.
 
-Edda lo miró mucho tiempo.
+Edda lo miró.
 
 —¿Y si no quiere despertar? —preguntó—. ¿Y si duerme porque está cansada? ¿Porque así no tiene que acordarse de que la abandonaron?
 
@@ -138,7 +136,7 @@ Ymir se quedó inmóvil.
 
 —Me lo contó un cazador de dragones. Antes de morir.
 
-Ymir no dijo nada durante mucho tiempo. Luego se dio la vuelta, despacio, y se alejó por el pasillo hacia el interior de la catedral.
+Ymir se dio la vuelta, despacio, y se alejó por el pasillo hacia el interior de la catedral.
 
 —Toca las campanas —dijo, sin volverse—. Por favor. Necesito saber qué dice.
 
@@ -162,7 +160,7 @@ Edda la desdobló.
 
 Edda guardó la nota en la bolsa, junto a las de Ranni y Fia.
 
-Se quedó mucho tiempo mirando la campana.
+Se quedó mirando la campana.
 
 Luego tiró de la cuerda igualmente.
 
@@ -300,9 +298,9 @@ La voz no contestó.
 
 —No te pido que lo sientas —siguió Edda—. Solo quería que alguien te lo dijera. Que hubo alguien que te esperó como tú esperas a la Voluntad. Y que no le hablaste.
 
-Hubo un silencio largo. Las estrellas blancas del vacío dejaron de moverse.
+Las estrellas blancas del vacío dejaron de moverse.
 
-*No sabía* —dijo la voz, al fin, muy bajo—. *No sabía que alguien me esperaba. Nadie me lo dijo.*
+*No sabía* —dijo la voz, al fin—. *No sabía que alguien me esperaba. Nadie me lo dijo.*
 
 —Ya.
 
@@ -336,7 +334,7 @@ Al salir de la catedral, se encontró con algo que no esperaba.
 
 Al este, en el horizonte, sobre los bosques negros de la Tierra de las Sombras, el cielo había cambiado de color. Era amarillo. Un amarillo sucio, enfermizo, como el de un ojo con fiebre. Y en el centro de ese amarillo, como un sol que no debería existir, brillaba una llama.
 
-Edda se quedó mirándola mucho tiempo, desde lo alto de la escalinata de la catedral.
+Edda se quedó mirándola desde lo alto de la escalinata de la catedral.
 
 La reconoció. No la había visto nunca, no así, no tan grande. Pero la reconoció. Era la misma luz que había visto detrás de la venda de Hyetta. La misma que había ardido en los ojos de los soldados de Gelmir en la carta de Corvin. La misma que había sentido detrás de sus propios párpados delante de la puerta de los Tres Dedos, bajo Leyndell.
 
@@ -346,7 +344,7 @@ La serpiente roja se despertó en su hombro y chilló.
 
 Ansbach la estaba esperando al pie de la escalinata. Había vuelto. Tenía la cara cubierta de ceniza y la armadura manchada de algo amarillo, seco, como polen.
 
-—Los Bosques Abisales —dijo, sin que ella preguntara, señalando la llama con la barbilla—. Allí vive alguien. Alguien que vio la llama del frenesí hace mucho tiempo y nunca dejó de verla. —Hizo una pausa—. He estado en el borde. No he podido entrar. Hay una niebla negra que no deja ver nada.
+—Los Bosques Abisales —dijo, sin que ella preguntara, señalando la llama con la barbilla—. Allí vive alguien. Alguien que vio la llama del frenesí hace siglos y nunca dejó de verla. —Hizo una pausa—. He estado en el borde. No he podido entrar. Hay una niebla negra que no deja ver nada.
 
 —¿Quién vive allí?
 

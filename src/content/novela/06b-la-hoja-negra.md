@@ -32,7 +32,7 @@ Silencio. Luego, una voz grave, áspera, que hizo vibrar el aire del sótano.
 
 —No me das nada. —Isolde dejó el cuenco en el suelo, junto al jergón—. No te veo. Soy ciega. Para mí eres un olor a ceniza y una voz que gruñe. No da tanto miedo como crees.
 
-La voz se quedó callada un rato largo.
+La voz no contestó.
 
 —Los demás huyen —dijo al fin.
 
@@ -41,8 +41,6 @@ La voz se quedó callada un rato largo.
 Hubo un movimiento en la paja. Isolde oyó cómo algo muy grande se incorporaba despacio, con un gruñido de dolor. Luego oyó el cuenco levantarse del suelo, y el sonido de alguien que bebía.
 
 —¿Cómo te llamas? —preguntó ella.
-
-La voz tardó en contestar.
 
 —Maliketh.
 
@@ -94,7 +92,7 @@ Isolde lo pensó.
 
 —Es lo que hace alguien cuando se sienta a tu lado en la oscuridad —dijo—. Aunque no pueda hacer nada más.
 
-Maliketh no dijo nada. Pero aquella noche, cuando ella se marchó, se quedó tocando la palabra en la página durante mucho tiempo.
+Maliketh no dijo nada. Pero aquella noche, cuando ella se marchó, se quedó tocando la palabra en la página hasta el alba.
 
 * * *
 
@@ -140,7 +138,7 @@ Marika no contestó.
 
 El silencio se volvió pesado.
 
-—La Reina de los Ojos Lóbregos decía lo mismo que tú —dijo Marika al fin, muy bajo.
+—La Reina de los Ojos Lóbregos decía lo mismo que tú —dijo Marika al fin.
 
 —Puede que tuviera razón en algo.
 
@@ -172,7 +170,7 @@ Asistieron pocos. Godfrey, de pie al pie de la escalinata, con la mano en el hac
 
 Marika subió sola a la plataforma, con el cuenco de oro en las manos.
 
-El Anillo de Elden flotaba ante ella: una constelación de runas de luz dorada que giraban despacio, unas dentro de otras, como los engranajes de un reloj que nadie había construido. Cada runa era una ley. Juntas, eran el mundo. Marika las miró durante mucho tiempo. Luego dejó el cuenco en el suelo, sacó de él la runa negra con las dos manos, y la levantó hacia el Anillo.
+El Anillo de Elden flotaba ante ella: una constelación de runas de luz dorada que giraban despacio, unas dentro de otras, como los engranajes de un reloj que nadie había construido. Cada runa era una ley. Juntas, eran el mundo. Marika las miró. Luego dejó el cuenco en el suelo, sacó de él la runa negra con las dos manos, y la levantó hacia el Anillo.
 
 Durante un instante, la runa y el Anillo se reconocieron. La luz negra latió más fuerte. Las runas doradas se estremecieron. Y en el centro de la constelación, en un hueco que nadie había visto hasta entonces, apareció una forma vacía: el lugar exacto donde la runa debía encajar.
 
@@ -196,7 +194,7 @@ Godfrey subió los escalones de tres en tres. La sostuvo antes de que se desplom
 
 —Ya está —susurró la diosa—. Ya está. Nadie volverá a mirarlos así.
 
-Godfrey la abrazó. Miró por encima de su cabeza la lluvia de hojas doradas que seguía cayendo sobre la ciudad, y por primera vez en su vida sintió algo que no supo nombrar. No era miedo. Era más bien la sensación de haber perdido algo sin saber qué.
+Godfrey la abrazó. Miró por encima de su cabeza la lluvia de hojas doradas que seguía cayendo sobre la ciudad, y por primera vez en su vida sintió algo que no supo nombrar. Más que miedo, la sensación de haber perdido algo sin saber qué.
 
 Al pie de la escalinata, el lector de Dedos lloraba.
 
@@ -250,7 +248,7 @@ Maliketh miró la hoja sobre el yunque. Negra, sin brillo, todavía al rojo en e
 
 —Todo lleva palabras. —Isolde le apretó el brazo—. Aunque nadie las lea. Graba algo, Maliketh. Algo que sea tuyo. Que no sea de ella ni del Árbol ni de la muerte. Solo tuyo.
 
-La bestia se quedó mucho tiempo callada. Luego tomó un punzón fino de la mesa de herramientas, se inclinó sobre la hoja, y grabó, despacio, letra a letra, cerca de la empuñadura, en el lugar que la mano cubriría al empuñarla, una sola palabra. La escribió con las letras en relieve del libro de los ciegos, para que se pudiera leer con los dedos.
+La bestia tomó un punzón fino de la mesa de herramientas, se inclinó sobre la hoja, y grabó, despacio, letra a letra, cerca de la empuñadura, en el lugar que la mano cubriría al empuñarla, una sola palabra. La escribió con las letras en relieve del libro de los ciegos, para que se pudiera leer con los dedos.
 
 Isolde alargó la mano y la tocó.
 
@@ -278,7 +276,7 @@ El sumo sacerdote Avedis leyó los principios desde la escalinata, con su voz m�
 
 La gente lloró de alegría. Las madres levantaban a sus hijos para que vieran a la diosa. Los viejos se abrazaban. Hubo fiestas en todas las calles durante tres días, y en todas las tabernas se brindó por la Orden, por el Árbol, por la Reina que había vencido a la muerte.
 
-Burren, el párroco de los pantanos, que se había quedado en Leyndell porque ya no tenía un dios al que volver, estaba entre la multitud. No lloró. No brindó. Se quedó mirando la escalinata del Árbol, con las manos agarradas al amuleto de madera en forma de tortuga que llevaba al cuello, y cuando alguien a su lado le preguntó por qué no se alegraba, el párroco tardó en contestar.
+Burren, el párroco de los pantanos, que se había quedado en Leyndell porque ya no tenía un dios al que volver, estaba entre la multitud. No lloró. No brindó. Se quedó mirando la escalinata del Árbol, con las manos agarradas al amuleto de madera en forma de tortuga que llevaba al cuello, y cuando alguien a su lado le preguntó por qué no se alegraba, el párroco se encogió de hombros.
 
 —Mi dios tenía mil años —dijo al fin—. Una mujer vino y lo mató porque se creía eterno. Y ahora la ciudad entera celebra que nadie volverá a morir. —Negó con la cabeza—. No sé, hijo. Me parece que estamos celebrando lo mismo que ella vino a destruir.
 
@@ -336,9 +334,7 @@ Marika no fingió no entender.
 
 —Todavía no tienes hijos. —Godfrey lo dijo sin reproche, pero con algo de cansancio—. Llevamos cuarenta años esperándolos, Marika. Te los pedí la noche que me marché al sur, ¿te acuerdas? Me dijiste que tenías planes. Y luego no vinieron.
 
-Ella tardó en contestar.
-
-—No vinieron porque yo no quise —dijo al fin, muy bajo.
+—No vinieron porque yo no quise —dijo ella.
 
 Godfrey se volvió a mirarla.
 

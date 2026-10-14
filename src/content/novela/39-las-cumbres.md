@@ -4,23 +4,21 @@ Tardó toda la noche. Le habló de la llanura de las cruces y de Hornen. De Belu
 
 Melina escuchó sin interrumpir. Con las manos en el regazo, sobre la carta de Godwyn. Con el único ojo abierto fijo en la cara de Edda.
 
-Cuando Edda llegó a la parte de la tinaja —a la voz que preguntaba *¿eres tú, mi niña?*, a la niña de pelo claro que se escondía en los helechos, a *que la vi correr, que hizo bien, que no fue culpa suya*—, Melina se tapó la boca con la mano.
+Cuando Edda llegó a la parte de la tinaja —a la voz que preguntaba _¿eres tú, mi niña?_, a la niña de pelo claro que se escondía en los helechos, a _que la vi correr, que hizo bien, que no fue culpa suya_—, Melina se tapó la boca con la mano.
 
-No lloró. Se quedó así, con la mano en la boca, mucho tiempo.
+No lloró. Se quedó así, con la mano en la boca.
 
-—Mi abuela —dijo al fin, muy bajo, entre los dedos.
+—Mi abuela —dijo al fin, entre los dedos.
 
 —Sí.
 
 —Nunca supe su nombre. Nunca supe nada de ella. De ninguna de ellas. —Bajó la mano—. Solo sé que mi madre nació en un valle, de una mujer que hablaba con los árboles. Y que una noche llegaron hombres con cuernos. —Miró el brote de la bolsa de cuero, que Edda había dejado sobre el borde de la fuente, entre las dos—. ¿Cómo se llamaba?
 
-Edda tardó en contestar.
-
 —No me lo dijo —dijo—. No se lo pregunté. —Se miró las manos—. Debería habérselo preguntado. Se lo pregunto a todos.
 
 —No pasa nada. —Melina alargó la mano y tocó una de las hojas del brote con la punta del dedo, como había hecho al principio—. Ya lo sabremos.
 
-* * *
+---
 
 Al amanecer, cuando las hojas doradas empezaban a brillar con la primera luz, Melina se puso a cantar.
 
@@ -32,7 +30,7 @@ Era la nana de la tinaja. La que Yalda cantaba con su voz de vieja que desafinab
 
 —¿Dónde la has aprendido? —preguntó, cuando Melina terminó.
 
-Melina se quedó callada. Se miró las manos, sorprendida.
+Melina se miró las manos, sorprendida.
 
 —No lo sé —dijo—. Me ha salido sola. —Frunció el ceño—. Creo que… creo que alguien me la cantó una vez. Hace mucho. Antes de tener cuerpo. Antes de arder. —Se tocó el ojo cerrado—. Una mujer. Me sostuvo en brazos una sola vez, al pie de un árbol, y me la cantó. Y luego me dio a otra persona.
 
@@ -42,7 +40,7 @@ La única vez.
 
 Miró el brote. Las cuatro hojas se habían vuelto hacia Melina. Todas. Como se vuelven las plantas hacia el sol.
 
-* * *
+---
 
 Esa mañana, antes de salir hacia el norte, Edda volvió a la Mesa Redonda.
 
@@ -74,7 +72,7 @@ Roderika sonrió. Se volvió hacia la puerta de la fragua.
 
 Por la puerta asomó una niña. Diez años, quizá once. Pelo largo, enredado. Un vestido limpio, remendado. Y un brazo de más. Un brazo adulto, de hombre, cosido al costado izquierdo, vendado con cuidado, que colgaba inmóvil. La niña miró a Edda con unos ojos enormes, oscuros, que ya no estaban vacíos de todo salvo de miedo.
 
-Se quedó quieta en la puerta mucho tiempo.
+Se quedó quieta en la puerta, con un pie dentro y otro fuera, como los gatos.
 
 Luego cruzó la fragua despacio, se detuvo delante de Edda, y le tendió la mano. La suya. La pequeña.
 
@@ -88,7 +86,7 @@ Edda le cogió la mano. Se arrodilló delante de ella, como se había arrodillad
 
 —Lo sé —dijo—. Me lo dijiste.
 
-* * *
+---
 
 Hewg dejó el martillo en el yunque.
 
@@ -116,11 +114,11 @@ Hewg se quedó inmóvil con el martillo en alto.
 
 —Lo que quedaba de ella. En una tinaja. Le cantaba a su hija desde dentro. —Edda se tocó la bolsa del cuello—. Llevo lo que salió de la tinaja. Para dárselo a ella. Si llego.
 
-Hewg no dijo nada durante mucho tiempo. Luego bajó el martillo, despacio, y golpeó el hierro. Una vez. Muy suave.
+Hewg escupió en la fragua. Luego bajó el martillo, despacio, y golpeó el hierro. Una vez. Muy suave.
 
 —Estaba cansada —dijo, sin mirarla—. Cuando bajó a verme, la noche que me pidió el arma. Te lo dije. Era la mujer más hermosa que he visto nunca, y estaba tan cansada que me dio pena. —Golpeó otra vez—. Ahora entiendo por qué.
 
-* * *
+---
 
 En lo alto de su escalera, en la galería, entre pilas de libros, Gideon Ofnir la estaba esperando.
 
@@ -132,13 +130,13 @@ No bajó. La miró desde arriba, con su yelmo de pájaro y su capa de plumas gri
 
 —Ya lo veo. —El Omnisciente se quedó mirándola. A la serpiente roja enroscada en su cuello. A la caja atada al costado. A la bolsa de cuero del pecho—. Y traes cosas. —Hizo una pausa—. Cuéntame lo que has visto. Era el trato, ¿recuerdas? Yo te digo lo que sé, y tú me cuentas lo que ves.
 
-Edda se lo contó. No todo. Le habló de la tierra borrada, de los Cornudos, de Messmer, de la Madre de los Dedos, de Miquella. No le habló de la tinaja. No le habló del umbral. No le habló de la piedra azul.
+Edda se lo contó. No todo. Le habló de la tierra borrada, de los Cornamentados, de Messmer, de la Madre de los Dedos, de Miquella. No le habló de la tinaja. No le habló del umbral. No le habló de la piedra azul.
 
-Gideon escuchó en silencio, inmóvil. A veces apuntaba algo en un cuaderno con una pluma fina. Cuando Edda terminó, se quedó un largo rato callado.
+Gideon escuchó en silencio, inmóvil. A veces apuntaba algo en un cuaderno con una pluma fina. Cuando Edda terminó, terminó él también su nota, sin prisa, y secó la tinta con arena.
 
-—La Madre de los Dedos —dijo al fin, muy bajo—. Muerta. —Dejó la pluma—. Y la Voluntad Mayor le había dejado de hablar. Hace siglos. —Se volvió hacia la galería, hacia los libros—. Eso lo cambia todo, ¿sabes? Si la Voluntad ya no habla con la madre, los Dedos no reciben mensajes. Y si los Dedos no reciben mensajes, todo lo que nos dicen los Dos Dedos de abajo… —Se detuvo—. Todo lo que nos dicen se lo inventan ellos.
+—La Madre de los Dedos. Muerta. Fascinante. —Dejó la pluma—. Y la Voluntad Mayor le había dejado de hablar. Hace siglos. —Se volvió hacia la galería, hacia los libros—. Eso lo cambia todo, ¿sabes? Si la Voluntad ya no habla con la madre, los Dedos no reciben mensajes. Y si los Dedos no reciben mensajes, todo lo que nos dicen los Dos Dedos de abajo… —Se detuvo—. Todo lo que nos dicen se lo inventan ellos.
 
-Edda pensó en Enia, traduciendo los signos con los ojos blancos. *No te corresponde a ti decidirlo. El orden es el orden.*
+Edda pensó en Enia, traduciendo los signos con los ojos blancos. _No te corresponde a ti decidirlo. El orden es el orden._
 
 —Lo sospechaba —dijo.
 
@@ -178,11 +176,11 @@ Gideon se quedó inmóvil.
 
 —¿Y te hace caso?
 
-Hubo un silencio largo.
+Gideon tamborileó con los dedos sobre el cuaderno.
 
 —Nunca —dijo Gideon, y Edda habría jurado que, detrás del yelmo de pájaro, había algo parecido a una sonrisa.
 
-* * *
+---
 
 Melina la estaba esperando en la puerta de la Fortaleza, junto a la gracia del vestíbulo. No podía entrar. Pero estaba allí.
 
@@ -196,7 +194,7 @@ Melina la estaba esperando en la puerta de la Fortaleza, junto a la gracia del v
 
 Melina casi sonrió.
 
-* * *
+---
 
 La Gran Puerta de Rold estaba al final de un camino de piedra que salía de la capital por el norte y subía hacia las montañas entre colinas de hierba dorada que se iban volviendo grises, luego blancas.
 
@@ -208,7 +206,7 @@ La puerta tembló. Un temblor profundo, que subió por el suelo y le llegó a lo
 
 Al otro lado, las Cumbres eran un mundo de hielo.
 
-* * *
+---
 
 Montañas blancas, altísimas, que se perdían en las nubes. Valles de nieve virgen, tan blancos que dolían los ojos. Glaciares azules, agrietados, que crujían como huesos viejos. Lagos helados, lisos como espejos, que reflejaban un cielo gris, bajo, cargado de nieve. Y un viento constante, frío, que cortaba la piel como cuchillos y aullaba entre las rocas como un animal herido.
 
@@ -220,7 +218,7 @@ Huesos enormes, tan grandes como casas, medio enterrados en la nieve. Cráneos d
 
 —¿Qué les pasó?
 
-—Lo mismo que a los Cornudos. —Melina bajó la vista—. Los exterminó. A todos. Menos a uno.
+—Lo mismo que a los Cornamentados. —Melina bajó la vista—. Los exterminó. A todos. Menos a uno.
 
 —¿A uno?
 
@@ -228,21 +226,19 @@ Huesos enormes, tan grandes como casas, medio enterrados en la nieve. Cráneos d
 
 Edda se quedó mirando la columna de humo.
 
-Pensó en Iji, en la torre de Ranni, tocando su collar de cuentas de hierro. *Dicen que hay un gigante todavía, uno solo, en lo alto de una montaña, al norte. Uno de barba roja que lleva cuentas iguales en la barba. Un pariente lejano. A veces pienso en él. En que está solo allí arriba.*
+Pensó en Iji, en la torre de Ranni, tocando su collar de cuentas de hierro. _Dicen que hay un gigante todavía, uno solo, en lo alto de una montaña, al norte. Uno de barba roja que lleva cuentas iguales en la barba. Un pariente lejano. A veces pienso en él. En que está solo allí arriba._
 
 —¿Tiene nombre? —preguntó.
 
-Melina tardó en contestar.
-
 —No lo sé —dijo—. Nadie lo sabe. Nadie ha subido hasta allí en eras.
 
-* * *
+---
 
 En lo alto de una de las primeras cumbres, sobre un saliente de roca que miraba al norte, Edda encontró una tumba.
 
 Era pequeña. Un montón de piedras grises, apiladas con cuidado, cubiertas de nieve y de líquenes. Muy antigua. Más antigua que cualquier cosa que hubiera visto en las Tierras Intermedias, salvo quizá las ciudades eternas. En la piedra más grande, alguien había grabado una palabra. Las letras eran toscas, profundas, como si las hubiera hecho alguien con una herramienta mala y mucha paciencia.
 
-*Crisol.*
+_Crisol._
 
 Edda se agachó junto a la tumba. Pasó los dedos por las letras.
 
@@ -258,17 +254,17 @@ Edda pensó en Sellen, en su celda, hablando de un tal Iven que había bajado de
 
 —No lo sé. —Melina se tocó el ojo cerrado—. Cada vez más cerca del fuego, más cosas. Como en Nokron. Como en la capital.
 
-Edda se quedó un rato junto a la tumba. Luego se agachó y, de entre las piedras de la base, sacó una pequeña. No del montón —no quería deshacer nada—, sino del suelo, al lado: una piedra plana, gris, con vetas de colores, rojo, azul, verde, como si alguien hubiera dejado caer allí un trozo de arcoíris hacía mucho tiempo y la nieve lo hubiera conservado.
+Edda se quedó un rato junto a la tumba. Luego se agachó y, de entre las piedras de la base, sacó una pequeña. No del montón —no quería deshacer nada—, sino del suelo, al lado: una piedra plana, gris, con vetas de colores, rojo, azul, verde, como si alguien hubiera dejado caer allí un trozo de arcoíris antes de las eras y la nieve lo hubiera conservado.
 
 Una piedra de colores.
 
-Se quedó mirándola en la palma de la mano mucho tiempo. *Le prometí que volvería para la cosecha. Le prometí que le traería una piedra de colores.*
+La sostuvo en la palma hasta que se le entumecieron los dedos. _Le prometí que volvería para la cosecha. Le prometí que le traería una piedra de colores._
 
 La decimosexta.
 
 No la guardó en la bolsa con las otras. La guardó aparte. En el bolsillo de dentro de la capa, junto a la azul.
 
-* * *
+---
 
 En un campamento abandonado, al pie de una montaña, encontraron a Corhyn.
 
@@ -292,13 +288,13 @@ No del todo. Todavía no. Pero en el fondo de las pupilas, como una vela detrás
 
 —¿Qué ha pasado?
 
-Corhyn se volvió hacia Máscara Dorada. Lo miró durante mucho tiempo.
+Corhyn se volvió hacia Máscara Dorada.
 
-—Lo seguí —dijo—. Desde el puente. Subió aquí hace meses, buscando el fallo de la Orden. Decía que estaba aquí arriba, en las cumbres, cerca del fuego. Que aquí lo vería claro. —Le tembló la voz—. Y lo vio. Una mañana se sentó en esa roca, miró al cielo, levantó el dedo… y se quedó así.
+—Lo seguí —dijo—. Desde el puente. Subió aquí hace meses, buscando el fallo de la Orden. Decía que estaba aquí arriba, en las cumbres, cerca del fuego. Que aquí lo vería claro. Y lo vio. Una mañana se sentó en esa roca, miró al cielo, levantó el dedo… y se quedó así.
 
 —¿Qué vio?
 
-—No lo sé. No llegó a decírmelo. —Corhyn se miró las manos, azuladas, temblorosas—. Me quedé a su lado. Esperando a que hablara. Días. Semanas. Le traía agua. No la bebía. —Se le quebró la voz—. Y una mañana me di cuenta de que estaba muerto. Y de que yo había estado hablándole a un muerto durante una semana.
+—No lo sé. No llegó a decírmelo. —Corhyn se miró las manos, azuladas, temblorosas—. Me quedé a su lado. Esperando a que hablara. Días. Semanas. Le traía agua. No la bebía. Se le meó encima, sentado, y no se movió. Yo lo limpiaba. Y una mañana me di cuenta de que estaba muerto. Y de que yo había estado hablándole a un muerto durante una semana.
 
 Edda se arrodilló a su lado, en la nieve.
 
@@ -310,31 +306,31 @@ Edda se arrodilló a su lado, en la nieve.
 
 —Que no hay nadie al otro lado. —A Corhyn se le quebró la voz del todo—. Toda mi vida predicando la armonía del Árbol, el sentido de todo, la Voluntad que lo ordena. Consolando a madres diciéndoles que sus hijos estaban en las raíces. Diciéndole a la gente que las cosas dejaban de ser absurdas. —Se tapó la cara con las manos—. Y no hay nadie. Nadie escucha. Nadie ordena nada. Es todo absurdo. Siempre lo fue.
 
-Edda pensó en Gideon, en lo alto de su escalera. *Como una rueda que sigue girando después de que alguien deje de empujarla.*
+Edda pensó en Gideon, en lo alto de su escalera. _Como una rueda que sigue girando después de que alguien deje de empujarla._
 
 —Corhyn…
 
 —Y entonces la oí. —Corhyn bajó las manos. Los ojos le brillaban amarillos, ya casi del todo—. La voz. Desde dentro. Me dijo que tenía razón. Que todo era absurdo. Que todo sufría. Que la única forma de que dejara de ser absurdo era que todo fuera uno. Que la llama lo arreglaba. —Sonrió, una sonrisa terrible—. Es muy razonable, ¿sabes? Es lo más razonable que he oído nunca.
 
-—Lo sé. Me lo dijeron a mí también.
+—A mí me lo dijeron también.
 
 —¿Y por qué no la escuchaste?
 
-Edda tardó en contestar. Se tocó el bolsillo de dentro. La piedra azul. La piedra de colores.
+Edda se tocó el bolsillo de dentro. La piedra azul. La piedra de colores.
 
 —Porque hay cosas que elegí querer —dijo—. Y no quiero que se fundan.
 
-Corhyn la miró durante mucho tiempo. La luz amarilla parpadeó en sus ojos. Se encendió. Se apagó. Se encendió otra vez.
+Corhyn la miró. La luz amarilla parpadeó en sus ojos. Se encendió. Se apagó. Se encendió otra vez.
 
-—Yo no elegí nada —dijo al fin, muy bajo—. Nunca. La fe la elegí porque me la dieron. La Orden porque era lo que había. A él… —Miró a Máscara Dorada—. A él lo seguí porque me dijo algo verdadero. —Se le quebró la voz—. Nunca elegí querer nada que fuera mío.
+—Yo no elegí nada —dijo al fin—. Nunca. La fe la elegí porque me la dieron. La Orden porque era lo que había. A él… —Miró a Máscara Dorada—. A él lo seguí porque me dijo algo verdadero. Nunca elegí querer nada que fuera mío.
 
-* * *
+---
 
 —¿Quieres que te diga una cosa? —dijo Corhyn, de pronto.
 
 —Dime.
 
-—Si la llama me coge del todo —dijo el sacerdote, mirándola con los ojos casi amarillos—, voy a bajar de aquí. Voy a ir a la capital. Voy a buscar a alguien a quien darle la llama. A quien sea. A una muchacha ciega. A un soldado. A un niño. —Le tembló la voz—. Lo sé. Lo noto. Ya lo estoy deseando.
+—Si la llama me coge del todo —dijo el sacerdote, mirándola con los ojos casi amarillos—, voy a bajar de aquí. Voy a ir a la capital. Voy a buscar a alguien a quien darle la llama. A quien sea. A una muchacha ciega. A un soldado. A un niño. Lo noto. Ya lo estoy deseando.
 
 —Corhyn.
 
@@ -350,21 +346,21 @@ La luz amarilla se encendió en sus ojos y ya no se apagó.
 
 Corhyn sonrió. Y no era su sonrisa.
 
-—*Hola, Sinluz* —dijo, con una voz que no era la suya. Una voz suave, cálida, razonable—. *Cuánto tiempo. Desde la puerta de abajo. Desde la casa de Midra. Desde el jardín de oro. Siempre estás a punto. Siempre casi.*
+—_Hola, Sinluz_ —dijo, con una voz que no era la suya. Una voz suave, cálida, razonable—. _Cuánto tiempo. Desde la puerta de abajo. Desde la casa de Midra. Desde el jardín de oro. Siempre estás a punto. Siempre casi._
 
 Edda soltó la mano.
 
-—*Ya no soy el sacerdote* —dijo la voz, con la boca de Corhyn—. *El sacerdote se ha ido. Te ha pedido algo y se ha ido. Me llamo Shabriri. Quizá hayas oído hablar de mí. Las uvas de la muchacha ciega eran mis ojos. Los soldados de Gelmir me vieron en el fondo de los suyos. La carta del muchacho de diecinueve años, la de la grieta… esa me la dedicó a mí.* —Se rio—. *Tengo miedo de que, cuando la vea, me guste. Y le gustó, Sinluz. Al final le gustó.*
+—_Ya no soy el sacerdote_ —dijo la voz, con la boca de Corhyn—. _El sacerdote se ha ido. Te ha pedido algo y se ha ido. Me llamo Shabriri. Quizá hayas oído hablar de mí. Las uvas de la muchacha ciega eran mis ojos. Los soldados de Gelmir me vieron en el fondo de los suyos. La carta del muchacho de diecinueve años, la de la grieta… esa me la dedicó a mí._ —Se rio—. _Tengo miedo de que, cuando la vea, me guste. Y le gustó, Sinluz. Al final le gustó._
 
 Edda se levantó despacio. Desenvainó.
 
-—*Vas a matar a un sacerdote que te dio pan* —dijo Shabriri, levantándose también, con el cuerpo de Corhyn, tambaleándose—. *Vas a matarlo de rodillas en la nieve, junto a su maestro muerto. Y eso también lo vas a llevar encima. Uno más. ¿Cuántos van? ¿No pesan ya bastante?*
+—_Vas a matar a un sacerdote que te dio pan_ —dijo Shabriri, levantándose también, con el cuerpo de Corhyn, tambaleándose—. _Vas a matarlo de rodillas en la nieve, junto a su maestro muerto. Y eso también lo vas a llevar encima. Uno más. ¿Cuántos van? ¿No pesan ya bastante?_
 
 —Pesan —dijo Edda—. Pero son míos.
 
-—*Volveré* —dijo Shabriri, sonriendo—. *Siempre vuelvo. Mientras haya alguien que sufra, yo volveré. En otro cuerpo. En otros ojos.*
+—_Volveré_ —dijo Shabriri, sonriendo—. _Siempre vuelvo. Mientras haya alguien que sufra, yo volveré. En otro cuerpo. En otros ojos._
 
-—Lo sé.
+—Ya.
 
 Edda le clavó la espada. Limpio. Una sola vez. En el pecho, hacia arriba. Como se le da la muerte a un amigo.
 
@@ -376,7 +372,7 @@ Y durante un instante, solo un instante, antes de caer, los ojos fueron otra vez
 
 Y cayó en la nieve, junto a la roca de Máscara Dorada.
 
-* * *
+---
 
 Edda los enterró juntos. Al maestro y al discípulo. Al pie de la roca donde uno había muerto mirando al cielo y el otro de rodillas a su lado.
 
@@ -384,23 +380,23 @@ Le costó mucho. La tierra estaba helada. Tuvo que cavar con la espada, con las 
 
 A Máscara Dorada le dejó la máscara puesta. No quiso verle la cara.
 
-A Corhyn le puso el libro de oraciones sobre el pecho. Lo encontró en la nieve, junto a la hoguera apagada, empapado, con las páginas pegadas. Lo abrió por una página cualquiera antes de cerrarlo. Era una oración para los muertos. *Que encuentres la raíz. Que vuelvas al Árbol. Que todo tenga sentido.*
+A Corhyn le puso el libro de oraciones sobre el pecho. Lo encontró en la nieve, junto a la hoguera apagada, empapado, con las páginas pegadas. Lo abrió por una página cualquiera antes de cerrarlo. Era una oración para los muertos. _Que encuentres la raíz. Que vuelvas al Árbol. Que todo tenga sentido._
 
 No había nadie al otro lado para oírla. Pero Edda la leyó igual, en voz alta, en la nieve.
 
 Luego grabó en una piedra plana, con la punta del cuchillo:
 
-*Corhyn, que consolaba.*
+_Corhyn, que consolaba._
 
 Y debajo, más pequeño:
 
-*Aunque mintiera. Ayudó.*
+_Aunque mintiera. Ayudó._
 
-* * *
+---
 
 Esa noche acamparon en un refugio de piedra, junto a los huesos de un gigante. Hacía tanto frío que la serpiente roja se metió dentro de la capa de Edda, contra el pecho, y no quiso salir.
 
-Melina estuvo callada mucho tiempo. Luego habló.
+Melina estuvo callada hasta que la serpiente asomó otra vez la cabeza. Luego habló.
 
 —Eso que te dijo. Shabriri. Que siempre vuelve.
 
@@ -408,19 +404,17 @@ Melina estuvo callada mucho tiempo. Luego habló.
 
 —Es verdad. —Melina se abrazó las rodillas—. La llama no muere. Solo se apaga en un sitio y se enciende en otro. Mientras haya sufrimiento, tendrá dónde arder. —Hizo una pausa—. La noto. Desde que bajamos a la puerta, bajo la capital. Aquí. —Se tocó el ojo cerrado—. A veces se enciende. Sin que yo quiera. Como una brasa a la que alguien sopla.
 
-Edda la miró. Pensó en Midra. *Vigila qué luz le sale del ojo cuando llegue el momento.*
+Edda la miró. Pensó en Midra. _Vigila qué luz le sale del ojo cuando llegue el momento._
 
 —¿De qué color?
 
-Melina tardó en contestar.
-
-—No lo sé —dijo al fin, muy bajo—. No puedo verme el ojo. —Se volvió hacia ella—. ¿Tú lo has visto?
+—No lo sé —dijo—. No puedo verme el ojo. —Se volvió hacia ella—. ¿Tú lo has visto?
 
 Edda pensó en la noche del acantilado de Liurnia. En la luz ámbar, cálida.
 
 —Una vez —dijo—. Era ámbar. Como la miel al sol.
 
-Melina se quedó mirándola mucho tiempo.
+Melina se quedó mirándola.
 
 —¿Ámbar? —repitió.
 
@@ -430,7 +424,7 @@ Melina se quedó mirándola mucho tiempo.
 
 —No.
 
-Melina soltó el aire despacio, como si lo hubiera estado aguantando mucho tiempo.
+Melina soltó el aire despacio, como si lo hubiera estado aguantando desde que nació.
 
 —Avísame si cambia —dijo—. Por favor. Si alguna vez la ves cambiar. Avísame.
 

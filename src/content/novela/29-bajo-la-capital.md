@@ -36,11 +36,11 @@ Melina se había quedado unos pasos atrás. Se acercó entonces. El viejo la vio
 
 —Soy su hermana —dijo Melina—. Me lo han dicho tarde. Pero lo soy.
 
-Bram se la quedó mirando un largo rato. Luego se levantó otra vez, despacio, con esfuerzo. Y se arrodilló en el suelo, junto a la puerta, delante de ella. Igual que había hecho su abuelo en mitad de la plaza, siglos atrás, cuando todos los demás escupían.
+Bram se la quedó mirando. Luego se levantó otra vez, despacio, con esfuerzo. Y se arrodilló en el suelo, junto a la puerta, delante de ella. Igual que había hecho su abuelo en mitad de la plaza, siglos atrás, cuando todos los demás escupían.
 
 Melina no supo qué hacer. Se quedó de pie, con las manos en el pecho, sobre la carta. Luego se arrodilló también, delante de él, y le tomó las manos.
 
-No se dijeron nada. No hizo falta.
+No se dijeron nada.
 
 * * *
 
@@ -56,7 +56,7 @@ La encontró al día siguiente, en la capital, sentada junto a una gracia en un 
 
 —Ya no las necesito. —Hyetta sonrió con sus dientes manchados—. Ya veo el camino. Lo veo incluso con los ojos cerrados. Sobre todo con los ojos cerrados. —Levantó la cara hacia Edda—. Solo necesito que me acompañes. Que me des la mano en las escaleras.
 
-Edda dudó mucho tiempo. Pensó en el aviso de Enia. *Ya ha empezado a buscarte. Huele a ti.* Pensó en la luz amarilla en los ojos de los soldados de Gelmir, en la carta de Corvin, en *tengo miedo de que, cuando la vea, me guste*.
+Edda dudó. Pensó en el aviso de Enia. *Ya ha empezado a buscarte. Huele a ti.* Pensó en la luz amarilla en los ojos de los soldados de Gelmir, en la carta de Corvin, en *tengo miedo de que, cuando la vea, me guste*.
 
 Luego pensó que Hyetta bajaría igualmente. Sola. Ciega. Que se caería en alguna escalera y moriría en las cloacas sin que nadie supiera su nombre.
 
@@ -82,7 +82,7 @@ Era un árbol. Un árbol enorme, dorado —alguien había frotado polvo de algo 
 
 Debajo, con letras grandes, torpes, grabadas en la piedra con algo puntiagudo, ponía: *ISOLDE*.
 
-Edda se quedó mucho tiempo delante del dibujo.
+Edda se quedó delante del dibujo.
 
 —Morgott —dijo Hyetta, a su lado, aunque no podía verlo—. Él lo dibujó. Lo noto. Hay mucho amor en esta pared. Y mucho frío.
 
@@ -144,7 +144,7 @@ Antes de desaparecer del todo, la cara del reflejo se volvió hacia ella. Ya no 
 
 —Sí.
 
-El reflejo se quedó callado. La sangre le goteaba de los cuernos.
+La sangre le goteaba al reflejo de los cuernos.
 
 —Dile… —empezó, y se detuvo. Luego se corrigió—. No. No puedes decirle nada. Ya no. —Cerró los ojos rojos—. Dile a quien lo recuerde que la Madre también lo habría querido. Que lo intenté. Que bajé a buscarla para los dos.
 
@@ -154,7 +154,7 @@ Y se deshizo.
 
 Más allá del templo, por la izquierda, como había dicho Hyetta, bajaba una escalera de caracol que se hundía en la tierra. Era estrecha, de piedra negra, y los peldaños estaban gastados en el centro como los de la escalera del pozo de Nokron, como si muchos pies hubieran bajado por ella. Muchos más pies de los que nunca habían subido.
 
-Bajaron durante mucho tiempo. Hacía cada vez más calor. Un calor seco, distinto del de Gelmir, que no venía de ningún sitio concreto sino de todas partes, de las paredes, del aire, de dentro del propio cuerpo. Edda empezó a sudar. Le picaban los ojos.
+Bajaron durante horas. Hacía cada vez más calor. Un calor seco, distinto del de Gelmir, que no venía de ningún sitio concreto sino de todas partes, de las paredes, del aire, de dentro del propio cuerpo. Edda empezó a sudar. Le picaban los ojos.
 
 Hyetta, en cambio, estaba cada vez más tranquila. Le había soltado la mano a mitad de la escalera y bajaba sola, deprisa, con una seguridad absoluta, tarareando algo en voz baja.
 
@@ -250,7 +250,7 @@ El Comedor de Estiércol dejó de reírse. La miró, sorprendido, como si nadie 
 
 —Entiendo que te hicieron daño. —Edda se apartó de los barrotes—. Y que quieres que todo el mundo sienta lo mismo que tú, para no estar solo. —Hizo una pausa—. Hay una muchacha ahí abajo, junto a una puerta, que quiere lo mismo. Con fuego en vez de con maldiciones.
 
-El hombre se quedó callado. Volvió a sentarse en el suelo de la celda, despacio, con la cadena tintineando.
+El hombre volvió a sentarse en el suelo de la celda, despacio, con la cadena tintineando.
 
 —Vete —dijo, sin mirarla—. Vete, Sinluz. No me mires más.
 
@@ -274,13 +274,13 @@ Melina cerró los ojos. Durante un instante se le aflojó todo el cuerpo, como s
 
 —Casi entro —dijo Edda.
 
-—Lo sé.
+—Lo he notado.
 
 —Me ha dicho que Arn y yo seríamos lo mismo. Que no habría distancia. —Edda se miró las manos—. Durante un momento lo he querido. Con todo el cuerpo.
 
 Melina no dijo nada. Se sentó a su lado, en el borde de la fuente seca, junto a la muñeca de trapo.
 
-—Si hubieras entrado —dijo al fin, muy bajo—, habría tenido que matarte.
+—Si hubieras entrado —dijo al fin—, habría tenido que matarte.
 
 Edda la miró, sorprendida.
 
@@ -296,13 +296,11 @@ Se quedaron un rato en silencio.
 
 —¿Por qué no has entrado?
 
-Edda tardó en contestar.
-
 —Porque si todo se funde en uno —dijo al fin—, no habrá nadie a quien mirar cuando caiga.
 
-Melina se quedó mirándola un largo rato. Luego, despacio, apoyó la cabeza en su hombro. Como había hecho Millicent en el patio del Castillo Melenarroja. Como hacía Arn cuando estaba cansado.
+Melina se quedó mirándola. Luego, despacio, apoyó la cabeza en su hombro. Como había hecho Millicent en el patio del Castillo Melenarroja. Como hacía Arn cuando estaba cansado.
 
-Edda no se movió. Se quedaron así mucho tiempo, en el borde de la fuente seca, con la muñeca de trapo a su lado, mirando las hojas caer.
+Edda no se movió. Se quedaron así en el borde de la fuente seca, con la muñeca de trapo a su lado, mirando las hojas caer.
 
 * * *
 
@@ -334,7 +332,7 @@ Se fue. Sus pasos se perdieron en el pasillo, ligeros, como de bailarín.
 
 A la mañana siguiente, junto a la gracia del vestíbulo, Edda encontró el trapo doblado con cuidado sobre la piedra. Estaba empapado de una sangre fresca, roja, todavía tibia. Varré lo había dejado allí para ella. Ya manchado.
 
-Se quedó mucho tiempo mirándolo. No lo tocó.
+Se quedó mirándolo. No lo tocó.
 
 No preguntó de quién era la sangre. Tenía miedo de saberlo.
 

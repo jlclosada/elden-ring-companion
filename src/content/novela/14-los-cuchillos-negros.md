@@ -2,7 +2,7 @@ Ranni no quería ser diosa. Quería no tener dueño.
 
 Lo supo una noche, siendo todavía muy joven, al ver por primera vez a los Dedos que la habían elegido. Fue en lo alto de la Torre Divina de Liurnia, una aguja de piedra que se alzaba sobre el lago y donde los Empíreos acudían a escuchar a sus guías. Había subido sola, de noche, sin decírselo a nadie, porque los Dedos la habían llamado en sueños. Subió los mil escalones de la torre con el corazón golpeándole el pecho, y en lo alto, en una plataforma abierta al viento helado del lago, los encontró esperándola.
 
-Flotaban en el aire, largos y pálidos, articulados como dedos humanos pero del tamaño de un hombre. Dibujaban signos de luz que hablaban de un destino glorioso: un Anillo, un Árbol, un trono. Una diosa nueva para una era nueva. Ranni los escuchó en silencio durante mucho tiempo, con el viento revolviéndole el pelo azul.
+Flotaban en el aire, largos y pálidos, articulados como dedos humanos pero del tamaño de un hombre. Dibujaban signos de luz que hablaban de un destino glorioso: un Anillo, un Árbol, un trono. Una diosa nueva para una era nueva. Ranni los escuchó sin interrumpir, con el viento revolviéndole el pelo azul.
 
 Cuando terminaron, preguntó lo mismo que había preguntado Marika muchísimo tiempo antes, en un valle alto de una tierra ahora olvidada.
 
@@ -40,11 +40,11 @@ Ranni no contestó enseguida. Miró hacia el este, hacia el resplandor del Árbo
 
 —Con la muerte —dijo—. Con la de verdad. La que la diosa le quitó al mundo.
 
-Blaidd la miró durante mucho tiempo.
+Blaidd la miró.
 
 —Eso es imposible.
 
-—Lo sé.
+—Por eso nadie lo ha hecho.
 
 —Y si fuera posible, sería terrible.
 
@@ -52,7 +52,7 @@ Blaidd la miró durante mucho tiempo.
 
 El lobo bajó la cabeza.
 
-—Yo no te sirvo porque esté obligado —dijo, muy bajo—. Te sirvo porque eres mi hermana.
+—Yo no te sirvo porque esté obligado —gruñó—. Te sirvo porque eres mi hermana.
 
 Ranni no dijo nada. Pero aquella noche, cuando se fue a dormir, dejó la puerta de su cuarto abierta, como cuando era pequeña, para oír la respiración del lobo en la escalera.
 
@@ -68,9 +68,9 @@ Tardó diez años en encontrar la manera. Diez años de estudio en la biblioteca
 
 —¿Quién?
 
-La bruja no contestó. No hizo falta.
+La bruja no contestó.
 
-Ranni se quedó mirando el fuego durante mucho tiempo.
+Ranni se quedó mirando el fuego.
 
 —¿Y si me dice que no?
 
@@ -82,7 +82,7 @@ La vieja sonrió. Era una sonrisa triste, de alguien que ha visto muchas cosas.
 
 —Porque ella también fue una niña a la que los Dedos eligieron sin preguntarle —dijo—. Y nunca ha dejado de serlo.
 
-La bruja de las nieves murió aquel invierno, en su cabaña, junto al fuego. Ranni la encontró por la mañana, sentada en su silla, con los ojos blancos abiertos mirando las llamas apagadas. La enterró en el bosque, bajo la nieve, con sus propias manos. Y antes de enterrarla, le miró la cara durante mucho tiempo: los pómulos altos, la boca fina, la piel pálida como la escarcha. Se la aprendió de memoria.
+La bruja de las nieves murió aquel invierno, en su cabaña, junto al fuego. Ranni la encontró por la mañana, sentada en su silla, con los ojos blancos abiertos mirando las llamas apagadas. La enterró en el bosque, bajo la nieve, con sus propias manos. Y antes de enterrarla, le miró la cara hasta que la nieve empezó a cubrírsela: los pómulos altos, la boca fina, la piel pálida como la escarcha. Se la aprendió de memoria.
 
 Años después, cuando mandó fabricar la muñeca, le pidió al artesano que le diera aquella cara.
 
@@ -108,7 +108,7 @@ Se quedaron mirándose un largo momento. Dos Empíreas. Una que había sido eleg
 
 —Los Dedos me han elegido —dijo Ranni—. Dicen que seré diosa. Tu sucesora, quizá. O tu rival.
 
-—Lo sé.
+—Me lo dijeron antes que a ti.
 
 —No quiero.
 
@@ -118,15 +118,15 @@ Marika la miró con algo que Ranni no esperaba ver en la cara de una diosa: reco
 
 —Les pregunté qué pasaría si no quería. —Ranni dio un paso hacia ella—. No me contestaron. Siguieron escribiendo los mismos signos, como si yo no hubiera hablado. ¿A ti te contestaron, cuando se lo preguntaste?
 
-Marika tardó mucho en responder.
+Marika apartó la vista hacia el Árbol.
 
 —Me dieron una sombra —dijo—. Para que dejara de preguntar.
 
 —A mí también.
 
-—Lo sé. Un lobo. Blaidd. —Marika sonrió apenas—. Te quiere. Se le nota en cómo te mira desde la escalinata de la mansión. Lo he visto en sueños.
+—Un lobo. Blaidd. —Marika sonrió apenas—. Te quiere. Se le nota en cómo te mira desde la escalinata de la mansión. Lo he visto en sueños.
 
-Ranni se quedó callada. Luego, despacio, se arrodilló. No como se arrodilla un súbdito ante su reina. Como se arrodilla alguien que va a pedir algo imposible.
+Ranni se arrodilló. No como se arrodilla un súbdito ante su reina. Como se arrodilla alguien que va a pedir algo imposible.
 
 —Quiero ser libre —dijo—. De los Dedos. De la Voluntad. Del Anillo. De todo lo que escribe en mí sin preguntarme. Y solo hay una manera. —Levantó la vista hacia la diosa—. Sabes cuál es.
 
@@ -140,7 +140,7 @@ Marika no se movió.
 
 Ranni se quedó de rodillas, mirando la espalda de la diosa.
 
-—Mi hermano Godwyn —dijo Marika, sin volverse, con una voz extraña, distante, como si hablara de otra cosa— tiene una compañera del lecho de muerte. Una mujer que abraza a los moribundos. Se ven a medianoche en los claustros de los hospitales. Él cree que nadie lo sabe. —Hizo una pausa—. Es el más amado de todos mis hijos. Si algún día le pasara algo, el mundo entero lloraría. Nadie miraría hacia ningún otro sitio durante mucho tiempo. Ni hacia un lago. Ni hacia una torre.
+—Mi hermano Godwyn —dijo Marika, sin volverse, con una voz extraña, distante, como si hablara de otra cosa— tiene una compañera del lecho de muerte. Una mujer que abraza a los moribundos. Se ven a medianoche en los claustros de los hospitales. Él cree que nadie lo sabe. —Hizo una pausa—. Es el más amado de todos mis hijos. Si algún día le pasara algo, el mundo entero lloraría. Nadie miraría hacia ningún otro sitio en años. Ni hacia un lago. Ni hacia una torre.
 
 Ranni sintió que se le helaba la sangre.
 
@@ -152,11 +152,11 @@ Ranni se quedó paralizada. Luego, despacio, se levantó.
 
 —Es tu hijo —susurró—. Godwyn. Es tu hijo.
 
-—Lo sé.
+—Lo parí yo. No hace falta que me lo recuerdes.
 
 —¿Y aun así…?
 
-La diosa la miró durante mucho tiempo. Tenía los ojos secos. Las manos le temblaban, pero solo un poco.
+La diosa la miró. Tenía los ojos secos. Las manos le temblaban, pero solo un poco.
 
 —Yo también quise ser libre una vez —dijo al fin—. En lo alto de una torre. Y no lo fui. Me llenaron. —Se acercó a Ranni y le puso una mano en la mejilla, como una madre—. No dejes que te llenen a ti, niña. Cueste lo que cueste. Aunque me cueste a mí.
 
@@ -188,7 +188,7 @@ Tenía una aprendiz. Una muchacha de diecinueve años, menuda, de pelo negro y u
 
 —¿A quién vamos a matar? —le preguntó Tiche, la noche en que Ranni les entregó los cuchillos en el bosque helado.
 
-Alecto no contestó enseguida. Tenía uno de los cuchillos en la mano. Lo sopesó. Lo miró durante mucho tiempo. La hoja era negra, sin brillo, y de ella salía un frío que le subía por el brazo hasta el corazón.
+Alecto no contestó enseguida. Tenía uno de los cuchillos en la mano. Lo sopesó. La hoja era negra, sin brillo, y de ella salía un frío que le subía por el brazo hasta el corazón.
 
 —Con esto podríamos matar a cualquiera —dijo al fin—. Incluso a ella.
 
@@ -200,7 +200,7 @@ Tiche dejó de sonreír.
 
 —No es a ella a quien vais a matar —dijo Ranni, desde la sombra de los árboles. La muñeca de cuatro brazos todavía no existía; Ranni seguía teniendo su cuerpo, pálido, frío, envuelto en un manto azul.
 
-—Lo sé. —Alecto guardó el cuchillo en su cinto—. Pero me gusta saber que podría.
+—Ya. —Alecto guardó el cuchillo en su cinto—. Pero me gusta saber que podría.
 
 —¿A quién, entonces? —insistió Tiche.
 
@@ -224,7 +224,7 @@ Encontró a Alecto sentada junto al fuego apagado, afilando un cuchillo que no n
 
 —¿Por qué?
 
-Alecto tardó mucho en contestar.
+Alecto limpió la hoja contra el muslo, aunque estaba limpia.
 
 —Porque nos lo ha pedido alguien a quien no podemos negar nada —dijo al fin.
 
@@ -238,7 +238,7 @@ Tiche la miró, confusa. Luego, poco a poco, comprendió. Se le abrieron mucho l
 
 —Nadie nos lo ha pedido —dijo Alecto, sin dejar de afilar—. Nadie nos ha dicho nada. Una mujer descalza nos visitó hace un mes en nuestro refugio, en la costa, y estuvo toda la tarde hablando de la libertad. De lo que cuesta. De que a veces hay que pagar con lo que más se quiere. Y luego se fue. —Dejó el cuchillo—. Eso es todo. No nos pidió nada.
 
-Tiche se quedó callada un largo rato.
+Tiche hizo girar su propio cuchillo entre los dedos, una vez, dos.
 
 —¿Y si no lo hacemos?
 
@@ -314,7 +314,7 @@ Godwyn no contestó enseguida. Se quedó mirando la fuente vacía.
 
 —Solo es un sueño.
 
-—Lo sé. —Godwyn le apretó las manos—. Fia.
+—Ya. —Godwyn le apretó las manos—. Fia.
 
 —¿Sí?
 
@@ -322,9 +322,9 @@ Godwyn no contestó enseguida. Se quedó mirando la fuente vacía.
 
 —No te va a pasar nada. Eres semidiós. No puedes morir.
 
-—Lo sé. Pero si me pasara algo. —La miró a los ojos—. Quédate conmigo. Como te quedas con ellos. Cógeme la mano. No me dejes solo.
+—Ya lo sé, Fia. Pero si me pasara algo. —La miró a los ojos—. Quédate conmigo. Como te quedas con ellos. Cógeme la mano. No me dejes solo.
 
-Fia se lo quedó mirando durante mucho tiempo. Tenía algo extraño en la cara, algo que él no le había visto nunca. Miedo.
+Fia se lo quedó mirando. Tenía algo extraño en la cara, algo que él no le había visto nunca. Miedo.
 
 —¿Por qué me dices eso?
 
@@ -350,7 +350,7 @@ Fia se quedó sentada en la fuente seca hasta que amaneció, sin saber por qué 
 
 Godwyn subió a sus aposentos, en una torre junto al Árbol, y se sentó ante una mesa con un libro abierto. Era tarde. Fortissax no estaba en la ciudad; volaba en algún lugar del norte. Los caballeros del Culto del Dragón hacían guardia en los pasillos, con sus lanzas de rayo rojo. Nada parecía distinto a otras noches.
 
-No leía. Escribía. Una carta. A su hermano Morgott, en las cloacas, con letras grandes y claras, porque sabía que Morgott había aprendido a leer con un libro de ciegos y le costaba la letra pequeña. No sabía por qué la escribía. No sabía qué quería decirle. Escribió que lo quería. Que algún día lo sacaría de allí. Que había soñado con él. Que, si alguna vez le pasaba algo, quería que supiera que su hermano dorado nunca se había avergonzado de él.
+No leía. Escribía. Una carta. A su hermano Morgott, en las cloacas, con letras grandes y claras, porque sabía que Morgott había aprendido a leer con un libro de ciegos y le costaba la letra pequeña. No sabía qué quería decirle. Escribió que lo quería. Que algún día lo sacaría de allí. Que había soñado con él. Que, si alguna vez le pasaba algo, quería que supiera que su hermano dorado nunca se había avergonzado de él.
 
 Alecto entró por la ventana sin hacer ruido.
 
@@ -374,7 +374,7 @@ Alecto se quedó inmóvil.
 
 —¿Cómo te llamas?
 
-La asesina tardó en contestar. Nadie le había preguntado su nombre en cuatrocientos años, en mitad de un encargo.
+La asesina se quedó con el cuchillo a un palmo de su garganta. Nadie le había preguntado su nombre en cuatrocientos años, en mitad de un encargo.
 
 —Alecto —dijo.
 
@@ -460,7 +460,7 @@ Bajó de la montaña en una noche. Corrió a cuatro patas por la nieve, por los 
 
 Le faltaba una astilla. Cerca de la empuñadura. Justo debajo de la palabra *Amparar*.
 
-La bestia se quedó inmóvil con la espada en las manos durante mucho tiempo. Luego subió a la terraza más alta de la torre, donde sabía que estaría su hermana.
+La bestia se quedó inmóvil con la espada en las manos. Luego subió a la terraza más alta de la torre, donde sabía que estaría su hermana.
 
 Marika estaba allí. De pie junto a la balaustrada, descalza, mirando el Árbol. No se volvió al oírlo llegar.
 
@@ -474,7 +474,7 @@ Silencio.
 
 —Hermana. —La voz de Maliketh se quebró por primera vez en su vida—. ¿Fuiste tú?
 
-Marika se volvió despacio. Lo miró. Tenía los ojos secos, muy abiertos, y en ellos había algo que Maliketh no había visto nunca. No era culpa. No era miedo. Era algo más hondo y más terrible: era la mirada de alguien que ha tomado una decisión que no puede deshacer y que la volvería a tomar.
+Marika se volvió despacio. Lo miró. Tenía los ojos secos, muy abiertos, y en ellos había algo que Maliketh no había visto nunca. Ni culpa ni miedo: algo más hondo y más terrible: era la mirada de alguien que ha tomado una decisión que no puede deshacer y que la volvería a tomar.
 
 No contestó.
 
@@ -502,7 +502,7 @@ Marika no la miró. Miraba a su hijo, tendido en el suelo, con los ojos abiertos
 
 —No. Le prometí que me quedaría.
 
-La diosa se volvió por fin hacia ella. La miró durante mucho tiempo: a la mujer alta del manto oscuro, con las manos frías y la cara cansada, que había velado a su hijo cada noche durante años en los claustros de los hospitales sin que ella dijera nada.
+La diosa se volvió por fin hacia ella. La miró de arriba abajo: a la mujer alta del manto oscuro, con las manos frías y la cara cansada, que había velado a su hijo cada noche durante años en los claustros de los hospitales sin que ella dijera nada.
 
 —Quédate entonces —dijo Marika—. Pero fuera. Necesito estar sola con él.
 

@@ -10,7 +10,7 @@ En el centro no había ninguna estrella. Solo un pozo que bajaba hacia la oscuri
 
 —¿Qué son las ciudades eternas?
 
-Melina tardó en contestar. Estaba mirando el fondo del pozo con una expresión que Edda no le conocía. No era miedo. Era otra cosa, algo parecido al respeto con que se mira una tumba.
+Melina estaba mirando el fondo del pozo con una expresión que Edda no le conocía. Algo parecido al respeto con que se mira una tumba.
 
 —Lo que queda de un pueblo que desafió a la Voluntad Mayor —dijo al fin—. Y perdió.
 
@@ -96,7 +96,7 @@ Eran manos. Manos enormes, pálidas, del tamaño de un perro, con cinco dedos la
 
 En una plaza al pie de las terrazas, junto al río, había un templo.
 
-No era grande. Era una construcción sencilla, de columnas bajas y un techo abovedado medio derrumbado. Delante, en la plaza, había un trono: el más grande que Edda había visto en toda la ciudad, inclinado hacia un lado como si la tierra se hubiera hundido debajo de una de sus patas. En él estaba sentada una doncella gigante, de piedra gris, con la cabeza levantada hacia el cielo falso. Tenía una grieta que le cruzaba la cara de arriba abajo.
+Era una construcción pequeña, sencilla, de columnas bajas y un techo abovedado medio derrumbado. Delante, en la plaza, había un trono: el más grande que Edda había visto en toda la ciudad, inclinado hacia un lado como si la tierra se hubiera hundido debajo de una de sus patas. En él estaba sentada una doncella gigante, de piedra gris, con la cabeza levantada hacia el cielo falso. Tenía una grieta que le cruzaba la cara de arriba abajo.
 
 Y al pie del trono, en el último escalón, había flores.
 
@@ -146,7 +146,7 @@ Edda se quedó mirando la cara de plata. Tenía los ojos cerrados. Tenía una ex
 
 —¿Puedo…? —empezó.
 
-No terminó la frase. La plata se movió.
+La plata se movió antes de que acabara.
 
 Fue un movimiento lentísimo, como el de un animal que despierta tras un invierno muy largo. La superficie ennegrecida se agrietó en finas líneas y debajo apareció plata nueva, brillante, líquida. La mujer levantó la cabeza. Abrió los ojos, que no eran ojos sino dos superficies lisas como espejos. Miró a Edda. Y empezó a cambiar.
 
@@ -156,13 +156,13 @@ Al cabo de un momento, Edda se estaba mirando a sí misma.
 
 Una Edda de plata, sentada en el escalón, con el libro de Eyra todavía en el regazo, la miraba con los ojos de espejo. Inclinó la cabeza a un lado. Edda, sin darse cuenta, inclinó la suya al mismo lado.
 
-—Te ha elegido —dijo Melina, muy bajo.
+—Te ha elegido —dijo Melina.
 
 —¿Para qué?
 
 —Para estar contigo. Para luchar a tu lado, si se lo pides. Para aprender de ti. —Melina miró a la lágrima, que había vuelto la cabeza hacia ella y la imitaba también, en sus gestos, en su manera de arrodillarse—. Lleva siglos sin nadie a quien copiar. Creo que estaba muy sola.
 
-Edda se quedó mirando su propia cara de plata durante mucho tiempo. Luego, despacio, alargó la mano y la puso sobre la mano de la lágrima, sobre el libro. La plata estaba fría, pero no tanto como esperaba.
+Edda se quedó mirando su propia cara de plata. Luego, despacio, alargó la mano y la puso sobre la mano de la lágrima, sobre el libro. La plata estaba fría, pero no tanto como esperaba.
 
 —Pero el libro se queda aquí —dijo—. Con las flores.
 
@@ -170,7 +170,7 @@ La lágrima la miró. Luego, despacio, como una niña que obedece, cerró el lib
 
 Edda tapó el frasco. Pesaba un poco más que antes.
 
-Antes de irse, cogió del suelo una de las flores de piedra lunar, la más nueva que encontró, y la dejó otra vez en el escalón, junto al libro. No sabía por qué. Le pareció que había que hacerlo.
+Antes de irse, cogió del suelo una de las flores de piedra lunar, la más nueva que encontró, y la dejó otra vez en el escalón, junto al libro. Le pareció que había que hacerlo.
 
 * * *
 
@@ -204,7 +204,7 @@ En la cripta, sobre un altar de piedra negra, flotaba un cuchillo.
 
 O algo parecido a un cuchillo: una hoja corta, de un metal oscuro con reflejos azules y violetas, como el ala de un escarabajo, sin empuñadura. Flotaba a un palmo del altar, girando muy despacio sobre sí misma. A su alrededor, el aire estaba más frío que en el resto de la ciudad, tan frío que el aliento de Edda se convertía en vaho y las paredes de la cripta estaban cubiertas de una escarcha fina, brillante. Al acercarse, sintió un dolor sordo en los dedos, como cuando se cogen piedras del fondo de un río en invierno.
 
-No era metal. Edda lo supo al mirarlo de cerca. Tenía una textura extraña, granulada, con vetas que se movían bajo la superficie como venas. Parecía hueso. Parecía carne. Parecía algo que había estado vivo hacía mucho tiempo y que no había terminado de morir.
+No era metal. Edda lo supo al mirarlo de cerca. Tenía una textura extraña, granulada, con vetas que se movían bajo la superficie como venas. Parecía hueso. Parecía carne. Parecía algo que había estado vivo antes de las eras y que no había terminado de morir.
 
 En la pared detrás del altar había una inscripción, tallada en la misma escritura de la máscara y del libro. Esta vez Edda no la entendió. Pero debajo, más pequeño, alguien había grabado otra cosa, con otra mano, con un cuchillo, de prisa:
 
@@ -214,7 +214,7 @@ Edda cogió la hoja. Le quemó de frío la palma de la mano. La envolvió en un 
 
 * * *
 
-Volvió a la torre de Ranni tres días después. No sabía por qué el cuchillo era para Ranni; nadie se lo había dicho. Pero lo sabía, igual que había sabido que tenía que dejar la flor en el escalón.
+Volvió a la torre de Ranni tres días después. Nadie le había dicho que el cuchillo era para Ranni. Pero lo sabía, igual que había sabido que tenía que dejar la flor en el escalón.
 
 La muñeca estaba en su silla, junto a la ventana. Esta vez no miraba la luna. Miraba hacia el oeste, hacia el cráter, cuyo resplandor azul se veía desde la torre como una segunda luna, más pequeña, hundida en el horizonte.
 
@@ -226,7 +226,7 @@ La muñeca estaba en su silla, junto a la ventana. Esta vez no miraba la luna. M
 
 Edda sacó el cuchillo de la bolsa, lo desenvolvió y lo dejó sobre la mesa, junto a la silla de la muñeca. El aire de la habitación se enfrió de golpe. En el cristal de la ventana apareció una película de escarcha.
 
-Ranni se volvió despacio. Su único ojo abierto se fijó en la hoja. Durante mucho tiempo no dijo nada. Luego alargó una de sus cuatro manos de porcelana, muy despacio, y la puso encima del cuchillo. No lo cogió. Solo lo tocó, con la punta de los dedos, como se toca la mejilla de alguien dormido.
+Ranni se volvió despacio. Su único ojo abierto se fijó en la hoja. No dijo nada. Luego alargó una de sus cuatro manos de porcelana, muy despacio, y la puso encima del cuchillo. No lo cogió. Solo lo tocó, con la punta de los dedos, como se toca la mejilla de alguien dormido.
 
 —El Cuchillo Matadedos —dijo al fin, y su voz no era la de siempre. Era más baja, más rota—. La forjaron los Nox hace eras, para matar a un dios. No a cualquiera. Al de fuera. Al que manda a los Dedos. —Apartó la mano—. Lo empuñó un guerrero llamado Sael, la noche en que cayeron las estrellas. No volvió. Pero el cuchillo sí, no sé cómo. Y se quedó en esa cripta, esperando a alguien.
 
@@ -240,7 +240,7 @@ Edda se quedó muy quieta.
 
 —No sabía qué era.
 
-—Lo sé. —Ranni la miró. Había algo en su ojo azul, algo que Edda no supo leer—. Por eso me da tanto miedo.
+—Eso es lo peor. —Ranni la miró. Había algo en su ojo azul, algo que Edda no supo leer—. Por eso me da tanto miedo.
 
 —¿Miedo?
 
@@ -254,7 +254,7 @@ Ranni la miró.
 
 —Dejé una —dijo Edda—. No sé por qué. Me pareció que había que hacerlo.
 
-Hubo un silencio largo. Fuera, sobre el lago, empezaba a llover.
+Fuera, sobre el lago, empezaba a llover.
 
 —Siéntate, Edda —dijo Ranni al fin—. En la silla incómoda. Te voy a contar una historia. Una de las verdades pesadas. No toda. Solo el principio.
 
@@ -280,7 +280,7 @@ Edda la miró. La lluvia golpeaba el cristal de la ventana. La escarcha que el c
 
 —Ya se ha movido.
 
-—Lo sé. —El ojo azul la miró de reojo—. Lo movió una espantapájaros.
+—Ya me he dado cuenta. —El ojo azul la miró de reojo—. Lo movió una espantapájaros.
 
 Edda abrió la boca para protestar. Luego la cerró. Blaidd tenía razón: lo había dicho con el mismo tono que usaba para decir «luna».
 

@@ -58,15 +58,13 @@ Godfrey estaba a su lado, con el león de luz dormido sobre los hombros.
 
 —¿Cómo lo sabes?
 
-—Lo sé. —Marika se tocó el pecho—. Lo que llevo dentro le tiene miedo. Cada vez que miro ese humo, se encoge. Como un animal que huele a un cazador.
+—Porque me duele aquí. —Marika se tocó el pecho—. Lo que llevo dentro le tiene miedo. Cada vez que miro ese humo, se encoge. Como un animal que huele a un cazador.
 
 —Entonces lo apagaremos.
 
 —No se puede apagar. —Ella no apartó los ojos de las montañas—. Es el fuego de un dios. Un dios caído, pero dios. Las llamas de los dioses no se apagan.
 
 —Entonces ¿qué?
-
-Marika tardó mucho en contestar.
 
 —Se puede encerrar —dijo al fin—. Se puede vigilar. Se puede poner a alguien a su lado para siempre, para que nadie se lo lleve nunca.
 
@@ -76,7 +74,7 @@ Godfrey la miró.
 
 —No —dijo Marika—. No van a entregarlo.
 
-No dijo nada más. Godfrey tampoco. Pero aquella noche, cuando ella se durmió entre las raíces, el guerrero se quedó despierto mucho tiempo, mirando el humo del norte, con el hacha sobre las rodillas y algo en el pecho que no supo si era miedo o alegría.
+No dijo nada más. Godfrey tampoco. Pero aquella noche, cuando ella se durmió entre las raíces, el guerrero se quedó despierto hasta el alba, mirando el humo del norte, con el hacha sobre las rodillas y algo en el pecho que no supo si era miedo o alegría.
 
 * * *
 
@@ -92,11 +90,11 @@ Era su padre. Hrothgar era un gigante viejo, de barba roja casi blanca trenzada 
 
 —*Es un árbol* —dijo Brund—. *Los peregrinos que pasan por los valles lo dicen. Un árbol de oro. Y una diosa debajo.*
 
-—*Lo sé.*
+—*Ya.*
 
 —*El astrólogo me lo advirtió, padre. Iven. El último año que bajó al mercado. Me dijo que una de las estrellas de la Fragua temblaba. Que algo estaba mirando nuestra llama.* —Brund se volvió hacia su padre—. *Yo me reí. Le dije que nadie podía subir aquí. Ni siquiera un dios.*
 
-Hrothgar no dijo nada durante mucho tiempo. En el centro de su vientre, el rostro dormido se estremeció.
+Hrothgar no dijo nada. En el centro de su vientre, el rostro dormido se estremeció.
 
 —*La llama tiene miedo* —dijo al fin—. *Lo noto cuando la alimento. Arde más bajo. Se encoge cuando el viento sopla del sur. Como un animal que huele a un cazador.*
 
@@ -126,7 +124,7 @@ Ordovis no se rio. Se quedó mirando el fuego mucho rato.
 
 —Mi bisabuelo decía que los gigantes adoraban al fuego —dijo al fin—. Que eran como nosotros, los del crisol: un pueblo viejo, de antes de que todo tuviera nombre. —Levantó la vista hacia Godfrey—. ¿Por qué tenemos que matarlos, mi señor?
 
-Godfrey tardó en contestar.
+Godfrey se sacudió la nieve de la barba.
 
 —Porque tienen algo que puede quemar el árbol —dijo—. Y porque no lo van a entregar.
 
@@ -160,7 +158,7 @@ Aquel día murieron miles. La nieve del valle se volvió roja y después negra, 
 
 —Nosotros tampoco.
 
-—Lo sé. Por eso esto no acabará hasta que no quede ninguno.
+—Por eso esto no acabará hasta que no quede ninguno.
 
 Godfrey no contestó. Miraba hacia la cumbre, donde el humo de la Gran Forja subía en una columna recta y anaranjada, como un dedo apuntando al cielo.
 
@@ -202,7 +200,7 @@ Hrothgar cayó de rodillas en el glaciar. Antes de desplomarse del todo, levant�
 
 Godfrey bajó del cuerpo del gigante. Se quedó de pie junto a él, jadeando, con el hacha goteando. Luego, para asombro de sus propios soldados, se arrodilló en el hielo, junto a la cabeza de Hrothgar, y le cerró los ojos con la mano.
 
-—Buen combate, viejo —dijo, muy bajo.
+—Buen combate, viejo —dijo.
 
 Desde la ladera, Brund lo vio. Nunca lo olvidaría.
 
@@ -228,7 +226,7 @@ Godfrey estaba en el campamento, a los pies de la última ladera, preparando el 
 
 Brund se despertó de golpe. La luz estaba delante de él. Y en el centro de la luz, descalza, pequeña, con el pelo dorado revuelto por el viento helado, había una mujer.
 
-Los otros diez gigantes se lanzaron sobre ella. Marika levantó una mano, y cayeron de rodillas en la nieve, todos a la vez, como si les hubieran cortado los hilos. Brund no cayó. No supo por qué. Se quedó de pie junto a la fragua, con la maza en la mano, mirando a la diosa que había venido a llevarse a su madre.
+Los otros diez gigantes se lanzaron sobre ella. Marika levantó una mano, y cayeron de rodillas en la nieve, todos a la vez, como si les hubieran cortado los hilos. Brund no cayó. Se quedó de pie junto a la fragua, con la maza en la mano, mirando a la diosa que había venido a llevarse a su madre.
 
 —Eres el hijo del jefe —dijo ella—. El que se quedó mirando cuando cayó el primero.
 
@@ -238,7 +236,7 @@ Los otros diez gigantes se lanzaron sobre ella. Marika levantó una mano, y caye
 
 —*Brund.*
 
-Marika lo miró durante mucho tiempo.
+Marika lo miró.
 
 —Tu padre luchó bien, Brund —dijo—. Mi Señor me lo contó. Dice que fue el mejor combate de su vida. Y que le cerró los ojos.
 
@@ -282,13 +280,13 @@ Eran zarzas negras y doradas a la vez, gruesas como brazos, que crecieron alrede
 
 Godfrey apartó la mirada. Ordovis vomitó en la nieve.
 
-Cuando las espinas terminaron de crecer, solo uno de los gigantes seguía vivo. Brund. Las zarzas le habían rodeado la pierna izquierda y se habían convertido en un grillete de metal y espinas que no se rompería jamás. Estaba de rodillas junto a la fragua, rodeado de los cuerpos atravesados de los últimos de su pueblo, y miraba a la diosa con una expresión que Godfrey no supo leer. No era odio. Era algo peor.
+Cuando las espinas terminaron de crecer, solo uno de los gigantes seguía vivo. Brund. Las zarzas le habían rodeado la pierna izquierda y se habían convertido en un grillete de metal y espinas que no se rompería jamás. Estaba de rodillas junto a la fragua, rodeado de los cuerpos atravesados de los últimos de su pueblo, y miraba a la diosa con una expresión que Godfrey no supo leer. Algo peor que el odio.
 
 Marika se acercó a él. Tuvo que alzar mucho la cabeza para mirarlo a los ojos.
 
 —Tu dios ha muerto —le dijo—. Pero su llama no. Y ya que no puedo apagarla, tú la cuidarás. Te quedarás aquí, junto a la Forja, mientras haya mundo. La vigilarás. No dejarás que nadie se la lleve, y no dejarás que se apague. Ese será tu castigo y tu tarea, para siempre.
 
-Brund tardó mucho en contestar.
+Brund miró la maza que tenía en la mano, todavía con pelo y sesos de los suyos pegados en la cabeza de hierro: los soldados de Godfrey habían rematado allí, a sus pies, a los heridos.
 
 —*¿Por qué yo?* —preguntó al fin.
 
@@ -322,8 +320,6 @@ Ordovis frunció el ceño.
 
 —¿Y de él? —Ordovis señaló hacia la cumbre, donde la columna de humo seguía subiendo, más débil, más roja—. ¿Del que se ha quedado arriba?
 
-Marika tardó en contestar.
-
 —De él tampoco —dijo.
 
 Así fue. En los siglos siguientes, la Orden Áurea contaría que la Era del Árbol Áureo había nacido de una gran victoria contra los gigantes, pero ninguna crónica explicaría qué había en lo alto de aquellas montañas, ni por qué el camino estaba prohibido, ni qué hacía allí arriba, solo, un gigante encadenado que tiraba de un grillete de espinas mientras alimentaba una llama que no podía apagarse, y que por las noches, cuando el viento soplaba del norte, le cantaba una canción de los astrólogos sobre una estrella que no se movía nunca.
@@ -332,7 +328,7 @@ Así fue. En los siglos siguientes, la Orden Áurea contaría que la Era del Ár
 
 Esa noche, en el campamento al pie de las montañas, Godfrey no durmió.
 
-Estaba sentado junto al fuego, con el hacha sobre las rodillas, cuando Marika vino a sentarse a su lado. Tenía las manos vendadas. Durante un largo rato ninguno de los dos habló.
+Estaba sentado junto al fuego, con el hacha sobre las rodillas, cuando Marika vino a sentarse a su lado. Tenía las manos vendadas. Ninguno de los dos habló hasta que el fuego pidió leña.
 
 —Has disfrutado —dijo ella al fin.
 
@@ -340,25 +336,21 @@ Godfrey no lo negó.
 
 —Ha sido la mejor guerra de mi vida —dijo. Y luego, más bajo—: Y la peor.
 
-—Lo sé. Lo he visto en tus ojos. Las dos cosas. —Marika miró el fuego—. Por eso te di a Serosh.
+—Lo he visto en tus ojos. Las dos cosas. —Marika miró el fuego—. Por eso te di a Serosh.
 
 El león, sobre los hombros del Señor de Elden, abrió los ojos un instante y volvió a cerrarlos.
 
 —El joven —dijo Godfrey—. El que dejaste arriba. Me miró cuando bajábamos. No me odiaba. Me miraba como… como se mira a alguien que ha ganado una apuesta que no debería haber ganado.
 
-—Lo sé.
-
 —¿Lo que le has hecho tiene arreglo?
-
-Marika tardó mucho en contestar.
 
 —No —dijo al fin—. Algunas cosas no tienen arreglo, Godfrey. Solo se puede decidir quién carga con ellas.
 
-El guerrero se quedó callado mucho rato.
+El guerrero echó la leña al fuego, un tronco detrás de otro.
 
 —¿Y si un día no hay más guerras? —preguntó al fin—. ¿Qué haré entonces?
 
-La diosa tardó en contestar. Cuando lo hizo, su voz era tan baja que él no estuvo seguro de haberla oído bien.
+Cuando la diosa contestó, su voz era tan baja que él no estuvo seguro de haberla oído bien.
 
 —Entonces te enviaré lejos, a buscar otra.
 
@@ -378,4 +370,4 @@ Muy lejos, en el oeste, a orillas de un gran lago, un astrólogo viejo llamado I
 
 Faltaba una.
 
-Se quedó mirando el hueco durante mucho tiempo, con la mano apretada sobre la brasa caliente que llevaba al cuello, junto a una piedra de colores. Luego volvió a entrar en la cabaña y escribió en su pergamino, con letra temblorosa: *Esta noche ha caído la estrella que temblaba. Creo que mi amigo está solo.*
+Se quedó mirando el hueco, con la mano apretada sobre la brasa caliente que llevaba al cuello, junto a una piedra de colores. Luego volvió a entrar en la cabaña y escribió en su pergamino, con letra temblorosa: *Esta noche ha caído la estrella que temblaba. Creo que mi amigo está solo.*

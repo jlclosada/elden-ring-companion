@@ -98,7 +98,7 @@ Edda bebió. Era aguardiente. Le quemó la garganta.
 
 La tercera carta llevaba el nombre de Corhyn.
 
-Edda se quedó mirándola durante mucho tiempo, de pie en el pasillo de la mansión, a la luz roja que subía por las rendijas del suelo. Corhyn, sacerdote de la Orden Áurea. El puente al norte de Altus. Junto al hombre de la máscara dorada.
+Edda se quedó mirándola, de pie en el pasillo de la mansión, a la luz roja que subía por las rendijas del suelo. Corhyn, sacerdote de la Orden Áurea. El puente al norte de Altus. Junto al hombre de la máscara dorada.
 
 —¿Qué pasa? —preguntó Patches, que la había seguido.
 
@@ -108,7 +108,7 @@ Edda se quedó mirándola durante mucho tiempo, de pie en el pasillo de la mansi
 
 —¿Y tú?
 
-Patches se quedó callado un momento.
+Patches soltó una risita que no le salió bien.
 
 —La mía llevaba el nombre de un amigo de la infancia —dijo al fin, y por primera vez su voz no tenía ni rastro de burla—. Un tal Vyke. Un caballero de la Mesa Redonda. El mejor hombre que he conocido. Fue a buscar la llama amarilla para salvar a la gente que quería, y la llama se lo comió por dentro. —Se miró las manos—. No fui. Rompí la carta. Y luego, años después, lo encontré en un camino, ya loco, con los ojos amarillos, y tuve que matarlo igual. Sin carta. Sin que nadie me lo pidiera.
 
@@ -124,7 +124,7 @@ Edda no fue. Esa noche bajó a uno de los balcones de hierro que daban a la lava
 
 Esa noche, Tanith la llamó a su habitación.
 
-No era el despacho de la torre. Era una sala grande, en lo más hondo de la mansión, iluminada solo por el resplandor de la lava que se veía a través de un ventanal enorme, del suelo al techo. Había una cama con dosel, cubierta de pieles. Había un tocador con un espejo de bronce. Había, en un rincón, un par de zapatillas de baile de raso rojo, gastadas, dejadas con cuidado sobre un cojín.
+No la recibió en el despacho de la torre, sino en una sala grande, en lo más hondo de la mansión, iluminada solo por el resplandor de la lava que se veía a través de un ventanal enorme, del suelo al techo. Había una cama con dosel, cubierta de pieles. Había un tocador con un espejo de bronce. Había, en un rincón, un par de zapatillas de baile de raso rojo, gastadas, dejadas con cuidado sobre un cojín.
 
 Tanith estaba sentada junto a la ventana, en una silla baja, con la máscara de porcelana en el regazo.
 
@@ -172,7 +172,7 @@ Tanith no se detuvo.
 
 —Sueña con escamas. Con una voz que la llama desde el fondo.
 
-Hubo un silencio largo. Solo el ruido de sus pasos en la roca.
+Solo se oía el ruido de sus pasos en la roca.
 
 —Rya es hija de la serpiente —dijo Tanith al fin—. Nació de ella, en las cavernas, antes de que mi esposo bajara. Una cría. Rykard la encontró y la subió a la mansión, y le dio forma de muchacha con un maleficio, para que pudiera vivir entre nosotros. —Hizo una pausa—. Yo la crié. La vestí. Le enseñé a hablar. Le enseñé a bailar, aunque baila fatal. Es mi hija igual que si la hubiera parido.
 
@@ -256,7 +256,7 @@ Rykard murió despacio.
 
 La serpiente se desplomó sobre el lago de lava, con un estruendo que hizo caer piedras del techo. Las caras de las paredes dejaron de gritar. Se quedaron quietas, con las bocas abiertas, y una por una fueron cerrando los ojos, como si se durmieran. La cara de la cabeza de la bestia se quedó tumbada en la orilla, con la lanza todavía clavada en la boca, respirando con dificultad.
 
-Edda se acercó. No sabía por qué. Se había acercado a Godrick, a Radahn. Siempre se acercaba.
+Edda se acercó. Se había acercado a Godrick, a Radahn. Siempre se acercaba; alguien tenía que verles la cara.
 
 La cara la miró. Los ojos de brasa se estaban apagando.
 
@@ -280,11 +280,11 @@ La cara de la serpiente se quedó inmóvil. Los ojos de brasa se apartaron de Ed
 
 —Cada noche.
 
-La cara se quedó mirándola un largo rato. Luego, despacio, sonrió. No como antes. No con el hambre de antes. Sonrió como Tanith había dicho que sonrió la última vez, en el umbral de la caverna, cuando ella vertió el tónico en el suelo.
+La cara se quedó mirándola. Luego, despacio, sonrió. No como antes. No con el hambre de antes. Sonrió como Tanith había dicho que sonrió la última vez, en el umbral de la caverna, cuando ella vertió el tónico en el suelo.
 
 —No te oía —dijo—. Lo siento. No te oía.
 
-—Lo sé.
+—Ya.
 
 —Eres lo único que nunca abrí. —Los ojos de brasa se cerraron—. Me alegro.
 
@@ -294,7 +294,7 @@ La Gran Runa quedó flotando sobre el lago, roja como una brasa.
 
 * * *
 
-Tanith no dijo nada durante mucho tiempo. Se quedó de pie junto al lago, con la máscara en la mano, mirando el lugar donde había estado la cara de su esposo. Cuando Edda se acercó, no se volvió.
+Tanith se quedó de pie junto al lago, con la máscara en la mano, mirando el lugar donde había estado la cara de su esposo. Cuando Edda se acercó, no se volvió.
 
 —Gracias —dijo. La voz sonaba vacía, como una casa después de un entierro—. Por decírselo.
 
@@ -336,7 +336,7 @@ Rya se quedó mirándola con los ojos muy abiertos. Luego se echó a reír, una 
 
 Se quedaron un rato juntas, en silencio, junto al ventanal, mirando la lava.
 
-—Lo demás —dijo Rya al cabo, muy bajo—. Las escamas. El sitio oscuro. La voz del fondo. ¿Tú sabes lo que es?
+—Lo demás —dijo Rya al cabo—. Las escamas. El sitio oscuro. La voz del fondo. ¿Tú sabes lo que es?
 
 —Creo que sí.
 

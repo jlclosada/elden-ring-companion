@@ -1,4 +1,4 @@
-Miquella y Malenia partieron del Árbol Hálito una mañana de escarcha, al frente de un ejército de caballeros de la podredumbre limpia.
+Miquella y Malenia partieron del Árbol Hierático una mañana de escarcha, al frente de un ejército de caballeros de la podredumbre limpia.
 
 El patio de Elphael estaba blanco de nieve y dorado de estandartes. Los caballeros formaban en filas, inmóviles, con las capas pesadas de escarcha y las armaduras doradas empañadas por el frío. Eran guerreros que habían jurado servir a Malenia sabiendo lo que eso significaba: que la podredumbre acabaría alcanzándolos a ellos también, que sus cuerpos se irían pudriendo poco a poco bajo el metal. Lo aceptaban. Cuando se quitaban el yelmo, algunos ya tenían manchas rojas en la cara, en el cuello, en las manos. Ninguno se quejaba.
 
@@ -28,7 +28,7 @@ Miquella cerró los ojos.
 
 Montaron. Miquella, en un caballo blanco demasiado grande para él, que había sido de un caballero muerto y que se dejaba llevar con una docilidad extraña, como todos los animales que el niño tocaba. Malenia, en un corcel gris de crines largas. Y detrás de ellos, ochocientos caballeros dorados, en silencio, salieron por las puertas de Elphael hacia el sur.
 
-* * *
+---
 
 El viaje duró tres semanas.
 
@@ -50,7 +50,7 @@ La caballera dudó. Luego se sentó a su lado, con la armadura crujiendo, y se q
 
 Finlay no supo qué decir.
 
-—Le prometí que lo liberaría —siguió Miquella—. Que algún día, cuando yo fuera un dios, ya no tendría que sostener nada. Y él me prometió algo a cambio. —Se quedó callado un momento—. Lo que no le dije es lo que costaría.
+—Le prometí que lo liberaría —siguió Miquella—. Que algún día, cuando yo fuera un dios, ya no tendría que sostener nada. Y él me prometió algo a cambio. Lo que no le dije es lo que costaría.
 
 —¿Qué costará, señor?
 
@@ -58,7 +58,7 @@ Miquella la miró por fin. Tenía los ojos llenos de lágrimas.
 
 —Todo, Finlay. Como siempre.
 
-* * *
+---
 
 Caelid era entonces una tierra verde.
 
@@ -78,13 +78,13 @@ Jerren se sentó a su lado con dos copas.
 
 Radahn tomó la copa. En su mano parecía un dedal.
 
-—Hace mucho tiempo, cuando yo era joven y mi hermano era todavía más pequeño de lo que es ahora, Miquella vino a verme a Castillo Melenarroja. Se sentó en mis rodillas, como hacía de niño, y me preguntó si quería ser su consorte cuando fuera un dios. —El gigante sonrió—. Le dije que sí, por supuesto. ¿Qué otra cosa se le dice a un niño?
+—Cuando yo era joven y mi hermano era todavía más pequeño de lo que es ahora, Miquella vino a verme a Castillo Melenarroja. Se sentó en mis rodillas, como hacía de niño, y me preguntó si quería ser su consorte cuando fuera un dios. —El gigante sonrió—. Le dije que sí, por supuesto. ¿Qué otra cosa se le dice a un niño?
 
 —Pero no era un niño.
 
 —No. Nunca lo ha sido. —Radahn bebió—. Me dijo que, para ser su consorte, primero tendría que morir. Que mi cuerpo debía caer para que mi alma pudiera seguirlo a un lugar lejano, donde no hay estrellas que sostener. Y que la única forma de que yo cayera era en una batalla de verdad, porque si me dejaba vencer, no valdría nada.
 
-Jerren se quedó callado mucho tiempo.
+Jerren se bebió la copa de un trago.
 
 —¿Y lo aceptaste?
 
@@ -102,7 +102,7 @@ Jerren lo miró alejarse hacia su tienda. Luego miró al cielo, a las estrellas 
 
 No sabía todavía lo difícil que iba a ser.
 
-* * *
+---
 
 La batalla de Aeonia empezó al amanecer y duró hasta el anochecer de un día muy largo.
 
@@ -152,7 +152,7 @@ Miquella le sonrió. Era una sonrisa cansada, de alguien mucho mayor que el cuer
 
 Y Freyja, que hasta un momento antes había estado dispuesta a morir por Radahn, supo que a partir de entonces haría cualquier cosa por aquel niño. No lo decidió ella. Simplemente ocurrió, como le ocurría a todos los que Miquella tocaba. Años después, cuando le preguntaban por qué había abandonado al general al que había jurado lealtad, Freyja no sabía qué contestar. Decía que el niño le había salvado la vida. Pero en el fondo sabía que no era solo eso. Era como si, al quitarle la podredumbre, Miquella le hubiera quitado también algo más, algo que ella nunca supo nombrar y que nunca recuperó.
 
-* * *
+---
 
 Al caer la tarde, en el centro de la llanura, solo quedaban dos figuras luchando.
 
@@ -190,19 +190,17 @@ En una pausa, mientras se miraban jadeando a veinte pasos de distancia, Radahn h
 
 —¿Él está bien? —preguntó.
 
-Malenia tardó en responder.
-
 —Está curando a tus soldados.
 
 El gigante se rio, una risa ronca, dolorida.
 
 —Claro que sí. Siempre fue así. Se le moría un pájaro en el jardín y lloraba tres días. —Escupió sangre—. ¿Sabes lo que me prometió?
 
-—Lo sé.
+—Sí.
 
 —¿Y sabes lo que me pidió a cambio?
 
-—Lo sé.
+—También.
 
 —Entonces sabes que esto no termina hasta que uno de los dos caiga. —Radahn levantó las espadas otra vez. Le temblaban los brazos—. Y yo no pienso caer, hermana. No así. Si tengo que morir por él, que sea porque alguien me ha vencido de verdad.
 
@@ -222,7 +220,7 @@ Ella lo oyó. Se volvió un instante hacia la voz, y por un momento, uno solo, s
 
 Partió la aguja.
 
-* * *
+---
 
 La flor se abrió.
 
@@ -250,7 +248,7 @@ Radahn la miró. Por un instante, Malenia creyó que la había entendido.
 
 Después, ella cayó.
 
-* * *
+---
 
 Radahn no murió. Eso fue lo peor.
 
@@ -264,7 +262,7 @@ Jerren lo encontró al anochecer, a una legua de allí, devorando el cadáver de
 
 El gigante levantó la cabeza. Tenía los ojos rojos, vacíos, y la boca manchada de sangre. No lo reconoció. Gruñó.
 
-Jerren levantó la espada. Era el momento: el pacto, la muerte digna, la promesa. Lo había jurado. Se quedó así mucho tiempo, con el brazo en alto, temblando, mientras la bestia que había sido su amigo lo miraba sin verlo.
+Jerren levantó la espada. Era el momento: el pacto, la muerte digna, la promesa. Lo había jurado. Se quedó así, con el brazo en alto, temblando, mientras la bestia que había sido su amigo lo miraba sin verlo.
 
 Bajó la espada.
 
@@ -272,7 +270,7 @@ Bajó la espada.
 
 Radahn vagó por los campos de Caelid durante años, aullando, devorando a amigos y enemigos por igual. Su caballo flaco seguía llevándolo a todas partes, sostenido por una gravedad que su amo ya no sabía que usaba. Las estrellas que había detenido seguían quietas en el cielo, porque nadie las había soltado. Y Jerren, cada otoño, volvía a la llanura a mirarlo desde lejos, y cada otoño se marchaba sin haber cumplido su juramento.
 
-* * *
+---
 
 Caelid entero se pudrió.
 
@@ -290,7 +288,7 @@ Gowry se arrodilló junto a la primera. La niña dejó de llorar y lo miró.
 
 La crio. Las crio a todas, en su cabaña, alimentándolas con leche de cabra y con oraciones. Las llamó por nombres de flores. A la mayor, la más fuerte, la que lo había mirado primero, la llamó Millicent. Esperaba que algún día florecieran como su diosa. No le dijo a nadie lo que esperaba que pasara entonces.
 
-* * *
+---
 
 Malenia no despertó.
 
@@ -320,15 +318,15 @@ Finlay se quedó tres noches en el Castillo Sombrío. Durmió por primera vez en
 
 La caballera no contestó. Salió del castillo con la diosa en brazos, y Maleigh se quedó en la puerta mirándola alejarse bajo la lluvia. Años después, el Castillo Sombrío estaba lleno de altares a la podredumbre, y los sirvientes de Maleigh se cubrían el cuerpo de vendas para ocultar las flores rojas que les crecían en la piel. Pero esa es otra historia.
 
-Finlay llegó por fin a Elphael. Bajó a las raíces del Árbol Hálito, a una cámara junto al agua donde la luz llegaba verde y dorada a través de las ramas, y depositó a Malenia en el suelo, con cuidado, como se deposita a un niño dormido.
+Finlay llegó por fin a Elphael. Bajó a las raíces del Árbol Hierático, a una cámara junto al agua donde la luz llegaba verde y dorada a través de las ramas, y depositó a Malenia en el suelo, con cuidado, como se deposita a un niño dormido.
 
 Después se sentó a su lado, se quitó el yelmo por última vez, y cerró los ojos.
 
 No volvió a abrirlos.
 
-* * *
+---
 
-Después de Aeonia, Miquella regresó al Árbol Hálito antes que su hermana.
+Después de Aeonia, Miquella regresó al Árbol Hierático antes que su hermana.
 
 Llegó solo, a caballo, con los labios todavía manchados de rojo y los ojos secos. No habló con nadie. Subió directamente al corazón del Árbol, a una cámara en lo alto del tronco donde las ramas se entrelazaban como los dedos de unas manos, y empezó a tejer.
 
@@ -356,9 +354,9 @@ Mohg se llevó el capullo a su palacio subterráneo de Mohgwyn y lo instaló en 
 
 Miquella no despertó. O eso creía Mohg.
 
-* * *
+---
 
-Cuando Malenia abrió los ojos por fin, en la cámara de las raíces del Árbol Hálito, lo primero que vio fue el cuerpo de Finlay, sentado a su lado, con el yelmo en el regazo y la cabeza inclinada, como si se hubiera dormido montando guardia.
+Cuando Malenia abrió los ojos por fin, en la cámara de las raíces del Árbol Hierático, lo primero que vio fue el cuerpo de Finlay, sentado a su lado, con el yelmo en el regazo y la cabeza inclinada, como si se hubiera dormido montando guardia.
 
 Malenia se incorporó despacio. Le dolía todo. Se miró la mano de carne: estaba cubierta de manchas rojas. Se miró el brazo: la aguja de oro ya no estaba.
 
@@ -366,14 +364,14 @@ Malenia se incorporó despacio. Le dolía todo. Se miró la mano de carne: estab
 
 La caballera no se movió. Malenia le tocó el hombro, y el cuerpo se inclinó hacia un lado, despacio, y quedó tendido en el suelo de raíces. Tenía la cara en paz.
 
-Malenia se quedó mirándola durante mucho tiempo. Luego le cerró los ojos, que ya estaban cerrados, con un gesto torpe, porque nunca lo había hecho.
+Malenia se quedó mirándola. Luego le cerró los ojos, que ya estaban cerrados, con un gesto torpe, porque nunca lo había hecho.
 
 —¿Dónde está mi hermano? —preguntó a la cámara vacía.
 
 Nadie le contestó.
 
-Se quedó allí, junto al agua, sentada, esperando. Esperando a que Miquella volviera. Mientras esperaba, la podredumbre que llevaba dentro se fue filtrando en las raíces del Árbol, en el tronco, en las ramas, y el Árbol Hálito, el refugio de los que nadie quería, empezó a pudrirse con ella.
+Se quedó allí, junto al agua, sentada, esperando. Esperando a que Miquella volviera. Mientras esperaba, la podredumbre que llevaba dentro se fue filtrando en las raíces del Árbol, en el tronco, en las ramas, y el Árbol Hierático, el refugio de los que nadie quería, empezó a pudrirse con ella.
 
 La Fractura había terminado. No había ganado nadie.
 
-Y en las Tierras Áridas, al otro lado del mar, una pequeña luz dorada que llevaba mucho tiempo esperando junto a un cadáver en una colina sin nombre empezó, por fin, a moverse.
+Y en las Tierras Áridas, al otro lado del mar, una pequeña luz dorada que llevaba siglos esperando junto a un cadáver en una colina sin nombre empezó, por fin, a moverse.

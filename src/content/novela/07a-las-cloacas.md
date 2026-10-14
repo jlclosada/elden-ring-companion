@@ -6,7 +6,7 @@ Eran los niños con cuernos que nacían en las familias de la superficie. No muc
 
 Grete era una de ellos.
 
-* * *
+---
 
 Tenía veinte años y dos muñones grises en la frente, del tamaño de una moneda, que se tapaba con un pañuelo de lana. Había nacido en una familia de tintoreros del barrio bajo. Su madre la había escondido durante tres días antes de que vinieran a buscarla. No se acordaba de nada de eso; se lo había contado el carcelero viejo, años después, cuando le preguntó por qué ella no tenía padres como las personas de las historias.
 
@@ -18,7 +18,7 @@ Isolde le puso al primero en el pecho. El niño se agarró con tanta fuerza que 
 
 —Tienen cuernos —dijo.
 
-—Lo sé.
+—Ya me he dado cuenta, Grete. Soy ciega, no tonta.
 
 —Enteros. No se los han cortado.
 
@@ -28,13 +28,11 @@ Grete levantó la vista hacia la mujer ciega. Era la primera persona de la super
 
 —¿De quién son? —preguntó.
 
-Isolde tardó en contestar.
-
 —De alguien que no puede tenerlos arriba —dijo al fin—. Y que tampoco podía dejar que se los cortaran.
 
 Grete no preguntó más. En las cloacas se aprendía pronto a no preguntar. Pero aquella noche, cuando los dos niños se durmieron en su regazo, uno a cada lado, les acarició los cuernos con la punta de los dedos —los cuernos enteros, retorcidos, que a ella le habían arrancado—, y lloró por primera vez desde que perdió a su hija.
 
-* * *
+---
 
 Los gemelos crecieron en el tercer nivel, en una celda más grande que las demás, con una cama de paja limpia y mantas de lana que la mujer ciega traía de arriba.
 
@@ -60,15 +58,15 @@ Isolde no levantó la vista del libro. Tenía la mano de Morgott debajo de la su
 
 —Para que sepan que hay algo más que esto —dijo—. Aunque nunca lo vean.
 
-* * *
+---
 
-Morgott dijo su primera palabra a los dos años, y fue *oro*.
+Morgott dijo su primera palabra a los dos años, y fue _oro_.
 
 Fue una mañana, en la celda. Por una rejilla en lo alto del techo, muy lejos, al final de un pozo de ventilación que subía hasta la superficie, entraba cada día durante una hora un hilo de luz dorada. Era la luz del Árbol, que se filtraba por las calles de la ciudad, por las alcantarillas, por los conductos de piedra, y llegaba hasta allí abajo tan débil que casi no se veía. Pero llegaba.
 
 Morgott se pasaba esa hora sentado debajo de la rejilla, con la cabeza levantada, mirando. No lloraba, no jugaba, no se movía. Miraba. Y aquella mañana, Isolde, que estaba sentada junto a él con el libro en el regazo, lo oyó decir algo. Una palabra pequeña, clara, que nunca le había enseñado.
 
-—*Oro.*
+—_Oro._
 
 Isolde se quedó paralizada.
 
@@ -76,7 +74,7 @@ Isolde se quedó paralizada.
 
 Morgott no contestó. Seguía mirando la rejilla, con la mano extendida hacia arriba, como si quisiera tocar la luz.
 
-—*Oro* —repitió.
+—_Oro_ —repitió.
 
 Isolde no podía ver la luz. Nunca había visto nada. Pero sabía lo que era; la había sentido en la piel toda su vida, cálida, como una mano en la mejilla. Y supo, en aquel momento, que aquel niño de cuernos retorcidos, encerrado en el fondo de las cloacas por ser lo que era, acababa de enamorarse de lo que lo había encerrado allí.
 
@@ -84,7 +82,7 @@ Se le llenaron los ojos de lágrimas.
 
 —Sí, pequeño —dijo—. Oro. Es el Árbol.
 
-* * *
+---
 
 Mohg no miraba la luz. Mohg prefería la oscuridad.
 
@@ -104,17 +102,17 @@ Tenía una manía. Jugaba con piedras. Las recogía en sus excursiones por los t
 
 —¿Qué familia?
 
-Mohg se quedó mirando el círculo de piedras durante mucho tiempo.
+Mohg se quedó mirando el círculo de piedras.
 
 —Una que me elija —dijo al fin—. No una que me haya tocado.
 
-Morgott no entendió. Pero esa noche, cuando Isolde bajó a leerles, le preguntó qué quería decir su hermano. Isolde dejó el libro. Se quedó callada mucho rato.
+Morgott no entendió. Pero esa noche, cuando Isolde bajó a leerles, le preguntó qué quería decir su hermano. Isolde dejó el libro y le buscó la cara con las manos.
 
 —Tu hermano tiene miedo de estar solo, Morgott —dijo al fin—. Y quiere tener a alguien que lo quiera porque sí, no porque tenga que hacerlo.
 
 —Yo lo quiero.
 
-—Lo sé. Pero tú eres su hermano. Tú tienes que quererlo. —Isolde le acarició los cuernos—. Él quiere a alguien que no tenga que hacerlo y lo haga igual.
+—Claro. Pero tú eres su hermano. Tú tienes que quererlo. —Isolde le acarició los cuernos—. Él quiere a alguien que no tenga que hacerlo y lo haga igual.
 
 Morgott miró a su hermano, que dormía en un rincón de la celda, abrazado a una piedra roja.
 
@@ -122,7 +120,7 @@ Morgott miró a su hermano, que dormía en un rincón de la celda, abrazado a un
 
 Isolde no contestó. Pero esa noche, al subir las escaleras hacia la superficie, tuvo que pararse dos veces a respirar.
 
-* * *
+---
 
 Mohg encontró el agua roja a los ocho años.
 
@@ -134,7 +132,7 @@ Mohg se acercó al borde. Se arrodilló. Miró el agua.
 
 Y sintió algo.
 
-No era una voz. No era una forma. Era una presencia, enorme, antigua, sin cuerpo, que estaba allí, en el fondo del agua, en las paredes de la caverna, en el aire caliente. Y que lo miraba. Mohg sintió su atención como se siente el calor de una hoguera en la cara. Y sintió también su hambre.
+Ni una voz ni una forma: una presencia, enorme, antigua, sin cuerpo, que estaba allí, en el fondo del agua, en las paredes de la caverna, en el aire caliente. Y que lo miraba. Mohg sintió su atención como se siente el calor de una hoguera en la cara. Y sintió también su hambre.
 
 Era hambre de heridas.
 
@@ -146,13 +144,13 @@ La sangre se encendió.
 
 Fue una llama pequeña, roja, que bailó un instante sobre la superficie del estanque y luego subió por las gotas de sangre hasta su mano. No quemaba. Era cálida, suave, como una caricia. Le envolvió la mano herida. Y Mohg, en el fondo de la caverna, con ocho años y los cuernos rozando el techo, sintió que algo le decía, sin palabras, una sola cosa:
 
-*Mío.*
+_Mío._
 
 Mohg sonrió.
 
 Cuando Kulgar lo encontró al día siguiente, en el canal del primer nivel, tenía la mano izquierda vendada con un trapo y no quiso decir qué le había pasado. Pero desde aquel día, Morgott notó que su hermano ya no se escapaba de la celda cada noche. Solo una vez por semana. Y que siempre volvía con el trapo de la mano manchado de rojo, y con una sonrisa nueva, tranquila, que no le había visto nunca.
 
-* * *
+---
 
 Las cadenas llegaron cuando tenían diez años.
 
@@ -180,8 +178,6 @@ Isolde bajó aquella noche. Se encontró a los dos niños encadenados a la pared
 
 —Igual. —Morgott bajó la cabeza—. La Orden dice que la violencia es impura. Que solo el Árbol puede juzgar. Yo los juzgué. Yo no soy el Árbol.
 
-Isolde se quedó callada mucho tiempo.
-
 —Morgott —dijo al fin—. Escúchame bien. La Orden te ha encerrado aquí abajo. La Orden te ha encadenado. La Orden dice que eres impuro por tener cuernos. Y tú, en lugar de odiarla, dices que te lo mereces.
 
 —Porque es buena. La Orden es buena. Lo dice el libro.
@@ -192,13 +188,13 @@ Morgott la miró. Por primera vez en su vida, la miró con algo parecido al mied
 
 —¿Tú no crees en la Orden, Isolde?
 
-La mujer ciega tardó mucho en contestar.
+La mujer ciega se pasó la lengua por los labios.
 
 —Creo en el Árbol —dijo al fin—. En su calor, en su luz. Creo en las oraciones, porque me han hecho compañía toda mi vida. Pero creo también que si el Árbol es bueno, no puede querer que dos niños vivan encadenados en el fondo de una cloaca. —Le puso la mano en la mejilla—. Y si lo quiere, entonces no es tan bueno como dice el libro.
 
 Mohg, en el otro extremo de la celda, sonrió en la oscuridad.
 
-* * *
+---
 
 Mientras tanto, en la superficie, la Orden Áurea se perfeccionaba.
 
@@ -214,13 +210,13 @@ Ordovis fue a ver a Godfrey.
 
 Godfrey estaba afilando el hacha. No levantó la vista.
 
-—Lo sé.
+—Ya.
 
 —¿Y no vais a hacer nada?
 
 —¿Qué quieres que haga, crío? —Godfrey dejó la piedra de afilar—. Es la Orden. Es lo que llevamos siglos construyendo. Un mundo donde todo tiene un nombre y un sitio. Y en ese mundo, las alas y los cuernos y las colas no tienen sitio. —Lo miró—. Tu bisabuelo te lo dijo, ¿no? Que algo se pierde cuando todo tiene un nombre.
 
-—Me lo dijo. —Ordovis apretó el yelmo contra el pecho—. Y yo le dije que alguien tendría que acordarse de lo que se perdió. Aunque fuera luchando por lo que venía. —Se le quebró la voz—. Pero no pensé que lo que se perdería seríamos nosotros.
+—Me lo dijo. —Ordovis apretó el yelmo contra el pecho—. Y yo le dije que alguien tendría que acordarse de lo que se perdió. Aunque fuera luchando por lo que venía. Pero no pensé que lo que se perdería seríamos nosotros.
 
 Godfrey se levantó. Se acercó a él. Le puso una mano en el hombro.
 
@@ -232,7 +228,7 @@ Ordovis lo miró a los ojos.
 
 Godfrey no contestó.
 
-* * *
+---
 
 Los Malnacidos fueron los siguientes.
 
@@ -258,17 +254,17 @@ Marika no contestó enseguida. Miró el yunque, las herramientas, el fuego de la
 
 —¿Por qué?
 
-La diosa lo miró durante mucho tiempo.
+La diosa lo miró.
 
 —Porque si te lo digo —dijo al fin—, dejarás de forjar. Y necesito que forjes.
 
 Se dio la vuelta y se marchó. Hewg se quedó allí, encadenado al yunque, golpeando metal noche y día. Tardaría eras enteras en comprender a qué dios se refería.
 
-* * *
+---
 
 Marika bajó a las cloacas una sola vez.
 
-Lo hizo de noche, sola, envuelta en una capa de lana gris con la capucha echada sobre la cara. Nadie la vio salir de la Torre de los Dedos. Ni siquiera Maliketh, que aquella noche dormía en las escaleras del Árbol. Bajó por las escaleras de servicio de la catedral, por las bodegas, por las criptas, por los túneles de desagüe, como había bajado su sombra once años atrás con dos bebés en los brazos. No se perdió. No preguntó a nadie. Sabía el camino como se sabe el camino hacia algo que se ha evitado durante mucho tiempo.
+Lo hizo de noche, sola, envuelta en una capa de lana gris con la capucha echada sobre la cara. Nadie la vio salir de la Torre de los Dedos. Ni siquiera Maliketh, que aquella noche dormía en las escaleras del Árbol. Bajó por las escaleras de servicio de la catedral, por las bodegas, por las criptas, por los túneles de desagüe, como había bajado su sombra once años atrás con dos bebés en los brazos. No se perdió. No preguntó a nadie. Sabía el camino como se sabe el camino hacia algo que se ha evitado durante años.
 
 Llegó al tercer nivel cuando Grete y Kulgar dormían. Caminó por el pasillo hasta la celda del fondo. Y se detuvo a diez pasos de los barrotes, en la oscuridad, sin hacer ruido.
 
@@ -278,7 +274,7 @@ Eran más grandes de lo que había imaginado. Tenían once años, pero parecían
 
 Esperando a que amaneciera. Esperando el hilo de oro.
 
-Marika se quedó mirándolo mucho tiempo. Al niño despierto. Al de los cuernos más simétricos, el de los ojos claros, el que le había agarrado un mechón de pelo con un puño diminuto la noche en que nació.
+Marika se quedó mirándolo. Al niño despierto. Al de los cuernos más simétricos, el de los ojos claros, el que le había agarrado un mechón de pelo con un puño diminuto la noche en que nació.
 
 No dio un paso más.
 
@@ -296,9 +292,7 @@ Marika no contestó.
 
 —¿Por qué?
 
-La diosa tardó mucho en responder.
-
-—Porque si entro —dijo al fin, en voz muy baja—, no podré salir.
+—Porque si entro —dijo al fin la diosa, en voz muy baja—, no podré salir.
 
 Isolde se levantó del taburete. Caminó despacio hasta ella, guiándose por el sonido de su respiración, y se detuvo a un paso.
 
@@ -318,7 +312,7 @@ La diosa no se movió. Isolde sintió que temblaba bajo su mano.
 
 Marika abrió los ojos. Se volvió hacia la celda. Y miró.
 
-Miró al niño dormido abrazado a su piedra roja. Miró al niño despierto bajo la rejilla, esperando la luz. Los miró durante mucho tiempo, en silencio, mientras la vela se consumía.
+Miró al niño dormido abrazado a su piedra roja. Miró al niño despierto bajo la rejilla, esperando la luz. Los miró en silencio mientras la vela se consumía.
 
 Luego se dio la vuelta y se fue.
 
@@ -328,7 +322,7 @@ A la mañana siguiente, cuando el hilo de luz dorada entró por la rejilla del t
 
 Isolde no dijo nada.
 
-* * *
+---
 
 Un día, el Árbol dejó caer semillas.
 
@@ -342,7 +336,7 @@ Los sacerdotes se miraron entre sí. No entendieron. Creyeron que era un acto de
 
 No lo era. Era la primera grieta.
 
-Nadie la vio. Nadie, salvo una bestia negra que esperaba en la puerta de la iglesia y que, al oír a su hermana, sintió de nuevo aquel escalofrío que había sentido una vez, hacía mucho, bajando de la tierra de los Cornudos.
+Nadie la vio. Nadie, salvo una bestia negra que esperaba en la puerta de la iglesia y que, al oír a su hermana, sintió de nuevo aquel escalofrío que había sentido una vez, hacía mucho, bajando de la tierra de los Cornamentados.
 
 —Es por ellos —le dijo Maliketh en el camino de vuelta, sin mirarla—. Por los de abajo.
 
@@ -350,7 +344,7 @@ Marika no lo negó.
 
 —Una Orden que encierra a niños en una cloaca por tener cuernos —dijo— es una Orden que ha olvidado de dónde viene. Yo vengo de una aldea donde nos metían en tinajas por no tenerlos. —Miró hacia el oeste, hacia el resplandor del Árbol—. He construido lo mismo que juré destruir, Maliketh. Solo que al revés.
 
-* * *
+---
 
 Isolde murió el invierno en que los gemelos cumplieron dieciséis años.
 
@@ -362,7 +356,7 @@ Llegó de madrugada. Se sentó en el suelo junto al camastro, como cuarenta año
 
 —Pasos de gigante —dijo, con la voz muy débil—. Siempre te oigo antes de que llegues.
 
-—Lo sé.
+—Hago ruido a propósito.
 
 —¿Cómo están?
 
@@ -370,7 +364,7 @@ Llegó de madrugada. Se sentó en el suelo junto al camastro, como cuarenta año
 
 —No me voy a curar.
 
-—Lo sé.
+—No.
 
 Se quedaron un rato en silencio. Afuera nevaba; Maliketh lo olía en el aire que entraba por las rendijas.
 

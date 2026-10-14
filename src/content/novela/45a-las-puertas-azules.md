@@ -26,7 +26,7 @@ El herrero levantó la vista al verlas entrar. Se quedó mirando a Ranni un mome
 
 —La de dentro de la reina.
 
-Hewg no dijo nada durante mucho tiempo.
+Hewg dejó el martillo en el yunque. No lo había soltado en todo el día.
 
 —¿La viste? —preguntó al fin.
 
@@ -38,8 +38,6 @@ Hewg no dijo nada durante mucho tiempo.
 
 —¿Y qué dijo?
 
-Edda tardó en contestar.
-
 —Que lo sabía. Que te lo vio en la cara aquella noche. Que fuiste el único que la miró con pena en toda su vida. —Hizo una pausa—. Y que por eso no te dijo qué dios. Porque si te lo decía, habrías dejado de mirarla así.
 
 Hewg se quedó inmóvil, con el martillo en el regazo.
@@ -48,7 +46,7 @@ Luego, muy despacio, lo dejó en el yunque. Y se tapó la cara con las manos, un
 
 Roderika le puso la mano en la espalda.
 
-—Ya está —le dijo, muy bajo—. Ya está, viejo.
+—Ya está —le dijo—. Ya está, viejo.
 
 * * *
 
@@ -60,7 +58,7 @@ Hewg miró a su alrededor. La fragua sin techo. El yunque. La cadena rota. El ca
 
 —¿Como qué?
 
-Hewg tardó mucho en contestar.
+Hewg se rascó las escamas del cuello, incómodo, como si le hubieran preguntado algo indecente.
 
 —Columpios —dijo al fin—. Para niños. Con cadenas. —Señaló a Lis, dormida—. Me lo ha pedido ella. Dice que en el Paso del Portón no hay columpios.
 
@@ -88,7 +86,7 @@ Antes de irse, Edda se arrodilló junto a Lis. La niña se había despertado. La
 
 —He vuelto.
 
-Lis la miró mucho tiempo. Luego miró a Ranni, de pie en la puerta de la fragua, con los fragmentos del Anillo girando alrededor de su cabeza como estrellas.
+Lis la miró. Luego miró a Ranni, de pie en la puerta de la fragua, con los fragmentos del Anillo girando alrededor de su cabeza como estrellas.
 
 —¿Es tu novia? —preguntó.
 
@@ -98,7 +96,7 @@ Edda se quedó paralizada. Ranni, en la puerta, soltó un sonido que podía ser 
 
 —Es muy rara —dijo Lis, muy seria—. Tiene cuatro ojos.
 
-—Lo sé.
+—Me he fijado.
 
 —Pero tiene pecas. —Lis asintió, satisfecha—. Las pecas están bien.
 
@@ -170,7 +168,7 @@ Edda se quedó quieta. Luego se echó a reír.
 
 —No te pregunto por la campanilla. —Blaidd miró a Ranni, que había llegado a su lado y lo miraba con los cuatro ojos—. Te pregunto por ella.
 
-Edda tardó en contestar.
+Edda notó que se le subía la sangre a la cara.
 
 —Sí —dijo—. Me ha gustado.
 
@@ -198,7 +196,7 @@ El troll se quedó completamente inmóvil.
 
 Iji cogió la cuenta con sus dedos enormes. Despacio. Con mucho cuidado. La sostuvo delante de la cara, a la luz de la fragua.
 
-—Brund —dijo, muy bajo—. Se llamaba Brund.
+—Brund —dijo—. Se llamaba Brund.
 
 —Hijo de Hrothgar. Guardaba la llama de la forja. Desde antes del Árbol. Solo.
 
@@ -228,7 +226,7 @@ Ya no había Árbol en el horizonte. Solo cielo.
 
 Edda se sentó en la hierba.
 
-Se quitó el silbato del cuello. Lo miró mucho tiempo. Luego sopló.
+Se quitó el silbato del cuello. Le dio dos vueltas entre los dedos. Luego sopló.
 
 Torrente apareció a su lado, como siempre, de la nada. Sacudiéndose el viento de la crin. Le dio un cabezazo en el hombro. Edda le acarició el cuello.
 
@@ -280,9 +278,9 @@ Estaba de pie en una llanura de tierra roja, bajo un cielo enorme, negro, cuajad
 
 La Estrella del Norte. En el sitio exacto.
 
-Edda se quedó mucho tiempo sin moverse.
+Edda no se movió.
 
-—Es aquí —dijo Ranni, muy bajo, a su lado—. A media legua. Detrás de esa colina.
+—Es aquí —dijo Ranni, a su lado—. A media legua. Detrás de esa colina.
 
 Edda no contestó. Echó a andar.
 
@@ -338,7 +336,7 @@ Sabía cuál era. Lo supo sin pensarlo, como había sabido tantas cosas en aquel
 
 Caminó hasta allí.
 
-La puerta estaba en pie. Sola. Sostenida por un marco de piedra que salía del suelo. Delante, a sus pies, medio enterrado en la tierra roja, había un escalón de piedra. Ancho. Gastado en el centro por pies que se habían sentado allí durante mucho tiempo.
+La puerta estaba en pie. Sola. Sostenida por un marco de piedra que salía del suelo. Delante, a sus pies, medio enterrado en la tierra roja, había un escalón de piedra. Ancho. Gastado en el centro por pies que se habían sentado allí durante años.
 
 La pintura de la puerta estaba casi borrada. Solo quedaba un poco de azul en la parte de abajo, cerca del escalón, donde el sol no daba tanto. Y en esa parte, a la altura de la rodilla de un adulto, a la altura de la cabeza de un niño de seis años sentado en el escalón, había algo grabado en la madera.
 
@@ -362,7 +360,7 @@ Edda no supo cuánto tiempo estuvo arrodillada delante de la puerta.
 
 El sol salió por detrás de las colinas. La luz roja y dorada de la mañana entró en el valle y tocó las puertas, una a una, y el azul desconchado brilló un instante como si fuera nuevo.
 
-Ranni estaba de pie a su lado. No hablaba. No hacía falta.
+Ranni estaba de pie a su lado. No hablaba.
 
 —Se hizo mayor —dijo Edda al fin, con la voz rota—. Se hizo mayor y aprendió a escribir y volvió. Y escribió eso.
 
@@ -480,7 +478,7 @@ Seis hojas. Cinco verdes y una ámbar.
 
 Lo puso en el agujero, con su tierra oscura, la de la tinaja de Belurat. Lo cubrió con la tierra roja de las Tierras Áridas. Apretó con las manos.
 
-—Aquí hay sol —le dijo—. Sol de verdad. Del que no hay en la Tierra de las Sombras. Del que no había dentro del Árbol. —Le tembló la voz—. Tu niña dijo que lo plantara donde hubiera sol. Y Yalda también. Y tu nieta te tocó una hoja y se fue contenta.
+—Aquí hay sol —le dijo—. Sol de verdad. Del que no hay en la Tierra de las Sombras. Del que no había dentro del Árbol. Tu niña dijo que lo plantara donde hubiera sol. Y Yalda también. Y tu nieta te tocó una hoja y se fue contenta.
 
 Las hojas no se movieron. No había viento.
 
@@ -496,7 +494,7 @@ Ranni no dijo nada.
 
 Edda abrió el puño. La piedra ámbar estaba allí. La luz de dentro, débil, cálida, quieta.
 
-Se la quedó mirando mucho tiempo.
+Se la quedó mirando.
 
 *Guárdala*, le había dicho Marika. *Tú la miraste. Es tuya.*
 
@@ -524,13 +522,13 @@ Y las estrellas encima. Las de verdad. El Arquero, la Rueca, los Tres Hermanos.
 
 La Estrella del Norte, en el sitio exacto.
 
-—Alguien tiene que estar mirando cuando pase algo —dijo Edda, muy bajo, medio dormida.
+—Alguien tiene que estar mirando cuando pase algo —dijo Edda, medio dormida.
 
 —¿Quién dijo eso?
 
 —Una mujer de plata. En una ciudad bajo tierra. Puso la Estrella del Norte en el sitio exacto en un cielo pintado. Para que si un día pasaba algo, lo vieran en el sitio correcto.
 
-Ranni se quedó callada un rato.
+Ranni lo pensó con la seriedad con que lo pensaba todo.
 
 —¿Y ha pasado algo?
 
@@ -602,7 +600,7 @@ Así empezó la Era de las Estrellas.
 
 En las Tierras Intermedias, los que quedaban vivos levantaron la vista aquella mañana y vieron algo que nadie había visto en eras: una luna en el cielo de día. Azul, fría, enorme. Subiendo despacio, alejándose. Y alrededor de ella, como un enjambre de luciérnagas, cientos de luces pequeñas, plateadas, que la seguían.
 
-No supieron qué significaba. Algunos tuvieron miedo. Otros lloraron. Otros, la mayoría, se quedaron mirando el cielo mucho tiempo, en silencio, sin saber qué sentían.
+No supieron qué significaba. Algunos tuvieron miedo. Otros lloraron. Otros, la mayoría, se quedaron mirando el cielo en silencio, sin saber qué sentían.
 
 Al día siguiente, el sol salió como siempre.
 

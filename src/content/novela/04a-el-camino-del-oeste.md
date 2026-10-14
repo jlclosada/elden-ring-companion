@@ -1,6 +1,6 @@
 Tardaron cuatro meses en llegar al árbol, y durante los primeros treinta días Godfrey y Marika no se dirigieron la palabra más que para discutir.
 
-No era odio. Era algo más incómodo: no sabían qué eran el uno para el otro. Ella lo había sacado de una celda y le había puesto un león en los hombros y un nombre nuevo en la boca. Él la había ayudado a robar un cielo y la había visto convertirse en diosa a dos pasos de distancia. Y ahora caminaban juntos hacia el oeste por tierras que ninguno de los dos conocía, con una bestia negra delante que no hablaba nunca, y no tenían ni idea de cómo comportarse.
+Más que odio era algo incómodo: no sabían qué eran el uno para el otro. Ella lo había sacado de una celda y le había puesto un león en los hombros y un nombre nuevo en la boca. Él la había ayudado a robar un cielo y la había visto convertirse en diosa a dos pasos de distancia. Y ahora caminaban juntos hacia el oeste por tierras que ninguno de los dos conocía, con una bestia negra delante que no hablaba nunca, y no tenían ni idea de cómo comportarse.
 
 —Estás andando mal —le dijo él el tercer día.
 
@@ -44,7 +44,7 @@ Godfrey la miró un largo momento. Luego soltó una carcajada que hizo que Malik
 
 Marika cogió la liebre. Y por primera vez desde que salieron de la torre, sonrió un poco.
 
-* * *
+---
 
 Maliketh no se fiaba de él.
 
@@ -57,8 +57,6 @@ No lo decía; Maliketh casi nunca decía nada. Pero Marika lo notaba. Cuando God
 —Sí lo sé.
 
 —¿Cómo?
-
-Marika tardó en contestar.
 
 —Porque no le importa nada —dijo al fin—. Ni el oro, ni el poder, ni los dioses. Solo le importa luchar. Y alguien a quien solo le importa luchar no tiene motivos para hacerme daño a mí. Yo le doy guerras.
 
@@ -74,7 +72,7 @@ Maliketh lo olió. Lo miró. Y se lo comió sin dar las gracias.
 
 —Es un comienzo —le dijo Godfrey a Marika, guiñándole un ojo.
 
-* * *
+---
 
 Bajaron de las montañas al decimocuarto día y entraron en las tierras del crisol.
 
@@ -102,7 +100,7 @@ Marika retiró la mano del árbol.
 
 —No lo sé todavía —dijo.
 
-* * *
+---
 
 Encontraron la aldea al vigésimo día, junto a un lago.
 
@@ -124,13 +122,13 @@ El hombre bajó la lanza. Se le había puesto la cara blanca.
 
 —Mi abuelo me habló de esto —dijo, muy despacio—. Antes de morir. Me dijo que la luz del oeste esperaba a alguien. Una muchacha, dijo. Y que cuando la muchacha llegara, el crisol se acabaría. —Tragó saliva—. ¿Eres tú?
 
-Marika lo miró durante mucho tiempo.
+Marika lo miró.
 
 —¿Cómo se llamaba tu abuelo?
 
 —Eldur. Vivía en una cabaña junto a este mismo lago. Tenía una cabra con tres ojos.
 
-* * *
+---
 
 Se llamaba Odwin y era el único nieto de Eldur que había nacido con cuernos.
 
@@ -148,11 +146,9 @@ Odwin lo pensó.
 
 —Lo hará lo que llevo dentro.
 
-El hombre se quedó callado mucho tiempo.
+El hombre se rascó la barba, despacio, mirando la cabra.
 
 —Mi abuelo conoció a una mujer que pasó por aquí —dijo al fin—. Hace mucho, cuando él era viejo y mi padre era un niño. Una cazadora del este, con escamas de draco. Iba hacia las cumbres. Mi abuelo le habló de la luz del oeste, y ella le preguntó qué pasaría si la muchacha que la luz esperaba no quería ser diosa. —Odwin la miró a los ojos—. Mi abuelo le dijo que a los dioses nunca les preguntan. ¿Es verdad?
-
-Marika tardó mucho en contestar.
 
 —Es verdad —dijo—. Pero yo pregunté de todos modos.
 
@@ -162,7 +158,7 @@ Marika tardó mucho en contestar.
 
 En la oscuridad, al otro lado del fuego, Maliketh levantó la cabeza.
 
-* * *
+---
 
 El muchacho de los dos bultos se llamaba Ordovis.
 
@@ -170,9 +166,9 @@ Era delgado, serio, con el pelo castaño revuelto y unos ojos grises que lo mira
 
 —¿Por qué yo? —preguntó Godfrey, escurriéndose el agua de la barba.
 
-—Porque usted mató a veinte guerreros de la bestia divina en lo alto de la torre de los Cornudos. —El muchacho se puso colorado—. Lo dicen los viajeros. Y porque mi padre dice que la muchacha de la luz va hacia el oeste a ser diosa, y que los dioses necesitan caballeros, y yo quiero ser uno.
+—Porque usted mató a veinte guerreros de la bestia divina en lo alto de la torre de los Cornamentados. —El muchacho se puso colorado—. Lo dicen los viajeros. Y porque mi padre dice que la muchacha de la luz va hacia el oeste a ser diosa, y que los dioses necesitan caballeros, y yo quiero ser uno.
 
-Godfrey se lo quedó mirando un largo rato.
+Godfrey se lo quedó mirando como se mira a un perro que se ha meado en las botas.
 
 —¿Sabes lo que es un caballero, crío?
 
@@ -196,11 +192,11 @@ Ordovis escupió barro.
 
 —Sí.
 
-El guerrero se rio. Era la primera vez en mucho tiempo que Marika le oía reír así, sin burla.
+El guerrero se rio. Era la primera vez que Marika le oía reír así, sin burla.
 
 —Bien —dijo—. Mañana, segunda lección.
 
-* * *
+---
 
 Se quedaron en la aldea del lago nueve días.
 
@@ -218,7 +214,7 @@ Una noche, la quinta, Marika estaba sentada en la orilla cuando oyó pasos a su 
 
 —Me da miedo. —Marika se abrazó las rodillas—. Porque se secará por mi culpa. Por lo que llevo dentro. Lo que me entró en la torre no soporta las cosas que no tienen forma. Las ordena. Y cuando no puede ordenarlas, las mata.
 
-Godfrey se quedó callado mucho tiempo.
+Godfrey hurgó el fuego con un palo.
 
 —¿Sabes lo que hacía mi padre cuando un caballo se rompía una pata? —dijo de pronto.
 
@@ -232,7 +228,7 @@ Marika lo miró, sorprendida.
 
 —No. —Godfrey se encogió de hombros—. Se murió igual. Pero murió en una cueva, con alguien al lado que le llevaba agua, en lugar de morir de un hachazo en un prado. —La miró—. No sé si eso es mejor. Pero era lo único que yo podía hacer.
 
-Marika lo miró durante mucho tiempo. A la luz de la luna, el guerrero parecía más joven, menos salvaje. El león de sus hombros dormía.
+Marika lo miró. A la luz de la luna, el guerrero parecía más joven, menos salvaje. El león de sus hombros dormía.
 
 —¿Por qué me cuentas eso?
 
@@ -240,9 +236,9 @@ Marika lo miró durante mucho tiempo. A la luz de la luna, el guerrero parecía 
 
 Marika no contestó. Pero esa noche, por primera vez, cuando volvieron al campamento, no se sentó al otro lado del fuego. Se sentó a su lado.
 
-Maliketh, tumbado en la oscuridad, los miró durante mucho tiempo. Luego, despacio, se levantó, y se fue a tumbar a otro sitio.
+Maliketh, tumbado en la oscuridad, los miró. Luego, despacio, se levantó, y se fue a tumbar a otro sitio.
 
-* * *
+---
 
 La criatura del lago salió a la superficie la novena noche.
 
@@ -272,7 +268,7 @@ Godfrey se arrodilló a su lado. No la tocó. Se quedó a su lado, en silencio, 
 
 Al amanecer, el lago estaba seco. Del todo. Solo quedaba una costra de barro agrietado, y en el centro, donde había estado el agua verde, un círculo de musgo blanco, muy fino, como ceniza.
 
-* * *
+---
 
 Odwin no le reprochó nada.
 
@@ -294,21 +290,21 @@ El muchacho se acercó corriendo. Se arrodilló ante ella, torpemente, como hab�
 
 —¿Por qué quieres venir?
 
-Ordovis tardó en contestar. Miró el lago seco. Miró a su padre. Miró la espada vieja que llevaba a la cintura, la que tenía escamas.
+Ordovis miró el lago seco. Miró a su padre. Miró la espada vieja que llevaba a la cintura, la que tenía escamas.
 
 —Porque mi bisabuelo decía que algo se pierde cuando todo tiene un nombre y un sitio —dijo al fin—. Y alguien tendrá que acordarse de lo que se perdió. Aunque sea luchando por lo que viene.
 
-Marika lo miró durante mucho tiempo. Luego le puso una mano en la cabeza, entre los dos bultos de cuernos que apenas se veían.
+Marika lo miró. Luego le puso una mano en la cabeza, entre los dos bultos de cuernos que apenas se veían.
 
 —Levanta, caballero —dijo.
 
-* * *
+---
 
 El resto del viaje fue distinto.
 
 Ya no eran tres: eran cuatro. Ordovis caminaba junto a Godfrey, haciéndole preguntas sin parar, sobre la guerra, sobre las armas, sobre la arena de Belurat. Godfrey las contestaba todas, con una paciencia que sorprendía a Marika. Por las tardes seguían las lecciones de palo, y Ordovis seguía acabando en el barro, pero cada vez tardaba un poco más.
 
-Y algo había cambiado entre Godfrey y Marika. No lo hablaron. No hacía falta. Pero ya no discutían por cómo se andaba en las cuestas. Por las noches, junto al fuego, se sentaban juntos. A veces ella le preguntaba por su tierra, por las llanuras resecas del otro lado de las montañas, y él le contaba cosas a medias, con la voz baja. A veces él le preguntaba por su valle, y ella le hablaba de las casas de árbol, de la Abuela, de Tilde. Nunca de su madre.
+Y algo había cambiado entre Godfrey y Marika. No lo hablaron. Pero ya no discutían por cómo se andaba en las cuestas. Por las noches, junto al fuego, se sentaban juntos. A veces ella le preguntaba por su tierra, por las llanuras resecas del otro lado de las montañas, y él le contaba cosas a medias, con la voz baja. A veces él le preguntaba por su valle, y ella le hablaba de las casas de árbol, de la Abuela, de Tilde. Nunca de su madre.
 
 Una noche, Ordovis, que fingía dormir, los oyó reírse juntos de algo que no entendió. Se quedó mucho rato despierto, mirando las estrellas, con una sonrisa tonta en la cara.
 
@@ -322,17 +318,15 @@ Maliketh no se volvió.
 
 —¿Triste?
 
-La bestia tardó mucho en contestar.
-
 —No sé lo que es estar triste, hermana —dijo al fin—. Pero sé que antes eras solo mía. Y ahora no.
 
-Marika lo alcanzó. Caminó a su lado, en silencio, un rato largo. Luego le puso una mano en el lomo, entre los omoplatos, como se pone la mano a un perro grande que camina contigo.
+Marika lo alcanzó. Caminó a su lado, en silencio. Luego le puso una mano en el lomo, entre los omoplatos, como se pone la mano a un perro grande que camina contigo.
 
 —Sigues siendo mi sombra —dijo—. Eso no me lo puede quitar nadie. Ni él, ni la luz, ni los Dedos. Una diosa puede tener muchos caballeros. Sombra solo tiene una.
 
 Maliketh no dijo nada. Pero se le erizó el pelaje del lomo bajo la mano de ella, y siguió caminando un poco más despacio, para que ella no tuviera que apresurarse.
 
-* * *
+---
 
 Llegaron a la meseta al final del cuarto mes.
 
@@ -348,11 +342,11 @@ Ordovis se arrodilló sin que nadie se lo dijera. Godfrey se quitó el yelmo. Ma
 
 Marika siguió andando, sola, descalza, hasta las raíces del árbol.
 
-Se detuvo frente al tronco. Lo miró durante mucho tiempo. Luego alargó una mano y lo tocó.
+Se detuvo frente al tronco. Luego alargó una mano y lo tocó.
 
 Estaba caliente. Latía. Y en el instante en que su mano lo tocó, Marika sintió que algo dentro de ella —lo dorado, lo que ordenaba, lo que le había entrado en la torre— se estiraba hacia el árbol como una planta se estira hacia el sol. Y sintió también, muy al fondo, otra cosa: el recuerdo de una dragona blanca junto a un estanque, que había intentado amar a alguien cada día durante una era, y que al final había dejado de ser ella misma.
 
-*Yo no*, pensó Marika. *Yo seguiré siendo yo. Lo decido yo.*
+_Yo no_, pensó Marika. _Yo seguiré siendo yo. Lo decido yo._
 
 Se sentó a los pies del árbol, con la espalda contra el tronco dorado. Godfrey se acercó y se sentó a su lado, con un crujido de huesos y armadura. Ordovis se quedó de rodillas a unos pasos. El sol se ponía sobre el mar interior.
 

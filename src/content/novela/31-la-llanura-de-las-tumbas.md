@@ -18,7 +18,7 @@ Nadie contestó.
 
 —El Árbol Umbrío —dijo una voz a su espalda—. El hermano oscuro del tuyo. Lo selló la reina Marika cuando borró esta tierra del mundo. Aquí no llega su gracia. Ni la de tu doncella.
 
-* * *
+---
 
 Era una mujer joven, de pelo rubio cortado a la altura de la mandíbula, con una armadura ligera de color blanco y oro, ceñida, de placas finas como escamas, y una espada estrecha como una aguja colgada a la cintura. Tenía una cara seria, de facciones limpias, casi severas, y unos ojos azules que miraban a Edda con una intensidad que resultaba incómoda. Estaba de pie entre dos cruces, con las manos cruzadas a la espalda, como si llevara mucho rato esperando.
 
@@ -30,11 +30,9 @@ Era una mujer joven, de pelo rubio cortado a la altura de la mandíbula, con una
 
 —¿Y para qué me necesita?
 
-Leda tardó un momento en contestar.
-
 —Para seguirlo —dijo al fin—. Cruzó a esta tierra hace tiempo, después de dejar su cuerpo atrás en el capullo. Va hacia el Árbol Umbrío. Hacia lo alto, hacia la copa, hacia una ciudad que se llama Enir-Ilim. Allí piensa convertirse en dios. —Le brillaron los ojos—. Un dios distinto. Uno que no elija. Que ame a todos por igual. A los malditos, a los albinauricos, a los Augurios, a los que nadie quiere. Sin excepción.
 
-Edda pensó en Mohg, arrodillado ante el capullo, diciendo *nadie me enseñó a querer así*. En Mohg llevándose la mano a la cabeza. En Ansbach diciendo *como un perfume*.
+Edda pensó en Mohg, arrodillado ante el capullo, diciendo _nadie me enseñó a querer así_. En Mohg llevándose la mano a la cabeza. En Ansbach diciendo _como un perfume_.
 
 —¿Y si yo no quiero seguirlo?
 
@@ -46,31 +44,31 @@ Leda la miró con algo parecido a la lástima.
 
 Leda dejó de sonreír.
 
-—Mohg robó el cuerpo del señor —dijo, con una voz más dura—. Lo arrancó de su capullo en el Árbol Hálito. Lo bajó a un palacio de sangre. Lo que le pasó después se lo buscó él. —Se dio la vuelta—. Ven. Hay una iglesia al pie de la llanura. Los demás están allí.
+—Mohg robó el cuerpo del señor —dijo, con una voz más dura—. Lo arrancó de su capullo en el Árbol Hierático. Lo bajó a un palacio de sangre. Lo que le pasó después se lo buscó él. —Se dio la vuelta—. Ven. Hay una iglesia al pie de la llanura. Los demás están allí.
 
 —¿Los demás?
 
 —Los que lo seguimos. —Leda echó a andar entre las cruces, sin volverse—. No eres la primera, forastera. Ni serás la última.
 
-* * *
+---
 
 Mientras caminaban, Edda leyó las cruces.
 
 No pudo evitarlo. Eran tantas, y estaban tan juntas, que acababa pasando a un palmo de cada una, y la letra fina de la base le saltaba a los ojos. Al principio pensó que eran tumbas, con nombres. No lo eran. No había nombres. Eran frases. Cortas. Una por cruz.
 
-*He dejado aquí mi carne.*
+_He dejado aquí mi carne._
 
-*He dejado aquí mi fuerza.*
+_He dejado aquí mi fuerza._
 
-*He dejado aquí el miedo a las alturas.*
+_He dejado aquí el miedo a las alturas._
 
-*He dejado aquí el recuerdo de un jardín.*
+_He dejado aquí el recuerdo de un jardín._
 
-*He dejado aquí mi nombre de niño.*
+_He dejado aquí mi nombre de niño._
 
 Edda se detuvo junto a una, más pequeña que las demás, inclinada sobre un arroyo seco.
 
-*He dejado aquí mi amor.*
+_He dejado aquí mi amor._
 
 —Son suyas —dijo Leda, que se había detenido unos pasos más allá—. Las cruces de Miquella. Las fue dejando a su paso, por toda la tierra, cuando cruzó. En cada una se deshizo de algo. De algo que lo ataba.
 
@@ -78,7 +76,7 @@ Edda se detuvo junto a una, más pequeña que las demás, inclinada sobre un arr
 
 —Para poder subir. —Leda miró hacia el Árbol Umbrío—. Un dios no puede cargar con nada. Ni con el cuerpo, ni con los recuerdos, ni con el miedo. Ni con el amor por nadie en concreto. Tiene que amar a todos por igual. Y para amar a todos por igual, no se puede amar a nadie más que a los demás.
 
-Edda se quedó mirando la cruz. *He dejado aquí mi amor.*
+Edda se quedó mirando la cruz. _He dejado aquí mi amor._
 
 —¿Y qué le queda?
 
@@ -88,7 +86,7 @@ Edda se agachó junto a la cruz pequeña antes de seguir. A sus pies, entre la h
 
 No sabía si debía. Aquella tierra no era la de Arn. Nada de allí era de su mundo. Pero la guardó igual. La undécima.
 
-* * *
+---
 
 La iglesia estaba al pie de la llanura, en una hondonada, medio enterrada en la tierra gris. Era pequeña, de piedra oscura, con el tejado hundido en una esquina y una campana rota en el campanario. Dentro, alrededor de una gracia que brillaba con una luz más pálida que las de casa, casi blanca, había otros.
 
@@ -136,9 +134,9 @@ Edda se sentó a su lado, despacio.
 
 —¿Por qué?
 
-Freyja tardó en contestar.
+Freyja se rascó la cicatriz del costado por encima de la cota.
 
-—En Aeonia —dijo al fin—. El día de la flor. Cuando la podredumbre me alcanzó, en el costado, y caí. Estaba en el suelo, entre los muertos, y sentía cómo se me pudría la carne por dentro. Y vino un niño. Un niño rubio, pequeño, que no debería haber estado allí, en mitad de la batalla. Se arrodilló a mi lado. Me abrió la armadura. Y me chupó la herida. —Se le quebró la voz—. Me chupó la podredumbre del costado con la boca, como se chupa el veneno de una picadura, y la escupió en el barro. Una y otra vez. Hasta que dejó de quemar.
+—En Aeonia —dijo al fin—. El día de la flor. Cuando la podredumbre me alcanzó, en el costado, y caí. Estaba en el suelo, entre los muertos, y sentía cómo se me pudría la carne por dentro. Y vino un niño. Un niño rubio, pequeño, que no debería haber estado allí, en mitad de la batalla. Se arrodilló a mi lado. Me abrió la armadura. Y me chupó la herida. Me chupó la podredumbre del costado con la boca, como se chupa el veneno de una picadura, y la escupió en el barro. Una y otra vez. Hasta que dejó de quemar.
 
 Edda no dijo nada.
 
@@ -150,7 +148,7 @@ Freyja la miró. Frunció el ceño.
 
 —No —dijo, despacio—. Como una deuda.
 
-* * *
+---
 
 Y había, por último, un hombre extraño, sentado aparte, en el último banco, lejos de la gracia, con la espalda contra la pared.
 
@@ -162,29 +160,25 @@ Era encorvado, delgado, con la piel de un tono grisáceo y unos cuernos pequeño
 
 —No nos lo ha dicho. Lo llamamos «el Cornudo». —Leda se encogió de hombros—. No parece importarle.
 
-* * *
+---
 
 Esa noche, junto a la gracia pálida, el Cornudo se sentó al lado de Edda.
 
 Los demás dormían. Moore roncaba en un banco, con el yelmo de toro sobre el pecho. Thiollier se había acurrucado en un rincón, abrazado a su ballesta. Freyja dormía sentada, con la espalda recta, como duermen los soldados. Ansbach no dormía; estaba en la puerta, de pie, mirando la llanura. Leda había salido.
 
-El Cornudo no dijo nada durante mucho tiempo. Se sentó a dos palmos de ella, con las piernas cruzadas y la espalda contra el banco, y se quedó mirando la luz blanca de la gracia. Edda se dio cuenta de que se sentaba igual que ella. Como la gente de las Tierras Áridas. Con la espalda contra algo, para que nadie lo pillara por detrás.
+El Cornudo se sentó a dos palmos de ella, con las piernas cruzadas y la espalda contra el banco, y se quedó mirando la luz blanca de la gracia. Edda se dio cuenta de que se sentaba igual que ella. Como la gente de las Tierras Áridas. Con la espalda contra algo, para que nadie lo pillara por detrás.
 
 —¿Sabes lo que hicieron aquí? —preguntó al fin, sin mirarla. Tenía una voz áspera, baja, con un acento cantarín que no se correspondía con las palabras—. Los tuyos. Los del Árbol.
 
 —Me lo han contado. Más o menos.
 
-—No. No te lo han contado. —El Cornudo apretó los puños sobre las rodillas—. Nadie lo cuenta. En tu tierra no se cuenta. Lo sé. He leído vuestros libros. En vuestros libros esta tierra no existe. —Hizo una pausa—. Vinieron con fuego. Un hombre con una serpiente en el ojo y una llama en la mano. Messmer. El hijo de la reina. El Empalador, lo llamamos aquí. Vino con un ejército de caballeros negros y dorados, y quemó nuestras ciudades. Quemó nuestros templos. Quemó nuestros campos. Quemó a nuestros niños.
-
-Le tembló la voz.
+—No. No te lo han contado. —El Cornudo apretó los puños sobre las rodillas—. Nadie lo cuenta. En tu tierra no se cuenta. He leído vuestros libros. En vuestros libros esta tierra no existe. —Hizo una pausa—. Vinieron con fuego. Un hombre con una serpiente en el ojo y una llama en la mano. Messmer. El hijo de la reina. El Empalador, lo llamamos aquí. Vino con un ejército de caballeros negros y dorados, y quemó nuestras ciudades. Quemó nuestros templos. Quemó nuestros campos. Quemó a nuestros niños.
 
 —Mi hermana estaba en uno de ellos. En un templo. Tenía nueve años. Había ido a llevar flores a la tinaja de nuestra abuela.
 
 Edda no supo qué decir.
 
-—Yo tenía catorce. —El Cornudo se miró las manos—. Me escondí en un pozo. Oí los gritos desde dentro del pozo. Oí a mi hermana. Durante mucho rato. —Se quedó en silencio—. Cuando salí, el templo era ceniza. Y en la plaza, delante del templo, había cruces. No como estas. Otras. Cruces de hierro, altas. Y en las cruces…
-
-No terminó la frase.
+—Yo tenía catorce. —El Cornudo se miró las manos—. Me escondí en un pozo. Oí los gritos desde dentro del pozo. Oí a mi hermana. Durante mucho rato. —Se quedó en silencio—. Cuando salí, el templo era ceniza. Y en la plaza, delante del templo, había cruces. No como estas. Otras. Cruces de hierro, altas. Y en las cruces, los nuestros. Clavados por las muñecas y los tobillos, con los cuernos atados al travesaño para que no pudieran bajar la cabeza. Les prendían fuego por los pies. Despacio. Los que pasaban por el camino veían cómo se les ennegrecían las piernas mientras seguían vivos. Mi padre aguantó dos días. Yo tenía siete años y me escondieron en una zanja enfrente, y lo vi entero. Los soldados se meaban en las brasas para que no subiera el fuego demasiado deprisa.
 
 Edda pensó en Velo Tormentoso. En los brazos colgados en el comedor. En los once brazos de niño que había enterrado bajo un árbol.
 
@@ -210,7 +204,7 @@ Se quedaron en silencio. La gracia crepitaba.
 
 —Llegar a Messmer —dijo el Cornudo—. Y matarlo. Con mis manos. Y después de él, a la reina. Si es que sigue viva.
 
-Edda pensó en lo que le habían contado en la Mesa Redonda. En lo que había visto en la explanada de Leyndell: la entrada del Árbol cerrada por espinas. *Mi madre lo abandonó*, había dicho Morgott. *Se encerró dentro y no ha vuelto a salir.*
+Edda pensó en lo que le habían contado en la Mesa Redonda. En lo que había visto en la explanada de Leyndell: la entrada del Árbol cerrada por espinas. _Mi madre lo abandonó_, había dicho Morgott. _Se encerró dentro y no ha vuelto a salir._
 
 No dijo nada.
 
@@ -218,7 +212,7 @@ El Cornudo se fue a su banco del fondo. Antes de tumbarse, se volvió.
 
 —Me llamo Hornen —dijo—. Mi hermana se llamaba Isa. —Hizo una pausa—. Me lo has preguntado sin preguntarlo. Por eso te lo digo.
 
-* * *
+---
 
 Al amanecer, Leda volvió a la iglesia con noticias.
 
@@ -234,7 +228,7 @@ Hornen, en su banco del fondo, levantó la cabeza al oír el nombre.
 
 Nadie le hizo caso. Pero Edda vio cómo se le tensaban los hombros. Cómo apretaba los puños. Cómo se quedaba mirando hacia el norte a través de la puerta rota de la iglesia, hacia la torre que asomaba sobre las colinas grises, con una expresión que no era de odio, sino de algo más antiguo. Como quien mira una casa donde vivió de niño.
 
-* * *
+---
 
 Antes de salir, Edda se acercó a Ansbach, que seguía en la puerta, mirando la llanura.
 
@@ -244,11 +238,9 @@ Antes de salir, Edda se acercó a Ansbach, que seguía en la puerta, mirando la 
 
 —Yo también lo noté. En el salón.
 
-—Lo sé. Te vi apartarte un paso. —Ansbach la miró—. Eso es lo importante, Sinluz. Apartarse un paso. Sentirlo y apartarse. —Volvió a mirar la llanura—. Mi señor no supo hacerlo. Se acercó hasta el final. Y se perdió.
+—Te vi apartarte un paso. —Ansbach la miró—. Eso es lo importante, Sinluz. Apartarse un paso. Sentirlo y apartarse. —Volvió a mirar la llanura—. Mi señor no supo hacerlo. Se acercó hasta el final. Y se perdió.
 
 —¿Y Leda? ¿Y los demás?
-
-Ansbach tardó en contestar.
 
 —Leda no se aparta nunca —dijo al fin—. Por eso me preocupa. —Hizo una pausa—. Los demás… no lo sé todavía. Freyja tiene una deuda. Thiollier tiene una santa. Moore tiene una culpa. El Cornudo tiene una venganza. Todos tenemos algo propio, algo que no es el perfume. —La miró—. ¿Y tú? ¿Qué tienes tú?
 

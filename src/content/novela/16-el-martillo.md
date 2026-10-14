@@ -24,11 +24,11 @@ El muchacho calló. Dejó el cuenco en el suelo, muy despacio, y se quedó quiet
 
 —No hay ninguna forja aquí.
 
-—No aquí. —Gurranq dio un paso hacia el borde del risco. El viento le agitaba el pelaje negro, largo y apelmazado, y por un instante el muchacho creyó ver debajo, en la espalda, el contorno de algo que no era carne: una vaina, o la forma de una espada que hubiera estado allí mucho tiempo y ya no estuviera—. Allí.
+—No aquí. —Gurranq dio un paso hacia el borde del risco. El viento le agitaba el pelaje negro, largo y apelmazado, y por un instante el muchacho creyó ver debajo, en la espalda, el contorno de algo que no era carne: una vaina, o la forma de una espada que hubiera estado allí siglos y ya no estuviera—. Allí.
 
 El muchacho siguió la dirección de su mirada. El resplandor del Árbol temblaba. No mucho. Como tiembla la llama de una vela cuando alguien abre una puerta en la otra punta de la casa.
 
-—Hace mucho —dijo Gurranq, y su voz había cambiado: ya no era el gruñido ronco de siempre, sino algo más hondo, más antiguo, la voz de alguien que recordaba haber hablado de otra manera—, cuando yo todavía tenía nombre, bajé de las montañas de los Cornudos junto a una muchacha de pelo dorado. Ella iba descalza. Yo iba detrás, como su sombra. Me dijo que el mundo que íbamos a construir no tendría muerte, y que yo sería quien la guardara para que nadie la usara nunca.
+—Hace mucho —dijo Gurranq, y su voz había cambiado: ya no era el gruñido ronco de siempre, sino algo más hondo, más antiguo, la voz de alguien que recordaba haber hablado de otra manera—, cuando yo todavía tenía nombre, bajé de las montañas de los Cornamentados junto a una muchacha de pelo dorado. Ella iba descalza. Yo iba detrás, como su sombra. Me dijo que el mundo que íbamos a construir no tendría muerte, y que yo sería quien la guardara para que nadie la usara nunca.
 
 —¿La muerte, maestro?
 
@@ -44,7 +44,7 @@ Gurranq cayó de rodillas.
 
 —No —susurró, con la voz ronca de la bestia que había olvidado ser—. Hermana, no.
 
-* * *
+---
 
 En lo más alto de Leyndell, donde las raíces del Árbol se hundían en la piedra de la ciudad como dedos en barro blando, había una escalinata que nadie subía.
 
@@ -58,51 +58,51 @@ Había despedido a sus doncellas al anochecer. Había despedido también a la gu
 
 Marika le había sonreído. Era una sonrisa que el caballero recordaría durante el resto de su vida, que sería corta, porque murió tres años después en los primeros asedios de la Fractura, defendiendo una puerta que ya no tenía nada que defender.
 
-—Ocurre que estoy cansada, Hargen —le dijo ella—. Llevo mucho tiempo cansada. Ve a dormir. Mañana será un día largo.
+—Ocurre que estoy cansada, Hargen —le dijo ella—. Llevo eras cansada. Ve a dormir. Mañana será un día largo.
 
 Y subió.
 
-Llevaba un martillo en la mano. No era un arma de guerra. Era una herramienta sencilla, de cabeza de piedra gris y mango de madera oscura, gastado por el uso, como el de cualquier herrero de aldea. Radagon lo había llevado durante las guerras de Liurnia y lo había usado después para reparar cosas: las puertas de la capital, las campanas de las iglesias, una vez incluso la cuna de uno de sus hijos. Ahora lo llevaba ella. Siempre había sido de los dos.
+Llevaba un martillo en la mano. Una herramienta sencilla, de cabeza de piedra gris y mango de madera oscura, gastado por el uso, como el de cualquier herrero de aldea. Radagon lo había llevado durante las guerras de Liurnia y lo había usado después para reparar cosas: las puertas de la capital, las campanas de las iglesias, una vez incluso la cuna de uno de sus hijos. Ahora lo llevaba ella. Siempre había sido de los dos.
 
 A mitad de la escalinata se detuvo.
 
 No porque dudara. Se detuvo porque él había despertado.
 
-*¿Qué haces?*
+_¿Qué haces?_
 
 La voz no sonaba fuera. Sonaba dentro, detrás de los ojos, con el timbre grave y paciente que Marika conocía mejor que el suyo propio. Radagon. La otra mitad. El hombre de pelo rojo que había llegado a Leyndell como enemigo, que se había quedado como esposo, y que nunca había sabido —hasta que fue demasiado tarde para saber otra cosa— que la diosa a la que adoraba y el hombre que él era compartían un mismo cuerpo, una misma sangre, una misma condena.
 
 —Subo —respondió Marika en voz alta. No había nadie para oírla.
 
-*Llevas mi martillo.*
+_Llevas mi martillo._
 
 —Nuestro martillo.
 
 Silencio. Marika reanudó la subida. Los escalones estaban fríos bajo sus pies descalzos; siempre subía descalza, como cuando era una muchacha en un valle lejano donde las casas se cultivaban como árboles.
 
-*Marika.* La voz era más urgente ahora. *Detente. Sé lo que piensas. Lo he sentido crecer en ti durante años, como una enfermedad. Desde que murió Godwyn.*
+_Marika._ La voz era más urgente ahora. _Detente. Sé lo que piensas. Lo he sentido crecer en ti durante años, como una enfermedad. Desde que murió Godwyn._
 
 —Desde antes.
 
-*Desde antes, entonces.* Una pausa. *No puedes hacerlo.*
+_Desde antes, entonces._ Una pausa. _No puedes hacerlo._
 
 —Puedo. Es lo único que todavía puedo hacer.
 
-*Es el Orden. Es la ley de todas las cosas. Sin él…*
+_Es el Orden. Es la ley de todas las cosas. Sin él…_
 
 —Sin él, ¿qué? —Marika se detuvo en el último escalón. Delante de ella, en el centro de la plataforma, flotaba el Anillo—. Dímelo, Radagon. Dime qué perderá el mundo. ¿La paz? Hemos tenido guerra durante eras en su nombre. ¿La muerte? Ya la quitamos. Quitamos la muerte, y los muertos se quedaron atrapados en las raíces, sin poder irse, sin poder volver. ¿La justicia? Dime una cosa justa que haya hecho ese Anillo.
 
-*Te hizo diosa.*
+_Te hizo diosa._
 
 —Me hizo su recipiente. —Su voz se quebró por primera vez—. Que es otra cosa.
 
-* * *
+---
 
 El Anillo de Elden no era un objeto que pudiera tocarse.
 
-Era una forma. Un orden. Una constelación de runas de luz dorada que giraban lentamente en el aire, unas dentro de otras, como los engranajes de un reloj que nadie había construido. Cada runa era una ley: que el agua cae, que las heridas se cierran, que los hijos se parecen a sus padres, que las almas regresan al Árbol. Juntas, eran el mundo tal como la Voluntad Mayor lo había querido. Y en el centro de todas ellas, donde debería haber estado la runa de la muerte, había un hueco. Un vacío pequeño, oscuro, que Marika había abierto con sus propias manos hacía mucho tiempo, el día que decidió que en su mundo nadie moriría.
+Era una forma. Un orden. Una constelación de runas de luz dorada que giraban lentamente en el aire, unas dentro de otras, como los engranajes de un reloj que nadie había construido. Cada runa era una ley: que el agua cae, que las heridas se cierran, que los hijos se parecen a sus padres, que las almas regresan al Árbol. Juntas, eran el mundo tal como la Voluntad Mayor lo había querido. Y en el centro de todas ellas, donde debería haber estado la runa de la muerte, había un hueco. Un vacío pequeño, oscuro, que Marika había abierto con sus propias manos hacía eras, el día que decidió que en su mundo nadie moriría.
 
-Lo miró durante mucho tiempo, como se mira algo que se ama y se odia a la vez.
+Lo miró como se mira algo que se ama y se odia a la vez.
 
 Pensó en un valle alto lleno de casas de árbol vacías, en las chamanas de su aldea, sus hermanas, sus primas, su madre, todas encerradas en tinajas por los soldados del Árbol mientras ella miraba hacia otro lado. Pensó en una trenza atada a una rama. Pensó en un hombre con un león sobre los hombros, alejándose en un barco hacia las Tierras Áridas, desterrado por ella misma. Pensó en una reina de la luna abrazada a un huevo de ámbar en una biblioteca vacía. En un niño que no crecía y una niña que se pudría por dentro. En un hijo sin alma respirando en un trono de raíces, debajo de la ciudad, con los ojos abiertos. En otro hijo con una serpiente dentro, sellado en una tierra que ella misma había borrado de los mapas.
 
@@ -110,17 +110,17 @@ En los augurios, nacidos con cuernos en su propia casa, arrojados a las cloacas 
 
 En todo lo que había hecho en nombre de aquella cosa que flotaba ante ella.
 
-*Marika.* La voz de Radagon era ahora apenas un susurro. *Por favor.*
+_Marika._ La voz de Radagon era ahora apenas un susurro. _Por favor._
 
 —¿Sabes cuál fue la primera ley que me susurró? —preguntó ella—. La primera noche, cuando bajó la estrella y yo era todavía una chamana de la Tierra de las Sombras. No fue «gobierna». No fue «protege». Fue «obedece». Y obedecí, Radagon. Obedecí durante tanto tiempo que olvidé que había otra cosa.
 
-*¿Y ahora?*
+_¿Y ahora?_
 
 Marika levantó el martillo.
 
 —Ahora ya no.
 
-* * *
+---
 
 El primer golpe se oyó en toda la capital.
 
@@ -158,7 +158,7 @@ Su hermano estaba sentado en la cama, con las manos en el pecho, pálido como la
 
 El tercer golpe rompió el Anillo.
 
-* * *
+---
 
 Las runas saltaron en pedazos.
 
@@ -170,7 +170,7 @@ Marika se quedó de pie en la plataforma, con el martillo en la mano y el pelo d
 
 —Ya está —dijo, a nadie—. Ya está.
 
-* * *
+---
 
 Entonces su pelo se volvió rojo.
 
@@ -182,7 +182,7 @@ Miró a su alrededor como quien despierta en una casa incendiada. Los fragmentos
 
 —Así no —dijo, con una voz que era la de ella y no lo era—. Así no se hace.
 
-*Déjalo.* Ahora era Marika quien hablaba desde dentro, débil, agotada. *Déjalo, Radagon. Está hecho.*
+_Déjalo._ Ahora era Marika quien hablaba desde dentro, débil, agotada. _Déjalo, Radagon. Está hecho._
 
 —Nada está hecho mientras se pueda deshacer.
 
@@ -194,11 +194,11 @@ Y volvieron a separarse.
 
 Golpeó de nuevo. Y de nuevo. El sudor le corría por la frente, por el cuello, por la espalda. Golpeaba con una fe desesperada, la misma fe con la que había servido al Orden toda su vida, la misma con la que había abandonado a una reina que lo amaba porque algo lo llamaba desde el Árbol. Golpeaba y golpeaba, y cada golpe era una plegaria, y ninguna plegaria recibía respuesta.
 
-*Radagon.*
+_Radagon._
 
 —¡Calla!
 
-*Lo que se rompe con un martillo no se arregla con el mismo martillo. Tú lo sabes. Tú me lo enseñaste.*
+_Lo que se rompe con un martillo no se arregla con el mismo martillo. Tú lo sabes. Tú me lo enseñaste._
 
 Al cuarto golpe, Radagon se detuvo. Se quedó quieto, con el martillo en alto, mirando cómo las últimas runas se escapaban hacia la noche, una a una, como pájaros asustados. Y el hombre que había sido campeón, esposo, rey, el hombre que había reparado puertas y campanas y una cuna, comprendió que había cosas que no tenían arreglo.
 
@@ -206,9 +206,9 @@ Bajó el martillo.
 
 —¿Por qué? —preguntó, y su voz era apenas audible—. ¿Por qué no me lo dijiste antes?
 
-*Te lo dije*, respondió Marika. *Durante siglos. Pero tú solo escuchabas al Árbol.*
+_Te lo dije_, respondió Marika. _Durante siglos. Pero tú solo escuchabas al Árbol._
 
-* * *
+---
 
 La Voluntad Mayor respondió.
 
@@ -228,7 +228,7 @@ Allí quedó la diosa, crucificada dentro del Árbol, con la mitad del cuerpo ro
 
 Y dentro de ellos, enroscada en el corazón del cuerpo compartido, quedó la Bestia de Elden. El Anillo hecho carne. Esperando.
 
-* * *
+---
 
 Las Grandes Runas encontraron a sus portadores.
 
@@ -242,7 +242,7 @@ Era una esfera de oro del tamaño de un puño, y giraba. Flotó por la habitaci�
 
 Godrick la tocó.
 
-La runa se hundió en su pecho como una piedra en el agua. El semidiós gritó, se dobló, cayó de rodillas sobre la alfombra. Pell corrió hacia él, pero se detuvo a un paso, porque Godrick había levantado la cabeza y lo estaba mirando, y en sus ojos había algo que el viejo no había visto nunca en ellos. No era fuerza. Era hambre.
+La runa se hundió en su pecho como una piedra en el agua. El semidiós gritó, se dobló, cayó de rodillas sobre la alfombra. Pell corrió hacia él, pero se detuvo a un paso, porque Godrick había levantado la cabeza y lo estaba mirando, y en sus ojos había algo que el viejo no había visto nunca en ellos. Hambre.
 
 —Me ha elegido —dijo Godrick, con una voz extraña, temblorosa, casi infantil—. Pell. De todos ellos, me ha elegido a mí.
 
@@ -252,7 +252,7 @@ Era la runa central del Anillo, la más importante, la que los sabios llamaban l
 
 Años después, cuando Godrick empezó a injertarse en el cuerpo los brazos de los vencidos para parecer más grande, Pell sería el primero en marcharse del castillo. Nunca contó a nadie lo que había visto aquella noche. Pero a veces, en la taberna de un pueblo de la costa donde acabó sus días, se quedaba mirando el fuego y decía en voz baja que la grandeza era como una runa: que no te hace grande, solo te hace desear serlo.
 
-* * *
+---
 
 Debajo de la capital, en el nivel más hondo de las cloacas, donde el agua negra corría entre muros cubiertos de musgo y los augurios encadenados aullaban en la oscuridad, un carcelero llamado Draxe estaba haciendo la ronda de medianoche.
 
@@ -286,7 +286,7 @@ Pasó junto a Draxe sin tocarlo. Subió por las escaleras hacia la superficie, y
 
 Detrás de él, en el fondo de la misma celda, su hermano gemelo también había recibido una runa. Se despidieron allí, entre la paja y las cadenas rotas, como se despiden dos hombres que nunca han aprendido a hacerlo. Pero Mohg no subió hacia la luz. Bajó.
 
-* * *
+---
 
 En Caelid, Radahn recibió la suya en mitad de su campamento, mientras cenaba con sus capitanes junto al fuego. La runa bajó del cielo como una estrella fugaz y él la atrapó al vuelo con una mano, riendo, y la levantó en alto entre los vítores de los Melenarrojas, que no sabían lo que era pero sabían que su general la había cogido.
 
@@ -296,7 +296,7 @@ Radahn la miró girar en su palma. Dejó de reír.
 
 —Es una guerra —dijo.
 
-Rykard la recibió en el Monte Gelmir, en el gran salón de su mansión, y la contempló durante una noche entera sin decir palabra, mientras los fuegos del volcán se reflejaban en ella. Malenia la recibió en el Árbol Hálito, junto a un hermano que no crecía y que la miró con tristeza cuando ella la aceptó. Rennala ya tenía la suya: el huevo de ámbar que le había dejado Radagon al marcharse, y que guardaba en su regazo en la biblioteca de Raya Lucaria, cantándole nanas a una cosa que no iba a nacer.
+Rykard la recibió en el Monte Gelmir, en el gran salón de su mansión, y la contempló durante una noche entera sin decir palabra, mientras los fuegos del volcán se reflejaban en ella. Malenia la recibió en el Árbol Hierático, junto a un hermano que no crecía y que la miró con tristeza cuando ella la aceptó. Rennala ya tenía la suya: el huevo de ámbar que le había dejado Radagon al marcharse, y que guardaba en su regazo en la biblioteca de Raya Lucaria, cantándole nanas a una cosa que no iba a nacer.
 
 Y Ranni, la princesa muñeca, recibió una que apenas miró antes de dejarla de lado en un rincón de su torre, entre libros y frascos vacíos.
 
@@ -304,7 +304,7 @@ Y Ranni, la princesa muñeca, recibió una que apenas miró antes de dejarla de 
 
 —No quiero el Anillo, Blaidd. —La muñeca giró la cabeza hacia la ventana, hacia el cielo, hacia las estrellas que el Árbol llevaba eras ocultando—. Quiero alejarme de él.
 
-* * *
+---
 
 La gracia de las runas era poder. Pero también era veneno.
 
@@ -324,7 +324,7 @@ La guerra era inevitable.
 
 La llamarían la Fractura.
 
-* * *
+---
 
 En las Tierras Áridas, al otro lado del mar, una arquera murió esa misma noche en una colina sin nombre.
 
@@ -338,6 +338,6 @@ Era dorada. Era pequeña. Flotaba en el aire, delante de sus ojos, como una briz
 
 La arquera no la siguió. Murió.
 
-Pero la luz se quedó allí, junto a su cuerpo, esperando. Esperó una noche, y un año, y un siglo, mientras la carne se convertía en hueso y el hueso en polvo y el polvo en tierra. Porque una promesa hecha hacía mucho tiempo por una diosa en lo alto de una escalinata empezaba, por fin, a cumplirse, y las promesas de los dioses no tienen prisa.
+Pero la luz se quedó allí, junto a su cuerpo, esperando. Esperó una noche, y un año, y un siglo, mientras la carne se convertía en hueso y el hueso en polvo y el polvo en tierra. Porque una promesa hecha hacía eras por una diosa en lo alto de una escalinata empezaba, por fin, a cumplirse, y las promesas de los dioses no tienen prisa.
 
 Al otro lado del mar, en un árbol crucificado, una mujer que a veces tenía el pelo rojo abrió los ojos un instante y sonrió.

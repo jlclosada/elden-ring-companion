@@ -20,7 +20,7 @@ Era por la mañana. La lluvia había parado durante la noche y el lago, al pie d
 
 —Dijiste que solo te habías reído una vez. Cuando Iji se cayó del árbol.
 
-Hubo un silencio corto.
+Ranni carraspeó.
 
 —Fueron dos —admitió Ranni—. Pero la otra no cuenta. Tenía cuatro años.
 
@@ -88,11 +88,11 @@ La mujer de la máscara se quedó inmóvil.
 
 —Seguía allí. Con su libro. Y con las flores.
 
-La mujer no dijo nada durante mucho tiempo. Luego, muy despacio, se arrodilló en el suelo de piedra de la plaza. Dejó la lámpara a su lado. Y se quitó la máscara.
+Luego, muy despacio, la mujer se arrodilló en el suelo de piedra de la plaza. Dejó la lámpara a su lado. Y se quitó la máscara.
 
 Debajo había una cara gris, de piel como la plata vieja, arrugada, con los ojos completamente blancos, sin pupila. Ciega. Una anciana.
 
-—Me llamo Lio —dijo—. Fui su alumna. Hace mucho. Ella me salvó la vida la noche en que cayeron las estrellas. —Se le quebró la voz—. Me puso debajo de una cúpula de plata, a mí y a otros once niños, y caímos con la ciudad, y no nos hicimos ni un rasguño. Fui yo quien la encontró muerta, con la pluma en la mano. Fui yo quien dejó la primera flor.
+—Me llamo Lio —dijo—. Fui su alumna. Hace mucho. Ella me salvó la vida la noche en que cayeron las estrellas. Me puso debajo de una cúpula de plata, a mí y a otros once niños, y caímos con la ciudad, y no nos hicimos ni un rasguño. Fui yo quien la encontró muerta, con la pluma en la mano. Fui yo quien dejó la primera flor.
 
 Edda se arrodilló también. No sabía qué decir.
 
@@ -106,7 +106,7 @@ Edda se arrodilló también. No sabía qué decir.
 
 —¿Qué le digo?
 
-La anciana se quedó callada un momento. Luego volvió a ponerse la máscara, despacio, y se levantó, y cogió la lámpara.
+La anciana volvió a ponerse la máscara, despacio, y se levantó, y cogió la lámpara.
 
 —Dile que una vieja ciega se arrodilló ante ella en la escalera de una mansión, hace muchísimo tiempo, cuando ella tenía cuatro años y un vestido manchado de mermelada. Y que se rio. —La voz detrás de la máscara sonaba como si sonriera—. Dile que fue lo más hermoso que he oído nunca.
 
@@ -114,7 +114,7 @@ La anciana se quedó callada un momento. Luego volvió a ponerse la máscara, de
 
 En lo alto de la torre, sobre un altar de piedra, había un anillo.
 
-Era pequeño, de plata azulada, sencillo, con una piedra oscura engarzada que no reflejaba la luz sino que parecía absorberla, como un agujero muy pequeño en el mundo. Al cogerlo, Edda sintió el mismo frío que con el cuchillo, pero distinto: más suave, más triste. No era el frío de algo que quiere matar. Era el frío de algo que espera.
+Era pequeño, de plata azulada, sencillo, con una piedra oscura engarzada que no reflejaba la luz sino que parecía absorberla, como un agujero muy pequeño en el mundo. Al cogerlo, Edda sintió el mismo frío que con el cuchillo, pero distinto: más suave, más triste. El frío de algo que espera, no de algo que quiere matar.
 
 Lo guardó en la bolsa, en un bolsillo aparte, lejos de las piedras de Arn.
 
@@ -134,13 +134,11 @@ Iji estaba sentado frente a la puerta, en el suelo, con las manos enormes apoyad
 
 Detrás de la puerta, Blaidd aulló otra vez. Golpeó el hierro con algo pesado. La puerta tembló.
 
-Iji tardó mucho en contestar.
-
 —Blaidd no es… —empezó, y se detuvo. Respiró hondo, con un ruido de fuelle—. No es lo que creíamos. Ni siquiera él lo sabía. Lo supo la señorita esta mañana, cuando tocó el cuchillo. Algo se le movió dentro. Y al lobo también.
 
 —No entiendo.
 
-—Lo creó la Voluntad Mayor. —El troll se pasó una mano por la cara—. Cuando nació la señorita, los Dedos le pusieron un lobo al lado. Un cachorro. Para que la acompañara. Para que fuera su hermano. Y todos pensamos que era un regalo. —Se le quebró la voz, una voz que era como piedras rodando—. No era un regalo. Era una correa. Blaidd nació para ser su sombra, sí. Pero también para matarla, si alguna vez traicionaba al Árbol.
+—Lo creó la Voluntad Mayor. —El troll se pasó una mano por la cara—. Cuando nació la señorita, los Dedos le pusieron un lobo al lado. Un cachorro. Para que la acompañara. Para que fuera su hermano. Y todos pensamos que era un regalo. —La voz de piedras rodando se atascó—. Una correa, señorita. Eso era. Blaidd nació para ser su sombra, sí. Pero también para matarla, si alguna vez traicionaba al Árbol.
 
 Edda se quedó muy quieta.
 
@@ -158,7 +156,7 @@ Iji cerró los ojos.
 
 —¿Y lo harías?
 
-El troll se quedó mucho tiempo callado. Luego negó con la cabeza, despacio.
+El troll negó con la cabeza, despacio.
 
 —No lo sé, señorita Edda. Le hice columpios a los dos. Le enseñé a pelear con palos en el jardín. Una vez se rompió una pata saltando una tapia por ella y lo llevé en brazos hasta la mansión. —Abrió los ojos. Estaban llenos de lágrimas que no caían—. No sé si podría.
 
@@ -220,7 +218,7 @@ Subió directamente a la torre. Ranni estaba en su silla. Esta vez no tenía el 
 
 La muñeca no se volvió.
 
-—Lo sé.
+—Naturalmente.
 
 —¿Lo sabes?
 
@@ -240,7 +238,7 @@ Edda se quedó en la puerta, sin moverse. Durante un instante sintió algo parec
 
 —Sin él.
 
-—Lo sé. Te he visto subir la escalera. —Ranni se quedó callada un momento—. Has subido muy deprisa otra vez.
+—Te he visto subir la escalera. Has subido muy deprisa otra vez.
 
 Edda entró en la habitación y se sentó en la silla incómoda. Sacó de la bolsa el anillo, envuelto en un trozo de tela, y lo dejó sobre la mesa junto al cuchillo. La habitación se enfrió todavía más. El vaho de su respiración se quedó flotando en el aire.
 
@@ -252,7 +250,7 @@ Edda entró en la habitación y se sentó en la silla incómoda. Sacó de la bol
 
 Ranni no se movió. No dijo nada. Se quedó mirando el anillo envuelto sobre la mesa durante tanto tiempo que la luz de la ventana cambió: el sol salió de detrás de una nube y entró de lado en la habitación, y le dio en la cara de porcelana, en las grietas finas de la mejilla, que brillaban débilmente desde dentro con una luz azul.
 
-—Era ciega —dijo Ranni al fin, muy bajo—. Ya entonces. No me vio la mancha de mermelada.
+—Era ciega —dijo Ranni al fin—. Ya entonces. No me vio la mancha de mermelada.
 
 —Pues alguien se la contó.
 
@@ -264,7 +262,7 @@ Edda no dijo nada. Se quedó sentada en la silla incómoda, con las manos en las
 
 —Es la segunda vez que me das las gracias.
 
-—Lo sé. Llevo la cuenta. —El ojo azul se volvió hacia ella—. No suelo darlas. No me gusta deber cosas.
+—Llevo la cuenta. —El ojo azul se volvió hacia ella—. No suelo darlas. No me gusta deber cosas.
 
 —No me debes nada.
 
@@ -282,7 +280,7 @@ Esa noche, Melina la esperaba en el acantilado, junto a la verja de la mansión,
 
 —¿Cómo lo sabes?
 
-—Lo sé. —Melina se abrazó a sí misma—. Igual que he sabido leer la máscara. Igual que sabía el nombre de Eyra. Desde que bajamos a Nokron, sé cosas que no debería saber. Y no sé de dónde vienen.
+—No lo sé. —Melina se abrazó a sí misma—. Igual que he sabido leer la máscara. Igual que sabía el nombre de Eyra. Desde que bajamos a Nokron, sé cosas que no debería saber. Y no sé de dónde vienen.
 
 Edda la miró. La muchacha temblaba, aunque no hacía frío.
 
@@ -291,8 +289,6 @@ Edda la miró. La muchacha temblaba, aunque no hacía frío.
 —¿Qué?
 
 —¿Tienes miedo?
-
-Melina tardó mucho en contestar.
 
 —Sí —dijo al fin—. Pero no de lo que hay en el lago.
 

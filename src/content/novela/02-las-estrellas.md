@@ -26,7 +26,7 @@ El gigante miró el mapa entre sus dedos enormes. Era un mapa del cielo de invie
 
 —*Porque las veo todas las noches* —dijo despacio— *y no sé lo que son. Mi abuela dice que son chispas de la gran fragua, que saltaron al principio del mundo y se quedaron pegadas al cielo. Pero yo creo que no. Las chispas se apagan. Esas no se apagan nunca.* —Volvió a mirar a Iven—. *Vosotros sabéis lo que son. Por eso os pasáis la noche mirándolas.*
 
-Iven se quedó callado. Llevaba veinte años en el mercado del deshielo y ningún gigante le había preguntado nunca nada.
+Iven no supo qué contestar. Llevaba veinte años en el mercado del deshielo y ningún gigante le había preguntado nunca nada.
 
 —Siéntate —dijo al fin.
 
@@ -38,7 +38,7 @@ El gigante se sentó. La tierra tembló. Varios astrólogos que regateaban en la
 
 —Yo soy Iven. —El astrólogo cogió con cuidado el mapa de entre los dedos del gigante, lo desplegó sobre la losa, y señaló el primer punto dorado—. Esta es la Estrella del Norte. No se mueve. Todas las demás giran a su alrededor durante la noche, como el agua alrededor de un desagüe. Mírala esta noche y lo verás.
 
-Brund miró el punto dorado durante mucho tiempo, con la frente arrugada.
+Brund miró el punto dorado con la frente arrugada.
 
 —*¿Por qué no se mueve?*
 
@@ -52,7 +52,7 @@ El gigante lo miró con sus ojos enormes, castaños, inquietos.
 
 —*Entonces, ¿qué sabéis?*
 
-Iven se rio por primera vez en mucho tiempo.
+Iven se rio por primera vez en meses.
 
 —Sabemos que no lo sabemos —dijo—. Que ya es más de lo que sabe casi todo el mundo.
 
@@ -96,7 +96,7 @@ Eyra dejó la pluma.
 
 —Entonces habré escrito un libro muy aburrido. —Eyra sonrió bajo su velo—. Pero habré estado aquí. Que es lo que importa.
 
-Sael se quedó callado. Luego, despacio, se quitó la corona velada. Eyra nunca le había visto la cara. Era más joven de lo que creía, de rasgos finos, con una cicatriz pálida en la ceja izquierda y unos ojos grises que parecían de agua.
+Sael tragó saliva. Luego, despacio, se quitó la corona velada. Eyra nunca le había visto la cara. Era más joven de lo que creía, de rasgos finos, con una cicatriz pálida en la ceja izquierda y unos ojos grises que parecían de agua.
 
 —Yo también quiero estar aquí cuando pase algo —dijo—. Contigo.
 
@@ -198,7 +198,7 @@ Sael no contestó.
 
 —Después estaremos aquí —dijo él al fin—. Cuando pase algo. Como tú dijiste.
 
-Eyra lo abrazó. Se quedaron así mucho tiempo, en el templo vacío, mientras la doncella gigante miraba al cielo por encima de ellos como llevaba mil años haciéndolo.
+Eyra lo abrazó. Se quedaron así en el templo vacío, mientras la doncella gigante miraba al cielo por encima de ellos como llevaba mil años haciéndolo.
 
 Al amanecer, Sael se fue. Eyra no volvió a verlo nunca.
 
@@ -320,7 +320,7 @@ Iven fue de los últimos en bajar. Antes de irse, bajó al mercado del deshielo 
 
 —No lo sé.
 
-Brund se quedó callado mucho tiempo. Luego se metió la mano en la bolsa que llevaba al cinto y sacó algo pequeño —pequeño para él—, que dejó en la losa delante de Iven. Era una piedra roja, lisa, del tamaño de un puño, que brillaba por dentro con una luz cálida.
+Brund resopló, y el aliento levantó la nieve del suelo. Luego se metió la mano en la bolsa que llevaba al cinto y sacó algo pequeño —pequeño para él—, que dejó en la losa delante de Iven. Era una piedra roja, lisa, del tamaño de un puño, que brillaba por dentro con una luz cálida.
 
 —*Es una brasa de la fragua* —dijo—. *De la madre. No se apaga nunca. Llévala contigo, y cuando tengas frío en ese lago, acuérdate de que aquí arriba hay alguien que la cuida.*
 

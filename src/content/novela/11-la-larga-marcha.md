@@ -1,6 +1,6 @@
 El último enemigo de Godfrey cayó en una llanura sin nombre, al sur de Caelid, una tarde de otoño.
 
-No era un rey ni un dragón ni un gigante. Era un caudillo de las tierras bajas, un hombre viejo de barba gris y brazos todavía fuertes, con una lanza mellada y un escudo de cuero hervido, que se negaba a reconocer el Árbol. Había reunido a trescientos hombres de las aldeas de la costa —pescadores, pastores, herreros— y los había plantado en mitad de la llanura, entre dos colinas, a esperar al Señor de Elden.
+Ni un rey, ni un dragón, ni un gigante: un caudillo de las tierras bajas, un hombre viejo de barba gris y brazos todavía fuertes, con una lanza mellada y un escudo de cuero hervido, que se negaba a reconocer el Árbol. Había reunido a trescientos hombres de las aldeas de la costa —pescadores, pastores, herreros— y los había plantado en mitad de la llanura, entre dos colinas, a esperar al Señor de Elden.
 
 Godfrey llegó con dos mil.
 
@@ -102,7 +102,7 @@ Se hizo un silencio enorme.
 
 —Te devuelvo lo que eras —respondió ella—. Sin el Árbol, sin la Orden, sin mí. Te devuelvo la guerra.
 
-Godfrey la miró durante mucho tiempo. Luego, despacio, se volvió hacia sus hombres. Algunos lloraban. Otros apretaban los puños. La mayoría solo esperaba a saber qué haría él.
+Godfrey la miró. Luego, despacio, se volvió hacia sus hombres. Algunos lloraban. Otros apretaban los puños. La mayoría solo esperaba a saber qué haría él.
 
 —Ya habéis oído a la Reina —dijo—. Preparad los barcos.
 
@@ -146,7 +146,7 @@ Godfrey cerró los ojos.
 
 Godfrey le cogió la mano. La suya era enorme, llena de cicatrices; la de ella, pequeña y fría.
 
-—Y los niños —dijo—. Godwyn. Morgott. Mohg. —Se le quebró la voz en el último nombre—. ¿Qué será de ellos?
+—Y los niños —dijo—. Godwyn. Morgott. Mohg. ¿Qué será de ellos?
 
 Marika apartó la mirada.
 
@@ -214,9 +214,9 @@ Godfrey alargó la mano y tocó uno de los cuernos de Morgott. Era duro y cálid
 
 —¿Por qué nos lo dices? —preguntó Morgott.
 
-El Señor de Elden tardó en contestar.
+El Señor de Elden se agachó delante de la reja, y las rodillas le crujieron.
 
-—Porque alguien debería despedirse de vosotros. —Se le quebró la voz—. Y porque nadie más lo hará.
+—Porque alguien debería despedirse de vosotros. Y porque nadie más lo hará.
 
 Morgott lo miró largo rato. Luego, despacio, alargó una mano gris y tocó la barba dorada del gigante, con mucho cuidado, como quien toca algo que podría romperse.
 
@@ -228,7 +228,7 @@ Godfrey se rio, una risa ronca, rota.
 
 Al salir de la celda se volvió una última vez. Morgott seguía mirándolo, con la mano todavía levantada. Mohg había vuelto a sus piedras. Las alineaba en el suelo, una tras otra, formando un círculo. En el centro del círculo había puesto una piedra roja, como una gota de sangre.
 
-Godfrey no supo por qué, pero aquel círculo de piedras lo persiguió en sueños durante el resto de su vida.
+Aquel círculo de piedras lo persiguió en sueños durante el resto de su vida.
 
 * * *
 
@@ -252,7 +252,7 @@ Godwyn lo miró, sorprendido.
 
 —Bajo a verlos desde que era joven —dijo Godwyn—. Fortissax me lo contó. No me dejan llegar hasta la celda, pero les hablo desde el pasillo. —Dudó—. Le prometí a Morgott que lo avisaría si el Árbol corría peligro. Es lo único que me pidió.
 
-Godfrey se lo quedó mirando un largo rato. Luego le puso la mano en la cabeza, como cuando era niño.
+Godfrey se lo quedó mirando. Luego le puso la mano en la cabeza, como cuando era niño.
 
 —Entonces eres mejor que yo —dijo—. Siempre supe que lo serías.
 
@@ -288,7 +288,7 @@ Edda se lo pensó.
 
 —Sirve para tener algo que contar a los hijos. —La arquera se encogió de hombros—. En mi aldea decimos que un hombre no muere del todo mientras alguien recuerda su nombre. Quizá las promesas son igual. No mueren mientras alguien se las cuenta a alguien.
 
-Godfrey se la quedó mirando mucho tiempo. Luego se rio, bajito, y le puso una mano en el hombro.
+Godfrey se la quedó mirando. Luego se rio, bajito, y le puso una mano en el hombro.
 
 —Cuéntaselo a tus hijos, entonces, Edda de la guardia de arqueros. Y que ellos se lo cuenten a los suyos. —Volvió a mirar el mar—. Alguien tendrá que acordarse de volver.
 
@@ -358,7 +358,7 @@ El silencio volvió a llenar la cámara.
 
 —Necesitas otro Señor —dijo él finalmente.
 
-—Lo sé.
+—Ya.
 
 —Los Dedos querrán elegirlo.
 

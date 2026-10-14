@@ -18,7 +18,7 @@ Thiollier se detuvo. Se volvió hacia ella. Tenía los ojos muy abiertos, enroje
 
 —Trina —dijo, y pronunció el nombre como quien pronuncia una oración—. Santa Trina. La del sueño.
 
-* * *
+---
 
 El jardín estaba en un valle escondido, entre dos montañas, al oeste del río.
 
@@ -40,7 +40,7 @@ Thiollier caminó hacia ella entre las flores, con el pañuelo en la cara, tamba
 
 —Santa Trina —susurró—. Te he encontrado.
 
-* * *
+---
 
 Esa noche, junto a una gracia en el borde del jardín, lejos de las flores, Thiollier le contó a Edda su historia.
 
@@ -54,15 +54,13 @@ Habían encendido un fuego pequeño, con ramas del bosque negro, que ardía mal 
 
 —¿El sueño?
 
-—No podía dormir. Nunca. Desde que era niño. —Se frotó los ojos enrojecidos—. Mi madre decía que nací con los ojos abiertos y no los volví a cerrar. No es verdad, claro. Dormía algo. Una hora. Dos. Pero mal. Con pesadillas. Y cuando empecé a envenenar gente, fue peor. Me pasaba las noches despierto, mirando el techo, pensando en las caras de los que había matado. Las veía en el techo. Una detrás de otra. —Se le quebró la voz—. Contaba caras como otros cuentan ovejas.
+—No podía dormir. Nunca. Desde que era niño. —Se frotó los ojos enrojecidos—. Mi madre decía que nací con los ojos abiertos y no los volví a cerrar. No es verdad, claro. Dormía algo. Una hora. Dos. Pero mal. Con pesadillas. Y cuando empecé a envenenar gente, fue peor. Me pasaba las noches despierto, mirando el techo, pensando en las caras de los que había matado. Las veía en el techo. Una detrás de otra. Contaba caras como otros cuentan ovejas.
 
 Edda no dijo nada. Pensó en sus propias noches. En las caras de los soldados que había matado en la guerra, antes de morir. En Godrick, en Radahn, en Morgott, en Mohg. En la doncella de la túnica gris. En los siete albinauricos del pantano.
 
 —¿Cuántas caras? —preguntó.
 
-—Ciento doce. —Thiollier no dudó—. Me sé todos los nombres. Todos. Y la fecha. Y el veneno que usé.
-
-Se quedó callado un rato.
+—Ciento doce. —Thiollier no dudó—. Me sé todos los nombres. Todos. Y la fecha. Y el veneno que usé. Y cuánto tardó cada uno. El más largo, un día y medio. Era un niño. Su padre me había pagado poco y quise que lo notara.
 
 —Un día —dijo al fin—, en un mercado de Leyndell, compré un frasco pequeño de un veneno de los que se usan para dormir a los enemigos antes de matarlos. Un veneno de sueño. Muy fuerte. Una gota mata a un caballo. —Se rio, una risa rota—. Me lo tomé yo. Entero.
 
@@ -90,7 +88,7 @@ Thiollier la miró con una sonrisa extraña. Una sonrisa de alguien que sabe alg
 
 —Todo —dijo—. Son la misma persona.
 
-* * *
+---
 
 Edda tardó en entenderlo. Thiollier se lo explicó despacio, con largas pausas, como quien desenreda un hilo.
 
@@ -102,15 +100,15 @@ Santa Trina era el otro rostro de Miquella. No otra persona: otro aspecto. Otra 
 
 Thiollier apretó los puños.
 
-—Porque la ha dejado —dijo—. Igual que ha dejado todo lo demás. Has visto las cruces de la llanura. *He dejado aquí mi carne. He dejado aquí mi fuerza. He dejado aquí mi amor.* —Señaló la estatua con la barbilla—. Esa es la cruz de Trina. La más grande. Se ha deshecho de ella aquí, en este valle. La ha convertido en piedra y en flores y se ha ido.
+—Porque la ha dejado —dijo—. Igual que ha dejado todo lo demás. Has visto las cruces de la llanura. _He dejado aquí mi carne. He dejado aquí mi fuerza. He dejado aquí mi amor._ —Señaló la estatua con la barbilla—. Esa es la cruz de Trina. La más grande. Se ha deshecho de ella aquí, en este valle. La ha convertido en piedra y en flores y se ha ido.
 
 —¿Por qué?
 
-—Porque no la necesita. —A Thiollier le tembló la voz de rabia—. Porque para subir hasta Enir-Ilim, para convertirse en dios, tiene que ser solo una cosa. Una sola voluntad. Y Trina… Trina era demasiado blanda para eso. Demasiado dulce. Demasiado humana. Trina dejaba elegir. Trina decía *puedes descansar*. Un dios que quiere que todos lo amen no puede decirle a nadie que puede descansar. —Se le quebró la voz—. Así que la ha tirado. Como se tira un abrigo que ya no hace falta.
+—Porque no la necesita. —Thiollier escupió las palabras—. Porque para subir hasta Enir-Ilim, para convertirse en dios, tiene que ser solo una cosa. Una sola voluntad. Y Trina… Trina era demasiado blanda para eso. Demasiado dulce. Demasiado humana. Trina dejaba elegir. Trina decía _puedes descansar_. Un dios que quiere que todos lo amen no puede decirle a nadie que puede descansar. Así que la ha tirado. Como se tira un abrigo que ya no hace falta.
 
 Edda se quedó mirando la estatua. La muchacha de piedra con los ojos cerrados, hundiéndose en las flores.
 
-Pensó en Ansbach, en la puerta de la iglesia. *Leda no se aparta nunca. Por eso me preocupa.*
+Pensó en Ansbach, en la puerta de la iglesia. _Leda no se aparta nunca. Por eso me preocupa._
 
 —¿Y tú qué vas a hacer? —preguntó.
 
@@ -118,13 +116,13 @@ Thiollier se levantó despacio.
 
 —Quedarme con ella —dijo—. Si él no la quiere, yo sí.
 
-* * *
+---
 
 —Hay una cosa más —dijo Thiollier, a la mañana siguiente.
 
 Estaban sentados en el borde del prado, con los pañuelos en la cara. Thiollier no había dormido en toda la noche. Edda lo sabía porque ella tampoco había dormido mucho, y cada vez que abría los ojos lo veía sentado en el mismo sitio, mirando la estatua.
 
-—En el fondo del valle hay una grieta en la roca —dijo—. Una fisura que baja hacia las profundidades. La Fisura del Sarcófago, la llaman los viejos Cornudos. Y en el fondo, junto a un lago negro, crece una flor. Una sola. Un lirio morado. —Le brillaron los ojos—. De él se saca un néctar. El néctar de Trina. Dicen que quien lo bebe sueña con ella. De verdad. No como con los venenos. De verdad.
+—En el fondo del valle hay una grieta en la roca —dijo—. Una fisura que baja hacia las profundidades. La Fisura del Sarcófago, la llaman los viejos Cornamentados. Y en el fondo, junto a un lago negro, crece una flor. Una sola. Un lirio morado. —Le brillaron los ojos—. De él se saca un néctar. El néctar de Trina. Dicen que quien lo bebe sueña con ella. De verdad. No como con los venenos. De verdad.
 
 —¿Y por qué no bajas tú?
 
@@ -138,11 +136,11 @@ Edda se quedó mirándolo.
 
 —Dormir. —Thiollier la miró, y había algo en sus ojos que Edda no supo leer del todo, entre la súplica y la paz—. Solo dormir. Con ella. Por fin.
 
-* * *
+---
 
 Edda bajó.
 
-La grieta estaba al fondo del valle, al pie de la montaña del oeste: una hendidura estrecha, negra, en la roca, apenas lo bastante ancha para que pasara una persona de lado. De ella salía un aire frío, húmedo, que olía a moho y a tierra removida. Y un sonido. Un sonido lejano, muy bajo, como de algo grande que se arrastra.
+La grieta estaba al fondo del valle, al pie de la montaña del oeste: una hendidura estrecha, negra, en la roca, apenas lo bastante ancha para que pasara una persona de lado. De ella salía un aire frío, húmedo, que olía a moho y a tierra removida. Y un sonido. Un sonido lejano, sordo, como de algo grande que se arrastra.
 
 Bajó por una caverna estrecha, luego por otra, luego por una escalera natural de piedras resbaladizas que se hundía en la oscuridad. El frío aumentaba. El olor a moho también. Llevaba una antorcha, y la luz temblaba en las paredes de roca negra, húmeda, cubierta de un líquen pálido que brillaba un poco cuando lo tocaba la luz.
 
@@ -156,7 +154,7 @@ Ataúdes de piedra. Cientos. Miles, quizá. Suspendidos en el aire como hojas en
 
 Nadie le contestó. Pero los ataúdes, todos a la vez, dejaron de girar un instante. Como si la hubieran oído.
 
-* * *
+---
 
 Tardó un día entero en bajar al fondo del abismo, saltando de ataúd en ataúd, agarrándose a los salientes de las paredes. Al fondo había un lago negro, quieto, que reflejaba los ataúdes que flotaban encima como si fueran estrellas.
 
@@ -190,13 +188,13 @@ El caballero se quedó inmóvil.
 
 La flor negra tembló. Los pétalos se agitaron todos a la vez, como hojas con el viento.
 
-—Entonces quizá llegue alguno —dijo el caballero, muy bajo—. Quizá vuelvan a llegar.
+—Entonces quizá llegue alguno —dijo el caballero—. Quizá vuelvan a llegar.
 
 Luego levantó la guadaña.
 
 —Pero no tú —dijo—. Tú no eres de los que llegan. Y la flor de la orilla es de ella. De la santa. No la tocarás.
 
-* * *
+---
 
 La batalla fue extraña y terrible. El caballero pútrido luchaba como si la muerte misma luchara a través de él: con movimientos lentos, pesados, pero imposibles de esquivar, como la marea. Cada golpe de su guadaña dejaba en el aire una estela negra que tardaba en disiparse y que quemaba de frío al tocarla. Su caballo esquelético galopaba sobre el lago sin hundirse, sin ruido. Los tentáculos negros de su armadura se alargaban de pronto, como látigos, y la buscaban.
 
@@ -212,15 +210,15 @@ Antes de hundirse del todo, la flor habló una última vez.
 
 Y el lago se cerró sobre él sin ruido, y los ataúdes que flotaban encima siguieron bajando despacio, como siempre, hacia un fondo al que nunca llegaban.
 
-* * *
+---
 
-Edda se acercó al lirio de la orilla. Lo miró mucho tiempo. Luego, con el cuchillo, hizo un corte pequeño en la base del tallo, como su abuela le había enseñado a hacer con las plantas medicinales del monte, y recogió en un frasco vacío las gotas que salieron: un líquido espeso, dorado, que olía a miel y a noche de verano.
+Edda se acercó al lirio de la orilla. Luego, con el cuchillo, hizo un corte pequeño en la base del tallo, como su abuela le había enseñado a hacer con las plantas medicinales del monte, y recogió en un frasco vacío las gotas que salieron: un líquido espeso, dorado, que olía a miel y a noche de verano.
 
 No cortó la flor. La dejó allí, junto al lago, donde el caballero la había guardado.
 
 Antes de irse, se agachó y recogió del fondo de la orilla una piedra: negra, lisa, pulida por el agua, con una veta morada en el centro, como un pétalo atrapado. La duodécima.
 
-* * *
+---
 
 Cuando volvió al jardín, Thiollier la estaba esperando sentado junto a la estatua, entre las flores, sin pañuelo en la cara.
 
@@ -250,9 +248,9 @@ Cerró los ojos. Al cabo de un momento, su respiración se hizo lenta. Profunda.
 
 Sonreía.
 
-* * *
+---
 
-Edda se quedó sentada mucho tiempo junto a él, con el frasco en la mano. El néctar dorado brillaba dentro. Olía a miel. A noches de verano en el monte.
+Edda se quedó sentada junto a él, con el frasco en la mano. El néctar dorado brillaba dentro. Olía a miel. A noches de verano en el monte.
 
 Pensó en no hacerlo. Pensó en guardar el frasco y volver a la iglesia y seguir.
 
@@ -262,7 +260,7 @@ Se mojó la punta del dedo en el néctar. Una gota. Se la llevó a los labios.
 
 Sabía a miel y a lágrimas.
 
-* * *
+---
 
 Estaba sentada en un umbral.
 
@@ -284,13 +282,13 @@ Edda no pudo contestar. Miró la puerta azul. Miró el camino. Miró a la muchac
 
 —¿Por qué me traes aquí?
 
-—No te traigo yo. Te has traído tú. —Trina miró el camino—. Yo solo me siento a tu lado. Es lo único que sé hacer. Sentarme a los pies de la cama de los que no pueden dormir. —Hizo una pausa—. Tú no duermes bien desde la Capilla. Lo sé. Lo noto.
+—No te traigo yo. Te has traído tú. —Trina miró el camino—. Yo solo me siento a tu lado. Es lo único que sé hacer. Sentarme a los pies de la cama de los que no pueden dormir. —Hizo una pausa—. Tú no duermes bien desde la Capilla. Lo noto.
 
 Edda no dijo nada.
 
 —Mira —dijo Trina, y señaló el camino.
 
-* * *
+---
 
 Por el camino venía alguien.
 
@@ -314,15 +312,15 @@ Edda se tapó la boca con las manos.
 
 —¿Y volvió?
 
-—No. —El viejo se quedó mirando el camino—. No volvió. La mataron en una colina, muy lejos. Me lo dijo un soldado que vino al año siguiente con su arco. Me trajo el arco. Lo tengo dentro, colgado en la pared. —Hizo una pausa—. Yo me quedé sentado aquí, en el umbral, todas las tardes, durante mucho tiempo. Esperándola. Aunque sabía que no iba a venir.
+—No. —El viejo se quedó mirando el camino—. No volvió. La mataron en una colina, muy lejos. Me lo dijo un soldado que vino al año siguiente con su arco. Me trajo el arco. Lo tengo dentro, colgado en la pared. —Hizo una pausa—. Yo me quedé sentado aquí, en el umbral, todas las tardes, durante treinta años. Esperándola. Aunque sabía que no iba a venir.
 
 —¿Por qué, abuelo?
 
-El viejo tardó en contestar. Le puso la mano en la cabeza al niño, entre el pelo rojo.
+El viejo le puso la mano en la cabeza al niño, entre el pelo rojo.
 
-—Porque me lo prometió —dijo—. Y mi bisabuela me dijo que no se prometen las cosas que no dependen de uno. Pero yo sabía que mi madre me lo había prometido igual. Porque me quería. —Se le quebró la voz—. Y que si no volvía era porque no podía. No porque no quisiera. Que venía. Que estaba en el camino. Que solo se había retrasado.
+—Porque me lo prometió —dijo—. Y mi bisabuela me dijo que no se prometen las cosas que no dependen de uno. Pero yo sabía que mi madre me lo había prometido igual. Porque me quería. Y que si no volvía era porque no podía. No porque no quisiera. Que venía. Que estaba en el camino. Que solo se había retrasado.
 
-El niño se quedó callado. Luego, muy serio, se levantó del polvo y fue hasta el borde del camino, y se agachó, y cogió algo del suelo. Volvió y se lo dio a su abuelo. Era una piedra. Una piedra cualquiera, gris, redonda.
+El niño se sorbió los mocos. Luego, muy serio, se levantó del polvo y fue hasta el borde del camino, y se agachó, y cogió algo del suelo. Volvió y se lo dio a su abuelo. Era una piedra. Una piedra cualquiera, gris, redonda.
 
 —Toma —dijo—. Para que no esperes sin piedra.
 
@@ -330,7 +328,7 @@ El viejo se rio. Una risa rota, de viejo, que se le convirtió en tos. Cogió la
 
 —Gracias, Edda —dijo.
 
-* * *
+---
 
 Edda se volvió hacia Trina. No podía respirar.
 
@@ -346,7 +344,7 @@ Edda se quedó mirando al viejo del umbral. Al niño pelirrojo que se había vue
 
 —Miquella te dejó en piedra —dijo al fin, sin apartar la vista—. En el prado. Thiollier dice que te tiró porque dejabas elegir.
 
-Trina tardó en contestar.
+Trina bostezó.
 
 —Es verdad —dijo—. Él va a subir a lo alto del árbol gris y va a ser un dios. Y un dios que quiere que todos lo amen por igual no puede dejar que nadie elija otra cosa. —Hizo una pausa—. Yo dejaba elegir. A los que no dormían, les decía que podían descansar. Él les dirá que deben amarlo. No es lo mismo.
 
@@ -378,13 +376,13 @@ El viejo se levantó, con un gemido. Cogió de la mano al niño. Antes de entrar
 
 Y entró.
 
-* * *
+---
 
 Edda despertó en el prado de flores moradas, junto a la estatua, con la cara mojada.
 
 Era de día. O lo que pasaba por día en la Tierra de las Sombras: aquella luz plateada, sin sombras. Thiollier seguía tumbado a su lado, con las manos sobre el pecho y una sonrisa tranquila en la cara. Respiraba despacio. Muy despacio.
 
-Edda se sentó. Se quedó mucho tiempo mirando la estatua. La muchacha de piedra con los ojos cerrados.
+Edda se sentó. Se quedó mirando la estatua. La muchacha de piedra con los ojos cerrados.
 
 Le pareció, aunque nunca estuvo segura, que tenía un arañazo pequeño en la rodilla. Que antes no estaba.
 
@@ -394,7 +392,7 @@ No sabía si el sueño era verdad. Nunca lo sabría.
 
 Eligió llevárselo igual.
 
-* * *
+---
 
 Le puso la mano a Thiollier en el hombro antes de irse.
 

@@ -18,7 +18,7 @@ Edda miró las murallas. En lo alto de una de las torres, muy pequeña a aquella
 
 La puerta oriental estaba custodiada por un viejo.
 
-No era un caballero ni un gigante. Era un soldado. Un soldado de Leyndell, con la armadura dorada de la guardia de la ciudad deslucida y abollada, el yelmo bajo el brazo, apoyado en una alabarda que le servía más de bastón que de arma. Tenía el pelo blanco, ralo, y una barba corta, y la cara surcada de arrugas profundas. Estaba sentado en un taburete junto a la puerta, al sol, como un portero de aldea.
+Ni caballero ni gigante: un soldado. Un soldado de Leyndell, con la armadura dorada de la guardia de la ciudad deslucida y abollada, el yelmo bajo el brazo, apoyado en una alabarda que le servía más de bastón que de arma. Tenía el pelo blanco, ralo, y una barba corta, y la cara surcada de arrugas profundas. Estaba sentado en un taburete junto a la puerta, al sol, como un portero de aldea.
 
 Cuando Edda se acercó, se levantó despacio. No levantó la alabarda.
 
@@ -54,7 +54,7 @@ Edda se quedó en silencio.
 
 —¿Qué quieres que le diga?
 
-El viejo tardó mucho en contestar.
+El viejo se rascó la nuca por debajo del yelmo.
 
 —Que el pan estaba bueno —dijo al fin—. Eso. Que el pan estaba bueno.
 
@@ -98,7 +98,7 @@ Era la misma cara. La de la estatua de Marika que había visto en la Capilla, al
 
 —¿Qué significa? —le preguntó a Melina.
 
-Melina se quedó mirando la estatua durante mucho tiempo. Tenía los labios apretados.
+Melina se quedó mirando la estatua. Tenía los labios apretados.
 
 —Significa que eran la misma persona —dijo al fin, en voz muy baja—. Un dios con dos cuerpos. O dos cuerpos con un solo dios dentro. Uno era la esposa. El otro, el esposo. La reina y el rey. —Tragó saliva—. Y uno de los dos rompió el Anillo con un martillo. Y el otro, con el mismo martillo, intentó repararlo.
 
@@ -154,13 +154,13 @@ Edda no se movió. No dijo nada. Sintió la mano fría de Rogier entre las suyas
 
 No había dicho que no hubiera hecho lo demás.
 
-—Ten cuidado con ella —susurró Rogier—. Es muy lista. Más lista que todos nosotros. Y lo que quiere… —Se le quebró la voz—. No sé lo que quiere. Eso es lo que me da miedo.
+—Ten cuidado con ella —susurró Rogier—. Es muy lista. Más lista que todos nosotros. Y lo que quiere… No sé lo que quiere. Eso es lo que me da miedo.
 
 —Rogier…
 
 —Estoy cansado. —El hechicero cerró los ojos—. Muy cansado. —Movió la otra mano, a ciegas, hacia la silla de D. D se la cogió. Rogier sonrió—. ¿Te acuerdas del río, D? El del pueblo. Donde tu hermano se cayó y lo sacamos entre los dos, y nos pegaron por llegar mojados a cenar.
 
-D tardó en contestar. Le temblaba la mandíbula.
+A D le temblaba la mandíbula.
 
 —Me acuerdo.
 
@@ -170,7 +170,7 @@ Se durmió. Edda le sostuvo una mano y D la otra, en silencio, en la biblioteca 
 
 D se quedó mucho rato inmóvil. Luego le soltó la mano a Rogier, con cuidado, y se la puso sobre el pecho. Se levantó. Se puso el yelmo.
 
-—Sus preguntas eran peligrosas —dijo, con la voz ronca detrás de la visera—. Se lo dije muchas veces. —Se quedó callado—. Tenía razón él. Siempre la tenía.
+—Sus preguntas eran peligrosas —dijo, con la voz ronca detrás de la visera—. Se lo dije muchas veces. Tenía razón él. Siempre la tenía.
 
 Se fue sin decir nada más. Edda oyó sus pasos alejarse por el pasillo, metálicos, muy rápidos, como los de alguien que huye.
 
@@ -226,15 +226,13 @@ A mitad de la subida, Melina se detuvo.
 
 —Lo que hay arriba. —La muchacha no la miró—. El que está arriba. Es él. Mi hermano. El de verdad. El que se escondía detrás de Margit.
 
-—Lo sé.
-
 —Vas a tener que matarlo.
 
 Edda se detuvo también, dos peldaños más arriba. Se volvió.
 
 —Lo sé —dijo—. ¿Quieres que no lo haga?
 
-Melina tardó mucho en contestar. Las hojas doradas caían entre las dos, despacio.
+Las hojas doradas caían entre las dos, despacio.
 
 —No —dijo al fin—. Quiero que lo hagas tú. Y que lo mires a los ojos cuando caiga. —Levantó la vista hacia ella—. Como hiciste en el patio. Nadie lo ha mirado nunca a los ojos cuando caía.
 

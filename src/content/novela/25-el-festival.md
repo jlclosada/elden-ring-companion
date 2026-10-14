@@ -10,7 +10,7 @@ Torrente se negó a pisar el agua roja. Se plantó en el último tramo del puent
 
 —¿Qué pasó?
 
-Melina tardó en contestar. Estaba mirando una de las flores, la más cercana, que se abría y se cerraba a un paso de su pie.
+Melina estaba mirando una de las flores, la más cercana, que se abría y se cerraba a un paso de su pie.
 
 —Una flor se abrió —dijo al fin—. Una sola. Y todo esto es lo que salió de ella.
 
@@ -72,7 +72,7 @@ Pero luego pensó en la casa de la aldea abandonada. En la mesa puesta para cuat
 
 La Fortaleza Nidodecuervo era un nido, efectivamente: un castillo de piedra negra derruido, en lo alto de un risco, con las torres coronadas por los nidos de los cuervos gigantes. Dentro había soldados podridos, que ya no sabían que estaban muertos, y perros sin piel, y en el patio central, un caballero.
 
-Llevaba muerto mucho tiempo. Estaba sentado contra el brocal de un pozo, con la armadura oxidada y la espada en el regazo, con la cabeza caída sobre el pecho. Tenía la aguja clavada en su propio corazón. Una aguja larga, fina, de un oro mate, sin brillo, como si la luz no quisiera tocarla.
+Llevaba muerto meses. Los cuervos le habían sacado los ojos y la lengua. Estaba sentado contra el brocal de un pozo, con la armadura oxidada y la espada en el regazo, con la cabeza caída sobre el pecho. Tenía la aguja clavada en su propio corazón. Una aguja larga, fina, de un oro mate, sin brillo, como si la luz no quisiera tocarla.
 
 Edda se arrodilló a su lado.
 
@@ -130,11 +130,11 @@ Eran dorados. De un dorado intenso, limpio, como el de la miel al sol.
 
 Millicent no lo miró a él. Miró a Edda. Tenía una mirada intensa, de alguien que acaba de despertar de una pesadilla muy larga y no sabe todavía si ya está fuera.
 
-—Me has preguntado —dijo, con la voz ronca de quien no la ha usado en mucho tiempo—. Antes de ponérmela. Me has preguntado.
+—Me has preguntado —dijo, con la voz ronca de quien no la ha usado en semanas—. Antes de ponérmela. Me has preguntado.
 
 —Sí.
 
-Millicent se quedó callada un momento. Luego, despacio, sonrió.
+Millicent sonrió, despacio.
 
 —Nadie me había preguntado nunca nada —dijo.
 
@@ -142,7 +142,7 @@ Detrás de ella, Gowry seguía acariciándole el pelo. Sonreía también. Pero E
 
 * * *
 
-Se quedó tres días en la cabaña. Millicent se recuperaba deprisa, con una energía que sorprendía incluso a ella misma. Al segundo día ya se sentaba en el camastro. Al tercero, salió de la iglesia apoyándose en el hombro de Edda y se quedó mucho tiempo en la puerta, mirando el cielo rojo, respirando.
+Se quedó tres días en la cabaña. Millicent se recuperaba deprisa, con una energía que sorprendía incluso a ella misma. Al segundo día ya se sentaba en el camastro. Al tercero, salió de la iglesia apoyándose en el hombro de Edda y se quedó en la puerta, mirando el cielo rojo, respirando.
 
 —No me acordaba de que el cielo era tan grande —dijo.
 
@@ -200,7 +200,7 @@ Edda se acercó a un Melenarroja que vigilaba la cola, un hombre joven con una c
 
 —¿Quién es?
 
-—Jerren. El brujo de guerra. —El soldado no apartó la vista del estrado—. Viejo amigo del general. El más viejo. Hizo un juramento con él hace mucho tiempo, antes de la batalla de Aeonia: si alguno de los dos perdía la razón, el otro le daría una muerte digna. —Hizo una pausa—. El general la perdió. Esa misma noche. Ahora vaga por las dunas al este, comiéndose a los muertos. Jerren ha organizado esto para que alguien lo mate. Para que muera como un guerrero, no como una bestia.
+—Jerren. El brujo de guerra. —El soldado no apartó la vista del estrado—. Viejo amigo del general. El más viejo. Hizo un juramento con él antes de la batalla de Aeonia: si alguno de los dos perdía la razón, el otro le daría una muerte digna. —Hizo una pausa—. El general la perdió. Esa misma noche. Ahora vaga por las dunas al este, comiéndose a los muertos. Jerren ha organizado esto para que alguien lo mate. Para que muera como un guerrero, no como una bestia.
 
 —¿Y por qué no lo mató él, si lo juró?
 
@@ -228,9 +228,9 @@ Edda levantó la cabeza, sorprendida.
 
 —¿Y quisiste?
 
-—¿Tú qué crees? —Freyja señaló el león de su pecho—. Llevo esto desde entonces. Y han pasado… —Se quedó callada—. Mucho tiempo. Más del que debería. Los Melenarroja vivimos mucho. Más de lo natural. Dicen que es la gravedad del general, que nos sostiene a todos un poco, como sostenía a su caballo. Otros dicen que es pura terquedad. —Sonrió—. Yo creo que es terquedad.
+—¿Tú qué crees? —Freyja señaló el león de su pecho—. Llevo esto desde entonces. Y han pasado… bah, ya ni los cuento. Más de los que debería. Los Melenarroja vivimos mucho. Más de lo natural. Dicen que es la gravedad del general, que nos sostiene a todos un poco, como sostenía a su caballo. Otros dicen que es pura terquedad. —Sonrió—. Yo creo que es terquedad.
 
-Edda se quedó callada un momento. Luego habló, sin pensarlo.
+Edda habló sin pensarlo.
 
 —¿Conoces una aldea, al norte de las Llanuras Secas? A tres días de camino del paso de las Piedras Rojas. Con un pozo en la plaza y una ermita pequeña dedicada al Árbol. Las casas son de adobe y tienen las puertas pintadas de azul.
 
@@ -240,7 +240,7 @@ Freyja dejó de masticar. La miró con atención.
 
 —Viví allí. Antes de morir.
 
-Freyja tardó mucho en contestar. Dejó el muslo en el tonel, se limpió las manos en los pantalones, y se quedó mirando el fuego.
+Freyja dejó el muslo en el tonel, se limpió las manos en los pantalones, y se quedó mirando el fuego.
 
 —Las puertas azules —dijo al fin—. Me acuerdo. Mi abuela decía que las pintaban así para que los muertos encontraran el camino de vuelta a casa. Era una costumbre muy vieja. —Hizo una pausa—. Pero esa aldea ya no existía cuando yo nací. Se secó el pozo, o hubo una guerra, o una plaga. No lo sé. Mi abuela decía que allí solo quedaban las puertas. Puertas azules en mitad de la nada, sin casas detrás.
 
@@ -270,7 +270,7 @@ Edda no contestó.
 
 —No te he pedido que lo sientas.
 
-—Ya. —El viejo dejó la copa en el suelo—. Pero lo siento igual. A los viejos se nos permite sentir cosas sin permiso. —Se quedó mirando las brasas—. Te voy a contar algo del general. Para que sepas a quién vas a matar mañana. Porque mañana vas a ser tú. Lo sé. Lo he visto en cómo miras a la gente. Miras como miraba él.
+—Ya. —El viejo dejó la copa en el suelo—. Pero lo siento igual. A los viejos se nos permite sentir cosas sin permiso. —Se quedó mirando las brasas—. Te voy a contar algo del general. Para que sepas a quién vas a matar mañana. Porque mañana vas a ser tú. Lo he visto en cómo miras a la gente. Miras como miraba él.
 
 —¿Cómo miraba él?
 
@@ -290,7 +290,7 @@ Jerren se volvió hacia ella de golpe.
 
 —Le quité la runa. La dejé viva. Me preguntó qué hora era. Y luego me habló de sus hijos.
 
-El viejo se quedó mirándola durante mucho tiempo, con la boca entreabierta. Luego se volvió otra vez hacia el fuego y se pasó la mano por los ojos.
+El viejo se quedó mirándola con la boca entreabierta. Luego se volvió otra vez hacia el fuego y se pasó la mano por los ojos.
 
 —Siguió —dijo, con la voz ronca—. Le habló de las estrellas. De cómo el general las detuvo en el cielo, con su gravedad, durante las guerras de su juventud, para que no siguieran su curso. Y de cómo, al detenerlas, aprisionó sin saberlo el destino de su hermana pequeña, que dependía de ellas. De Aeonia. De Malenia. De la flor que se abrió.
 
@@ -310,9 +310,9 @@ El viejo tardó tanto en contestar que Edda pensó que no lo haría. Las brasas 
 
 —¿Cuántos otoños?
 
-El viejo no contestó. No hacía falta.
+El viejo no contestó.
 
-Edda se quedó callada mucho tiempo. Luego, despacio, cogió la copa que Jerren había dejado en el suelo y se la devolvió.
+Edda cogió la copa que Jerren había dejado en el suelo y se la devolvió.
 
 —Yo también juré algo —dijo—. A mi hijo. Que volvería. Me dijo que no le prometiera lo que no dependía de mí. Bueno, me lo dijo mi abuela. Y yo se lo prometí igual. Y no volví.
 
@@ -354,7 +354,7 @@ Se quedaron un rato en silencio, juntos, mirando las estrellas quietas.
 
 —¿Por qué le importan tanto las estrellas a Ranni?
 
-El lobo tardó en contestar. Las orejas se le movieron.
+Al lobo se le movieron las orejas.
 
 —Porque su destino está escrito en ellas —dijo al fin—. Una de ellas, en concreto. Y mientras el general las tenga sujetas, ese destino no puede llegar. —Hizo una pausa—. Ella nunca te lo pediría. No le gusta pedir. Pero lleva novecientos años mirando ese cielo desde su ventana. Esperando a que se mueva.
 

@@ -128,7 +128,7 @@ Estaban sentados en el borde de una fuente seca. Fia se había quitado el manto 
 
 —No lo sintáis. No es culpa vuestra. —Fia se frotó los ojos—. Es lo que pasa cuando cae un dragón sobre una ciudad. Mueren muchos, y nosotras somos pocas.
 
-Godwyn la miró durante mucho tiempo.
+Godwyn la miró.
 
 —¿Por qué lo haces? —preguntó al fin—. Lo de quedarte con ellos. Lo de abrazarlos.
 
@@ -140,11 +140,9 @@ Fia lo pensó con calma.
 
 —Me daba. —Fia sonrió apenas—. Ya no. He acompañado a cientos. A todos les cojo la mano. Todos se van. Es lo único que sé hacer.
 
-Godwyn se quedó callado.
+—Yo no puedo morir —dijo Godwyn al fin.
 
-—Yo no puedo morir —dijo al fin.
-
-—Lo sé. Sois semidiós.
+—Ya, alteza. Sois semidiós.
 
 —Nunca había pensado en ello. —Godwyn miró sus manos, manchadas de la sangre de Tobin el Joven—. Esta noche, ese muchacho me ha preguntado si iba a morir. Y no he sabido qué contestarle. Porque yo nunca tendré que hacerlo. Nunca tendré que tener miedo de eso. —La miró—. Y de pronto me ha parecido injusto. Que él tenga que pasar por ello con diecisiete años y yo no.
 
@@ -196,7 +194,7 @@ Fia no contestó.
 
 Godwyn le tomó la otra mano y se las calentó entre las suyas, despacio, frotándolas. Fia lo dejó hacer. No lo miraba.
 
-—Esto no puede ser, alteza —dijo al fin, muy bajo.
+—Esto no puede ser, alteza —dijo al fin.
 
 —¿Por qué no?
 
@@ -206,7 +204,7 @@ Godwyn le tomó la otra mano y se las calentó entre las suyas, despacio, frotá
 
 —A vos sí. A ella no.
 
-Godwyn se quedó callado. Luego se llevó las manos de Fia a los labios y las besó, primero una y luego otra, despacio.
+Godwyn se llevó las manos de Fia a los labios y las besó, primero una y luego otra, despacio.
 
 —No quiero una princesa —dijo—. Quiero a alguien que me enseñe lo que es morir. Porque yo no podré nunca. Y si no lo aprendo de alguien, nunca entenderé a ninguno de los que mueren por mí.
 
@@ -214,7 +212,7 @@ Fia lo miró con los ojos muy abiertos. Luego, despacio, se inclinó hacia él y
 
 —Esto no puede ser —repitió.
 
-—Lo sé.
+—Ya.
 
 No fue. No del todo. No como en las canciones. Nunca se casaron, nunca vivieron juntos, nunca lo supo casi nadie. Pero durante muchos años, cada vez que caía una batalla o una peste sobre las Tierras Intermedias y los hospitales se llenaban, el príncipe dorado y la compañera del lecho de muerte se encontraban a medianoche en algún claustro, en alguna enfermería, en algún campamento de heridos, y velaban juntos a los que se iban. Y después, cuando el último se había ido, se sentaban juntos en silencio, y él le calentaba las manos.
 
@@ -234,7 +232,7 @@ Era hermano de Lansseax y lo llamaban la Piedra Más Poderosa. Era más pequeño
 
 —¿Qué?
 
-Godfrey se quedó callado mucho rato.
+Godfrey escupió a la hierba.
 
 —Venganza, creo —dijo al fin—. Gransax era su maestro. Lo mataron en nuestra ciudad.
 
@@ -284,8 +282,6 @@ Fortissax lo miró con sus ojos rojos durante un largo momento. Luego bajó la c
 
 —Gransax me crio —dijo—. Cuando mi madre murió, en la guerra contra un draco negro, él me recogió y me enseñó a volar. Me enseñó el rayo. Me enseñó a amar el cielo. Y tu madre lo mató sobre tus tejados, y su cuerpo sigue allí, tendido, para que lo vean los niños de tu ciudad cuando juegan. —Las estacas de rayo crepitaron—. Por eso lucho.
 
-Godwyn se quedó callado mucho tiempo.
-
 —Lo vi morir —dijo al fin—. Estaba allí. Antes de que se le apagara el último ojo, me miró. A mí. Nunca supe por qué.
 
 El dragón se quedó muy quieto.
@@ -312,7 +308,7 @@ No la bajó.
 
 —No. —Godwyn envainó la espada y se sentó en la hierba negra, junto a la cabeza enorme del dragón, agotado—. Te he vencido. Ahora enséñame.
 
-Fortissax lo miró durante mucho tiempo con sus ojos rojos.
+Fortissax lo miró con sus ojos rojos.
 
 —Gransax te miró antes de morir —dijo al fin—. Sé por qué. Me lo dijo una vez, hace siglos. Me dijo que los dragones antiguos teníamos que aprender a mirar a los hombres, porque algún día nacería uno que nos miraría a nosotros. Y que ese día la guerra terminaría.
 
@@ -330,7 +326,7 @@ Los otros dragones antiguos, al ver a uno de los suyos aceptar la Orden, fueron 
 
 De aquella amistad nació el Culto del Dragón de la capital. Era una orden de caballeros que veneraban a los dragones antiguos y estudiaban sus encantamientos de rayo. Los caballeros del culto vestían armaduras de escamas grises y empuñaban lanzas que crepitaban de electricidad roja. Los más cercanos a Godwyn formaban su guardia personal —Berold entre ellos— y recibieron los medallones de ámbar más grandes que la diosa entregó nunca.
 
-Lansseax, la hermana de Fortissax, adoptó forma humana. Se convirtió en una sacerdotisa de cabello plateado que caminaba por las calles de Leyndell con un báculo de rayo y enseñaba a los caballeros del culto. Muchos de ellos la amaron. Ella amó a uno, mucho tiempo después: un Sinluz llamado Vyke, que llegaría a la Mesa Redonda desde muy lejos y que, durante un tiempo, estaría más cerca que nadie de convertirse en Señor de Elden.
+Lansseax, la hermana de Fortissax, adoptó forma humana. Se convirtió en una sacerdotisa de cabello plateado que caminaba por las calles de Leyndell con un báculo de rayo y enseñaba a los caballeros del culto. Muchos de ellos la amaron. Ella amó a uno, siglos después: un Sinluz llamado Vyke, que llegaría a la Mesa Redonda desde muy lejos y que, durante un tiempo, estaría más cerca que nadie de convertirse en Señor de Elden.
 
 * * *
 
@@ -354,7 +350,7 @@ Marika estaba en la terraza más alta, sola, mirando el Árbol. No se volvió al
 
 —¿Es verdad? —dijo Godwyn desde la puerta.
 
-La diosa no preguntó qué. Lo supo. Tardó mucho en contestar.
+La diosa no preguntó qué. Lo supo.
 
 —Sí.
 
@@ -374,9 +370,9 @@ La diosa no preguntó qué. Lo supo. Tardó mucho en contestar.
 
 Marika lo miró a los ojos.
 
-—Porque si se lo hubiera dicho, habría bajado a buscarlos —dijo—. Y los habría subido. Y la Orden los habría matado, o lo habría matado a él por defenderlos. —Se le quebró la voz—. Prefiero que me odie por una mentira que verlo morir por una verdad.
+—Porque si se lo hubiera dicho, habría bajado a buscarlos —dijo—. Y los habría subido. Y la Orden los habría matado, o lo habría matado a él por defenderlos. Prefiero que me odie por una mentira que verlo morir por una verdad.
 
-Godwyn se quedó callado mucho tiempo.
+Godwyn apretó los puños hasta que le crujieron los guantes.
 
 —¿Y tú? —preguntó al fin—. ¿Los has visto alguna vez?
 
@@ -384,7 +380,7 @@ Marika no contestó.
 
 —¿Los has visto, madre?
 
-—Una vez —dijo ella, muy bajo—. A través de los barrotes. No entré.
+—Una vez —dijo ella—. A través de los barrotes. No entré.
 
 Godwyn la miró como si la viera por primera vez. Luego se dio la vuelta para marcharse.
 
@@ -410,11 +406,11 @@ Maliketh lo esperaba en la entrada del tercer nivel, como si supiera que vendrí
 
 —Son mis hermanos.
 
-—Lo sé. —Maliketh no se movió—. Pero ella no quiere que entres. Y yo no puedo desobedecerla.
+—Sí. —Maliketh no se movió—. Pero ella no quiere que entres. Y yo no puedo desobedecerla.
 
 —Entonces apártate y finge que no me has visto.
 
-La bestia lo miró con sus ojos amarillos durante mucho tiempo.
+La bestia lo miró con sus ojos amarillos.
 
 —Puedo dejarte llegar al final del pasillo —dijo al fin—. Hasta la reja. No más allá. Desde allí podrás verlos. Y ellos a ti.
 
@@ -428,8 +424,6 @@ El joven se volvió. Sus ojos se encontraron con los de Godwyn a través de la r
 
 —¿Quién eres? —preguntó Morgott.
 
-Godwyn tardó en contestar. Le temblaba la voz.
-
 —Tu hermano.
 
 Durante un largo momento, ninguno de los dos dijo nada.
@@ -440,7 +434,7 @@ Godwyn sintió que se le cerraba la garganta.
 
 —Te he llorado toda mi vida —dijo—. Creía que estabas muerto. Los dos. Mi padre… nuestro padre puso dos piedras en las raíces del Árbol.
 
-—Lo sé. —Morgott sonrió apenas—. Maliketh nos lo contó. Una mujer que nos cuidaba… Isolde… decía que algún día vendría alguien de arriba. Que no estaríamos siempre solos.
+—Ya. —Morgott sonrió apenas—. Maliketh nos lo contó. Una mujer que nos cuidaba… Isolde… decía que algún día vendría alguien de arriba. Que no estaríamos siempre solos.
 
 —Volveré. Hablaré con nuestra madre. Te sacaré de aquí.
 

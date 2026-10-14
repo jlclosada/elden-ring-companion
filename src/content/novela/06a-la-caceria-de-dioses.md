@@ -228,11 +228,11 @@ Ozren no se movió.
 
 —¿De verdad quieres saberlo?
 
-Él lo pensó mucho tiempo. Luego negó con la cabeza.
+Él lo pensó. Luego negó con la cabeza.
 
 —No.
 
-—Bien. —Tisaia sonrió por primera vez. Era una sonrisa triste, de alguien que lleva mucho tiempo sin tener motivos para sonreír—. Eres el primero que dice que no. Todos los demás quieren saberlo, y luego no pueden vivir con ello.
+—Bien. —Tisaia sonrió por primera vez. Era una sonrisa triste, de alguien que lleva años sin tener motivos para sonreír—. Eres el primero que dice que no. Todos los demás quieren saberlo, y luego no pueden vivir con ello.
 
 —Mi madre decía que no saber es un regalo.
 
@@ -258,8 +258,6 @@ Ozren dejó la taza en la mesa.
 
 —Lo he visto. —Se tocó el ojo derecho—. Aquí. Veo la muerte de todas las cosas, Ozren. Y cuando miro hacia el oeste, hacia ese árbol, veo que la muerte se está apagando. Como una vela a la que alguien pone un vaso encima. Si nadie la detiene, dentro de unos años no habrá muerte en las Tierras Intermedias. Y entonces nadie, ni los hombres, ni los gigantes, ni los dioses, podrá descansar nunca.
 
-El comandante se quedó callado.
-
 —Los dioses mueren —siguió Tisaia, en voz baja—. Lo he visto. Todos tienen una sombra dentro, aunque sea muy pequeña. Pero se olvidan. Se creen eternos, y como se creen eternos, se vuelven crueles. Yo voy a recordárselo. Uno por uno. Hasta que el único dios que quede sea la muerte.
 
 —¿Y después?
@@ -284,7 +282,7 @@ Al amanecer, cuando Tisaia llegó al paso con sus cien hijos sonrientes, encontr
 
 —Mis hermanos piensan como yo —dijo Ozren—. Algunos desde hace años. Solo esperaban a que alguien lo dijera en voz alta.
 
-Tisaia lo miró durante mucho tiempo. Luego se quitó un guante y le tendió la mano izquierda, la de la llama.
+Tisaia lo miró. Luego se quitó un guante y le tendió la mano izquierda, la de la llama.
 
 —No te quemará —dijo—. A ti no.
 
@@ -312,11 +310,11 @@ La tortuga la miró con sus ojos antiguos.
 
 —*Porque entonces dejarían de creer en mí* —respondió la tortuga—. *Y un dios en el que nadie cree es solo una tortuga.*
 
-Tisaia se quedó mucho tiempo en la barca, mirando el agua.
+Tisaia se quedó en la barca, mirando el agua.
 
 —Te veo la muerte —dijo al fin—. Es pequeña. Llegará dentro de mil años, de vieja, en el fondo de este lago.
 
-—*Lo sé.*
+—*Ya.*
 
 —No te mataré.
 
@@ -332,7 +330,7 @@ No a todos los perdonó. A la mayoría no. Ozren estaba a su lado cuando la llam
 
 —Cada vez que mato a uno, veo morir a todos los que alguna vez le rezaron —dijo Tisaia—. Uno detrás de otro. Sus muertes, quiero decir. Las que vendrán. Las veo todas a la vez. —Abrió el ojo, y Ozren vio que estaba lleno de lágrimas—. Es como si me trajeran a todos sus muertos de regalo.
 
-Él se sentó a su lado. No dijo nada. Le pasó un brazo por los hombros, torpemente, como quien no lo ha hecho en mucho tiempo, y ella apoyó la cabeza en él.
+Él se sentó a su lado. No dijo nada. Le pasó un brazo por los hombros, torpemente, como quien no lo ha hecho nunca, y ella apoyó la cabeza en él.
 
 No volvieron a dormir separados.
 
@@ -370,7 +368,7 @@ Ozren llegó a su lado. Había envejecido en aquellos veinte años: tenía el pe
 
 —Ya no quedan dioses pequeños —dijo—. Hemos matado a diecisiete este año. El último era un espíritu de un manantial al que nadie rezaba desde hacía un siglo.
 
-—Lo sé.
+—Ya.
 
 —Solo queda ella.
 
@@ -378,7 +376,7 @@ Tisaia no contestó. Miraba el Árbol con el ojo del crepúsculo, y Ozren vio qu
 
 —¿Qué ves?
 
-—La veo a ella —dijo Tisaia, despacio—. Una muchacha descalza. De pelo dorado. Con un martillo en la mano. —Cerró los ojos—. La veo morir, Ozren. No pronto. Dentro de mucho tiempo. Atada a su propio árbol, partida en dos. Pero la veo.
+—La veo a ella —dijo Tisaia, despacio—. Una muchacha descalza. De pelo dorado. Con un martillo en la mano. —Cerró los ojos—. La veo morir, Ozren. No pronto. Dentro de eras. Atada a su propio árbol, partida en dos. Pero la veo.
 
 —Entonces es mortal.
 

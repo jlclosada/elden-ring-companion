@@ -1,6 +1,6 @@
 La Forja de los Gigantes estaba en lo más alto del mundo, y para llegar a ella había que vencer al último gigante.
 
-Tardaron cinco días en subir. Desde el valle del Árbol Hálito, por las laderas de la montaña negra, entre glaciares y ventisqueros, siguiendo la columna de humo rojo que salía de la cumbre y subía recta hacia las nubes. Hacía un frío que Edda no había sentido nunca, ni en las cumbres de Castillo Sol, ni en el lago de Malenia. Un frío que se metía en los huesos y no salía. Por las noches dormían pegadas, Edda y Melina, envueltas las dos en la capa gris que Melina le había dado en el valle, con la serpiente roja enroscada entre ellas como una brasa pequeña.
+Tardaron cinco días en subir. Desde el valle del Árbol Hierático, por las laderas de la montaña negra, entre glaciares y ventisqueros, siguiendo la columna de humo rojo que salía de la cumbre y subía recta hacia las nubes. Hacía un frío que Edda no había sentido nunca, ni en las cumbres de Castillo Sol, ni en el lago de Malenia. Un frío que se metía en los huesos y no salía. Por las noches dormían pegadas, Edda y Melina, envueltas las dos en la capa gris que Melina le había dado en el valle, con la serpiente roja enroscada entre ellas como una brasa pequeña.
 
 Melina no hablaba mucho. Caminaba delante, sin capa, con el vestido sencillo que llevaba debajo y los pies descalzos en la nieve, y no parecía tener frío. A veces se detenía y se quedaba mirando la columna de humo durante mucho rato. Y a veces, cuando creía que Edda no la miraba, se tocaba el ojo cerrado. El de la marca.
 
@@ -8,9 +8,7 @@ La tercera noche, junto a una gracia excavada en el hielo, Edda le preguntó.
 
 —¿Te duele?
 
-Melina tardó en contestar.
-
-—Arde —dijo al fin—. Un poco. Desde que vimos el humo. Como cuando te acercas a una hoguera con los ojos cerrados. —Se apartó la mano del ojo—. Cada vez más.
+—Arde —dijo—. Un poco. Desde que vimos el humo. Como cuando te acercas a una hoguera con los ojos cerrados. —Se apartó la mano del ojo—. Cada vez más.
 
 —¿De qué color?
 
@@ -32,7 +30,7 @@ Melina soltó el aire despacio.
 
 Melina asintió. Se acurrucó contra ella, bajo la capa gris. No dijo nada más.
 
-* * *
+---
 
 Edda vio al gigante desde lejos, al quinto día, al llegar a lo alto del último glaciar.
 
@@ -42,7 +40,7 @@ Tenía la piel de color ceniza, agrietada como la tierra en verano, y en las gri
 
 Edda se detuvo en seco.
 
-Pensó en Iji, en la torre de Ranni, junto a la fragua apagada, tocando su collar de cuentas de hierro una a una con sus dedos enormes. *Dicen que hay un gigante todavía, uno solo, en lo alto de una montaña, al norte. Uno de barba roja que lleva cuentas iguales en la barba. Un pariente lejano. A veces pienso en él. En que está solo allí arriba.*
+Pensó en Iji, en la torre de Ranni, junto a la fragua apagada, tocando su collar de cuentas de hierro una a una con sus dedos enormes. _Dicen que hay un gigante todavía, uno solo, en lo alto de una montaña, al norte. Uno de barba roja que lleva cuentas iguales en la barba. Un pariente lejano. A veces pienso en él. En que está solo allí arriba._
 
 —El Gigante de Fuego —dijo Melina, a su lado—. El último de su raza. Mi madre lo dejó vivo para que guardara la llama. Lo encadenó a la forja con espinas, para siempre. Para que nunca pudiera apagarla ni dejar que nadie se la llevara.
 
@@ -50,13 +48,13 @@ Pensó en Iji, en la torre de Ranni, junto a la fragua apagada, tocando su colla
 
 —Desde antes del Árbol. —Melina se tocó el ojo—. Desde la guerra de los gigantes. Desde que Godfrey le cerró los ojos a su padre en un glaciar.
 
-Edda miró al gigante durante mucho tiempo. Pensó en los Cornudos de la Tierra de las Sombras, quemados por Messmer. En Isa en su tinaja de cristal. En los Nox encerrados bajo tierra con su cielo pintado. En los albinauricos sangrando en el pantano de Mohgwyn, en Latenna y su lobo en la plaza helada de Ordina. En todos los pueblos que la Orden había borrado, uno detrás de otro, para que el Árbol creciera.
+Edda miró al gigante. Pensó en los Cornamentados de la Tierra de las Sombras, quemados por Messmer. En Isa en su tinaja de cristal. En los Nox encerrados bajo tierra con su cielo pintado. En los albinauricos sangrando en el pantano de Mohgwyn, en Latenna y su lobo en la plaza helada de Ordina. En todos los pueblos que la Orden había borrado, uno detrás de otro, para que el Árbol creciera.
 
 —No quiero matarlo —dijo.
 
-—Lo sé —dijo Melina—. Pero no te dejará pasar. No puede. —Le tembló la voz—. Mi madre se lo ordenó. *No dejarás que nadie se la lleve.* Y las espinas no le dejan desobedecer.
+—Lo sé —dijo Melina—. Pero no te dejará pasar. No puede. Mi madre se lo ordenó. _No dejarás que nadie se la lleve._ Y las espinas no le dejan desobedecer.
 
-* * *
+---
 
 El gigante se levantó cuando Edda pisó la plataforma.
 
@@ -70,11 +68,11 @@ Habló.
 
 Con una voz que era como el retumbar de un volcán, en una lengua que Edda no conocía. Una lengua de piedras que caen. Pero la entendió. No con los oídos: con el pecho, como había entendido a Fortissax.
 
-*Otra más. Otra hija del Árbol. Otra que viene a robar la llama.*
+_Otra más. Otra hija del Árbol. Otra que viene a robar la llama._
 
 —No vengo a robarla.
 
-*Todos venís a robarla. Desde que ella vino.* El gigante levantó un puño, enorme como una casa, cubierto de cicatrices. *Ella nos mató. A todos. A mi padre, en el glaciar. A mis primos, a mis tíos, a los once que quedábamos junto a la fragua. Con espinas. Los atravesó con espinas que salían del suelo.* La voz se le quebró, una roca que se parte. *Y a mí me dejó vivo. Para que viera. Para que guardara su victoria. Para que cuidara la llama de mi dios muerto como un perro cuida la tumba de su amo.*
+_Todos venís a robarla. Desde que ella vino._ El gigante levantó un puño, enorme como una casa, cubierto de cicatrices. _Ella nos mató. A todos. A mi padre, en el glaciar. A mis primos, a mis tíos, a los once que quedábamos junto a la fragua. Con espinas. Los atravesó con espinas que salían del suelo._ La voz se le quebró, una roca que se parte. _Y a mí me dejó vivo. Para que viera. Para que guardara su victoria. Para que cuidara la llama de mi dios muerto como un perro cuida la tumba de su amo._
 
 Bajó el puño, despacio, hasta dejarlo suspendido sobre la cabeza de Edda.
 
@@ -82,43 +80,43 @@ Y entonces se detuvo.
 
 Los ojos rojos, pequeños, se fijaron en algo. En la capa de Edda. En el bolsillo de dentro.
 
-*¿Qué llevas ahí?*
+_¿Qué llevas ahí?_
 
 Edda no se movió.
 
-*Huele a…* El gigante se inclinó, despacio, con un crujido de espinas. Acercó la cara enorme, tanto que Edda sintió el calor de su aliento, como el de un horno abierto. *Huele a la cumbre del astrólogo. A la tumba de piedras. A la palabra que grabó.*
+_Huele a…_ El gigante se inclinó, despacio, con un crujido de espinas. Acercó la cara enorme, tanto que Edda sintió el calor de su aliento, como el de un horno abierto. _Huele a la cumbre del astrólogo. A la tumba de piedras. A la palabra que grabó._
 
-Edda metió la mano en el bolsillo de dentro. Despacio. Sacó la piedra de colores. La plana, gris, con vetas rojas, azules, verdes. La que había encontrado junto a la tumba con la palabra *Crisol*.
+Edda metió la mano en el bolsillo de dentro. Despacio. Sacó la piedra de colores. La plana, gris, con vetas rojas, azules, verdes. La que había encontrado junto a la tumba con la palabra _Crisol_.
 
 La sostuvo en alto, en la palma abierta.
 
 El gigante se quedó completamente inmóvil.
 
-* * *
+---
 
-—*Iven* —dijo, muy bajo, y la palabra le salió de la garganta como una piedra que rueda—. *Iven tenía una piedra así. Al cuello. Con una brasa.*
+—_Iven_ —dijo, y la palabra le salió de la garganta como una piedra que rueda—. _Iven tenía una piedra así. Al cuello. Con una brasa._
 
-—Se la encontré junto a una tumba. En las cumbres. Con una palabra grabada. *Crisol.*
+—Se la encontré junto a una tumba. En las cumbres. Con una palabra grabada. _Crisol._
 
-—*La tumba de su maestra. De la niña de las estrellas que vino del este. Aspa.* El gigante cerró los ojos. *La grabó él. Con una piedra mala. Tardó un invierno entero. Yo le ayudé a subir las piedras grandes. Me pidió que no las tirara, que tuviera cuidado, que eran para alguien importante.* Abrió los ojos. *¿Sigue allí?*
+—_La tumba de su maestra. De la niña de las estrellas que vino del este. Aspa._ El gigante cerró los ojos. _La grabó él. Con una piedra mala. Tardó un invierno entero. Yo le ayudé a subir las piedras grandes. Me pidió que no las tirara, que tuviera cuidado, que eran para alguien importante._ Abrió los ojos. _¿Sigue allí?_
 
 —Sigue allí. Con nieve encima. Pero entera.
 
 El gigante bajó el puño. Muy despacio. Hasta apoyarlo en la roca de la plataforma, a un lado.
 
-—*Me llamo Brund* —dijo—. *Hijo de Hrothgar. Hace eras que nadie me pregunta.*
+—_Me llamo Brund_ —dijo—. _Hijo de Hrothgar. Hace eras que nadie me pregunta._
 
 —No te lo he preguntado.
 
-—*Ya lo sé.* —Algo se movió en la cara enorme, en la barba de llamas. Algo que podía ser una sonrisa—. *Te lo digo igual.*
+—_Ya lo sé._ —Algo se movió en la cara enorme, en la barba de llamas. Algo que podía ser una sonrisa—. _Te lo digo igual._
 
-* * *
+---
 
 Se sentaron. El gigante en el borde de la plataforma, con la pierna encadenada extendida, y Edda en una roca a su lado, que para él era un guijarro. Melina se quedó un poco apartada, de pie, con la cara vuelta hacia el hueco excavado en la roca al fondo de la plataforma, detrás de un yunque enorme, de donde salía una luz roja y dorada que hacía daño mirar.
 
 La llama.
 
-—*Iven se fue al oeste* —dijo Brund—. *A un lago del que hablaban los viajeros. Le di una brasa de la fragua. De la madre. Le dije que cuando tuviera frío en ese lago se acordara de que aquí arriba había alguien que la cuidaba.* Se quedó callado. *Nunca volvió. No supe nunca qué fue de él.*
+—_Iven se fue al oeste_ —dijo Brund—. _A un lago del que hablaban los viajeros. Le di una brasa de la fragua. De la madre. Le dije que cuando tuviera frío en ese lago se acordara de que aquí arriba había alguien que la cuidaba._ Resopló, y el aliento levantó nieve. _Nunca volvió. No supe nunca qué fue de él._
 
 Edda pensó en Sellen en su celda. En el capirote de cristal. En la Academia.
 
@@ -128,19 +126,19 @@ El gigante se quedó inmóvil.
 
 —Una piedra de colores sin ningún valor —siguió Edda—. Y una brasa roja que no se ha apagado en mil años.
 
-Brund no dijo nada durante mucho tiempo. Se quedó mirando hacia el oeste, hacia donde, muy lejos, más allá de las montañas, más allá de Altus, estaba el lago. Las llamas de su pelo se agitaron. Las grietas de su piel brillaron más.
+Brund se quedó mirando hacia el oeste, hacia donde, muy lejos, más allá de las montañas, más allá de Altus, estaba el lago. Las llamas de su pelo se agitaron. Las grietas de su piel brillaron más.
 
 Y luego, despacio, como se desmorona una ladera, el gigante empezó a llorar.
 
 No hizo ruido. Las lágrimas le salían de los ojos pequeños, rojos, y bajaban por la cara de piedra, y donde caían, la nieve de la plataforma se derretía con un siseo y subía en vapor.
 
-—*No se ha apagado* —dijo al fin, con la voz rota—. *Mil años. La brasa. No se ha apagado.*
+—_No se ha apagado_ —dijo al fin, con la voz rota—. _Mil años. La brasa. No se ha apagado._
 
 —No.
 
-—*Le dije que no se apagaba nunca.* El gigante se secó la cara con el dorso de una mano enorme. *Que era de la madre. Que se acordara de que alguien la cuidaba.* Se le quebró la voz. *Y alguien la ha cuidado. Mil años. En una urna de cristal.*
+—_Le dije que no se apagaba nunca._ El gigante se secó la cara con el dorso de una mano enorme. _Que era de la madre. Que se acordara de que alguien la cuidaba._ _Y alguien la ha cuidado. Mil años. En una urna de cristal._
 
-* * *
+---
 
 —Hay otra cosa —dijo Edda.
 
@@ -150,17 +148,17 @@ Brund se volvió hacia ella.
 
 El gigante se llevó la mano a la barba. Tocó las cuentas, una a una, despacio, con unos dedos enormes, igual que Iji tocaba las suyas.
 
-—*Los trolls* —dijo—. *Los que bajaron de las cumbres antes de la guerra. Los que se fueron al sur. Se hicieron pequeños. Grises. Se olvidaron de la llama.* Se le quebró la voz. *Eran primos. Primos lejanos. Pensé que ya no quedaba ninguno que se acordara.*
+—_Los trolls_ —dijo—. _Los que bajaron de las cumbres antes de la guerra. Los que se fueron al sur. Se hicieron pequeños. Grises. Se olvidaron de la llama._ _Eran primos. Primos lejanos. Pensé que ya no quedaba ninguno que se acordara._
 
 —Iji se acuerda. Me dijo que a veces piensa en ti. En que estás solo aquí arriba.
 
 Brund cerró los ojos.
 
-—*Solo* —repitió.
+—_Solo_ —repitió.
 
 —Sí.
 
-—*Hace eras que nadie piensa en mí.* El gigante abrió los ojos. Miró hacia el sur, hacia el oeste. *Y había alguien. Abajo. En una torre. Pensando.*
+—_Hace eras que nadie piensa en mí._ El gigante abrió los ojos. Miró hacia el sur, hacia el oeste. _Y había alguien. Abajo. En una torre. Pensando._
 
 Se quedaron un rato en silencio. El viento soplaba hacia arriba, hacia la columna de humo. La llama del fondo de la plataforma crepitaba.
 
@@ -168,77 +166,77 @@ Luego Brund se llevó las manos a la barba. Y con unos dedos enormes, torpes, de
 
 En la de Edda pesaba como una piedra de río.
 
-—*Para el troll* —dijo Brund—. *Para Iji. Dile que es de su primo. Del de la montaña. Que no estaba solo del todo.*
+—_Para el troll_ —dijo Brund—. _Para Iji. Dile que es de su primo. Del de la montaña. Que no estaba solo del todo._
 
 Edda la cogió con las dos manos.
 
 —Se la daré.
 
-* * *
+---
 
 —Tengo que pasar —dijo Edda, al cabo de un rato—. A la llama.
 
 Brund no contestó enseguida. Miró hacia el fondo de la plataforma, hacia el hueco de la roca, hacia la luz roja y dorada. Hacia Melina, que seguía de pie mirándola, de espaldas a ellos.
 
-—*Ella* —dijo—. *La muchacha. Viene a llevársela.*
+—_Ella_ —dijo—. _La muchacha. Viene a llevársela._
 
 —Sí.
 
-—*Para quemar el árbol de oro.*
+—_Para quemar el árbol de oro._
 
 —Sí.
 
-El gigante se quedó callado mucho tiempo.
+El gigante cerró los ojos. Las espinas del tobillo crujieron.
 
-—*Le pregunté a la diosa* —dijo al fin—. *Cuando me encadenó. Le pregunté si algún día subiría alguien a llevarse la llama para quemar su árbol. No me contestó.* Hizo una pausa. *Pero la cara de mi vientre abrió un ojo. Por primera vez en mi vida. La miró a ella. Y lo volvió a cerrar.* Se tocó el vientre, la cara dormida. *Desde entonces lo sé. Que algún día subiría alguien. Que la llama no era para siempre.*
+—_Le pregunté a la diosa_ —dijo al fin—. _Cuando me encadenó. Le pregunté si algún día subiría alguien a llevarse la llama para quemar su árbol. No me contestó._ Hizo una pausa. _Pero la cara de mi vientre abrió un ojo. Por primera vez en mi vida. La miró a ella. Y lo volvió a cerrar._ Se tocó el vientre, la cara dormida. _Desde entonces lo sé. Que algún día subiría alguien. Que la llama no era para siempre._
 
 —Entonces déjame pasar.
 
-—*No puedo.*
+—_No puedo._
 
 Edda lo miró.
 
-—*Las espinas.* Brund señaló la cadena de su tobillo. *Me lo ordenó ella. «No dejarás que nadie se la lleve.» Y las espinas me lo recuerdan. Cada vez que alguien se acerca a la llama, aprietan. Me obligan.* Le tembló la voz. *No puedo dejarte pasar aunque quiera. Mi cuerpo no me deja.*
+—_Las espinas._ Brund señaló la cadena de su tobillo. _Me lo ordenó ella. «No dejarás que nadie se la lleve.» Y las espinas me lo recuerdan. Cada vez que alguien se acerca a la llama, aprietan. Me obligan._ _No puedo dejarte pasar aunque quiera. Mi cuerpo no me deja._
 
 —¿Y si te las quito?
 
-—*No se pueden quitar. Son de ella. Del Árbol.* Brund cerró los ojos. *Solo se rompen si yo muero.*
+—_No se pueden quitar. Son de ella. Del Árbol._ Brund cerró los ojos. _Solo se rompen si yo muero._
 
 Edda se quedó mirando la cadena de espinas. La carne abierta alrededor. La luz naranja que salía de la herida como sale la sangre.
 
 —No quiero matarte —dijo.
 
-—*Lo sé.* El gigante abrió los ojos. La miró con una ternura que Edda no esperaba en aquella cara de piedra. *Pero yo quiero que lo hagas.*
+—_Ya._ El gigante abrió los ojos. La miró con una ternura que Edda no esperaba en aquella cara de piedra. _Pero yo quiero que lo hagas._
 
-* * *
+---
 
 Se levantó.
 
 Despacio, con un crujido de espinas, de piedra, de hielo. Se quedó de pie en la plataforma, enorme, con la barba de llamas y cuentas ondeando al viento, con la cara dormida del vientre brillando de naranja.
 
-—*Te voy a pedir una cosa* —dijo—. *Antes.*
+—_Te voy a pedir una cosa_ —dijo—. _Antes._
 
 —Dime.
 
-—*Cuando empiece, no voy a poder parar. Las espinas no me dejarán. Te atacaré como he atacado a todos. Con todo.* Hizo una pausa. *Y cuando esté a punto de caer, haré algo. Algo que me obligan a hacer. Algo feo.* Bajó la vista. *No me mires cuando lo haga. Por favor.*
+—_Cuando empiece, no voy a poder parar. Las espinas no me dejarán. Te atacaré como he atacado a todos. Con todo._ Hizo una pausa. _Y cuando esté a punto de caer, haré algo. Algo que me obligan a hacer. Algo feo._ Bajó la vista. _No me mires cuando lo haga. Por favor._
 
 —¿Qué es?
 
 Brund no contestó.
 
-—*Y antes de eso* —dijo—, *antes de que empiece, quiero cantar. Una vez. La canción.*
+—_Y antes de eso_ —dijo—, _antes de que empiece, quiero cantar. Una vez. La canción._
 
 —¿Qué canción?
 
-—*La de los astrólogos. La que me enseñó Iven. La que le cantaba a la llama la noche antes de que llegara la diosa.* El gigante miró hacia el hueco de la roca. *Hace eras que no la canto. Desde que me encadenó. Me daba vergüenza cantársela a una llama que guardaba para la que mató a mi pueblo.* Se volvió hacia Edda. *Pero ahora va a irse. Quiero despedirla.*
+—_La de los astrólogos. La que me enseñó Iven. La que le cantaba a la llama la noche antes de que llegara la diosa._ El gigante miró hacia el hueco de la roca. _Hace eras que no la canto. Desde que me encadenó. Me daba vergüenza cantársela a una llama que guardaba para la que mató a mi pueblo._ Se volvió hacia Edda. _Pero ahora va a irse. Quiero despedirla._
 
 Edda asintió.
 
 Brund se volvió hacia la llama. Y cantó.
 
-* * *
+---
 
-No era una canción de gigante. Era una canción de hombre, pequeña, sencilla, cantada por una voz que era como el retumbar de un volcán. Hablaba de las estrellas. De las siete rojas del norte, las de la Fragua. De cómo se movían por el cielo cada noche, de cómo había que mirarlas para saber cuándo sembrar y cuándo recoger y cuándo bajar al mercado del deshielo. De una niña de las estrellas que vino del este con una piedra de colores. De un astrólogo que la cargó a la espalda hasta la cumbre. De que todo lo que sube baja, y todo lo que arde se apaga, y todo lo que se apaga vuelve a arder en otro sitio.
+Era una canción de hombre, no de gigante, pequeña, sencilla, cantada por una voz que era como el retumbar de un volcán. Hablaba de las estrellas. De las siete rojas del norte, las de la Fragua. De cómo se movían por el cielo cada noche, de cómo había que mirarlas para saber cuándo sembrar y cuándo recoger y cuándo bajar al mercado del deshielo. De una niña de las estrellas que vino del este con una piedra de colores. De un astrólogo que la cargó a la espalda hasta la cumbre. De que todo lo que sube baja, y todo lo que arde se apaga, y todo lo que se apaga vuelve a arder en otro sitio.
 
 Edda no entendía la lengua. Pero entendía la canción.
 
@@ -248,17 +246,17 @@ Y la llama, en su hueco de roca, se agitó. Se alzó un poco. Como se había alz
 
 Brund terminó la canción. Se quedó un momento callado, mirando la llama.
 
-—*Adiós, madre* —dijo, muy bajo.
+—_Adiós, madre_ —dijo.
 
 Luego se volvió hacia Edda. Y las espinas de su tobillo apretaron.
 
 Edda lo vio en su cara. El dolor. La rabia que no era suya, que le subía desde la pierna encadenada como un veneno. Los ojos pequeños se le volvieron rojos de golpe, encendidos, y la cara dormida del vientre abrió los ojos. Los dos. Por segunda vez en eras.
 
-—*Perdóname* —dijo Brund.
+—_Perdóname_ —dijo Brund.
 
 Y levantó el puño.
 
-* * *
+---
 
 La batalla contra el Gigante de Fuego duró un día entero.
 
@@ -288,7 +286,7 @@ El cuerpo del gigante se levantó otra vez. Ahora caminaba sobre las manos, con 
 
 Edda lloró mientras luchaba. No supo cuándo empezó. Lloró todo el tiempo, hasta el final, cuando Torrente saltó sobre el vientre encendido y ella clavó la espada en el centro de uno de los ojos de la cara.
 
-* * *
+---
 
 El gigante cayó despacio, como cae una montaña.
 
@@ -300,43 +298,43 @@ La cabeza estaba lejos, en la nieve, al borde de la plataforma, donde había ca�
 
 Tenía los ojos abiertos. Pequeños, rojos, apagados. Ya no encendidos. Los suyos. La miraban.
 
-—*Has cerrado los ojos* —dijo la voz del volcán, muy baja, casi un susurro de grava—. *Te lo he visto. Cuando lo he hecho.*
+—_Has cerrado los ojos_ —dijo la voz del volcán, muy baja, casi un susurro de grava—. _Te lo he visto. Cuando lo he hecho._
 
 —Me lo pediste.
 
-—*Gracias.* Los ojos parpadearon despacio. *Nadie me había hecho caso en eras.*
+—_Gracias._ Los ojos parpadearon despacio. _Nadie me había hecho caso en eras._
 
 Edda puso la mano en la mejilla de piedra. Estaba caliente, como una roca al sol.
 
 —Te has quitado la cadena —dijo.
 
-—*Me la has quitado tú.* La boca enorme se movió, algo que podía ser una sonrisa. *Ya no hay espinas. Ya no tengo que guardar nada.* Se quedó callado. *Ya puedo bajar al mercado del deshielo. A ver si está Iven en la losa.*
+—_Me la has quitado tú._ La boca enorme se movió, algo que podía ser una sonrisa. _Ya no hay espinas. Ya no tengo que guardar nada._ _Ya puedo bajar al mercado del deshielo. A ver si está Iven en la losa._
 
 —Estará.
 
-—*Le llevaré noticias. Le diré que la brasa no se ha apagado.* Los ojos se le cerraban. *Y que hay un primo en una torre que pensaba en mí.*
+—_Le llevaré noticias. Le diré que la brasa no se ha apagado._ Los ojos se le cerraban. _Y que hay un primo en una torre que pensaba en mí._
 
 —Díselo.
 
-—*Dale la cuenta al troll* —dijo Brund, casi sin voz—. *Y dile… dile que se cuide la espalda. Los de nuestra familia siempre acabamos con la espalda mal. De agacharnos para hablar con los pequeños.*
+—_Dale la cuenta al troll_ —dijo Brund, casi sin voz—. _Y dile… dile que se cuide la espalda. Los de nuestra familia siempre acabamos con la espalda mal. De agacharnos para hablar con los pequeños._
 
 Edda se rio. Una risa rota, entre lágrimas.
 
 —Se lo diré.
 
-—*Bien.* Los ojos se cerraron. *Gracias por cerrar los tuyos.*
+—_Bien._ Los ojos se cerraron. _Gracias por cerrar los tuyos._
 
 Y ya no dijo nada más.
 
-* * *
+---
 
-Edda se quedó arrodillada junto a la cabeza del gigante mucho tiempo.
+Edda se quedó arrodillada junto a la cabeza del gigante hasta que dejó de salirle vapor de la boca.
 
 Luego se levantó. Fue hasta el cuerpo, tumbado de espaldas en la plataforma. Las grietas de la piel ya casi no brillaban. Solo un poco, aquí y allá, como brasas en una chimenea a medianoche. En el pecho, sobre la cara del vientre, que tenía los ojos cerrados otra vez, todavía ardía algo. Un rescoldo. Naranja. Caliente.
 
 Edda sacó de la capa el bulto de tela donde llevaba las escamas de Vyrka. Lo desenvolvió. Las cinco escamas rojas, del tamaño de una mano, con la marca curva grabada en el reverso con una garra.
 
-*Las he puesto en el altar porque es el único sitio de esta montaña donde arde algo*, había dicho Bayle. *Para que no estén a oscuras.*
+_Las he puesto en el altar porque es el único sitio de esta montaña donde arde algo_, había dicho Bayle. _Para que no estén a oscuras._
 
 Las colocó una a una sobre el pecho del gigante. En círculo. Alrededor del rescoldo. Como estaban en el altar del pico.
 
@@ -346,13 +344,13 @@ El rescoldo se avivó. Un poco. Lo justo para que las escamas brillaran rojas, c
 
 Y recogió de la nieve, de entre las cuentas esparcidas, una piedra pequeña, negra, con un brillo naranja en las grietas, como una brasa que no termina de apagarse. La vigesimoprimera.
 
-* * *
+---
 
 Melina la estaba esperando junto al yunque.
 
 Más allá del cuerpo del gigante, en lo más alto de la montaña, estaba la Forja. Una plataforma de piedra negra, antigua, tallada por manos de gigantes, abierta al cielo, con el borde roto en muchos sitios. En el centro había un yunque, enorme, del tamaño de una casa, cubierto de runas que brillaban débilmente. Y detrás del yunque, en un hueco excavado en la roca, había una llama.
 
-No era una llama grande. Era pequeña, apenas como la de una antorcha. Pero ardía con una luz roja y dorada tan intensa que hacía daño mirarla, y el calor que desprendía se notaba desde muy lejos, desde el otro extremo de la plataforma, como cuando se abre la puerta de un horno. No se movía con el viento. Ardía quieta, recta, como si el viento no la tocara. Como si llevara eras esperando a que alguien la mirara.
+Era pequeña, apenas como la de una antorcha. Pero ardía con una luz roja y dorada tan intensa que hacía daño mirarla, y el calor que desprendía se notaba desde muy lejos, desde el otro extremo de la plataforma, como cuando se abre la puerta de un horno. No se movía con el viento. Ardía quieta, recta, como si el viento no la tocara. Como si llevara eras esperando a que alguien la mirara.
 
 La Llama de la Ruina. La que Marika no pudo apagar. La única capaz de quemar el Árbol Áureo.
 
@@ -362,13 +360,13 @@ Tenía el ojo cerrado brillando. Edda lo vio desde lejos. La luz debajo del pár
 
 Se detuvo delante de ella.
 
-* * *
+---
 
 —Aquí es —dijo Melina.
 
 No dijo nada más durante un rato. Se quedaron mirándose, en lo alto del mundo, con la llama detrás y el gigante muerto a un lado y el viento soplando hacia arriba.
 
-—Le has cantado —dijo Melina al fin—. No. Te ha cantado él. La canción de los astrólogos. —Se le quebró la voz—. Me la sé. La he oído antes. No sé dónde.
+—Le has cantado —dijo Melina al fin—. No. Te ha cantado él. La canción de los astrólogos. Me la sé. La he oído antes. No sé dónde.
 
 —En el cielo, quizá. Antes de tener cuerpo.
 
@@ -376,19 +374,17 @@ No dijo nada más durante un rato. Se quedaron mirándose, en lo alto del mundo,
 
 —¿De quién era?
 
-Melina miró la llama por encima del hombro. Se quedó así mucho tiempo.
-
-—De mi madre —dijo al fin—. Hace mucho, cuando yo no tenía cuerpo todavía, cuando era solo una niña que había ardido una vez y se había quedado atada a la gracia, ella me habló. Desde dentro del Árbol. Desde donde está encerrada. Me dijo que el Árbol se convertiría en una cárcel. Que el Anillo se rompería. Que sus hijos se matarían entre ellos. Que vendría alguien de fuera, un Sinluz, alguien que no hubiera elegido nadie. Y que yo debía llevarlo hasta aquí.
+Melina miró la llama por encima del hombro. —De mi madre —dijo al fin—. Hace mucho, cuando yo no tenía cuerpo todavía, cuando era solo una niña que había ardido una vez y se había quedado atada a la gracia, ella me habló. Desde dentro del Árbol. Desde donde está encerrada. Me dijo que el Árbol se convertiría en una cárcel. Que el Anillo se rompería. Que sus hijos se matarían entre ellos. Que vendría alguien de fuera, un Sinluz, alguien que no hubiera elegido nadie. Y que yo debía llevarlo hasta aquí.
 
 —Marika.
 
 Melina no contestó. Pero tampoco lo negó.
 
-—Me cantó la nana antes —dijo, muy bajo—. La de la tinaja. La de mi abuela. Antes de decírmelo. Me la cantó entera. —Se le escaparon las lágrimas—. Es la única vez que me habló. La única vez que me cantó. Al pie del Árbol cuando nací, y desde dentro del Árbol cuando me dio la misión. Dos veces. Nada más.
+—Me cantó la nana antes —dijo—. La de la tinaja. La de mi abuela. Antes de decírmelo. Me la cantó entera. —Se le escaparon las lágrimas—. Es la única vez que me habló. La única vez que me cantó. Al pie del Árbol cuando nací, y desde dentro del Árbol cuando me dio la misión. Dos veces. Nada más.
 
 Edda no dijo nada. Se acercó. Le cogió la mano.
 
-* * *
+---
 
 —Me dio un ojo que puede ver el fuego —dijo Melina, tocándose el ojo cerrado—. Y una misión. Quemar el Árbol. Liberar el mundo de él. Abrir las espinas. —Se volvió hacia Edda—. Para eso hace falta una llama. Y para que la llama arda en el Árbol, hace falta alguien que la lleve hasta allí. Que se convierta en ella.
 
@@ -404,7 +400,7 @@ Melina la miró.
 
 Edda se quedó inmóvil.
 
-—Midra me dijo que hay dos —siguió Melina—. Me lo contaste. Uno que quema para que crezca otra cosa. Otro que quema para que no crezca nada. Que al principio se parecen. Que solo se distinguen por la luz. —Se le quebró la voz—. Yo no puedo verme el ojo, Edda. Tú sí. —Hizo una pausa—. Cuando entre en la llama, mírame. Y dime qué color es.
+—Midra me dijo que hay dos —siguió Melina—. Me lo contaste. Uno que quema para que crezca otra cosa. Otro que quema para que no crezca nada. Que al principio se parecen. Que solo se distinguen por la luz. Yo no puedo verme el ojo, Edda. Tú sí. —Hizo una pausa—. Cuando entre en la llama, mírame. Y dime qué color es.
 
 —Melina…
 
@@ -416,7 +412,7 @@ Edda se quedó inmóvil.
 
 Edda no pudo contestar.
 
-* * *
+---
 
 —No —dijo al fin—. Tiene que haber otra manera.
 
@@ -430,7 +426,7 @@ Melina se rio. Fue una risa de verdad, corta, sorprendida, entre lágrimas. La p
 
 —¿Me elegiste tú?
 
-—Te elegí yo. —Melina sonrió—. Mi madre me dijo que viniera alguien de fuera. No me dijo quién. Había muchos Sinluz. Te vi en la colina, el primer día, al salir de la capilla, mirando el Árbol. Y luego te vi agacharte a coger una piedra del suelo. Una piedra cualquiera. Y guardártela. —Le tembló la voz—. Y pensé: esta. Esta coge piedras. Esta va a algún sitio.
+—Te elegí yo. —Melina sonrió—. Mi madre me dijo que viniera alguien de fuera. No me dijo quién. Había muchos Sinluz. Te vi en la colina, el primer día, al salir de la capilla, mirando el Árbol. Y luego te vi agacharte a coger una piedra del suelo. Una piedra cualquiera. Y guardártela. Y pensé: esta. Esta coge piedras. Esta va a algún sitio.
 
 Edda sintió que algo se le rompía dentro.
 
@@ -448,7 +444,7 @@ Melina sonrió.
 
 —Ahora son tres —dijo—. Contigo.
 
-* * *
+---
 
 Edda guardó la carta en el bolsillo de dentro, con todo lo demás. La piedra azul. La piedra de colores. La nota de Ranni. El colgante de Fia. Los nombres de la familia de Midra. La hoja roja de Millicent. La cuenta de hierro de Brund.
 
@@ -462,7 +458,7 @@ Ya no cabía casi nada más.
 
 Edda no supo qué decir.
 
-—Y la aldea de las puertas azules —siguió Melina—. Cuando la encuentres, deja una piedra por mí. Una pequeña. Cualquiera. —Le tembló la voz—. Para que alguien se acuerde de que estuve. Como en el libro de la mujer de plata. *He estado aquí.*
+—Y la aldea de las puertas azules —siguió Melina—. Cuando la encuentres, deja una piedra por mí. Una pequeña. Cualquiera. Para que alguien se acuerde de que estuve. Como en el libro de la mujer de plata. _He estado aquí._
 
 —Te lo prometo.
 
@@ -478,7 +474,7 @@ Le soltó la mano. Se volvió hacia la llama.
 
 —Mírame —dijo, sin volverse—. Y dímelo.
 
-* * *
+---
 
 Melina caminó hacia la llama sin detenerse.
 
@@ -508,9 +504,9 @@ En el centro de la llama, Melina sonrió.
 
 Fue la última cosa que Edda vio de ella. Una sonrisa pequeña, torpe, aliviada. Como la primera que le había visto, en la hierba de Necrolimbo, cuando le dijo que ella tampoco recordaba mucho de antes de morir.
 
-—*Gracias* —oyó Edda. No con los oídos.
+—_Gracias_ —oyó Edda. No con los oídos.
 
-* * *
+---
 
 Luego la llama se elevó.
 
@@ -528,11 +524,11 @@ Cuando por fin se levantó, la llama ya no estaba. El hueco en la roca estaba va
 
 Era una piedra. Pequeña, lisa, del color del ámbar. Translúcida. Y dentro, en el centro, brillaba algo. Una luz débil, cálida, que no se movía. Como una vela detrás de un papel.
 
-La sostuvo en la palma mucho tiempo.
+La sostuvo en la palma.
 
 No la guardó con las piedras de Arn. No la guardó en el bolsillo de dentro, que ya no tenía sitio. Se la guardó en el puño. Y la apretó. Y lloró por fin, sola en lo alto del mundo, con la capa gris de Melina sobre los hombros, como no había llorado desde que despertó muerta en una capilla al borde del mar.
 
-* * *
+---
 
 Mucho después, cuando bajó de la montaña, se dio cuenta de una cosa.
 

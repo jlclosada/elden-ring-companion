@@ -36,7 +36,7 @@ Ghur se quedó quieto en el último peldaño, con la boca abierta.
 
 El sacerdote que los recibió en la puerta del templo era el ser más viejo que Ghur había visto nunca.
 
-Se llamaba Hagath. Era un clérigo bestia de pelaje blanco, completamente ciego, con los ojos cubiertos por una película lechosa y el hocico tan arrugado que parecía de corteza. Iba vestido con una túnica gris raída y se apoyaba en un báculo de hueso. Olfateó a Ghur durante un largo rato, de arriba abajo, como se huele una fruta para ver si está madura.
+Se llamaba Hagath. Era un clérigo bestia de pelaje blanco, completamente ciego, con los ojos cubiertos por una película lechosa y el hocico tan arrugado que parecía de corteza. Iba vestido con una túnica gris raída y se apoyaba en un báculo de hueso. Olfateó a Ghur de arriba abajo, como se huele una fruta para ver si está madura.
 
 —Es pequeño —dijo.
 
@@ -94,7 +94,7 @@ Ghur no supo qué contestar. Se quedó mirando el ojo enorme, dorado, con una pu
 
 Hubo un silencio largo. Las otras cuatro cabezas se habían vuelto también hacia él, una tras otra, y lo miraban con algo que no era exactamente curiosidad. Luego, despacio, la cabeza de la cicatriz se retiró hacia arriba, y Placidusax desplegó las alas, y se dejó caer por el borde de la terraza hacia el vacío, y desapareció entre las nubes.
 
-Ghur recogió la escoba con las manos temblando. Cuando se lo contó a Hagath aquella noche, el viejo se quedó callado mucho rato.
+Ghur recogió la escoba con las manos temblando. Cuando se lo contó a Hagath aquella noche, el viejo dejó la cuchara en el cuenco.
 
 —Te ha hablado —dijo al fin.
 
@@ -118,7 +118,7 @@ No eran iguales. Nadie en el templo parecía haberse dado cuenta, pero no lo era
 
 —Las he visto. La de la izquierda duerme cuando la del centro habla. La de la derecha nunca deja de mirar el cielo. Y las de los lados se pelean.
 
-El viejo se quedó en silencio mucho tiempo.
+El viejo se rascó la barba.
 
 —No digas eso en voz alta —dijo al fin—. Los sacerdotes de la sala alta llevan siglos escribiendo que el Señor Dragón es uno. Si un acólito de nueve años dice que son cinco, alguien se enfadará. Y cuando un sacerdote se enfada, el que acaba barriendo los nueve mil peldaños de la escalera de fuera, bajo la lluvia, eres tú.
 
@@ -170,8 +170,6 @@ Le contaba cosas. Era lo que ella quería. Le contaba de las aldeas de los risco
 
 —¿Por qué te gusta tanto oír estas cosas, señora? —le preguntó una vez, cuando ya tenía catorce años y se atrevía a preguntar—. Son cosas pequeñas.
 
-La dragona tardó en contestar.
-
 —Porque yo nunca he tenido cosas pequeñas —dijo—. Nací aquí, en esta tormenta, hace más tiempo del que puedes imaginar. Nunca he bajado a las tierras de abajo. Nunca he tenido una madre que me ponga la mano en la cabeza. Mi madre era una montaña de piedra que no hablaba. —Miró el estanque—. Cuando tú me cuentas tus cosas, Ghur, es como si las tuviera yo también. Un poco.
 
 —¿Y él? ¿El Señor Dragón? ¿Tampoco te cuenta cosas?
@@ -192,13 +190,13 @@ Los Dedos vinieron a buscarla cuando Ghur tenía diecisiete años.
 
 Él estaba en el patio, con ella, la noche en que llegaron. Flotaron por encima del muro como hojas pálidas llevadas por el viento, largos, sin rostro, y se detuvieron sobre el estanque. Ghur nunca había visto nada igual. Se le erizó todo el pelaje del cuerpo. La dragona blanca levantó la cabeza despacio, y Ghur vio en sus ojos algo que no le había visto nunca: miedo.
 
-Los Dedos escribieron en el aire. Signos de luz que hacían daño a la vista, que se encendían y se apagaban como relámpagos pequeños. Ghur no sabía leer —no esa escritura, al menos—, pero la dragona sí. Los siguió con la mirada, uno a uno, durante mucho tiempo.
+Los Dedos escribieron en el aire. Signos de luz que hacían daño a la vista, que se encendían y se apagaban como relámpagos pequeños. Ghur no sabía leer —no esa escritura, al menos—, pero la dragona sí. Los siguió con la mirada, uno a uno.
 
 Cuando terminaron, los Dedos se marcharon por donde habían venido.
 
 La dragona se quedó inmóvil junto al estanque. Ghur no se atrevía a hablar.
 
-—Dicen que viene alguien —dijo ella al fin, muy bajo—. De muy lejos. De más allá de las estrellas. Dicen que viene a darle una forma al mundo, una ley, un orden. Y que para eso necesita un cuerpo donde vivir.
+—Dicen que viene alguien —dijo ella al fin—. De muy lejos. De más allá de las estrellas. Dicen que viene a darle una forma al mundo, una ley, un orden. Y que para eso necesita un cuerpo donde vivir.
 
 —¿Un cuerpo?
 
@@ -230,7 +228,7 @@ La estrella era dorada y venía despacio, como si quisiera ser vista. No cayó s
 
 Esa noche, Ghur no volvió a su celda.
 
-Subió a escondidas por las escaleras interiores de la torre mayor, las que solo usaban los sacerdotes de la sala alta, peldaño a peldaño, con el corazón golpeándole las costillas. No sabía por qué lo hacía. Solo sabía que la dragona blanca no estaba en su patio —había ido a buscarla y el musgo estaba vacío— y que algo le decía que estaría arriba.
+Subió a escondidas por las escaleras interiores de la torre mayor, las que solo usaban los sacerdotes de la sala alta, peldaño a peldaño, con el corazón golpeándole las costillas. Solo sabía que la dragona blanca no estaba en su patio —había ido a buscarla y el musgo estaba vacío— y que algo le decía que estaría arriba.
 
 Estaba. En la cámara más alta de la torre, una sala redonda abierta al cielo por todos los lados, Placidusax y la consorte estaban frente a frente. Ghur se escondió detrás de una columna, junto a la entrada, y contuvo la respiración.
 
@@ -262,7 +260,7 @@ Hubo un silencio larguísimo. Ghur, detrás de la columna, vio que las cinco cab
 
 —*Para un dragón, es lo mismo.*
 
-La consorte se quedó mirándolo durante mucho tiempo. Luego, despacio, apartó la cabeza.
+La consorte se quedó mirándolo. Luego, despacio, apartó la cabeza.
 
 —Hay un cachorro que barre la terraza —dijo—. Cada mañana lo miras. ¿Por qué?
 
@@ -354,7 +352,7 @@ Ghur sintió frío.
 
 —¿Y el Señor Dragón?
 
-—No puede venir. No quiere venir. Él es de aquí. De esta tormenta. —La diosa se volvió a mirarlo, y por un instante, solo un instante, Ghur creyó ver en sus ojos de oro un destello gris, como el agua de lluvia—. Me buscará. Lo sé. Lo conozco. Esperará hasta el fin del mundo si hace falta. Y no quiero eso para él.
+—No puede venir. No quiere venir. Él es de aquí. De esta tormenta. —La diosa se volvió a mirarlo, y por un instante, solo un instante, Ghur creyó ver en sus ojos de oro un destello gris, como el agua de lluvia—. Me buscará. Lo conozco. Esperará hasta el fin del mundo si hace falta. Y no quiero eso para él.
 
 —Entonces decídselo vos, señora.
 

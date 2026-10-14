@@ -1,8 +1,8 @@
-Millicent la estaba esperando en las ramas del Árbol Hálito.
+Millicent la estaba esperando en las ramas del Árbol Hierático.
 
 Para llegar hasta allí había que bajar al valle de la niebla, desde Ordina, por un camino que se hundía entre paredes de hielo, y luego subir. Subir por las raíces del árbol, que salían de la nieve como montañas retorcidas, cubiertas de corteza dorada manchada de rojo, resbaladizas por la escarcha y por algo más, algo húmedo y pegajoso que brotaba de las grietas y olía a miel podrida. Las hojas rojas caían todo el tiempo. Se pegaban a la ropa, al pelo, a la piel. Cuando Edda se quitaba una de la mejilla, dejaba una mancha escarlata que tardaba en irse.
 
-Melina se había quedado abajo, al pie de las raíces. *Aquí tampoco puedo entrar*, le había dicho, mirando el árbol podrido con una expresión que Edda no le había visto nunca. Como si le doliera algo. *Es de él. De Miquella. Hay algo en las raíces que me rechaza.*
+Melina se había quedado abajo, al pie de las raíces. _Aquí tampoco puedo entrar_, le había dicho, mirando el árbol podrido con una expresión que Edda no le había visto nunca. Como si le doliera algo. _Es de él. De Miquella. Hay algo en las raíces que me rechaza._
 
 Edda subió sola, con la serpiente roja enroscada en el cuello, quieta, inquieta.
 
@@ -22,11 +22,11 @@ Dorado. Articulado. Con unos dedos finos, largos, que se movían con un leve chi
 
 —Edda —dijo Millicent, y sonrió—. Sabía que vendrías. Lo soñé.
 
-* * *
+---
 
 Se sentaron juntas en la plataforma, con la espalda contra el tronco, mirando el valle helado allá abajo. Las hojas rojas caían a su alrededor. Millicent abría y cerraba los dedos de metal, despacio, como quien se acostumbra a algo nuevo.
 
-—La encontré en un pueblo de Caelid —dijo, al ver que Edda la miraba—. En el sur, cerca del mar. En una casa vieja, la de una herrera. Estaba en un baúl, envuelta en terciopelo. Había una nota. —Se le endureció la voz—. *Primer brazo de la princesa Malenia. Forjado con Orsa. No le valió cuando creció. Guardar por si acaso.*
+—La encontré en un pueblo de Caelid —dijo, al ver que Edda la miraba—. En el sur, cerca del mar. En una casa vieja, la de una herrera. Estaba en un baúl, envuelta en terciopelo. Había una nota. —Se le endureció la voz—. _Primer brazo de la princesa Malenia. Forjado con Orsa. No le valió cuando creció. Guardar por si acaso._
 
 Edda se quedó mirando el brazo dorado.
 
@@ -42,15 +42,15 @@ Millicent sonrió. Luego bajó la vista.
 
 —¿Por qué?
 
-Millicent tardó mucho en contestar.
+Millicent se miró la aguja del hombro.
 
 —Porque soy suya —dijo al fin—. Nací de su flor. En Aeonia. Cuando se abrió. —Se miró la mano de carne, la izquierda, cubierta de manchas rojas—. Gowry me encontró entre los pétalos siendo un bebé. Una de muchas. La flor nos soltó a todas, como semillas. A cientos. Pelirrojas, con los ojos dorados, con la podredumbre dentro. Casi todas murieron. Algunas no.
 
 —Y Gowry te crio.
 
-—Me crio para que floreciera. —Millicent apretó el puño de metal con un chirrido—. Como ella. Para que algún día, cuando fuera mayor, la podredumbre me saliera de dentro y me abriera como una flor, como se abrió ella en Aeonia. Y de mí naciera algo más. Algo que él estaba esperando. —Se le quebró la voz—. Por eso me curó. Por eso me dio la aguja. No para salvarme. Para que madurara despacio. Como se cuida una flor en un invernadero para que dé fruto cuando toca.
+—Me crio para que floreciera. —Millicent apretó el puño de metal con un chirrido—. Como ella. Para que algún día, cuando fuera mayor, la podredumbre me saliera de dentro y me abriera como una flor, como se abrió ella en Aeonia. Y de mí naciera algo más. Algo que él estaba esperando. Por eso me curó. Por eso me dio la aguja. No para salvarme. Para que madurara despacio. Como se cuida una flor en un invernadero para que dé fruto cuando toca.
 
-Edda pensó en el viejo amable del banco, con su infusión de raíz de cardo. En la cara de decepción cuando Millicent abrió los ojos. *No puede pedir nada, querida. No puede hablar.*
+Edda pensó en el viejo amable del banco, con su infusión de raíz de cardo. En la cara de decepción cuando Millicent abrió los ojos. _No puede pedir nada, querida. No puede hablar._
 
 —¿Lo sabías? Cuando te fuiste de la cabaña.
 
@@ -58,9 +58,9 @@ Edda pensó en el viejo amable del banco, con su infusión de raíz de cardo. En
 
 —¿Y qué hiciste?
 
-Millicent se quedó callada mucho tiempo.
+Millicent no contestó enseguida.
 
-—Lo maté —dijo al fin, muy bajo—. Con la espada que me diste tú. En el claro frente a la iglesia, donde me enseñaste a bailar. —Se miró la mano de carne—. No lo hice limpio. No supe hacerlo limpio. —Le tembló la voz—. Y cuando estaba en el suelo, me dijo: *Qué pena. Habrías sido tan hermosa.*
+—Lo maté —dijo al fin—. Con la espada que me diste tú. En el claro frente a la iglesia, donde me enseñaste a bailar. —Se miró la mano de carne—. No lo hice limpio. No supe hacerlo limpio. Le di once veces. Se arrastraba hacia el agua y yo lo seguía de rodillas, dándole. Y cuando por fin se quedó quieto en el suelo, me dijo: _Qué pena. Habrías sido tan hermosa._
 
 Edda no dijo nada. Le cogió la mano de carne. Estaba caliente, de fiebre.
 
@@ -68,19 +68,19 @@ Edda no dijo nada. Le cogió la mano de carne. Estaba caliente, de fiebre.
 
 —No lo sientas. —Millicent le apretó la mano—. Era mi decisión. La primera que tomé sola. —Se volvió hacia ella—. Me preguntaste antes de ponerme la aguja. ¿Te acuerdas? Me dijiste: si quieres que te la ponga, apriétame la mano. —Sonrió con tristeza—. Fue la primera vez que alguien me preguntó algo. Desde entonces pregunto. Le pregunté a Gowry. Y luego decidí.
 
-* * *
+---
 
 Subieron juntas por el árbol.
 
-El Árbol Hálito era un mundo en sí mismo. Ramas tan anchas como calles, que se alejaban del tronco y se dividían y se volvían a dividir, cubiertas de musgo dorado y de nieve. Troncos secundarios como torres, que brotaban de las ramas principales y subían hacia el cielo. Plataformas de madera tallada, con barandillas de raíces trenzadas, unidas entre sí por puentes colgantes que se balanceaban con el viento helado. Escaleras excavadas en la corteza. Casas. Casas pequeñas, de madera y piedra, encajadas en las bifurcaciones de las ramas como nidos de pájaro.
+El Árbol Hierático era un mundo en sí mismo. Ramas tan anchas como calles, que se alejaban del tronco y se dividían y se volvían a dividir, cubiertas de musgo dorado y de nieve. Troncos secundarios como torres, que brotaban de las ramas principales y subían hacia el cielo. Plataformas de madera tallada, con barandillas de raíces trenzadas, unidas entre sí por puentes colgantes que se balanceaban con el viento helado. Escaleras excavadas en la corteza. Casas. Casas pequeñas, de madera y piedra, encajadas en las bifurcaciones de las ramas como nidos de pájaro.
 
-Y en lo alto, entre las ramas más altas, una ciudad. Elphael, la llamaba Millicent. El Bastión del Árbol Hálito. Murallas de piedra blanca construidas sobre las ramas, torres, una catedral con una cúpula dorada que asomaba entre las hojas rojas.
+Y en lo alto, entre las ramas más altas, una ciudad. Elphael, la llamaba Millicent. El Bastión del Árbol Hierático. Murallas de piedra blanca construidas sobre las ramas, torres, una catedral con una cúpula dorada que asomaba entre las hojas rojas.
 
-—La fundó él —dijo Millicent, mirándola desde un puente—. Miquella. Para los que nadie quería. Los albinauricos. Los Malnacidos. Los Augurios que escapaban de las cloacas. Los podridos. Todos. —Se le quebró la voz—. Era un sitio bonito, dicen. Antes. Venían de todas partes, siguiendo sueños con nenúfares. Y él los acogía a todos.
+—La fundó él —dijo Millicent, mirándola desde un puente—. Miquella. Para los que nadie quería. Los albinauricos. Los Malnacidos. Los Augurios que escapaban de las cloacas. Los podridos. Todos. Era un sitio bonito, dicen. Antes. Venían de todas partes, siguiendo sueños con nenúfares. Y él los acogía a todos.
 
 —¿Y ahora?
 
-Millicent no contestó. No hacía falta.
+Millicent no contestó.
 
 Por todas partes había podredumbre. Las ramas estaban manchadas de rojo, con heridas abiertas en la corteza de las que manaba una savia espesa, escarlata, que caía gota a gota. Las hojas caían rojas. En los charcos de las plataformas burbujeaba un agua roja que olía a hierro y a flores. Y en las casas encajadas en las ramas, en los puentes, en las escaleras, había gente. O lo que quedaba de ella.
 
@@ -94,7 +94,7 @@ Edda mataba a los que tenía que matar. Millicent también. En silencio. A las c
 
 —No. —Millicent apretó el puño de metal—. No voy a quitármela.
 
-* * *
+---
 
 En una de las plataformas más altas, antes de llegar a las murallas de Elphael, Millicent se detuvo.
 
@@ -138,9 +138,9 @@ Se volvió hacia Edda.
 
 —Son cuatro.
 
-—Lo sé. —Millicent sonrió—. Pero tú me ayudaste en las dunas. Me empujaste fuera del camino de una estrella. —Corrigió—. No. Yo te empujé a ti. —Se rio, una risa breve—. Da igual. Ahora me toca a mí ayudarme sola.
+—Sé contar. —Millicent sonrió—. Pero tú me ayudaste en las dunas. Me empujaste fuera del camino de una estrella. —Corrigió—. No. Yo te empujé a ti. —Se rio, una risa breve—. Da igual. Ahora me toca a mí ayudarme sola.
 
-* * *
+---
 
 Edda no la dejó sola.
 
@@ -166,7 +166,7 @@ No atacó. Se quedó de pie, con la espada baja, mirando a Millicent. Tenía los
 
 —Podéis —dijo Millicent.
 
-—No. —La hermana negó con la cabeza—. Nadie nos preguntó nunca. A ti sí. Alguien te preguntó. —Miró a Edda—. Ella te preguntó. Con una aguja en la mano. Si querías. —Se le quebró la voz—. A nosotras nadie nos preguntó nada.
+—No. —La hermana negó con la cabeza—. Nadie nos preguntó nunca. A ti sí. Alguien te preguntó. —Miró a Edda—. Ella te preguntó. Con una aguja en la mano. Si querías. A nosotras nadie nos preguntó nada.
 
 Millicent bajó la espada.
 
@@ -174,7 +174,7 @@ Millicent bajó la espada.
 
 La hermana se quedó inmóvil. Las lágrimas le corrían por la cara roja, entre los pétalos.
 
-—No lo sé —dijo al fin, muy bajo—. Nunca lo he sabido. —Se miró los brazos—. Creo que… creo que quiero que deje de doler.
+—No lo sé —dijo al fin—. Nunca lo he sabido. —Se miró los brazos—. Creo que… creo que quiero que deje de doler.
 
 Millicent se acercó. Despacio. Se detuvo delante de ella, en el puente.
 
@@ -184,7 +184,7 @@ Y la abrazó. Con el brazo de carne y con el de metal. Fuerte. Como Fia abrazaba
 
 La hermana se quedó rígida. Luego, despacio, dejó caer la espada al abismo. Y apoyó la cabeza en el hombro de Millicent, en el que no tenía la aguja.
 
-Se quedaron así mucho tiempo, en el puente, con las hojas rojas cayendo a su alrededor.
+Se quedaron así en el puente, con las hojas rojas cayendo a su alrededor.
 
 Cuando Millicent la soltó, la hermana ya no respiraba. Tenía los ojos cerrados y una expresión tranquila. Los pétalos de sus brazos se habían cerrado.
 
@@ -192,7 +192,7 @@ Millicent la tumbó en el puente, con cuidado. Le cruzó las manos sobre el pech
 
 —No sé cómo se llamaba —dijo, sin levantar la vista—. No sé cómo se llamaba ninguna.
 
-* * *
+---
 
 Millicent cayó después.
 
@@ -220,7 +220,7 @@ Edda se arrodilló a su lado. Buscó la aguja por el suelo del puente, desespera
 
 Millicent la miró. Luego miró la aguja. Luego volvió a mirarla a ella. Negó con la cabeza, muy despacio.
 
-—No —dijo—. No sirve. Ya ha salido. Lo noto. —Se tocó el pecho—. Aquí dentro. Algo se ha soltado. Como cuando se rompe una cuerda. —Sonrió—. La aguja frenaba. No curaba. Lo decía el caballero de la fortaleza en su nota, ¿te acuerdas? *Solo frena. No cura.*
+—No —dijo—. No sirve. Ya ha salido. Lo noto. —Se tocó el pecho—. Aquí dentro. Algo se ha soltado. Como cuando se rompe una cuerda. —Sonrió—. La aguja frenaba. No curaba. Lo decía el caballero de la fortaleza en su nota, ¿te acuerdas? _Solo frena. No cura._
 
 —Millicent…
 
@@ -228,13 +228,11 @@ Millicent la miró. Luego miró la aguja. Luego volvió a mirarla a ella. Negó 
 
 —Te ayudaré a llegar.
 
-—No vas a poder. —Millicent la miró con los ojos dorados, que empezaban a cubrirse de una película roja, fina, como un velo—. Antes de llegar abajo ya habré florecido. Y no quiero que me veas florecer. —Se le quebró la voz—. No quiero que lo último que veas de mí sea una flor.
+—No vas a poder. —Millicent la miró con los ojos dorados, que empezaban a cubrirse de una película roja, fina, como un velo—. Antes de llegar abajo ya habré florecido. Y no quiero que me veas florecer. No quiero que lo último que veas de mí sea una flor.
 
 Edda no pudo contestar.
 
 —Escucha. —Millicent le apretó la mano con la de metal. Los dedos dorados se cerraron sobre los suyos con un chirrido—. Cuando la veas. Cuando estés delante de ella. No la odies. —Le temblaron los labios—. Ella no eligió ser lo que es. La podredumbre se la metió dentro un dios de fuera cuando todavía no había nacido. Igual que a mí. Igual que a mis hermanas. Ninguna de nosotras lo eligió.
-
-—Lo sé.
 
 —Pero yo sí elegí esto. —Millicent miró hacia arriba, hacia la copa del árbol, hacia el cielo gris entre las hojas rojas—. Morir aquí. Siendo yo. Con mi nombre. Con la mano de alguien que me preguntó si quería. —Se le escaparon las lágrimas—. No una flor. Yo.
 
@@ -244,15 +242,15 @@ Edda no pudo contestar.
 
 Cerró los ojos.
 
-* * *
+---
 
-Edda se quedó con ella mucho tiempo.
+Edda se quedó con ella hasta que oscureció.
 
 Sentada a su lado en el puente, con la mano de metal de Millicent en la suya, mirando cómo la podredumbre le subía por la cara, por la frente, por el pelo. Pero no floreció. Edda esperaba la flor. Esperaba que se abriera desde el pecho, como la de Aeonia, como la de los sueños. No se abrió. La podredumbre llegó hasta la frente y se detuvo. Y Millicent se quedó quieta, con los ojos cerrados y una sonrisa pequeña, como alguien que se ha dormido después de un día muy largo.
 
 No había florecido.
 
-Edda no supo por qué. Quizá porque no había querido. Quizá porque había muerto antes. Quizá porque, al final, había elegido.
+Quizá porque no había querido. Quizá porque había muerto antes. Quizá porque, al final, había elegido.
 
 Le quitó el brazo de metal dorado. Con cuidado. Desatando las correas de cuero una por una, despacio, como se desata a un niño dormido. Lo envolvió en su capa. Lo guardó con la aguja.
 
@@ -260,7 +258,7 @@ Luego le soltó la trenza roja. Le peinó el pelo con los dedos. Y la dejó all�
 
 Antes de irse, recogió del puente una hoja roja, caída junto a la mano de Millicent. No era una piedra. La guardó igual. En el bolsillo de dentro.
 
-* * *
+---
 
 En la entrada de las raíces, en lo más hondo del árbol, junto a un lago de agua roja, había un caballero.
 
@@ -278,11 +276,11 @@ Era vieja. Edda lo supo por la manera de estar sentada en el caballo, un poco en
 
 Se interrumpió. Se quedó mirando a Edda. A la capa. Al bolsillo de dentro.
 
-—Hueles a Caria —dijo, muy bajo.
+—Hueles a Caria —dijo.
 
 —Me llamo Edda.
 
-—Loretta. —La caballera bajó la alabarda, apenas—. Caballera real de Caria. Guardiana del Árbol Hálito. —Hizo una pausa—. Eso dicen. Ya no sé si soy caballera de algo.
+—Loretta. —La caballera bajó la alabarda, apenas—. Caballera real de Caria. Guardiana del Árbol Hierático. —Hizo una pausa—. Eso dicen. Ya no sé si soy caballera de algo.
 
 —Te he visto antes.
 
@@ -290,7 +288,7 @@ Loretta se quedó inmóvil.
 
 —¿Dónde?
 
-—En la Mansión de Caria. En el patio, al pie de la escalera de la torre. —Edda la miró—. Un eco tuyo. Guardaba la escalera. Repetía siempre lo mismo. *Nadie sube a la torre sin el permiso de la princesa. Juré defender esta casa hasta el final. Y el final no ha llegado.*
+—En la Mansión de Caria. En el patio, al pie de la escalera de la torre. —Edda la miró—. Un eco tuyo. Guardaba la escalera. Repetía siempre lo mismo. _Nadie sube a la torre sin el permiso de la princesa. Juré defender esta casa hasta el final. Y el final no ha llegado._
 
 La alabarda se le escapó de las manos. Cayó al agua roja de la orilla con un chapoteo.
 
@@ -300,17 +298,15 @@ Loretta no la recogió.
 
 —Siglos. Haciendo lo mismo. La misma ronda. Las mismas palabras.
 
-—Lo dejé allí cuando me fui. —Loretta se llevó una mano al yelmo, como si le doliera la cabeza—. Una parte de mí. Atada a las piedras de la mansión con un hechizo. Para que la casa no se quedara sin guardia. Para que la princesa… —Se le quebró la voz—. Para que la princesa no se quedara sola.
+—Lo dejé allí cuando me fui. —Loretta se llevó una mano al yelmo, como si le doliera la cabeza—. Una parte de mí. Atada a las piedras de la mansión con un hechizo. Para que la casa no se quedara sin guardia. Para que la princesa… —Carraspeó dentro del yelmo, furiosa consigo misma—. Para que la princesa no se quedara sola.
 
 —Tuve que vencerlo para subir a la torre.
 
 —¿Y antes de desaparecer…?
 
-Edda tardó en contestar.
-
 —Habló —dijo al fin—. No como un eco. Con otra voz. Más pequeña. Me pidió que le dijera a la princesa que lo sentía. Que se había ido.
 
-Loretta no dijo nada durante mucho tiempo. Se quedó inmóvil en su caballo espectral, con la mano en el yelmo, mirando el agua roja.
+Loretta se quedó inmóvil en su caballo espectral, con la mano en el yelmo, mirando el agua roja.
 
 —¿Se lo dijiste?
 
@@ -324,13 +320,13 @@ Edda pensó en la torre, en la muñeca de porcelana junto a la ventana, en la lu
 
 Loretta se quitó el yelmo.
 
-* * *
+---
 
 Debajo había una cara de mujer vieja, muy vieja, con el pelo blanco cortado a la altura de la mandíbula, la piel arrugada, curtida, y una cicatriz larga en la frente. Tenía los ojos grises, húmedos.
 
 —Jugaba con ellos en el jardín —dijo—. Con la princesa. Con el lobo y el troll. Cuando la reina no miraba, bajaba la escalinata y jugaba con ellos. Con espadas de madera. —Se le escapó una risa rota—. La princesa me ganaba siempre. Era muy pequeña y muy rápida y muy seria. Y luego se reía. Pocas veces. Pero cuando se reía…
 
-—Lo sé. La he oído.
+—La he oído.
 
 Loretta se quedó mirándola.
 
@@ -344,7 +340,7 @@ Loretta se tapó la boca con la mano.
 
 —En la Catedral de Manus Celes. Con el anillo de la luna oscura. Le temblaban las manos. —Edda la miró—. Me pidió que la acompañara. Como su consorte. Al final del camino.
 
-Loretta no dijo nada durante un largo rato. Las lágrimas le corrían por la cara arrugada, hasta la barbilla, y caían al agua roja del lago.
+Loretta no dijo nada. Las lágrimas le corrían por la cara arrugada, hasta la barbilla, y caían al agua roja del lago.
 
 —¿Y vas a ir?
 
@@ -354,7 +350,7 @@ Edda sacó la piedra azul del bolsillo de dentro. La sostuvo en la palma. La lun
 
 Era la primera vez que lo decía en voz alta.
 
-* * *
+---
 
 —Me fui por la Academia —dijo Loretta, después de un rato—. Cuando nos traicionaron. Cuando encerraron a la reina en su biblioteca y la mansión se quedó vacía y los herederos se fueron cada uno por su lado. Me quedé un tiempo. Guardando una casa sin nadie. —Se le endureció la cara—. Y un día me llegó un sueño. Con nenúfares. Un niño dorado que me decía que en el norte había un árbol para los que nadie quería. Que necesitaba caballeros. —Hizo una pausa—. Y vine. Dejé mi eco en la escalera y vine.
 
@@ -362,13 +358,13 @@ Era la primera vez que lo decía en voz alta.
 
 Loretta la miró sin entender. Luego frunció el ceño.
 
-—Por el sueño —dijo—. Por los nenúfares. —Se quedó callada—. No sé si era por el perfume. Nunca lo pensé así. —Se tocó el pecho—. Llevo siglos aquí. Protegiendo el árbol. Protegiendo a los albinauricos. Protegiéndola a ella, abajo, en las raíces. —Bajó la vista hacia el agua roja—. Y el árbol se pudre. Y los albinauricos se pudren. Y ella espera. Y yo la guardo.
+—Por el sueño —dijo—. Por los nenúfares. —Se detuvo—. No sé si era por el perfume. Nunca lo pensé así. —Se tocó el pecho—. Llevo siglos aquí. Protegiendo el árbol. Protegiendo a los albinauricos. Protegiéndola a ella, abajo, en las raíces. —Bajó la vista hacia el agua roja—. Y el árbol se pudre. Y los albinauricos se pudren. Y ella espera. Y yo la guardo.
 
 —El niño no va a volver.
 
 Loretta levantó la cabeza.
 
-—Lo sé —dijo—. Lo sentí. Hace unas semanas. Una luz que se apagaba en el cielo, muy lejos, al otro lado. —Se le quebró la voz—. Y ella también lo sintió. Abajo. La oí gritar. Desde aquí. Un grito que hizo temblar las raíces.
+—Lo sé —dijo—. Lo sentí. Hace unas semanas. Una luz que se apagaba en el cielo, muy lejos, al otro lado. Y ella también lo sintió. Abajo. La oí gritar. Desde aquí. Un grito que hizo temblar las raíces.
 
 —Tengo un mensaje para ella. De él.
 
@@ -378,19 +374,19 @@ Loretta se quedó inmóvil.
 
 —Antes de irse. Me lo dio para ella.
 
-Loretta se quedó mirándola mucho tiempo. Luego, despacio, bajó del caballo espectral. Recogió la alabarda del agua roja. Se quedó de pie en la orilla, entre Edda y la entrada de las raíces.
+Loretta se quedó mirándola. Luego, despacio, bajó del caballo espectral. Recogió la alabarda del agua roja. Se quedó de pie en la orilla, entre Edda y la entrada de las raíces.
 
 —Entonces tengo que dejarte pasar —dijo—. Y no puedo.
 
 —¿Por qué?
 
-—Porque juré guardarla. —Loretta levantó la alabarda—. Igual que juré guardar la mansión. Y la mansión la abandoné. —Se le quebró la voz—. No puedo abandonar esto también. No puedo dejar otro eco.
+—Porque juré guardarla. —Loretta levantó la alabarda—. Igual que juré guardar la mansión. Y la mansión la abandoné. No puedo abandonar esto también. No puedo dejar otro eco.
 
 Edda pensó en Rellana. En Niall. En Gaius. En Messmer. Todos guardando puertas que ya no hacía falta guardar.
 
 —Lo sé —dijo, y desenvainó.
 
-* * *
+---
 
 Lucharon junto al lago rojo.
 
@@ -402,7 +398,7 @@ Edda murió dos veces. A la tercera, encontró el ritmo. No era el mismo que el 
 
 Edda se metió por debajo.
 
-* * *
+---
 
 Loretta cayó de su caballo espectral. Se quedó tumbada de espaldas en la orilla del lago, con la alabarda a un lado, mirando las raíces del techo. El caballo espectral se deshizo en luz azul.
 
@@ -426,9 +422,9 @@ Loretta abrió los ojos.
 
 —¿Qué?
 
-Loretta se quedó callada mucho tiempo.
+Loretta tosió sangre dentro del yelmo.
 
-—Dile que el eco tenía razón —dijo al fin—. Que lo siento. Que me fui. —Le tembló la voz—. Y dile que me alegro de que haya recuperado las pecas. Las tenía de niña. En la nariz. Tres. Se las tapaba con polvo de luna para que su madre no las viera. —Sonrió—. Su madre decía que las princesas de Caria no tenían pecas.
+—Dile que el eco tenía razón —dijo al fin—. Que lo siento. Que me fui. Y dile que me alegro de que haya recuperado las pecas. Las tenía de niña. En la nariz. Tres. Se las tapaba con polvo de luna para que su madre no las viera. —Sonrió—. Su madre decía que las princesas de Caria no tenían pecas.
 
 Edda sintió que algo se le rompía dentro.
 

@@ -30,7 +30,7 @@ En una de las torres del ala oeste, Edda encontró la primera prueba de lo que l
 
 Era un comedor. Una sala larga y oscura, con una mesa de banquete en el centro y, colgados del techo con ganchos de carnicero, cuerpos. No cuerpos enteros: partes. Brazos, piernas, torsos, alineados como piezas de caza en una despensa. Algunos llevaban todavía restos de armadura. Algunos eran de Sinluz; tenían esa palidez cenicienta que Edda había visto en sus propias manos.
 
-Se quedó en la puerta mucho tiempo, sin entrar.
+Se quedó en la puerta, sin entrar.
 
 En la pared del fondo, sobre la chimenea apagada, había un tapiz. Era viejo, descolorido, comido por las polillas. Representaba a un hombre gigantesco de barba dorada, con un león sobre los hombros y un hacha en la mano, de pie sobre un campo de batalla lleno de enemigos caídos. Debajo, bordado en hilo de oro, había un nombre: *Godfrey, primer Señor de Elden*.
 
@@ -62,13 +62,13 @@ Edda forzó la cerradura con la punta de la espada. Tardó un rato. La niña la 
 
 —¿Y tu madre cómo te llamaba?
 
-La niña tardó mucho en contestar.
+La niña se miró el brazo que le habían cosido al hombro con hilo de oro. Era de un adulto, demasiado largo, y le colgaba hasta la rodilla. La costura supuraba.
 
-—Lis —dijo al fin, muy bajo—. Me llamaba Lis.
+—Lis —dijo al fin—. Me llamaba Lis.
 
 —Lis. —Edda le tendió la mano—. Ven conmigo, Lis. Te voy a llevar a un sitio donde hay una muchacha que se llama Roderika y que llora mucho, pero que es buena. Y te va a curar ese brazo.
 
-Lis miró la mano durante mucho tiempo. Luego, despacio, la cogió.
+Lis miró la mano. Luego, despacio, la cogió.
 
 Edda la sacó del castillo por la puertecita de Gostoc, en brazos, envuelta en su capa. Gostoc las vio pasar desde un rincón del pasillo. No dijo nada. Pero Edda notó cómo la seguían sus ojos saltones, y cómo calculaban algo.
 
@@ -106,9 +106,9 @@ Edda se sentó a su lado, en la almena, procurando no mirar abajo.
 
 —¿Y por qué te has cansado de vigilar?
 
-Nepheli tardó en contestar. Miró hacia el interior del castillo, hacia el gran salón donde se suponía que estaba Godrick.
+Nepheli miró hacia el interior del castillo, hacia el gran salón donde se suponía que estaba Godrick.
 
-—Porque he visto lo que hace —dijo al fin—. A los niños. Ayer vi cómo bajaba a una aldea y se llevaba a tres. Y me quedé aquí, en la almena, mirando. Porque mi padre me dijo que esperara. —Se le quebró la voz—. Y porque soy de la sangre de Godfrey. Muy lejana, muy diluida, pero suya. Y ese gusano se hace llamar el Dorado. Se viste con el león de mi antepasado. Mancha su nombre cada día que respira.
+—Porque he visto lo que hace —dijo al fin—. A los niños. Ayer vi cómo bajaba a una aldea y se llevaba a tres. Y me quedé aquí, en la almena, mirando. Porque mi padre me dijo que esperara. Y porque soy de la sangre de Godfrey. Muy lejana, muy diluida, pero suya. Y ese gusano se hace llamar el Dorado. Se viste con el león de mi antepasado. Mancha su nombre cada día que respira.
 
 Edda pensó en la niña de la celda. En el brazo cosido.
 
@@ -212,7 +212,7 @@ Se quedó de rodillas en el suelo del salón, rodeado de sus propios brazos, que
 
 —No… —balbuceó—. No puede ser… soy el señor de todo lo dorado… soy…
 
-Edda se acercó. No sabía por qué. Nepheli le gritó algo, que tuviera cuidado, que todavía podía golpear. Edda no le hizo caso. Se acercó hasta quedar a dos pasos del semidiós moribundo, y lo miró a la cara.
+Edda se acercó. Quería verle la cara al que le había cosido a una niña el brazo de un muerto. Nepheli le gritó algo, que tuviera cuidado, que todavía podía golpear. Edda no le hizo caso. Se acercó hasta quedar a dos pasos del semidiós moribundo, y lo miró a la cara.
 
 Era una cara pequeña, en mitad de aquella montaña de carne. Una cara de hombre de mediana edad, asustada, con los ojos llorosos. No había nada de terrible en ella. Solo miedo.
 
@@ -262,7 +262,7 @@ Antes de irse, Edda buscó entre los brazos caídos el que llevaba el brazalete 
 
 Buscó también, entre los brazos, los más pequeños. Los de niño. Contó once. Los envolvió en la capa de un soldado muerto, uno por uno, y los sacó del castillo en un fardo a la espalda, y los enterró junto al Paso del Portón, bajo un árbol, con sus propias manos.
 
-Cuando bajó al Paso del Portón y le dio el brazalete a Roderika, la muchacha lo miró durante mucho tiempo sin decir nada. Luego se lo puso en la muñeca, apretó los labios y se echó a llorar. Esta vez, no dejó de hacerlo hasta que se durmió.
+Cuando bajó al Paso del Portón y le dio el brazalete a Roderika, la muchacha lo miró sin decir nada. Luego se lo puso en la muñeca, apretó los labios y se echó a llorar. Esta vez, no dejó de hacerlo hasta que se durmió.
 
 Lis, la niña del brazo de más, se acurrucó junto a ella. Le acarició el pelo con la mano que era suya. Y se durmió también.
 
@@ -282,7 +282,7 @@ Esa noche, en la gracia del gran salón, Melina apareció con una expresión que
 
 —¿El qué?
 
-—Por qué hago lo que hago. —Melina levantó la vista—. Tengo una misión: llevar a alguien hasta la base del Árbol. Eso lo sé desde siempre. Pero no sé de dónde viene. Ni quién me la dio. Solo sé que una voz me habló hace mucho tiempo, antes de que tuviera cuerpo, y desde entonces la sigo. —Se le quebró la voz—. A veces pienso que fue ella. Mi madre. Que me dejó esta misión como única herencia. Y otras veces pienso que no fue nadie. Que me la inventé para tener algo.
+—Por qué hago lo que hago. —Melina levantó la vista—. Tengo una misión: llevar a alguien hasta la base del Árbol. Eso lo sé desde siempre. Pero no sé de dónde viene. Ni quién me la dio. Solo sé que una voz me habló antes de que tuviera cuerpo, y desde entonces la sigo. A veces pienso que fue ella. Mi madre. Que me dejó esta misión como única herencia. Y otras veces pienso que no fue nadie. Que me la inventé para tener algo.
 
 Edda la miró en silencio.
 

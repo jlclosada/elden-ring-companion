@@ -16,7 +16,7 @@ No había ciudad todavía. Eso era lo que Hargen recordaría siempre, cuando ya 
 
 Y entonces llegaron los novios.
 
-* * *
+---
 
 Ella llegó primero, sola, caminando.
 
@@ -42,7 +42,7 @@ Desmontó de un salto. La armadura crujió. Se quitó el yelmo, se lo lanzó a u
 
 Cuando pasó por delante de la segunda fila, se detuvo.
 
-Hargen no supo nunca por qué lo eligió a él. Quizá porque era el más verde. Quizá por azar. Pero Godfrey se paró justo delante, lo miró de arriba abajo, y sonrió.
+Hargen nunca entendió por qué lo eligió a él. Quizá porque era el más verde. Quizá por azar. Pero Godfrey se paró justo delante, lo miró de arriba abajo, y sonrió.
 
 —¿Cuántos años tienes, crío?
 
@@ -66,7 +66,7 @@ Corwen le dio un codazo.
 
 —Ya lo sé —repitió Hargen, y descubrió que ya no tenía ganas de vomitar.
 
-* * *
+---
 
 No hubo sacerdotes. Todavía no los había.
 
@@ -84,7 +84,7 @@ La multitud se rio. Marika también, por primera vez.
 
 —Entonces di lo que te acuerdes —dijo ella.
 
-Godfrey se quedó callado un instante. Luego se arrodilló. La armadura crujió, el león se despertó y protestó con un gruñido, y el Señor de Elden quedó de rodillas en la hierba, a la altura de los ojos de ella.
+Godfrey se arrodilló. La armadura crujió, el león se despertó y protestó con un gruñido, y el Señor de Elden quedó de rodillas en la hierba, a la altura de los ojos de ella.
 
 —Me acuerdo de que en la arena de Belurat yo era un animal —dijo, y su voz había cambiado, ya no reía—. Comía, mataba, dormía. No sabía hacer otra cosa. Y viniste tú, descalza, más pequeña que mi brazo, y me tumbaste en la arena, y me miraste como nadie me había mirado nunca. No como a una bestia. Como a alguien que podía ser algo más. —Le tomó las manos—. No sé si lo soy, Marika. No sé si sabré ser rey. Pero te juro que lo intentaré mientras tú me mires así. Y que si un día dejas de mirarme así, me iré sin hacer ruido. Eso es lo que me acuerdo. No es tan bonito como lo de Ordovis.
 
@@ -96,7 +96,7 @@ Y así se casaron. Sin sacerdotes, sin anillos, sin cantos. Una muchacha descalz
 
 Hargen aplaudió hasta que le dolieron las manos dentro de los guanteletes. Corwen lloraba. Y en el borde de la explanada, apartado de todos, de pie junto a un montón de piedras cortadas, Maliketh miraba a su hermana con los ojos amarillos muy quietos. No aplaudía. No se movía. Hargen no supo leer aquella expresión. Años después, cuando ya había visto muchas cosas, comprendió que era la cara de alguien que se alegra por otro y que, a la vez, acaba de perder algo.
 
-* * *
+---
 
 Aquella noche no durmieron.
 
@@ -122,15 +122,15 @@ El peto cayó al suelo con un estruendo. Godfrey suspiró como un hombre que sal
 
 Godfrey se dejó caer en el lecho de pieles, sobre la espalda, con los brazos abiertos. Serosh, que dormía en un rincón de la tienda, abrió un ojo, decidió que no pasaba nada importante, y volvió a cerrarlo.
 
-—Rey —repitió el gigante, mirando el techo de lona—. Hace tres años estaba encadenado en una celda bajo una arena, comiendo ratas. Ahora soy rey. —Volvió la cabeza hacia ella—. ¿Por qué yo, Marika? De verdad. No me digas lo de la arena. Había otros luchadores en Belurat. Había campeones de los Cornudos con cuernos más grandes que mi cabeza. ¿Por qué me elegiste a mí?
+—Rey —repitió el gigante, mirando el techo de lona—. Hace tres años estaba encadenado en una celda bajo una arena, comiendo ratas. Ahora soy rey. —Volvió la cabeza hacia ella—. ¿Por qué yo, Marika? De verdad. No me digas lo de la arena. Había otros luchadores en Belurat. Había campeones de los Cornamentados con cuernos más grandes que mi cabeza. ¿Por qué me elegiste a mí?
 
-Marika se sentó a su lado. Se quedó callada mucho tiempo, mirando el brasero.
+Marika se sentó a su lado, mirando el brasero.
 
 —Porque eras el único que no tenía dios —dijo al fin.
 
 —¿Qué?
 
-—En Belurat todos tenían dios. Los Cornudos adoraban al Crisol. Los esclavos rezaban a los espíritus de sus aldeas. Los guardias, a sus antepasados. Todos se arrodillaban ante algo. Tú no. —Ella le apartó el pelo de la frente—. Luchabas porque te gustaba luchar. Comías porque tenías hambre. Reías porque algo te hacía gracia. No le debías nada a nadie. Ni al cielo, ni a la tierra, ni a los Dedos.
+—En Belurat todos tenían dios. Los Cornamentados adoraban al Crisol. Los esclavos rezaban a los espíritus de sus aldeas. Los guardias, a sus antepasados. Todos se arrodillaban ante algo. Tú no. —Ella le apartó el pelo de la frente—. Luchabas porque te gustaba luchar. Comías porque tenías hambre. Reías porque algo te hacía gracia. No le debías nada a nadie. Ni al cielo, ni a la tierra, ni a los Dedos.
 
 —Eso no es una virtud. Es ser un salvaje.
 
@@ -140,7 +140,7 @@ Godfrey la miró largo rato.
 
 —Me pusiste un león encima para que no fuera tan salvaje —dijo despacio.
 
-—Lo sé.
+—Sí.
 
 —Eso es un poco contradictorio, mujer.
 
@@ -148,13 +148,13 @@ Marika se rio. Fue una risa pequeña, sorprendida, como la de alguien que no est
 
 —Lo sé —repitió—. Quiero las dos cosas. Quiero que seas libre y quiero que te quedes. Quiero que seas un salvaje y quiero que seas un rey. —Se tumbó a su lado, con la cabeza en su pecho—. Soy una diosa. Nadie dijo que los dioses tuvieran que tener sentido.
 
-* * *
+---
 
 Hablaron hasta el amanecer.
 
-Él le contó de dónde venía. De las tierras más allá de las montañas del oeste, donde no había reyes ni árboles de oro, solo tribus que se mataban por un pozo o por un rebaño. De su padre, un caudillo de barba roja al que había matado en un duelo a los catorce años, porque esa era la costumbre. De su madre, de la que no recordaba nada salvo una canción. Del día en que los cazadores de esclavos de Belurat lo capturaron, borracho, después de una batalla, y lo llevaron encadenado a la tierra de los Cornudos.
+Él le contó de dónde venía. De las tierras más allá de las montañas del oeste, donde no había reyes ni árboles de oro, solo tribus que se mataban por un pozo o por un rebaño. De su padre, un caudillo de barba roja al que había matado en un duelo a los catorce años, porque esa era la costumbre. De su madre, de la que no recordaba nada salvo una canción. Del día en que los cazadores de esclavos de Belurat lo capturaron, borracho, después de una batalla, y lo llevaron encadenado a la tierra de los Cornamentados.
 
-—Me pasé tres años en aquella celda —dijo—. Tres años luchando en la arena para que los Cornudos apostaran. Y te diré algo, Marika: no fueron malos años. Comía. Luchaba. Ganaba. No tenía que pensar en nada.
+—Me pasé tres años en aquella celda —dijo—. Tres años luchando en la arena para que los Cornamentados apostaran. Y te diré algo, Marika: no fueron malos años. Comía. Luchaba. Ganaba. No tenía que pensar en nada.
 
 —¿Los echas de menos?
 
@@ -162,9 +162,9 @@ Godfrey lo pensó.
 
 —A veces —admitió—. Cuando me hacen ponerme esa armadura.
 
-Ella le contó de su aldea. Del valle alto, de las casas de madera viva que las chamanas cultivaban como árboles, de su madre, que le había enseñado a hablar con las raíces. De la mañana de primavera en que vinieron los Cornudos de la torre y se llevaron a todas las mujeres de la aldea. De las tinajas. Le contó que se había salvado porque estaba en el bosque, escondida entre los helechos, y que había visto cómo su madre se volvía hacia ella antes de entrar en la tinaja y le sonreía. Y que un muchacho con los cuernos pequeños la había visto también, y la había dejado vivir.
+Ella le contó de su aldea. Del valle alto, de las casas de madera viva que las chamanas cultivaban como árboles, de su madre, que le había enseñado a hablar con las raíces. De la mañana de primavera en que vinieron los Cornamentados de la torre y se llevaron a todas las mujeres de la aldea. De las tinajas. Le contó que se había salvado porque estaba en el bosque, escondida entre los helechos, y que había visto cómo su madre se volvía hacia ella antes de entrar en la tinaja y le sonreía. Y que un muchacho con los cuernos pequeños la había visto también, y la había dejado vivir.
 
-Godfrey no dijo nada durante mucho tiempo.
+Godfrey no dijo nada.
 
 —¿Por eso fuiste a Belurat? —preguntó al fin—. ¿A vengarte?
 
@@ -176,11 +176,11 @@ Godfrey no dijo nada durante mucho tiempo.
 
 —Porque eres la persona más terca que he conocido —dijo Godfrey—. Y he conocido a muchos tercos. La mayoría están muertos. Por mi mano.
 
-Marika se rio otra vez. Luego se quedó callada, y Godfrey la sintió temblar contra su pecho, muy levemente. La abrazó. No dijo nada. No hacía falta.
+Marika se rio otra vez. Luego Godfrey la sintió temblar contra su pecho, muy levemente. La abrazó. No dijo nada.
 
 Fuera, el campamento se había quedado dormido. Solo una figura seguía despierta, sentada en lo alto de un montón de piedras cortadas, a cien pasos de la tienda, con los ojos amarillos fijos en las lonas de lino iluminadas desde dentro por el brasero. Maliketh no se movió en toda la noche. Cuando salió el sol, se levantó, se sacudió el rocío del pelaje, y fue a buscar algo de comer.
 
-* * *
+---
 
 La primera piedra de Leyndell la puso Godfrey, y la puso mal.
 
@@ -192,11 +192,11 @@ El maestro de obras era un hombre bajito y calvo, de las colinas del sur, que se
 
 —Señora…
 
-—Esta ciudad será un refugio. Quiero que cualquiera pueda llegar. Los peregrinos, los huérfanos, los que huyen de sus aldeas. Si levantamos murallas, nos encerramos. Y si nos encerramos, nos volveremos como los Cornudos, que se encerraron en su torre y se creyeron mejores que todos los demás.
+—Esta ciudad será un refugio. Quiero que cualquiera pueda llegar. Los peregrinos, los huérfanos, los que huyen de sus aldeas. Si levantamos murallas, nos encerramos. Y si nos encerramos, nos volveremos como los Cornamentados, que se encerraron en su torre y se creyeron mejores que todos los demás.
 
 Ulric se pasó la mano por la calva.
 
-—Con todo respeto, señora, los Cornudos se encerraron en su torre y nadie pudo entrar a matarlos. Hasta que entrasteis vos.
+—Con todo respeto, señora, los Cornamentados se encerraron en su torre y nadie pudo entrar a matarlos. Hasta que entrasteis vos.
 
 Godfrey, que estaba sentado en un tocón junto a la mesa comiéndose una manzana, soltó una carcajada.
 
@@ -232,13 +232,13 @@ Ulric lo miró. Luego miró al Señor de Elden. Luego volvió a mirar la piedra.
 
 La piedra sigue allí. En la base de la muralla oriental de Leyndell, junto a la gran puerta, hay un bloque de granito ligeramente torcido que no encaja con los demás. Los guías de la capital se lo enseñan a los peregrinos. Lo llaman la Piedra del Rey.
 
-* * *
+---
 
 El primer día de audiencias fue un desastre.
 
 Marika había insistido. Un rey no solo hace la guerra, le había dicho: también escucha. Así que una mañana de otoño, Godfrey se sentó en un trono de madera bajo un toldo, junto a las obras de lo que sería la gran plaza, y los habitantes del campamento fueron pasando uno a uno para contarle sus problemas.
 
-Un carpintero se quejaba de que un albañil le había robado una sierra. Una viuda pedía una pensión porque su marido había muerto en la guerra de los gigantes. Dos pastores discutían por un prado. Un anciano quería saber si los albinaurios —aquellos seres pálidos nacidos de lágrimas artificiales, que habían empezado a aparecer en las aldeas— tenían alma o no, porque su nieta se había encariñado de uno.
+Un carpintero se quejaba de que un albañil le había robado una sierra. Una viuda pedía una pensión porque su marido había muerto en la guerra de los gigantes. Dos pastores discutían por un prado. Un anciano quería saber si los albinaúricos —aquellos seres pálidos nacidos de lágrimas artificiales, que habían empezado a aparecer en las aldeas— tenían alma o no, porque su nieta se había encariñado de uno.
 
 Godfrey los escuchó a todos. Al principio con atención. Luego con paciencia. Luego con la mirada perdida en las nubes y la barbilla apoyada en el puño, y Marika, sentada a su lado en otra silla, tuvo que darle un codazo dos veces para que no se durmiera.
 
@@ -296,7 +296,7 @@ Godfrey se encogió de hombros.
 
 Marika se rio tanto que tuvo que taparse la cara con las manos.
 
-* * *
+---
 
 Maliketh y Godfrey se pelearon por primera vez en el patio de armas, una mañana de invierno, y fue Godfrey quien lo provocó.
 
@@ -340,15 +340,13 @@ Godfrey se rio otra vez, y le dolieron las costillas.
 
 —¿Me odias? —preguntó.
 
-Maliketh tardó en contestar.
-
 —No —dijo al fin—. Te envidio un poco. Pero no te odio.
 
 —¿Envidiarme? ¿A mí? ¿Por qué?
 
 —Porque ella te eligió. —La bestia seguía mirando el cielo—. A mí me hicieron para ella. No es lo mismo.
 
-Godfrey se quedó callado mucho tiempo.
+Godfrey gruñó.
 
 —Te diré una cosa, perro —dijo al fin—. Yo soy su espada. Tú eres su sombra. Y ninguno de los dos es su corazón. Su corazón es suyo, y no se lo va a dar a nadie, ni a ti ni a mí. Lo sé desde la noche de bodas. —Se incorporó sobre un codo y lo miró—. Así que deja de mirarme como si te hubiera robado algo. No te he robado nada. Los dos estamos aquí para lo mismo: para que nadie le haga daño. Y para eso, mejor ser dos que uno.
 
@@ -364,7 +362,7 @@ La bestia miró la mano durante un largo momento. Luego la tomó.
 
 Desde la muralla, Hargen vio a los dos levantarse de la arena, cojeando, apoyados el uno en el otro, y salir juntos del patio. No volvieron a pelearse nunca. No se hicieron amigos, exactamente. Pero a partir de aquel día, cuando se cruzaban en un pasillo, Godfrey le daba un golpe en el hombro a la bestia, y la bestia gruñía, y los soldados que habían apostado dinero a que se matarían tuvieron que pagar.
 
-* * *
+---
 
 Godfrey se marchó en primavera.
 
@@ -392,7 +390,7 @@ Marika se quedó en la puerta hasta que el último soldado desapareció por el c
 
 —Volverá —dijo la bestia.
 
-—Lo sé.
+—Ya.
 
 —Hueles a miedo, hermana.
 

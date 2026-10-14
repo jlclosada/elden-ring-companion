@@ -16,7 +16,7 @@ Edda se detuvo.
 
 —Llevas el león de los Melenarroja.
 
-El caballero tardó en contestar. El jabalí resopló debajo de él, impaciente.
+El caballero soltó una carcajada que le salió torcida. El jabalí resopló debajo de él, impaciente.
 
 —Lo llevé —dijo al fin—. Hace mucho. Antes de esto. —Bajó un poco la espada—. ¿Conoces a los Melenarroja?
 
@@ -34,19 +34,17 @@ Edda pensó en las dunas rojas. En el gigante cayendo del cielo como una estrell
 
 —Lo maté —dijo.
 
-* * *
+---
 
 Gaius no se movió.
 
 Se quedó sentado en su jabalí, con el yelmo en la mano, mirándola. Los ojos rosados se le llenaron de lágrimas despacio, sin que cambiara nada más en su cara. Las lágrimas le bajaron por las mejillas pálidas y se le perdieron en la barba blanca.
 
-—¿Cómo? —preguntó, muy bajo.
+—¿Cómo? —preguntó.
 
 —En las dunas. En un festival que organizó Jerren para darle una muerte digna. —Edda hizo una pausa—. Cayó del cielo como una estrella. Se quedó de rodillas en el cráter, junto a su caballo muerto. Tocó el caballo. Y lloró.
 
 —Leonard —dijo Gaius—. El caballo se llamaba Leonard.
-
-—Lo sé.
 
 —Le enseñé yo a montar en él. —Gaius se pasó la mano por la cara, por la barba—. Bueno. Le enseñé a no caerse. Montar ya sabía. —Se le escapó una risa rota—. Y luego, cuando creció y el caballo ya no podía con él, se fue a Sellia a estudiar la gravedad para no tener que cambiarlo. Con mi maestro. El mismo que me enseñó a mí.
 
@@ -56,7 +54,7 @@ Se quedó sentado en su jabalí, con el yelmo en la mano, mirándola. Los ojos r
 
 —Estaba. Le puso la mano en la frente. Radahn lo reconoció. Dijo su nombre antes de morir.
 
-Gaius abrió los ojos. Se quedó mirando a Edda durante mucho tiempo.
+Gaius abrió los ojos. Se quedó mirando a Edda.
 
 —Dijo su nombre —repitió.
 
@@ -70,11 +68,11 @@ Se quedaron un rato en silencio. Bruto resopló y escarbó el suelo con una pezu
 
 —¿A quién guardabas?
 
-—A él. —Gaius miró hacia el oeste, más allá del Torreón, hacia el Árbol Umbrío—. O lo que va a ser de él. —Hizo una pausa—. Hace mucho, antes de Aeonia, el niño dorado le prometió algo. Miquella. Le prometió que, cuando fuera dios, Radahn sería su consorte. Que se sentaría a su lado. Que su alma subiría con él. —Le tembló la voz—. Para eso tenía que morir primero. Su cuerpo, al menos. Y ahora ha muerto. —Se volvió hacia ella—. Así que el niño vendrá a buscar su alma. O ya la ha buscado. Y yo vine aquí, al otro lado, a guardar el camino del niño. Por si acaso. Por si alguien quería impedirlo.
+—A él. —Gaius miró hacia el oeste, más allá del Torreón, hacia el Árbol Umbrío—. O lo que va a ser de él. —Hizo una pausa—. Hace mucho, antes de Aeonia, el niño dorado le prometió algo. Miquella. Le prometió que, cuando fuera dios, Radahn sería su consorte. Que se sentaría a su lado. Que su alma subiría con él. Para eso tenía que morir primero. Su cuerpo, al menos. Y ahora ha muerto. —Se volvió hacia ella—. Así que el niño vendrá a buscar su alma. O ya la ha buscado. Y yo vine aquí, al otro lado, a guardar el camino del niño. Por si acaso. Por si alguien quería impedirlo.
 
 —¿Por qué?
 
-—Porque Radahn lo quería. —Gaius se encogió de hombros, y la armadura crujió—. Quería ser su consorte. Me lo dijo. La víspera de Aeonia, junto a la hoguera. Me dijo que era lo único que había querido de verdad desde que era niño: que alguien lo eligiera. No por su fuerza. No por su gravedad. Que alguien lo eligiera a él. —Se le quebró la voz—. Y si eso era lo que quería, yo iba a guardar el camino. Hasta el final.
+—Porque Radahn lo quería. —Gaius se encogió de hombros, y la armadura crujió—. Quería ser su consorte. Me lo dijo. La víspera de Aeonia, junto a la hoguera. Me dijo que era lo único que había querido de verdad desde que era niño: que alguien lo eligiera. No por su fuerza. No por su gravedad. Que alguien lo eligiera a él. Y si eso era lo que quería, yo iba a guardar el camino. Hasta el final.
 
 Se volvió a poner el yelmo, despacio.
 
@@ -84,7 +82,7 @@ Levantó la espada.
 
 —Lo siento, Sinluz —dijo—. Me caes bien. Mataste a mi hermano limpio, y le dejaste decir el nombre del viejo. —El jabalí bajó la cabeza y apuntó los colmillos hacia ella—. Pero un juramento es un juramento.
 
-* * *
+---
 
 Gaius cargó con su jabalí como una avalancha.
 
@@ -106,7 +104,7 @@ La copia de plata salió a su lado. Gaius la vio y soltó una carcajada enorme, 
 
 —¡Dos! —gritó—. ¡Ahora sois dos! ¡Así me gusta! ¡Bruto, tenemos trabajo!
 
-Lucharon mucho tiempo. Cuando por fin cayó, de su jabalí y de su vida, Gaius lo hizo despacio, como cae un árbol muy grande: primero de rodillas en el polvo, luego de lado, con la espada todavía en la mano. Bruto se quedó de pie junto a él, resoplando, empujándolo con el hocico, como si quisiera que se levantara.
+Lucharon hasta que el jabalí cojeaba de tres patas y Edda no sentía el brazo del escudo. Cuando por fin cayó, de su jabalí y de su vida, Gaius lo hizo despacio, como cae un árbol muy grande: primero de rodillas en el polvo, luego de lado, con la espada todavía en la mano. Bruto se quedó de pie junto a él, resoplando, empujándolo con el hocico, como si quisiera que se levantara.
 
 Edda se arrodilló a su lado. Le quitó el yelmo.
 
@@ -132,13 +130,11 @@ Gaius abrió los ojos.
 
 El albinaurio se quedó mirándola. Luego se echó a reír. Una risa enorme, rota, que se convirtió en tos y luego en lágrimas.
 
-—¡Por la mano! —dijo—. ¡Se enamoró por la mano que le di yo! —Se le escapaban las lágrimas—. Nunca me lo dijo. Siglos detrás de él, como su sombra, y nunca me lo dijo. —Se quedó callado—. Bueno. Él tampoco se lo dijo a ella. Eran así los dos.
+—¡Por la mano! —dijo—. ¡Se enamoró por la mano que le di yo! —Se le escapaban las lágrimas—. Nunca me lo dijo. Siglos detrás de él, como su sombra, y nunca me lo dijo. —Resopló, como su jabalí—. Bueno. Él tampoco se lo dijo a ella. Eran así los dos.
 
 —¿Qué querías decirme de él?
 
-Gaius tardó en contestar.
-
-—Que se ría —dijo al fin—. Si puedes. Antes del final. Radahn le enseñó a reírse cuando era pequeño. Le dijo: «Cuando quemes algo, ríete, y la gente pensará que lo has hecho a propósito». —Le tembló la voz—. Hace siglos que no se ríe. Desde que su madre lo mandó aquí. Desde lo de Belurat.
+—Que se ría —dijo al fin—. Si puedes. Antes del final. Radahn le enseñó a reírse cuando era pequeño. Le dijo: «Cuando quemes algo, ríete, y la gente pensará que lo has hecho a propósito». Y el crío se reía, y le salía fatal, como un graznido. Hace siglos que no se ríe. Desde que su madre lo mandó aquí. Desde lo de Belurat.
 
 —Lo intentaré.
 
@@ -150,7 +146,7 @@ Bruto le empujó la cara con el hocico. Una vez. Dos. Luego se tumbó a su lado,
 
 Edda se quedó un rato con ellos. No tenía manzanas. Le dejó al jabalí el último trozo de pan que le quedaba, junto al hocico. Bruto no lo tocó.
 
-* * *
+---
 
 El Torreón de la Sombra era una fortaleza de piedra negra, inmensa, construida sobre una colina en el centro de la Tierra de las Sombras.
 
@@ -164,23 +160,23 @@ Esperaba soldados. Caballeros negros y dorados, como en Castillo Ensis. Serpient
 
 Pero sobre todo encontró libros.
 
-* * *
+---
 
 Libros. Miles de ellos.
 
-El Torreón estaba lleno de bibliotecas. Salas enteras, de suelo a techo, con estanterías de madera negra que subían hasta perderse en la penumbra y escaleras de mano para llegar a lo más alto. Libros en la lengua de los Cornudos, en la lengua de las Tierras Intermedias, en lenguas que Edda no conocía. Rollos de pergamino atados con cintas. Tablillas de barro. Mapas. Cuadernos escritos a mano, con letra fina, apretada.
+El Torreón estaba lleno de bibliotecas. Salas enteras, de suelo a techo, con estanterías de madera negra que subían hasta perderse en la penumbra y escaleras de mano para llegar a lo más alto. Libros en la lengua de los Cornamentados, en la lengua de las Tierras Intermedias, en lenguas que Edda no conocía. Rollos de pergamino atados con cintas. Tablillas de barro. Mapas. Cuadernos escritos a mano, con letra fina, apretada.
 
 En una de las bibliotecas, sobre una mesa, había un cuaderno abierto con la tinta todavía fresca. Edda se acercó. La letra era firme, cuidada, de alguien que había aprendido a escribir con un tutor paciente. Estaba en su lengua.
 
-*Día ciento doce mil cuatrocientos ochenta y tres desde la quema de Belurat. Hoy he catalogado la colección de cerámica funeraria del templo del sur. Treinta y dos piezas. Siete enteras. He dibujado los motivos de las que estaban rotas para poder reconstruirlas. Los Cornudos ponían espirales en las tinajas de los niños. Tres hojas en las de las madres. No sabía eso.*
+_Día ciento doce mil cuatrocientos ochenta y tres desde la quema de Belurat. Hoy he catalogado la colección de cerámica funeraria del templo del sur. Treinta y dos piezas. Siete enteras. He dibujado los motivos de las que estaban rotas para poder reconstruirlas. Los Cornamentados ponían espirales en las tinajas de los niños. Tres hojas en las de las madres. No sabía eso._
 
-*Nadie me ha enseñado nunca qué significaban. Lo he aprendido mirándolas.*
+_Nadie me ha enseñado nunca qué significaban. Lo he aprendido mirándolas._
 
-Edda pasó las páginas hacia atrás. Todas eran iguales. Una entrada por día. Catálogos. Inventarios. Dibujos de objetos rotos con anotaciones al margen. Una lista de nombres de Cornudos, con una pregunta al lado de cada uno: *¿Quién era?* Una página entera con la misma pregunta escrita muchas veces, cada vez con una letra distinta, como si alguien hubiera intentado escribirla de todas las maneras posibles para ver si así encontraba la respuesta: *¿Cómo se llamaba?*
+Edda pasó las páginas hacia atrás. Todas eran iguales. Una entrada por día. Catálogos. Inventarios. Dibujos de objetos rotos con anotaciones al margen. Una lista de nombres de Cornamentados, con una pregunta al lado de cada uno: _¿Quién era?_ Una página entera con la misma pregunta escrita muchas veces, cada vez con una letra distinta, como si alguien hubiera intentado escribirla de todas las maneras posibles para ver si así encontraba la respuesta: _¿Cómo se llamaba?_
 
 Edda cerró el cuaderno. Le temblaban las manos.
 
-* * *
+---
 
 El Almacén de Especímenes ocupaba el ala oeste del Torreón.
 
@@ -188,7 +184,7 @@ Era una serie de salas enormes, de techos altísimos, conectadas por arcos, con 
 
 Cuerpos. Partes de cuerpos. Criaturas extrañas, deformes, conservadas en líquidos amarillentos que brillaban débilmente a la luz de las antorchas. Fetos con cuernos. Manos con demasiados dedos. Cabezas de animales que no existían. Un ojo enorme, del tamaño de una cabeza, flotando solo en un frasco. Era una colección, organizada con un cuidado meticuloso, con una etiqueta en cada tinaja escrita con la misma letra fina del cuaderno de la biblioteca.
 
-—Los Cornudos hacían esto —dijo una voz a su espalda.
+—Los Cornamentados hacían esto —dijo una voz a su espalda.
 
 Era Ansbach. El viejo caballero de Mohg había llegado al Torreón por otro camino y la esperaba en la entrada del almacén, apoyado en su espada, con la barba blanca trenzada sobre el pecho.
 
@@ -198,33 +194,31 @@ Era Ansbach. El viejo caballero de Mohg había llegado al Torreón por otro cami
 
 —Messmer guardó la colección. —Ansbach miró las estanterías con una expresión extraña—. No la destruyó, como le habría ordenado su madre. La conservó. La amplió. La catalogó, pieza por pieza, durante siglos. —Señaló una etiqueta con la barbilla—. Esa letra es la suya.
 
-Edda se acercó a una tinaja. La etiqueta decía, en su lengua: *Mano de chamana. Valle del oeste. Origen: tinaja de carne n.º 412, plaza alta de Belurat. Edad aproximada: más que el Árbol. Nombre: desconocido. Se ruega a quien lo sepa que lo escriba aquí.*
+Edda se acercó a una tinaja. La etiqueta decía, en su lengua: _Mano de chamana. Valle del oeste. Origen: tinaja de carne n.º 412, plaza alta de Belurat. Edad aproximada: más que el Árbol. Nombre: desconocido. Se ruega a quien lo sepa que lo escriba aquí._
 
 Debajo, en blanco, había espacio para escribir.
 
 —¿Por qué? —preguntó Edda—. ¿Por qué guardarlo todo?
 
-Ansbach tardó en contestar.
-
 —Quizá para entender lo que su madre había querido destruir —dijo—. Quizá para entender a su madre. —Hizo una pausa—. Quizá porque es lo único que le quedaba. Una tierra que nadie recuerda, y él, recordándola. Cada día. Una pieza cada día.
 
-Edda pensó en Eyra, en Nokron, escribiendo en un libro de plata que no pasaba nada. *Pero he estado aquí.*
+Edda pensó en Eyra, en Nokron, escribiendo en un libro de plata que no pasaba nada. _Pero he estado aquí._
 
-* * *
+---
 
 Caminaron juntos entre las estanterías, en silencio. Al fondo de la última sala, en una tinaja de cristal más grande que las demás, había una muchacha.
 
 Era una niña, de nueve o diez años, con cuernos pequeños, apenas dos bultos, que le brotaban de la frente, de piel grisácea, encogida sobre sí misma en el líquido amarillento, con las rodillas contra el pecho y los ojos cerrados. Parecía dormida. Tenía el pelo largo, negro, flotando a su alrededor como algas.
 
-La etiqueta estaba escrita dos veces. Una en la lengua de los Cornudos. Otra, debajo, en la de Edda, con la letra de Messmer:
+La etiqueta estaba escrita dos veces. Una en la lengua de los Cornamentados. Otra, debajo, en la de Edda, con la letra de Messmer:
 
-*Niña Cornuda. Hallada en las ruinas del templo de la plaza del toro de Belurat, tras el tercer incendio, con flores quemadas en las manos. No estaba muerta cuando la encontré. Murió en mis brazos. No he podido devolvérsela a nadie. No sé su nombre. He preguntado a todos los cautivos. Nadie la conocía, o nadie quiere decírmelo.*
+_Niña Cornuda. Hallada en las ruinas del templo de la plaza del toro de Belurat, tras el tercer incendio, con flores quemadas en las manos. No estaba muerta cuando la encontré. Murió en mis brazos. No he podido devolvérsela a nadie. No sé su nombre. He preguntado a todos los cautivos. Nadie la conocía, o nadie quiere decírmelo._
 
-*La conservo para que alguien, algún día, venga a buscarla.*
+_La conservo para que alguien, algún día, venga a buscarla._
 
 Edda se quedó paralizada delante de la tinaja.
 
-*Mi hermana estaba en uno de ellos*, había dicho Hornen en la iglesia de la llanura. *En un templo. Tenía nueve años. Había ido a llevar flores a la tinaja de nuestra abuela.*
+_Mi hermana estaba en uno de ellos_, había dicho Hornen en la iglesia de la llanura. _En un templo. Tenía nueve años. Había ido a llevar flores a la tinaja de nuestra abuela._
 
 Nueve años. Flores quemadas en las manos. El templo de la plaza del toro. El tercer incendio, el mismo en que Moore guardaba la puerta baja y un niño de catorce años se escondía en un pozo.
 
@@ -234,13 +228,13 @@ Edda puso la mano en el cristal de la tinaja. Estaba frío.
 
 Ansbach la miró sin entender. Luego miró la etiqueta.
 
-—*Para que alguien, algún día, venga a buscarla* —leyó en voz alta. Se quedó callado mucho tiempo—. Iré a buscarla yo.
+—_Para que alguien, algún día, venga a buscarla_ —leyó en voz alta. Dobló la etiqueta en cuatro y se la guardó en el guante—. Iré a buscarla yo.
 
-* * *
+---
 
 En la sala más profunda del almacén, Ansbach se detuvo ante un sarcófago.
 
-Era grande, de piedra negra, con la tapa cubierta de grabados de serpientes enroscadas. No tenía etiqueta. Ansbach lo miró durante mucho tiempo. Luego, con un esfuerzo enorme, apoyando el hombro, empujó la tapa.
+Era grande, de piedra negra, con la tapa cubierta de grabados de serpientes enroscadas. No tenía etiqueta. Luego, con un esfuerzo enorme, apoyando el hombro, empujó la tapa.
 
 Dentro no había nada. Solo marcas en el fondo de piedra: el contorno de un cuerpo enorme, con cuernos, que había estado tumbado allí hasta hacía poco. Y manchas de sangre seca, negra y roja.
 
@@ -260,51 +254,51 @@ Edda pensó en Mohg llevándose la mano a la cabeza. En la cara de niño que des
 
 —No lo sé. —Ansbach cerró el sarcófago, despacio—. Pero lo sabré. —Se volvió hacia ella—. Ya no sé si sirvo a Miquella. Ya no sé si alguna vez lo hice, o si fue el perfume. Creo que lo que hizo con mi señor, lo que le hizo creer, lo que le hizo sentir… —Negó con la cabeza—. Creo que lo usó. Como usa a todos. Como a Radahn, al que prometió un trono a cambio de morir. Como a Leda, que no se aparta nunca. —Hizo una pausa—. Como intentará usarte a ti.
 
-* * *
+---
 
 En una sala pequeña, junto a la escalera principal que subía hacia lo alto del Torreón, Edda encontró una caja.
 
-Estaba sobre una mesa, sola. Era de madera oscura, sencilla, con una cerradura de hierro sin llave. Ansel le había hablado de ella en el puente de Castillo Ensis. *Le escribe cartas. Las guarda en una caja en el Torreón. Nunca las envía.*
+Estaba sobre una mesa, sola. Era de madera oscura, sencilla, con una cerradura de hierro sin llave. Ansel le había hablado de ella en el puente de Castillo Ensis. _Le escribe cartas. Las guarda en una caja en el Torreón. Nunca las envía._
 
 La abrió.
 
 Estaba llena de cartas. Cientos. Dobladas en cuatro, apiladas con cuidado, atadas en paquetes con cintas rojas. Todas con la misma letra firme, cuidada, del cuaderno de la biblioteca. Todas con el mismo encabezamiento.
 
-*Madre.*
+_Madre._
 
 Edda cogió la de arriba. La más reciente. La tinta todavía no había amarilleado.
 
-*Madre. Hoy ha llegado una forastera del otro lado. La han visto los centinelas del río. Ha vencido a Rellana. Rellana está muerta.*
+_Madre. Hoy ha llegado una forastera del otro lado. La han visto los centinelas del río. Ha vencido a Rellana. Rellana está muerta._
 
-*No sé por qué te cuento esto. No vas a leerlo. Nunca has leído ninguna. No sé siquiera si sigues viva, ni dónde estás, ni si te acuerdas de que existo.*
+_No sé por qué te cuento esto. No vas a leerlo. Nunca has leído ninguna. No sé siquiera si sigues viva, ni dónde estás, ni si te acuerdas de que existo._
 
-*Pero Rellana ha muerto, y no tengo a nadie más a quien decírselo.*
+_Pero Rellana ha muerto, y no tengo a nadie más a quien decírselo._
 
-*Me siguió siglos. Nunca le dije nada. Ni una palabra. Pensé que había tiempo. Siempre pensé que había tiempo. Es lo que pasa cuando uno vive tanto: piensa que siempre hay tiempo para las cosas que no se atreve a decir.*
+_Me siguió siglos. Nunca le dije nada. Ni una palabra. Pensé que había tiempo. Siempre pensé que había tiempo. Es lo que pasa cuando uno vive tanto: piensa que siempre hay tiempo para las cosas que no se atreve a decir._
 
-*La serpiente que le di sigue viva. La he encontrado esta mañana en la puerta del Torreón. Ha volado desde Ensis sola. Se ha enroscado en mi brazo y no quiere soltarse.*
+_La serpiente que le di sigue viva. La he encontrado esta mañana en la puerta del Torreón. Ha volado desde Ensis sola. Se ha enroscado en mi brazo y no quiere soltarse._
 
-*Mañana vendrá la forastera. Lo sé. Viene a matarme. No voy a huir. Tú me enseñaste a no huir.*
+_Mañana vendrá la forastera. Viene a matarme. No voy a huir. Tú me enseñaste a no huir._
 
-*Si alguna vez lees esto, Madre: lo hice todo por ti. La quema. La guardia. Los siglos. Todo. Y sé que no te importa. Pero lo hice.*
+_Si alguna vez lees esto, Madre: lo hice todo por ti. La quema. La guardia. Los siglos. Todo. Y sé que no te importa. Pero lo hice._
 
-*Tu hijo, el que arde.*
+_Tu hijo, el que arde._
 
-*Messmer.*
+_Messmer._
 
 Edda leyó la carta dos veces. Luego la dobló por las mismas marcas, despacio, y la volvió a poner en la caja, encima de las demás.
 
-Se quedó mucho tiempo mirando la caja abierta.
+Se quedó mirando la caja abierta.
 
 Luego la cerró. Y se la guardó bajo el brazo. Junto al libro de Ansel.
 
-Pensó en la voz de la tinaja roja: *¿Sabes dónde está mi niña?* Pensó en que llevaba encima un brote que era la madre de Marika. Y ahora, cientos de cartas de su hijo.
+Pensó en la voz de la tinaja roja: _¿Sabes dónde está mi niña?_ Pensó en que llevaba encima un brote que era la madre de Marika. Y ahora, cientos de cartas de su hijo.
 
-*No sé si llegaré*, había dicho al brote, en la iglesia. *Pero te lo prometí.*
+_No sé si llegaré_, había dicho al brote, en la iglesia. _Pero te lo prometí._
 
 Ahora había más gente esperando a que llegara.
 
-* * *
+---
 
 Esa noche no subió. Acampó en la biblioteca del cuaderno, junto a la mesa, con la caja de cartas a un lado y el libro de Ansel al otro. Ansbach se había ido ya hacia la llanura, a buscar a Yalda.
 
@@ -318,9 +312,7 @@ La lágrima la miró.
 
 La lágrima no se movió.
 
-—Y quemó niños —siguió Edda—. Muchos. La hermana de Hornen. La nieta de Yalda. A todos.
-
-Se quedó callada mucho tiempo.
+—Y quemó niños —siguió Edda—. Muchos. La hermana de Hornen. La nieta de Yalda. A todos. Isa tenía las uñas negras de arañar el cristal por dentro.
 
 —No sé qué hacer con eso —dijo al fin—. Con las dos cosas. No sé cómo se lleva eso.
 
@@ -328,4 +320,4 @@ La lágrima de plata alargó la mano, despacio, y la puso sobre la de Edda. Era 
 
 Luego, con la otra mano, señaló la bolsa del cinturón. Las piedras de Arn. Y después el bolsillo de dentro de la capa. Y después la bolsa del cuello, con el brote. Y después la caja de cartas.
 
-Como diciendo: *así. Se lleva así. Todo a la vez.*
+Como diciendo: _así. Se lleva así. Todo a la vez._

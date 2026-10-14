@@ -6,7 +6,7 @@ Cuando volvió al campamento, todos la miraron. Nadie dijo nada. Por la tarde, e
 
 —Siéntate —le dijo, señalando la piel de oso junto al fuego.
 
-Aspa se sentó. Orla se sentó frente a ella, despacio, con un crujido de rodillas. Durante un rato largo ninguna de las dos habló. Afuera se oía a los niños jugando, a los perros, el viento en las tiendas.
+Aspa se sentó. Orla se sentó frente a ella, despacio, con un crujido de rodillas. Ninguna de las dos habló. Afuera se oía a los niños jugando, a los perros, el viento en las tiendas.
 
 —Hace tres inviernos nos salvaste a todos —dijo Orla al fin—. Volviste de aquella cueva con un draco a rastras y la boca quemada, y esa noche comimos por primera vez en un mes. Enseñaste a los cazadores. Hoy tenemos carne, pieles, fuego. Ningún niño ha muerto de hambre desde entonces. Eso no lo olvidaremos nunca.
 
@@ -14,7 +14,7 @@ Aspa se sentó. Orla se sentó frente a ella, despacio, con un crujido de rodill
 
 —Pero. —La vieja suspiró—. Mírate, niña.
 
-Aspa no se miró. No hacía falta.
+Aspa no se miró. Sabía lo que iba a ver.
 
 —Los ojos se te han vuelto rojos —siguió Orla—. Te salen escamas. Por las noches hablas en sueños en una lengua que nadie entiende, una lengua de gruñidos. El otro día, Bran te vio comerte un ciervo crudo, entero, con los huesos. Los niños tienen miedo. Las madres no los dejan acercarse a tu tienda.
 
@@ -26,9 +26,9 @@ Aspa miró el fuego. Las llamas le hacían cosquillas en los ojos rojos; ya no l
 
 —¿Qué ha decidido el consejo? —preguntó.
 
-Orla tardó mucho en contestar.
+Orla escupió en las brasas.
 
-—Que te vayas —dijo al fin—. Antes de que cambies del todo. Antes de que un día te despiertes y no te acuerdes de quiénes somos, y nos mires como miras a los ciervos. —Se le quebró la voz—. Lo siento, niña. Lo he discutido toda la tarde. Les he dicho que nos salvaste. Que te debemos la vida. Pero tienen miedo, y el miedo es más fuerte que la gratitud. Siempre lo es.
+—Que te vayas —dijo al fin—. Antes de que cambies del todo. Antes de que un día te despiertes y no te acuerdes de quiénes somos, y nos mires como miras a los ciervos. Antes de que te comas a uno de los críos. Lo siento, niña. Lo he discutido toda la tarde. Les he dicho que nos salvaste. Que te debemos la vida. Pero tienen miedo, y el miedo es más fuerte que la gratitud. Siempre lo es.
 
 Aspa no lloró. Hacía dos años que no lloraba; descubrió que los ojos rojos no tenían lágrimas.
 
@@ -94,9 +94,9 @@ Aspa miró el lago verde.
 
 —¿Qué es el crisol?
 
-El viejo se quedó callado un rato. Luego cogió un puñado de tierra de la orilla y lo dejó caer entre los dedos.
+El viejo cogió un puñado de tierra de la orilla y lo dejó caer entre los dedos.
 
-—Hace mucho tiempo, antes de los dragones, antes de los hombres, antes de todo —dijo—, la vida no tenía forma. Era una sola cosa. Una sola masa, enorme, que lo cubría todo, que respiraba y crecía y se mezclaba consigo misma. No había peces ni pájaros ni hombres: había vida, a secas. El crisol. Luego, poco a poco, la vida se fue separando en formas. Peces aquí, pájaros allá, hombres más allá. Cada cosa con su cuerpo, su nombre, su sitio. —Señaló el lago—. Pero en algunos lugares, la separación no terminó. El crisol sigue vivo. Sigue mezclándolo todo. Y quien vive cerca, como yo, acaba tocado por él. Cuernos. Plumas. Escamas.
+—Antes de los dragones, antes de los hombres, antes de todo —dijo—, la vida no tenía forma. Era una sola cosa. Una sola masa, enorme, que lo cubría todo, que respiraba y crecía y se mezclaba consigo misma. No había peces ni pájaros ni hombres: había vida, a secas. El crisol. Luego, poco a poco, la vida se fue separando en formas. Peces aquí, pájaros allá, hombres más allá. Cada cosa con su cuerpo, su nombre, su sitio. —Señaló el lago—. Pero en algunos lugares, la separación no terminó. El crisol sigue vivo. Sigue mezclándolo todo. Y quien vive cerca, como yo, acaba tocado por él. Cuernos. Plumas. Escamas.
 
 —¿Por eso hay ciervos con dos cabezas?
 
@@ -104,7 +104,7 @@ El viejo se quedó callado un rato. Luego cogió un puñado de tierra de la oril
 
 —¿Y la luz del oeste? —Aspa se inclinó hacia delante—. Los viajeros dicen que hay una luz dorada en el suelo, al otro lado del mundo. Que allí puede curarse cualquier cosa.
 
-El viejo la miró durante mucho tiempo. Algo cambió en su cara.
+Algo cambió en la cara del viejo.
 
 —La luz del oeste no cura —dijo al fin—. Ordena.
 
@@ -116,11 +116,9 @@ El viejo la miró durante mucho tiempo. Algo cambió en su cara.
 
 —No lo sé, muchacha. —El viejo se encogió de hombros—. Las cosas ordenadas son más fáciles de entender. Más fáciles de gobernar. Pero hay algo que se pierde cuando todo tiene un nombre y un sitio. —Señaló el lago—. Esa criatura que viste anoche no tiene nombre. No tiene forma. Y sin embargo es lo más vivo que hay en cien leguas a la redonda. Cuando el orden llegue hasta aquí, morirá. Y nadie la echará de menos, porque nadie sabrá que existió.
 
-Aspa se quedó callada mucho tiempo.
+—Yo también me estoy convirtiendo en algo sin nombre —dijo Aspa.
 
-—Yo también me estoy convirtiendo en algo sin nombre —dijo al fin.
-
-—Lo sé. —El viejo le puso una mano en el hombro escamoso—. Por eso no vayas al oeste, muchacha. Allí no te curarán. Te pondrán un nombre. Te dirán qué eres y dónde debes estar. Y si no encajas en ningún sitio, te encerrarán donde nadie te vea.
+—Ya lo veo. —El viejo le puso una mano en el hombro escamoso—. Por eso no vayas al oeste, muchacha. Allí no te curarán. Te pondrán un nombre. Te dirán qué eres y dónde debes estar. Y si no encajas en ningún sitio, te encerrarán donde nadie te vea.
 
 —¿Entonces adónde voy?
 
@@ -176,7 +174,7 @@ Estaban lejos, muy lejos, en una ladera al otro lado de un valle helado. Eran tr
 
 Los gigantes no la vieron. Siguieron caminando hacia el humo.
 
-Aspa se quedó de pie en la nieve, mirándolos alejarse. Luego siguió subiendo. No hacia los gigantes; hacia arriba, hacia las cumbres más altas, donde según Eldur vivían los hombres que miraban las estrellas. No sabía por qué. Quizá porque estaban más cerca del cielo. Quizá porque quería que, si se detenía, fuera en un sitio desde donde se vieran las estrellas.
+Aspa se quedó de pie en la nieve, mirándolos alejarse. Luego siguió subiendo. No hacia los gigantes; hacia arriba, hacia las cumbres más altas, donde según Eldur vivían los hombres que miraban las estrellas. Quizá porque estaban más cerca del cielo. Quizá porque quería que, si se detenía, fuera en un sitio desde donde se vieran las estrellas.
 
 Al vigésimo día se detuvo.
 
@@ -200,7 +198,7 @@ Iven la arrastró hasta la cabaña de piedra que los astrólogos tenían en la c
 
 —¿Qué eres? —preguntó Iven, cuando ella dejó de temblar.
 
-La mujer escamosa tardó en contestar.
+La mujer escamosa se miró las uñas negras, largas como garfios.
 
 —Era una cazadora —dijo al fin—. De una tribu del este. Me comí los corazones de los dracos para que mi gente no se muriera de hambre. Y me fui convirtiendo en ellos. —Lo miró con sus ojos rojos—. Ahora no sé lo que soy.
 
@@ -219,8 +217,6 @@ Iven sonrió. Era la primera vez en meses que alguien le preguntaba eso con inte
 —¿Y qué dice?
 
 —No lo sabemos todavía. —El muchacho miró hacia el ventanuco de la cabaña, por el que se veía un trozo de cielo negro lleno de estrellas—. Pero últimamente dice cosas raras. Las estrellas se mueven de una forma que no se había visto nunca. Algunas caen. Otras se apagan. El viejo Tarm dice que alguien ha empezado a escribir en el cielo con otra mano. Que hay una voluntad nueva, lejana, que quiere decir algo distinto.
-
-Aspa se quedó callada mucho tiempo.
 
 —Yo vengo del este —dijo al fin—. De donde está la tormenta. Mi gente cuenta que una vez llegó una estrella dorada, y que de ella bajó una bestia de luz, y que la bestia entró en una dragona, y que la dragona se fue al oeste. —Cerró los ojos—. Un viejo con cuernos me dijo que la luz del oeste está esperando a alguien. Que algún día entrará en otra persona, y que esa persona será diosa, y que entonces todo tendrá un nombre y un sitio, y las cosas como yo ya no existirán.
 
@@ -242,7 +238,7 @@ Iven lo anotó todo en un pergamino, con una letra pequeña y apretada, a la luz
 
 —Porque eres la primera persona que veo que viene de donde vienes tú —dijo él—. Y la primera que ha visto el crisol. Y la primera que ha comido dragón. —Dejó la pluma—. Los astrólogos leemos el destino en las estrellas, Aspa. Pero a veces pienso que el destino también se escribe aquí abajo, en las personas. En lo que les pasa. Y que si nadie lo escribe, se pierde.
 
-Aspa lo miró durante un largo rato.
+Aspa lo miró.
 
 —Eres raro —dijo.
 
@@ -262,7 +258,7 @@ La tumbó en la nieve. Se tumbó a su lado. Y se quedaron los dos mirando las es
 
 —No lo sabemos. Quizá mañana. Quizá dentro de mil años.
 
-Aspa la miró durante mucho tiempo. Luego metió la mano escamosa en el hatillo y sacó algo. La piedra de colores que le había dado el niño de su tribu al marcharse.
+Aspa la miró. Luego metió la mano escamosa en el hatillo y sacó algo. La piedra de colores que le había dado el niño de su tribu al marcharse.
 
 —Toma —dijo, poniéndosela en la mano—. Para que no te olvides.
 
@@ -288,7 +284,7 @@ Murió antes del amanecer, con los ojos cerrados y la cara vuelta hacia el cielo
 
 Bajó al monasterio de los astrólogos aquella tarde y le contó al viejo Tarm todo lo que había pasado. Le enseñó el pergamino. Le habló del crisol, de la luz del oeste, de la diosa que la luz esperaba.
 
-Tarm escuchó en silencio, con los ojos cerrados. Cuando Iven terminó, el viejo astrólogo se quedó callado mucho tiempo.
+Tarm escuchó en silencio, con los ojos cerrados. Cuando Iven terminó, el viejo astrólogo tardó en abrir los ojos.
 
 —La estrella roja —dijo al fin—. La que te mandé a buscar. ¿Cayó?
 

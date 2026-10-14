@@ -1,12 +1,12 @@
 La escalera que subía a lo alto del Torreón tenía mil doscientos peldaños.
 
-Edda los contó. No pudo evitarlo. Había empezado a contarlos sin darse cuenta, como había contado los eslabones de la cadena del ascensor del Ainsel, y cuando llevaba trescientos ya no pudo parar. La escalera subía en espiral por el interior de la torre más alta, estrecha, de piedra negra, sin ventanas, iluminada solo por antorchas que alguien seguía encendiendo cada día. En cada rellano había una puerta. Edda abrió algunas. Detrás había más bibliotecas, más estanterías, más libros. En una había un catre estrecho, deshecho, y una mesa con un cuenco vacío y una vela consumida. En otra, un taller de dibujo, con láminas clavadas en las paredes: dibujos a tinta de tinajas rotas, de templos, de caras de Cornudos, hechos con una mano firme y cuidadosa, con el nombre escrito debajo de cada una cuando se conocía, y un signo de interrogación cuando no.
+Edda los contó. No pudo evitarlo. Había empezado a contarlos sin darse cuenta, como había contado los eslabones de la cadena del ascensor del Ainsel, y cuando llevaba trescientos ya no pudo parar. La escalera subía en espiral por el interior de la torre más alta, estrecha, de piedra negra, sin ventanas, iluminada solo por antorchas que alguien seguía encendiendo cada día. En cada rellano había una puerta. Edda abrió algunas. Detrás había más bibliotecas, más estanterías, más libros. En una había un catre estrecho, deshecho, y una mesa con un cuenco vacío y una vela consumida. En otra, un taller de dibujo, con láminas clavadas en las paredes: dibujos a tinta de tinajas rotas, de templos, de caras de Cornamentados, hechos con una mano firme y cuidadosa, con el nombre escrito debajo de cada una cuando se conocía, y un signo de interrogación cuando no.
 
 Había muchos signos de interrogación.
 
 En el peldaño mil ciento cincuenta, la escalera se abrió de pronto a una sala circular. Y la sala se abrió al cielo.
 
-* * *
+---
 
 Era la cima de la torre. Una plataforma redonda de piedra negra, sin techo, rodeada de un parapeto bajo, abierta por todos lados al cielo plateado de la Tierra de las Sombras. Desde allí se veía todo: la llanura de las cruces al sur, Castillo Ensis en su acantilado, el pico de Bayle en el este con su columna de humo, el valle de las flores moradas, las montañas, los ríos. Y al oeste, enorme, ocupando medio cielo, el Árbol Umbrío, gris, desnudo, con su muralla de espinas negras en la base.
 
@@ -30,7 +30,7 @@ Edda se detuvo.
 
 —Yo también los cuento. —El hombre seguía de espaldas—. Cada vez que subo. Desde hace siglos. Mil doscientos. Nunca uno más ni uno menos. —Hizo una pausa—. Es tranquilizador. Que haya cosas que no cambian.
 
-* * *
+---
 
 Se volvió despacio.
 
@@ -58,17 +58,15 @@ Edda no dijo nada.
 
 —¿Por qué has subido? —preguntó Messmer—. No hay runa aquí que necesites. No hay trono. No hay nada. Solo un hombre que guarda una tierra que nadie recuerda.
 
-Edda tardó en contestar.
-
 —Porque Rellana me pidió que no te dejara morir solo —dijo al fin.
 
-* * *
+---
 
 Messmer se quedó completamente inmóvil.
 
 El viento le movía la capa roja y la coleta. La serpiente de su brazo levantó la cabeza. La llama de su ojo izquierdo se agitó, creció, se encogió.
 
-—¿Eso te dijo? —preguntó, muy bajo.
+—¿Eso te dijo? —preguntó.
 
 —Antes de morir. Me lo hizo prometer.
 
@@ -100,13 +98,13 @@ Fue un movimiento pequeño. Apenas un paso atrás, apoyándose en la lanza. Pero
 
 —Isa.
 
-—Llevo siglos preguntando. —Messmer cerró el ojo bueno. La llama siguió brillando detrás del párpado, como una brasa—. A todos los cautivos. A los herreros. A los que se escondían en las ruinas. Nadie me lo quiso decir. —Se le quebró la voz—. Lo escribí en un cuaderno. Muchas veces. *¿Cómo se llamaba?*
+—Llevo siglos preguntando. —Messmer cerró el ojo bueno. La llama siguió brillando detrás del párpado, como una brasa—. A todos los cautivos. A los herreros. A los que se escondían en las ruinas. Nadie me lo quiso decir. Lo escribí en un cuaderno. Muchas veces. _¿Cómo se llamaba?_
 
 —Lo he visto.
 
-—Isa. —Messmer abrió el ojo—. Nueve años. —Se quedó callado mucho tiempo—. No la quemé yo. Bueno. Sí. Yo di la orden. Yo encendí la primera antorcha en la plaza. Pero la llama… la llama se me escapó. Del ojo. Como siempre. Y prendió el templo antes de que pudiera… —Se detuvo—. No importa. Es lo mismo. Fui yo.
+—Isa. —Messmer abrió el ojo—. Nueve años. —La llama del ojo se encogió hasta casi apagarse—. No la quemé yo. Bueno. Sí. Yo di la orden. Yo encendí la primera antorcha en la plaza. Pero la llama… la llama se me escapó. Del ojo. Como siempre. Y prendió el templo antes de que pudiera… —Se detuvo—. No importa. Es lo mismo. Fui yo.
 
-* * *
+---
 
 Se quedaron un rato en silencio, en lo alto de la torre, con el viento entre los dos.
 
@@ -130,19 +128,19 @@ Messmer no dijo nada.
 
 —No las ha leído nunca. —Messmer apretó la lanza—. Ni una. En siglos. No me ha llamado nunca. Ni cuando rompió el Anillo, que lo sentí desde aquí, como se siente un terremoto. Pensé: ahora me llamará. Ahora me necesitará. Ahora se acordará de que tiene un hijo que arde, guardando la tierra que ella quiso borrar. —Se le endureció la voz—. No me llamó.
 
-—Lo sé.
+—Ya.
 
-—Ella nunca me amó. —Messmer lo dijo muy bajo—. Me tuvo, me usó, me arrancó un ojo, me abandonó. Como a todos sus hijos. Como a Godwyn, al que dejó morir. Como a los gemelos de las cloacas. Como a Malenia y a Miquella, a los que dejó pudrirse y no crecer. —Le temblaba la voz—. Pero yo cumplí mi deber. Siempre. Y lo seguiré cumpliendo. Hasta el final.
+—Ella nunca me amó. —Messmer lo dijo como quien lee un parte de bajas—. Me tuvo, me usó, me arrancó un ojo, me abandonó. Como a todos sus hijos. Como a Godwyn, al que dejó morir. Como a los gemelos de las cloacas. Como a Malenia y a Miquella, a los que dejó pudrirse y no crecer. —Le temblaba la voz—. Pero yo cumplí mi deber. Siempre. Y lo seguiré cumpliendo. Hasta el final.
 
 Levantó la lanza. La punta dorada brilló con la luz plateada.
 
 —Por eso no voy a dejar que pases —dijo—. Aunque no haya nada que pasar. Aunque no haya nada que guardar. Es lo único que sé hacer.
 
-Edda pensó en Rellana. *Si te dejara pasar, sería como decirle que he dejado de esperar.*
+Edda pensó en Rellana. _Si te dejara pasar, sería como decirle que he dejado de esperar._
 
 —Lo sé —dijo, y desenvainó.
 
-* * *
+---
 
 Messmer luchaba con fuego.
 
@@ -150,7 +148,7 @@ La lanza trazaba arcos de llamas en el aire, anchos, rápidos, que dejaban estel
 
 Luchaba bien. Mejor que nadie que Edda hubiera visto, salvo Rellana. Pero no como Rellana. Rellana luchaba como quien baila. Messmer luchaba como quien cumple una orden: sin un movimiento de más, sin un gesto innecesario, con una precisión fría, desesperada.
 
-Edda murió tres veces. Cada vez volvía a una gracia en el rellano de la escalera, en el peldaño mil, junto al taller de dibujo con las láminas de las caras de los Cornudos. Cada vez subía los doscientos peldaños que quedaban. Cada vez Messmer la estaba esperando en el mismo sitio, de espaldas, mirando al oeste.
+Edda murió tres veces. Cada vez volvía a una gracia en el rellano de la escalera, en el peldaño mil, junto al taller de dibujo con las láminas de las caras de los Cornamentados. Cada vez subía los doscientos peldaños que quedaban. Cada vez Messmer la estaba esperando en el mismo sitio, de espaldas, mirando al oeste.
 
 En la cuarta, la lágrima de plata subió con ella.
 
@@ -162,9 +160,9 @@ Messmer la vio y se quedó quieto un instante. Miró a las dos Eddas, la de carn
 
 Messmer la miró sin entender. Luego levantó la lanza.
 
-* * *
+---
 
-Lucharon mucho tiempo. La lágrima y Edda a la vez, por dos lados. Messmer no dudaba entre las dos como habían dudado los guardianes de Nokron o la sombra de Godfrey: atacaba a las dos a la vez, con la lanza y con el fuego, sin pestañear. Pero eran dos. Y él era uno.
+Lucharon hasta que el suelo de la torre quedó negro y blando. La lágrima y Edda a la vez, por dos lados. Messmer no dudaba entre las dos como habían dudado los guardianes de Nokron o la sombra de Godfrey: atacaba a las dos a la vez, con la lanza y con el fuego, sin pestañear. Pero eran dos. Y él era uno.
 
 Hasta que dejó de serlo.
 
@@ -172,19 +170,19 @@ Cuando Edda le clavó la espada en el costado, por debajo de la armadura, y la l
 
 Messmer se quedó un momento de rodillas, respirando con dificultad. Luego levantó la mano izquierda. Despacio. Hacia la cara. Hacia el sello de oro.
 
-—*Mientras lleves este sello* —dijo, y no era su voz; era la de otra persona, una mujer, imitada, recordada palabra por palabra—, *ella no podrá salir.*
+—_Mientras lleves este sello_ —dijo, y no era su voz; era la de otra persona, una mujer, imitada, recordada palabra por palabra—, _ella no podrá salir._
 
 Edda se quedó paralizada.
 
-—*¿Y si me lo quito?* —siguió Messmer, con su propia voz, más joven, casi de niño.
+—_¿Y si me lo quito?_ —siguió Messmer, con su propia voz, más joven, casi de niño.
 
 Los dedos tocaron el borde del círculo de oro.
 
-—*Entonces dejarás de ser mi hijo.*
+—_Entonces dejarás de ser mi hijo._
 
 Y se lo arrancó.
 
-* * *
+---
 
 Lo que salió de la cuenca vacía no era un ojo.
 
@@ -200,9 +198,9 @@ La serpiente negra se le había enroscado por la espalda, por los hombros, por l
 
 Era el mismo grito de Godrick en su salón, ante el tapiz. El mismo de Morgott en la explanada, con la mano ensangrentada. El mismo de Mohg arrodillado ante el capullo. El mismo grito de todos los hijos de Marika.
 
-*Mírame.*
+_Mírame._
 
-* * *
+---
 
 La segunda parte de la batalla fue la más terrible de todas las que Edda había librado.
 
@@ -226,7 +224,7 @@ Messmer se detuvo en el aire.
 
 Messmer la miró desde el aire. La lanza bajó un poco.
 
-—Radahn —dijo, muy bajo—. Tenía doce años. Yo había quemado una tienda de campaña. Me dijo: «Eres muy serio para ser tan pequeño». —La llama del ojo parpadeó—. No. Me dijo que yo era muy serio. Él era el pequeño.
+—Radahn —dijo—. Tenía doce años. Yo había quemado una tienda de campaña. Me dijo: «Eres muy serio para ser tan pequeño». —La llama del ojo parpadeó—. No. Me dijo que yo era muy serio. Él era el pequeño.
 
 —Gaius se cayó del jabalí de la risa.
 
@@ -242,7 +240,7 @@ No lo aprovechó.
 
 Bajó la espada.
 
-* * *
+---
 
 Messmer bajó del aire despacio, como baja una hoja. Se posó en la plataforma, de rodillas. Las alas de serpientes se deshicieron en el viento, una a una. La serpiente negra se retiró, despacio, de vuelta a la cuenca vacía de su ojo, enroscándose sobre sí misma, encogiéndose, hasta que solo quedó una cabeza pequeña asomando, con los ojos rojos cerrados. Dormida.
 
@@ -254,29 +252,27 @@ Se quedaron los dos de rodillas en la piedra, frente a frente, entre las llamas 
 
 —Podías. Te he visto ver el hueco.
 
-—Lo sé.
+—Sí.
 
 Messmer la miró con el ojo de fuego. La llama era pequeña otra vez, una vela.
 
 —Estoy cansado —dijo—. Muy cansado. Llevo siglos cansado.
 
-—Lo sé.
-
-—Ya no tengo a nadie. Rellana. Gaius. Radahn. —Se le quebró la voz—. Ni a ella. No la he tenido nunca.
+—Ya no tengo a nadie. Rellana. Gaius. Radahn. Ni a ella. No la he tenido nunca.
 
 Edda no dijo nada.
 
 —Hazlo tú —dijo Messmer—. Por favor. No quiero que sea la serpiente. No quiero que sea la llama. —La miró—. Quiero que sea una mano.
 
-* * *
+---
 
 Edda se acercó. Despacio. Se arrodilló a su lado.
 
 Le tendió la mano.
 
-Messmer la miró. La mano tendida. Durante mucho tiempo. Luego, despacio, la tomó. Tenía la mano caliente, muy caliente, como un fuego que se apaga.
+Messmer la miró. La mano tendida. Luego, despacio, la tomó. Tenía la mano caliente, muy caliente, como un fuego que se apaga.
 
-—Así —dijo, muy bajo—. Así fue. Con Gaius. En el torneo.
+—Así —dijo—. Así fue. Con Gaius. En el torneo.
 
 —Así.
 
@@ -302,11 +298,11 @@ La serpiente roja cayó al suelo de piedra, donde había estado su hombro. Se qu
 
 Edda no la apartó.
 
-* * *
+---
 
 Hornen llegó poco después.
 
-Edda lo oyó subir. Lo oyó contar los peldaños en voz baja, en la lengua de los Cornudos, cada vez más deprisa, cada vez más sin aliento. Entró en la plataforma corriendo, con un hacha de leñador en la mano, la trenza deshecha, los cuernos pequeños manchados de hollín.
+Edda lo oyó subir. Lo oyó contar los peldaños en voz baja, en la lengua de los Cornamentados, cada vez más deprisa, cada vez más sin aliento. Entró en la plataforma corriendo, con un hacha de leñador en la mano, la trenza deshecha, los cuernos pequeños manchados de hollín.
 
 Se detuvo en seco.
 
@@ -314,11 +310,9 @@ Vio las llamas que se apagaban en la piedra. Vio la lanza de punta dorada junto 
 
 —Ya está —dijo Edda—. Ha muerto.
 
-Hornen no dijo nada durante un largo rato. Se quedó de pie en la entrada de la plataforma, con el hacha en la mano, mirando el sitio donde ya no había nadie. Luego caminó despacio hasta allí. Se arrodilló. Tocó la piedra con la mano. Estaba caliente.
+Hornen se quedó de pie en la entrada de la plataforma, con el hacha en la mano, mirando el sitio donde ya no había nadie. Luego caminó despacio hasta allí. Se arrodilló. Tocó la piedra con la mano. Estaba caliente.
 
 —¿Ha sufrido? —preguntó.
-
-Edda tardó en contestar.
 
 —Siglos —dijo—. Pero al final no.
 
@@ -326,11 +320,11 @@ Hornen se quedó con la mano en la piedra. Le temblaba.
 
 —Llevo toda mi vida esperando este momento —dijo al fin, en voz baja—. Y no siento nada. —Levantó la vista hacia ella—. ¿Es así siempre?
 
-Edda pensó en Igon, en la cumbre del pico. *Siguen sin estar.*
+Edda pensó en Igon, en la cumbre del pico. _Siguen sin estar._
 
 —Creo que sí —dijo.
 
-Hornen dejó el hacha en el suelo. Se quedó sentado en la piedra caliente, con las manos en las rodillas, mirando hacia el oeste, hacia el Árbol Umbrío, durante mucho tiempo.
+Hornen dejó el hacha en el suelo. Se quedó sentado en la piedra caliente, con las manos en las rodillas, mirando hacia el oeste, hacia el Árbol Umbrío, hasta que se le apagó la pipa.
 
 —Antes de morir —dijo Edda—. Me ha preguntado su nombre.
 
@@ -352,7 +346,7 @@ Hornen se quedó inmóvil.
 
 Hornen se levantó. Se quedó un momento de pie, tambaleándose. Luego echó a correr hacia la escalera.
 
-* * *
+---
 
 Edda lo encontró horas después, en el almacén de especímenes, al pie de la tinaja de cristal.
 
@@ -370,11 +364,9 @@ Yalda levantó la vista cuando Edda entró.
 
 —¿Por qué?
 
-Edda tardó en contestar.
+—Porque lo había preguntado muchas veces —dijo—. En un cuaderno. Lo escribió muchas veces. _¿Cómo se llamaba?_ —Hizo una pausa—. Y porque la guardó. Para que alguien viniera.
 
-—Porque lo había preguntado muchas veces —dijo—. En un cuaderno. Lo escribió muchas veces. *¿Cómo se llamaba?* —Hizo una pausa—. Y porque la guardó. Para que alguien viniera.
-
-Yalda se quedó mirándola mucho tiempo. Luego volvió la vista hacia la tinaja.
+Yalda se quedó mirándola. Luego volvió la vista hacia la tinaja.
 
 —La guardó —repitió—. El que la quemó.
 
@@ -382,7 +374,7 @@ Yalda se quedó mirándola mucho tiempo. Luego volvió la vista hacia la tinaja.
 
 La anciana no dijo nada más. Se quedó con la mano en el cristal. Hornen seguía llorando con la frente apoyada en él. Edda se sentó en el suelo, un poco apartada, con la caja de cartas al lado y la serpiente roja en la muñeca. No sabía qué más hacer. Así que se quedó.
 
-* * *
+---
 
 Sacaron a Isa de la tinaja al día siguiente.
 
@@ -400,23 +392,23 @@ Cuando terminaron, Hornen cubrió la tumba.
 
 Encima puso una piedra. Una piedra cualquiera, gris, redonda.
 
-* * *
+---
 
 Esa noche, Edda bajó la escalera de mil doscientos peldaños por última vez. En el rellano del peldaño mil, junto al taller de dibujo, se detuvo.
 
-En las paredes seguían las láminas. Los dibujos a tinta de las caras de los Cornudos, con su nombre debajo cuando se conocía, con un signo de interrogación cuando no.
+En las paredes seguían las láminas. Los dibujos a tinta de las caras de los Cornamentados, con su nombre debajo cuando se conocía, con un signo de interrogación cuando no.
 
 Buscó una. La encontró: una niña de cuernos pequeños, dibujada con trazos cuidadosos, con los ojos cerrados y un manojo de flores en las manos. Debajo, un signo de interrogación.
 
 Edda cogió una pluma de la mesa del taller. La mojó en el tintero, que todavía tenía tinta. Y debajo del dibujo, junto al signo de interrogación, escribió con su letra torpe, de quien ha aprendido a escribir tarde y mal:
 
-*Isa.*
+_Isa._
 
 Luego tachó el signo de interrogación.
 
 La serpiente roja de su muñeca levantó la cabeza y la miró hacerlo.
 
-* * *
+---
 
 En la puerta del Torreón, Bruto seguía tumbado en el umbral. Moore estaba sentado a su lado, en el escalón, con el yelmo de toro en las rodillas, dándole de comer algo de una bolsa. Manzanas. Pequeñas, arrugadas, de las que crecían en los huertos abandonados de la llanura.
 
@@ -426,7 +418,7 @@ El jabalí masticaba despacio, con los ojos cerrados.
 
 —Gaius dijo que le gustaban las manzanas —dijo Edda.
 
-—Lo sé. —Moore le rascó la cabeza al jabalí—. Lo conocía. De antes. De la guerra de aquí. Nos cruzamos alguna vez en los caminos. Él también miraba para otro lado, a veces. —Hizo una pausa—. Me quedo con él. Con Bruto. Si no te importa.
+—Le gustan las manzanas, las bellotas, los dedos y los cordones de las botas. —Moore le rascó la cabeza al jabalí—. Lo conocía. De antes. De la guerra de aquí. Nos cruzamos alguna vez en los caminos. Él también miraba para otro lado, a veces. —Hizo una pausa—. Me quedo con él. Con Bruto. Si no te importa.
 
 —No me importa.
 

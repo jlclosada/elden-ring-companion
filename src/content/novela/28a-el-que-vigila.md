@@ -50,7 +50,7 @@ Morgott se rio. Fue una risa amarga, corta, que le salió del pecho como una tos
 
 —Entonces, ¿por qué?
 
-El gigante se quedó callado. Cuando habló, lo hizo muy bajo, casi para sí mismo.
+Cuando el gigante habló, lo hizo casi para sí mismo.
 
 —Porque alguien tenía que quererlo —dijo—. Aunque no sirviera de nada. Aunque no lo supiera. Alguien tenía que quererlo de verdad, sin pedirle nada a cambio. —Levantó los ojos grises hacia ella—. Como ella me quería a mí. La mujer de la celda. Sin pedirme nada. Sin que yo lo mereciera.
 
@@ -66,9 +66,9 @@ Morgott frunció el ceño.
 
 El gigante se quedó completamente inmóvil.
 
-Durante un instante, solo un instante, Edda vio algo pasar por aquella cara gris, cubierta de cicatrices y de cuernos. Algo que no supo nombrar. Como cuando se abre una ventana en una casa que lleva mucho tiempo cerrada, y entra un poco de luz, y la luz muestra el polvo.
+Durante un instante, solo un instante, Edda vio algo pasar por aquella cara gris, cubierta de cicatrices y de cuernos. Algo que no supo nombrar. Como cuando se abre una ventana en una casa que lleva años cerrada, y entra un poco de luz, y la luz muestra el polvo.
 
-—El pan —repitió Morgott, muy bajo.
+—El pan —repitió Morgott.
 
 Luego cerró los ojos. Y cuando los abrió, la ventana se había cerrado otra vez.
 
@@ -106,8 +106,6 @@ Morgott levantó la vista. Los ojos grises estaban muy cansados. Pero la miraron
 
 —Me miras —dijo, con un hilo de voz—. En el patio también me miraste. Nadie… nadie lo hace nunca.
 
-—Lo sé.
-
 —¿Por qué?
 
 Edda no supo qué contestar. Pensó en Godrick, en Radahn, en Rykard. En que siempre se acercaba. En que siempre los miraba.
@@ -134,13 +132,13 @@ Melina no se movió. No dijo nada. Le temblaban los labios.
 
 —¿Quién eres? —susurró Morgott.
 
-Melina tardó mucho en contestar. Cuando lo hizo, su voz era tan baja que Edda casi no la oyó.
+Cuando Melina contestó, su voz era tan baja que Edda casi no la oyó.
 
 —Tu hermana —dijo—. La que nació al pie del Árbol. La que nadie registró. —Dio un paso hacia él—. Te he visto. Muchas veces. Desde lejos. En las murallas, de noche. En el patio, cuando eras Margit. Nunca me atreví a acercarme.
 
 —¿Por qué?
 
-—Porque no sabía qué decirte. —A Melina se le quebró la voz—. Porque yo no estuve en las cloacas. Porque a mí nadie me encadenó. Porque ella me sostuvo en brazos una vez, solo una, y a ti nunca. —Se arrodilló junto a Edda, frente a él—. Porque me daba vergüenza.
+—Porque no sabía qué decirte. Porque yo no estuve en las cloacas. Porque a mí nadie me encadenó. Porque ella me sostuvo en brazos una vez, solo una, y a ti nunca. —Se arrodilló junto a Edda, frente a él—. Porque me daba vergüenza.
 
 Morgott se quedó mirándola con la boca entreabierta. Luego, despacio, bajó la mano. Y se echó a reír. Una risa ronca, débil, que se le convirtió en tos y luego en otra cosa, en un sonido que Edda tardó en reconocer como llanto.
 
@@ -192,7 +190,7 @@ Morgott sonreía. Con los ojos cerrados. Con las hojas doradas en las pestañas.
 
 —*Y ese uno soy yo* —leyó Melina, casi sin voz—. *Godwyn.*
 
-Se quedó callada. Bajó la carta.
+Bajó la carta.
 
 Morgott abrió los ojos una última vez. La miró. Miró a su hermana, arrodillada delante de él con la carta en las manos y la cara llena de lágrimas.
 
@@ -206,7 +204,7 @@ En las manos de Melina, la carta seguía allí.
 
 * * *
 
-Se quedaron mucho tiempo en la explanada. Edda no supo cuánto. Melina estaba sentada en el suelo, con la carta contra el pecho, mirando el lugar donde había estado su hermano. No lloraba ya. Solo miraba.
+Se quedaron en la explanada. Edda no supo cuánto. Melina estaba sentada en el suelo, con la carta contra el pecho, mirando el lugar donde había estado su hermano. No lloraba ya. Solo miraba.
 
 Edda recogió la runa. Le entró en el pecho sin calor, sin peso, como si estuviera cansada también.
 
@@ -236,13 +234,11 @@ Las espinas lo cerraban todo. Zarzas enormes, de un dorado oscuro, casi negro, q
 
 —No… —murmuró—. No puede ser.
 
-Melina apareció a su lado. Miraba las espinas con una expresión que Edda no le había visto nunca. No era sorpresa. Era una mezcla de tristeza, de miedo y de algo parecido a la certeza, como quien ve llegar algo que llevaba mucho tiempo esperando sin querer reconocerlo.
+Melina apareció a su lado. Miraba las espinas con una expresión que Edda no le había visto nunca. Una mezcla de tristeza, de miedo y de algo parecido a la certeza, como quien ve llegar algo que llevaba esperando sin querer reconocerlo.
 
 —Ya lo sabía —dijo en voz baja.
 
 —¿Qué sabías?
-
-Melina tardó en contestar.
 
 —Que el Árbol no deja entrar a nadie —dijo al fin—. Que ha rechazado a todos. A Morgott, que lo amaba más que nadie. A los semidioses. A ti. A todo el que intenta llegar a su corazón. Se ha cerrado sobre sí mismo como se cierra una mano. —Respiró hondo—. Hay una sola manera de abrirlo.
 
@@ -282,7 +278,7 @@ Edda sintió que se le helaba la sangre.
 
 —No. —Edda se volvió hacia ella. Le temblaba la voz—. Acabas de encontrar a tu hermano. Acabas de leerle una carta. Te has quedado la carta. ¿Y ahora me dices que vas a quemarte para abrir un árbol que no quiere a nadie?
 
-Melina la miró en silencio un largo rato. Las hojas doradas caían entre las dos.
+Melina la miró en silencio. Las hojas doradas caían entre las dos.
 
 —Él lo quería —dijo al fin—. Aunque no sirviera de nada. Alguien tenía que quererlo. —Se tocó el pecho, donde guardaba la carta—. Ahora somos dos. Lo ha dicho él.
 
@@ -306,7 +302,7 @@ La anciana estaba de pie, apoyada en un bastón, como si la estuviera esperando.
 
 —Sí.
 
-—Escúchame bien, Sinluz. —Enia se acercó, y por primera vez Edda le vio los ojos con claridad: eran blancos, ciegos, pero brillaban con una luz que no era la de las velas—. Si quemas el Árbol, te convertirás en enemiga de la Voluntad Mayor. De los Dedos. De todo lo que existe. No habrá vuelta atrás. Los Dedos no te perdonarán. —Le tembló la voz—. Pero eso, quizá, es inevitable. Quizá el Árbol tiene que arder para que vuelva a crecer. Hay quien lo cree. Los Dedos no lo dicen, pero no lo niegan.
+—Escúchame bien, Sinluz. —Enia se acercó, y por primera vez Edda le vio los ojos con claridad: eran blancos, ciegos, pero brillaban con una luz que no era la de las velas—. Si quemas el Árbol, te convertirás en enemiga de la Voluntad Mayor. De los Dedos. De todo lo que existe. No habrá vuelta atrás. Los Dedos no te perdonarán. Pero eso, quizá, es inevitable. Quizá el Árbol tiene que arder para que vuelva a crecer. Hay quien lo cree. Los Dedos no lo dicen, pero no lo niegan.
 
 —¿Entonces?
 

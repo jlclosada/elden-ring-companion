@@ -6,11 +6,11 @@ La torre se veía desde muy lejos. Era altísima, de piedra gris oscura, tan alt
 
 —Aquí hubo un incendio —dijo Edda.
 
-—Aquí hubo muchos. —Moore se detuvo al pie de la escalinata que subía hacia la puerta baja—. Messmer quemó Belurat tres veces. La primera, cuando conquistó la tierra. La segunda, cuando los Cornudos se rebelaron. La tercera… —Se quedó callado—. La tercera no hacía falta. Ya no quedaba casi nadie.
+—Aquí hubo muchos. —Moore se detuvo al pie de la escalinata que subía hacia la puerta baja—. Messmer quemó Belurat tres veces. La primera, cuando conquistó la tierra. La segunda, cuando los Cornamentados se rebelaron. La tercera… —Se rascó la mejilla con el guantelete—. La tercera no hacía falta. Ya no quedaba casi nadie.
 
 —¿Tú estabas?
 
-Moore tardó mucho en contestar.
+Moore se miró las manos.
 
 —Llevaba su escudo —dijo al fin—. El de la llama. No subí a la torre. Me quedé abajo, guardando la puerta, para que nadie saliera. —Se miró las manos—. Para que nadie saliera, Sinluz. Esa era mi orden.
 
@@ -26,11 +26,11 @@ Se puso el yelmo de toro. Se quedó al pie de la escalinata.
 
 —Lo sabrás si la ves.
 
-* * *
+---
 
 La ciudad era más grande de lo que parecía desde abajo. Edda tardó toda la tarde en subir desde la puerta baja hasta las terrazas altas, por escalinatas que se cortaban de pronto, por puentes de piedra estrechos sobre abismos donde el viento aullaba, por casas medio derrumbadas donde había que pasar de una habitación a otra por los agujeros de las paredes.
 
-No estaba vacía. Había cosas. Soldados de Messmer, de armadura negra y dorada, que patrullaban las terrazas en parejas, sin hablar, con serpientes negras enroscadas en los hombros. Edda los esquivó cuando pudo. Cuando no pudo, los mató. Y había otras cosas, peores, en los rincones oscuros: figuras con cuernos, encorvadas, que salían de los templos con las manos extendidas y los ojos vacíos, y gemían en una lengua que Edda no entendía. Cornudos. O lo que quedaba de ellos. No la atacaban. Se acercaban a ella, despacio, con las manos extendidas, como si pidieran algo. Y cuando ella retrocedía, se detenían, y se quedaban allí, mirándola, con los brazos extendidos, hasta que desaparecía.
+No estaba vacía. Había cosas. Soldados de Messmer, de armadura negra y dorada, que patrullaban las terrazas en parejas, sin hablar, con serpientes negras enroscadas en los hombros. Edda los esquivó cuando pudo. Cuando no pudo, los mató. Y había otras cosas, peores, en los rincones oscuros: figuras con cuernos, encorvadas, que salían de los templos con las manos extendidas y los ojos vacíos, y gemían en una lengua que Edda no entendía. Cornamentados. O lo que quedaba de ellos. No la atacaban. Se acercaban a ella, despacio, con las manos extendidas, como si pidieran algo. Y cuando ella retrocedía, se detenían, y se quedaban allí, mirándola, con los brazos extendidos, hasta que desaparecía.
 
 En las plazas había tinajas por todas partes.
 
@@ -38,7 +38,7 @@ Algunas eran pequeñas, del tamaño de un niño. Otras tan grandes como una carr
 
 Edda no se acercó a ninguna.
 
-* * *
+---
 
 En el centro de la ciudad, en un templo con forma de jaula, había una bestia.
 
@@ -52,13 +52,13 @@ Era hermoso. Edda se quedó mirándolo desde la puerta de la jaula, con la boca 
 
 Luego vio los huesos.
 
-Estaban por todo el suelo del templo, alrededor del león que bailaba. Huesos de Cornudos, de soldados, de caballeros. Montones. Algunos todavía tenían restos de armadura. Algunos todavía tenían las manos levantadas, como si hubieran muerto bailando también.
+Estaban por todo el suelo del templo, alrededor del león que bailaba. Huesos de Cornamentados, de soldados, de caballeros. Montones. Algunos todavía tenían restos de armadura. Algunos todavía tenían las manos levantadas, como si hubieran muerto bailando también.
 
 —La Bestia Divina —dijo una voz a su espalda.
 
 Edda se volvió. Era una anciana.
 
-* * *
+---
 
 Era muy vieja. La más vieja que Edda había visto nunca, más que Enia, más que Lio. Tenía cuernos: unos cuernos enormes, retorcidos, que le salían de la frente y de las sienes y se curvaban hacia atrás sobre la cabeza como una corona de ramas, tan pesados que la obligaban a caminar encorvada. Tenía la piel grisácea, arrugada como la corteza de un árbol, y unos ojos amarillos, de pupila horizontal, como los de Hornen, que la miraban con una intensidad feroz. Iba envuelta en un manto de lana tosca, sin teñir, y se apoyaba en un bastón de madera tallada.
 
@@ -68,7 +68,7 @@ Era muy vieja. La más vieja que Edda había visto nunca, más que Enia, más qu
 
 —Ahora no hay fiestas. Ni niños. —La anciana miró el templo—. Pero él sigue bailando. Lleva bailando desde el último incendio. Solo. Para nadie. Y mata a todo el que entra. Porque no sabe hacer otra cosa.
 
-Edda se quedó mirando a la anciana. Pensó en lo que le había dicho Moore. *Si ves a una vieja en la plaza del toro, no le hagas daño.*
+Edda se quedó mirando a la anciana. Pensó en lo que le había dicho Moore. _Si ves a una vieja en la plaza del toro, no le hagas daño._
 
 —¿Tú vives aquí?
 
@@ -104,7 +104,7 @@ Se quedaron así un rato, frente a frente, la anciana con el bastón en alto y E
 
 Luego la anciana bajó el bastón. Muy despacio.
 
-—Lo creía muerto —dijo, casi sin voz—. Desde el tercer fuego. Tanto tiempo que ya no cuento los años. Creía que el pozo… —Se le quebró la voz—. Lo llamé. Lo busqué. Bajé a todos los pozos. No estaba.
+—Lo creía muerto —dijo, casi sin voz—. Desde el tercer fuego. Tanto tiempo que ya no cuento los años. Creía que el pozo… Lo llamé. Lo busqué. Bajé a todos los pozos. No estaba.
 
 —Estaba en otro pozo.
 
@@ -112,7 +112,7 @@ La anciana se quedó mirándola. Luego se le escapó un sonido que podía ser un
 
 —En otro pozo —repitió—. Siempre fue un niño que se metía en los sitios equivocados.
 
-* * *
+---
 
 Se llamaba Yalda. Se sentaron en las escaleras del templo, a la luz plateada de la tarde, con la música del león de fondo. La anciana no le dio la mano ni se acercó más de lo necesario. Pero habló.
 
@@ -128,11 +128,9 @@ Edda se quedó muy quieta.
 
 —¿Y por qué esa canción?
 
-Yalda tardó mucho en contestar.
+—Porque es la que canta ella, criatura, ¿cuál iba a ser? —dijo Yalda—. La tinaja. Si te acercas mucho, la oyes. Muy bajo. Desde dentro. Una mujer cantando una nana. —La miró—. El primero de los nuestros se la aprendió escuchándola. Para cantársela de vuelta. Para que no cantara sola.
 
-—Porque es la que canta ella —dijo al fin—. La tinaja. Si te acercas mucho, la oyes. Muy bajo. Desde dentro. Una mujer cantando una nana. —La miró—. El primero de los nuestros se la aprendió escuchándola. Para cantársela de vuelta. Para que no cantara sola.
-
-* * *
+---
 
 Para llegar a la plaza del toro había que atravesar el templo del león.
 
@@ -148,11 +146,11 @@ Edda no supo qué contestar. Pensó en la nana de Rennala en la biblioteca, en l
 
 —Porque alguien tiene que estar allí cuando salga —dijo al fin.
 
-Yalda se la quedó mirando un largo rato. Luego, despacio, apartó la vista.
+Yalda se la quedó mirando. Luego, despacio, apartó la vista.
 
 —Hornen decía lo mismo —murmuró—. De pequeño. Que quería estar allí cuando saliera el santo.
 
-* * *
+---
 
 Edda luchó contra el león durante horas.
 
@@ -184,7 +182,7 @@ Edda la recogió. Por dentro, estaba hueca.
 
 Siempre lo había estado.
 
-* * *
+---
 
 Yalda estaba en la puerta de la jaula cuando Edda salió. Tenía los ojos húmedos.
 
@@ -192,9 +190,9 @@ Yalda estaba en la puerta de la jaula cuando Edda salió. Tenía los ojos húmed
 
 —No.
 
-Edda le tendió la máscara. La anciana la miró un largo rato. Luego la cogió, con las dos manos, con mucho cuidado, como se coge a un recién nacido.
+Edda le tendió la máscara. La anciana la miró. Luego la cogió, con las dos manos, con mucho cuidado, como se coge a un recién nacido.
 
-—Mi madre bailaba dentro de esta máscara —dijo, muy bajo—. En las fiestas. Antes del fuego. Era la que llevaba la cabeza del león por las calles. —Pasó los dedos por la madera pintada—. Cuando quemaron la ciudad, la máscara se quedó en el templo. Y empezó a bailar sola. Sin nadie dentro.
+—Mi madre bailaba dentro de esta máscara —dijo—. En las fiestas. Antes del fuego. Era la que llevaba la cabeza del león por las calles. —Pasó los dedos por la madera pintada—. Cuando quemaron la ciudad, la máscara se quedó en el templo. Y empezó a bailar sola. Sin nadie dentro.
 
 —Era hueca.
 
@@ -206,7 +204,7 @@ Edda pensó en Fortissax, luchando contra una niebla durante siglos.
 
 Yalda la miró, sin entender. No preguntó.
 
-* * *
+---
 
 La plaza del toro estaba detrás del templo, rodeada de casas con techos en forma de cuernos. En el centro había una fuente seca con forma de toro, con los cuernos rotos. Y junto a la fuente, una tinaja.
 
@@ -220,7 +218,7 @@ Y la oyó.
 
 Muy bajo. Tan bajo que al principio pensó que era el viento entre los techos de cuernos. Pero no era el viento. Era una voz. Una voz de mujer, joven, dulce, que cantaba. Una melodía sencilla, lenta, de pocas notas, que subía y bajaba como una mano que acuna. No se entendían las palabras. No sabía si tenía palabras. Pero era una nana. Edda lo supo con todo el cuerpo, como lo había sabido con la de Rennala.
 
-Se quedó escuchando mucho tiempo.
+Se quedó escuchando hasta que se le durmieron las rodillas en la piedra.
 
 Yalda se acercó por detrás, despacio, con la máscara del león en brazos. Se sentó en el borde de la fuente seca. Y empezó a cantar también. La misma canción. Bajito. Con una voz rota, de vieja, que desafinaba en las notas altas. Las dos voces se mezclaron: la de dentro de la tinaja y la de fuera.
 
@@ -232,21 +230,19 @@ Edda se quedó mirando el símbolo de la cera. La espiral con tres hojas.
 
 —¿Sabes de quién es?
 
-Yalda tardó en contestar.
-
-—Lo sé —dijo al fin—. Lo sabemos todas las que la hemos cuidado. Nos lo decimos de madre a hija. —Bajó la vista hacia la máscara—. Es una chamana. Del valle del oeste. De las que hablaban con los árboles. Los nuestros la trajeron aquí hace eras, cortada en pedazos, para hacer con su carne un remedio para un viejo potentado que tenía miedo de morir. —Hizo una pausa—. Ese símbolo lo grababan las chamanas en las puertas de sus casas, cada primavera. Para que los árboles supieran que allí vivía una curandera.
+—Claro que lo sé —dijo Yalda—. Lo sabemos todas las que la hemos cuidado. Nos lo decimos de madre a hija. —Bajó la vista hacia la máscara—. Es una chamana. Del valle del oeste. De las que hablaban con los árboles. Los nuestros la trajeron aquí hace eras, cortada en pedazos, para hacer con su carne un remedio para un viejo potentado que tenía miedo de morir. —Hizo una pausa—. Ese símbolo lo grababan las chamanas en las puertas de sus casas, cada primavera. Para que los árboles supieran que allí vivía una curandera.
 
 —¿Y su hija…?
 
 —Su hija se escapó. —Yalda levantó la vista hacia ella—. Y se convirtió en la reina que nos quemó.
 
-* * *
+---
 
 Hubo un largo silencio. La última vela encendida chisporroteó.
 
 —La madre de Marika —dijo Edda, muy despacio—. Ahí dentro.
 
-—Lo que queda de ella. —Yalda acarició la máscara del león—. Su carne no sirvió para curar al potentado. Murió igual, de viejo, de miedo. Y la tinaja se quedó aquí, en la plaza, sellada. Y ella siguió cantando dentro. Siempre la misma canción. —Le tembló la voz—. Los sabios decían que estaba esperando algo. Que por eso no se callaba. Que estaba esperando a alguien.
+—Lo que queda de ella. —Yalda acarició la máscara del león—. Su carne no sirvió para curar al potentado. Murió igual, de viejo, de miedo. Y la tinaja se quedó aquí, en la plaza, sellada. Y ella siguió cantando dentro. Siempre la misma canción. Los sabios decían que estaba esperando algo. Que por eso no se callaba. Que estaba esperando a alguien.
 
 —¿A quién?
 
@@ -256,7 +252,7 @@ Edda se quedó mirando la tinaja.
 
 —¿Y por qué le seguisteis cantando? —preguntó al fin—. Si su hija os quemó. Si os mató a todos.
 
-Yalda la miró con sus ojos amarillos durante mucho tiempo.
+Yalda la miró con sus ojos amarillos como se mira a un niño que pregunta por qué llueve.
 
 —Porque es una madre metida en un cántaro —dijo—. Que le canta a su niña. Desde hace eras. Sola. —Hizo una pausa—. ¿Qué tiene que ver eso con lo que hizo su hija? Alguien tenía que cantarle de vuelta. Para que no cantara sola.
 
@@ -266,7 +262,7 @@ Pensó en Arn. En un niño sentado en un umbral, esperando. En ella misma, en la
 
 Quiso creer que sí.
 
-* * *
+---
 
 —Ella quiere salir —dijo Yalda de pronto.
 
@@ -276,17 +272,17 @@ Edda la miró.
 
 —¿Y por qué no la habéis abierto?
 
-—Porque no podemos. —Yalda la miró—. Porque la cerraron los nuestros. Con nuestras manos. Con nuestra cera. —Se miró las manos, grises, arrugadas, con las uñas negras—. No puedo romper lo que hicieron los míos. No tengo derecho. Sería como decir que no pasó. Que se puede deshacer. —Se le quebró la voz—. Y no se puede.
+—Porque no podemos. —Yalda la miró—. Porque la cerraron los nuestros. Con nuestras manos. Con nuestra cera. —Se miró las manos, grises, arrugadas, con las uñas negras—. No puedo romper lo que hicieron los míos. No tengo derecho. Sería como decir que no pasó. Que se puede deshacer. Y no se puede. A mi bisabuela la quemaron en esa misma plaza. Atada a la tinaja de al lado. Para que la madre la oyera.
 
 —¿Y yo sí?
 
 —Tú no eres de los nuestros. —Yalda se apartó de la tinaja—. Tú eres del Árbol. Del de su hija. —Hizo una pausa—. Quizá a ti sí te toca.
 
-Edda se quedó mucho tiempo arrodillada delante de la tinaja.
+Edda se quedó arrodillada delante de la tinaja.
 
 Luego sacó el cuchillo del cinturón. El mismo con el que había grabado una A en la mesa redonda. Y con la punta, muy despacio, empezó a cortar la cera roja que sellaba la tapa.
 
-* * *
+---
 
 La cera era antigua. Dura como la piedra. Edda tardó mucho en cortarla. Yalda la miraba desde la fuente, con la máscara en el regazo, sin moverse. Dentro de la tinaja, la canción seguía, muy bajo.
 
@@ -304,63 +300,63 @@ Dentro de la tinaja no había carne. Ni huesos. Ni nada de lo que había temido.
 
 Era muy pequeña. Un brote. Dos hojas verdes, tiernas, del tamaño de una uña, que salían de un tallo fino como un hilo. Estaba vivo. Edda lo vio moverse un poco con el aire que entraba por la boca de la tinaja, como se mueve una planta cuando alguien abre la ventana de una habitación cerrada.
 
-Y entonces la oyó. No cantando. Hablando. Una voz de mujer, joven, dulce, muy bajo, que no venía de ningún sitio y venía de todas partes. De la tierra. De las hojas. De dentro de la propia Edda.
+Y entonces la oyó. No cantando. Hablando. Una voz de mujer, joven, dulce, que no venía de ningún sitio y venía de todas partes. De la tierra. De las hojas. De dentro de la propia Edda.
 
-—*¿Eres tú, mi niña?*
+—_¿Eres tú, mi niña?_
 
 Edda no pudo contestar. Se quedó inmóvil, con las manos en el borde de la tinaja.
 
-—*No* —dijo la voz, después de un momento—. *No eres tú. Hueles distinto. Hueles a polvo de camino y a hierro. Y a un niño pequeño.* —Hubo un silencio—. *¿Tienes un niño?*
+—_No_ —dijo la voz, después de un momento—. _No eres tú. Hueles distinto. Hueles a polvo de camino y a hierro. Y a un niño pequeño._ —Las hojas se quedaron quietas—. _¿Tienes un niño?_
 
 —Tenía —dijo Edda, casi sin voz—. Se llamaba Arn.
 
-—*Tenía.* —La voz se quedó callada un rato. Las dos hojas se movieron—. *Yo también tenía. Una niña. Pequeña, de pelo claro. Que se escondía en los helechos cuando venían los hombres de cuernos. La vi esconderse. La vi irse.* —Hubo otro silencio—. *Llevo mucho tiempo esperando a decírselo.*
+—_Tenía._ —Las dos hojas se movieron—. _Yo también tenía. Una niña. Pequeña, de pelo claro. Que se escondía en los helechos cuando venían los hombres de cuernos. La vi esconderse. La vi irse._ —Hubo otro silencio—. _Llevo toda la muerte esperando a decírselo._
 
 —¿El qué?
 
-—*Que la vi.* —La voz se volvió más suave—. *Que la vi correr. Desde la fila de tinajas, antes de que me metieran dentro. Que me volví a mirarla y sonreí. Que quería que supiera que hizo bien. Que hizo bien en correr. Que no fue culpa suya.*
+—_Que la vi._ —La voz se volvió más suave—. _Que la vi correr. Desde la fila de tinajas, antes de que me metieran dentro. Que me volví a mirarla y sonreí. Que quería que supiera que hizo bien. Que hizo bien en correr. Que no fue culpa suya._
 
 A Edda se le llenaron los ojos de lágrimas sin saber por qué.
 
-—*¿La conoces?* —preguntó la voz—. *¿Sabes dónde está mi niña?*
+—_¿La conoces?_ —preguntó la voz—. _¿Sabes dónde está mi niña?_
 
-Edda pensó en la estatua de la Capilla, al principio de todo. En la estatua de Radagon en Leyndell, con la misma cara. En las espinas de la entrada del Árbol, con manchas oscuras en las puntas. En Morgott diciendo *se encerró dentro y no ha vuelto a salir*.
+Edda pensó en la estatua de la Capilla, al principio de todo. En la estatua de Radagon en Leyndell, con la misma cara. En las espinas de la entrada del Árbol, con manchas oscuras en las puntas. En Morgott diciendo _se encerró dentro y no ha vuelto a salir_.
 
 —Sé dónde está —dijo—. Está dentro de un árbol. Muy lejos. Encerrada. Sola.
 
-—*Sola* —repitió la voz.
+—_Sola_ —repitió la voz.
 
 —Hizo cosas terribles. Quemó esta ciudad. Quemó a mucha gente. A niños.
 
-La voz se quedó callada mucho tiempo.
+La voz calló.
 
-—*Lo sé* —dijo al fin—. *Lo he oído. Los gritos. Desde aquí dentro. Tres veces.* —Las hojas temblaron—. *Y aun así es mi niña. Y aun así quiero que sepa que la vi correr.*
+—_Lo sé_ —dijo al fin—. _Lo he oído. Los gritos. Desde aquí dentro. Tres veces._ —Las hojas temblaron—. _Y aun así es mi niña. Y aun así quiero que sepa que la vi correr._
 
 Edda cerró los ojos.
 
 —¿Quieres que se lo diga?
 
-—*¿Podrías?*
+—_¿Podrías?_
 
 —No lo sé. —Edda abrió los ojos—. Puede que llegue hasta ella. Puede que no. No depende de mí.
 
 La voz se rio. Una risa muy suave, muy breve, como la de una mujer joven en un bosque.
 
-—*Eso decía mi madre* —dijo—. *Que no prometiera lo que no dependía de mí. Y yo prometía igual.*
+—_Eso decía mi madre_ —dijo—. _Que no prometiera lo que no dependía de mí. Y yo prometía igual._
 
 Edda soltó una risa ahogada, entre lágrimas.
 
 —Mi abuela también.
 
-—*Entonces prométemelo igual.*
+—_Entonces prométemelo igual._
 
 —Te lo prometo.
 
-* * *
+---
 
 La voz no volvió a hablar.
 
-Edda esperó mucho tiempo, arrodillada junto a la tinaja abierta. No volvió a oír nada. Ni la voz ni la canción. Solo el viento entre los techos de cuernos, y la última vela que chisporroteaba, y la respiración de Yalda, detrás de ella, que lloraba sin hacer ruido.
+Edda esperó, arrodillada junto a la tinaja abierta. No volvió a oír nada. Ni la voz ni la canción. Solo el viento entre los techos de cuernos, y la última vela que chisporroteaba, y la respiración de Yalda, detrás de ella, que lloraba sin hacer ruido.
 
 El brote seguía allí. Las dos hojas verdes, tiernas, moviéndose un poco con el aire.
 
@@ -368,9 +364,9 @@ El brote seguía allí. Las dos hojas verdes, tiernas, moviéndose un poco con e
 
 —Ha dejado esto.
 
-La anciana se levantó despacio. Se acercó, apoyándose en el bastón. Se asomó a la tinaja. Se quedó mirando el brote durante mucho tiempo.
+La anciana se levantó despacio. Se acercó, apoyándose en el bastón. Se asomó a la tinaja. Se quedó mirando el brote.
 
-—El santo —dijo al fin, muy bajo—. El que esperábamos. —Se le escapó una risa entre las lágrimas—. Una hierba. Era una hierba.
+—El santo —dijo al fin—. El que esperábamos. —Se le escapó una risa entre las lágrimas—. Una hierba. Era una hierba.
 
 —¿Qué hago con ella?
 
@@ -384,7 +380,7 @@ Lo metió en una bolsa de cuero pequeña que llevaba vacía, con la tierra, y la
 
 No lo guardó con las piedras de Arn. No lo guardó en el bolsillo de dentro. Se lo colgó del cuello, por debajo de la capa, contra el pecho, junto al colgante de hueso de Fia.
 
-* * *
+---
 
 Bajó de Belurat al amanecer. Yalda bajó con ella.
 
@@ -402,7 +398,7 @@ Moore levantó la vista. Tenía los ojos húmedos.
 
 —No es mucho —dijo.
 
-—No. —Yalda lo miró un largo rato—. No es mucho. —Hizo una pausa—. Pero uno de esos niños era mi nieto. Y está vivo. En una iglesia al pie de la llanura.
+—No. —Yalda lo miró de arriba abajo, sin piedad ninguna—. No es mucho. —Hizo una pausa—. Pero uno de esos niños era mi nieto. Y está vivo. En una iglesia al pie de la llanura.
 
 Moore se quedó inmóvil.
 
@@ -414,7 +410,7 @@ Yalda no dijo nada más. Pasó a su lado, despacio, apoyada en el bastón, y sig
 
 El caballero se puso el yelmo de toro. Echó a andar detrás de la anciana, a diez pasos de distancia, sin acercarse, como un perro que sigue a alguien que le ha dado de comer una vez.
 
-* * *
+---
 
 Llegaron a la iglesia al anochecer.
 
@@ -432,7 +428,7 @@ Yalda le puso la mano en la cabeza, entre los cuernos pequeños. Como Morgott ha
 
 —Siempre te metías en los sitios equivocados —dijo.
 
-* * *
+---
 
 Esa noche, Edda se sentó sola junto a la gracia, cuando todos dormían. Hornen y su abuela dormían juntos en el último banco, ella sentada, él con la cabeza en su regazo. Moore dormía en la puerta, atravesado en el umbral, como un perro guardián.
 

@@ -46,9 +46,9 @@ Melina la miró con atención.
 
 —¿Tienes un hijo?
 
-—Tenía. —Edda bajó la vista hacia la gracia—. En las Tierras Áridas. Se llamaba Arn. Tenía seis años cuando morí. Le prometí que volvería antes de la luna nueva. —Se le quebró la voz—. Me han dicho que han pasado siglos.
+—Tenía. —Edda bajó la vista hacia la gracia—. En las Tierras Áridas. Se llamaba Arn. Tenía seis años cuando morí. Le prometí que volvería antes de la luna nueva. Me han dicho que han pasado siglos.
 
-Melina no dijo nada durante mucho tiempo. La luz dorada de la gracia les iluminaba la cara desde abajo.
+Melina no dijo nada. La luz dorada de la gracia les iluminaba la cara desde abajo.
 
 —Lo siento —dijo al fin.
 
@@ -60,19 +60,15 @@ Edda la miró. A aquella muchacha de capa gris y ojo cerrado, que hablaba con la
 
 —¿Quién era tu madre? —preguntó.
 
-Melina tardó mucho en contestar.
-
 —Alguien que tenía cosas más importantes que hacer —dijo al fin. Y luego, antes de que Edda pudiera preguntar más—: Yo no soy una doncella de los dedos. No sirvo a los Dos Dedos ni a la Mesa Redonda, y no sé hablar con ellos. Pero puedo hacer lo que hacen ellas. Puedo convertir las runas en fuerza. Puedo llevarte ante el Árbol Áureo.
 
 —¿Y qué quieres a cambio?
 
 —Que me lleves contigo hasta la base del Árbol. —Melina miró hacia el resplandor dorado que se veía a lo lejos, sobre las copas de los árboles—. Allí hay algo que debo hacer. No puedo llegar sola.
 
-Edda la estudió durante un rato largo. Pensó en el consejo de Kalé: no te fíes de nadie que no te pida nada a cambio. Melina pedía algo. Eso, extrañamente, la tranquilizó.
+Edda la estudió. Pensó en el consejo de Kalé: no te fíes de nadie que no te pida nada a cambio. Melina pedía algo. Eso, extrañamente, la tranquilizó.
 
 —¿Por qué yo? Hay más Sinluz. Los he oído en la niebla.
-
-Melina tardó en contestar.
 
 —Porque te he visto levantarte cuatro veces —dijo al fin—. Y las cuatro veces has vuelto a coger el arco. Aunque cada vez que despertabas, durante un instante, creías que estabas en casa. Lo he visto en tu cara.
 
@@ -120,11 +116,11 @@ Melina tenía la costumbre de desaparecer. Edda tardó un tiempo en entenderlo: 
 
 —Eso es bastante inquietante.
 
-—Lo sé.
+—Sí.
 
 —¿Me ves cuando me baño en los ríos?
 
-Melina se quedó callada un momento.
+Melina parpadeó.
 
 —Me doy la vuelta —dijo, muy seria.
 
@@ -140,7 +136,7 @@ Lo veía en las llamas. Sentado en el umbral, con su espada de palo, mordiéndos
 
 Una de esas noches, junto a una gracia en las ruinas de una iglesia al borde de un lago, Melina apareció y la encontró llorando.
 
-No dijo nada. Se sentó a su lado, junto al fuego. Y después de un rato largo, hizo algo que no había hecho nunca: le puso la mano en el hombro.
+No dijo nada. Se sentó a su lado, junto al fuego. Y cuando el fuego ya era brasa, hizo algo que no había hecho nunca: le puso la mano en el hombro.
 
 —¿Cómo era? —preguntó.
 
@@ -164,7 +160,7 @@ Edda la miró.
 
 —No lo sé. —Melina retiró la mano—. Pero es lo que yo querría que hubiera pasado. Si fuera tu hijo.
 
-Edda se quedó mirándola durante mucho tiempo. Luego, despacio, apoyó la cabeza en el hombro de la muchacha. Melina se quedó rígida al principio, como si nunca nadie hubiera hecho aquello. Luego, poco a poco, se relajó.
+Edda se quedó mirándola. Luego, despacio, apoyó la cabeza en el hombro de la muchacha. Melina se quedó rígida al principio, como si nunca nadie hubiera hecho aquello. Luego, poco a poco, se relajó.
 
 Se quedaron así hasta que se apagó el fuego.
 
@@ -200,19 +196,19 @@ Edda se levantó. Se plantó delante de la bruja, que le sacaba más de una cabe
 
 —Ya lo sé —dijo—. Me lo dijeron hace tres días. Y no necesito que una espantapájaros con cuatro brazos y un sombrero ridículo me lo recuerde.
 
-Hubo un silencio muy largo.
+La bruja se quedó inmóvil sobre el lobo, con las cuatro manos quietas.
 
-Luego la bruja hizo algo que Edda no esperaba. Se rio. Fue una risa breve, seca, sorprendida, que le salió de algún lugar muy hondo, como si llevara mucho tiempo sin usarla.
+Luego la bruja hizo algo que Edda no esperaba. Se rio. Fue una risa breve, seca, sorprendida, que le salió de algún lugar muy hondo, como si no la hubiera usado en siglos.
 
 —Espantapájaros —repitió—. Nadie me había llamado nunca espantapájaros.
 
 —Pues ya era hora.
 
-La bruja la miró durante mucho tiempo con su ojo azul. Algo había cambiado en él. Seguía siendo frío, pero ya no era el frío de quien mira a un insecto. Era el frío de quien mira algo que no entiende y que, a su pesar, le interesa.
+La bruja la miró con su ojo azul. Algo había cambiado en él. Seguía siendo frío, pero ya no era el frío de quien mira a un insecto. Era el frío de quien mira algo que no entiende y que, a su pesar, le interesa.
 
 —Me llamo Renna —dijo al fin—. Y te diré de dónde viene ese caballo, ya que eres tan descarada. Te lo dio una muchacha de capa gris, con un ojo cerrado. ¿Me equivoco?
 
-Edda no contestó. No hizo falta.
+Edda no contestó, y la bruja sonrió como quien gana una apuesta.
 
 —Ya veo —dijo Renna—. Entonces eres tú.
 
@@ -234,7 +230,7 @@ Edda cogió la campanilla.
 
 Renna no contestó. Se alejó por el camino, a pie, con sus cuatro manos recogidas bajo la capa, y desapareció en la noche.
 
-Edda se quedó mirando el camino vacío durante mucho tiempo, con la campanilla en la mano. No supo hasta mucho después que la bruja Renna era, en realidad, una muñeca habitada por el alma de una princesa. Ni que aquella noche, de vuelta en su torre, la princesa le dijo a su lobo que había conocido a una Sinluz insoportable que la había llamado espantapájaros. Ni que el lobo, que la conocía desde niña, se quedó mirándola con las orejas levantadas, porque hacía siglos que no la oía hablar así de nadie.
+Edda se quedó mirando el camino vacío, con la campanilla en la mano. No supo hasta mucho después que la bruja Renna era, en realidad, una muñeca habitada por el alma de una princesa. Ni que aquella noche, de vuelta en su torre, la princesa le dijo a su lobo que había conocido a una Sinluz insoportable que la había llamado espantapájaros. Ni que el lobo, que la conocía desde niña, se quedó mirándola con las orejas levantadas, porque hacía siglos que no la oía hablar así de nadie.
 
 —¿Te ha gustado? —preguntó Blaidd.
 
@@ -280,7 +276,7 @@ Wen la miró con los ojos muy abiertos. Se mordió el labio.
 
 —Que… que lo siento —susurró—. Que me fui sin despedirme. Que volveré antes de… antes de…
 
-Murió con los ojos abiertos, mordiéndose el labio. Edda se los cerró con dos dedos. Se quedó arrodillada junto a él mucho tiempo, en el barro del campamento, con su mano entre las suyas, mientras Torrente le empujaba el hombro con el hocico.
+Murió con los ojos abiertos, mordiéndose el labio. Edda se los cerró con dos dedos. Se quedó arrodillada junto a él en el barro del campamento, con su mano entre las suyas, mientras Torrente le empujaba el hombro con el hocico.
 
 Una semana después, cuando por fin bajó a Summonwater, una aldea en ruinas junto a un lago, buscó la casa de la panadera. La encontró. Estaba vacía. Llevaba años vacía, según le dijo un viejo que pescaba en la orilla. La panadera había muerto de fiebre hacía tiempo. No había nadie a quien decirle nada.
 
@@ -314,8 +310,6 @@ Edda abrió el hatillo y sacó un trozo de pan duro que le había comprado a Kal
 
 —¿Tú también perdiste a alguien? —Roderika la miró—. Tienes cara de haber perdido a alguien.
 
-Edda tardó en contestar.
-
 —A mi hijo —dijo—. Hace siglos. Me enteré hace una semana.
 
 Roderika dejó de comer. Se quedó mirándola con los ojos muy abiertos.
@@ -324,7 +318,7 @@ Roderika dejó de comer. Se quedó mirándola con los ojos muy abiertos.
 
 —Morí en las Tierras Áridas. La gracia me trajo aquí. Por lo visto tardó un poco. —Edda sonrió sin ganas—. Tenía seis años. Le prometí que volvería antes de la luna nueva.
 
-Roderika no dijo nada durante mucho tiempo. Luego, despacio, se acercó a Edda por el suelo, y se apoyó en ella, hombro con hombro, como se apoyan dos soldados cansados junto a una hoguera.
+Roderika no dijo nada. Luego, despacio, se acercó a Edda por el suelo, y se apoyó en ella, hombro con hombro, como se apoyan dos soldados cansados junto a una hoguera.
 
 —Entonces las dos estamos rotas —dijo.
 
@@ -342,9 +336,9 @@ Edda miró el Árbol, que brillaba en el cielo sobre las torres negras del casti
 
 Roderika la miró con una mezcla de horror y algo más, algo parecido a la esperanza.
 
-—Entonces… si lo ves… si ves a alguno de ellos… si ves a Lenne…
+—Entonces… si lo ves… si ves a alguno de ellos… si ves a Lenne… Dicen que a los que injerta los cose por la nuca. Que les quita las manos para ponérselas a él. Que siguen vivos debajo, y que se les oye.
 
-No terminó la frase. Edda le puso la mano en el hombro.
+Edda le puso la mano en el hombro. No le dijo que era verdad. Lo había visto en el patio de la entrada: un brazo de mujer cosido a un tronco de hombre, que todavía tenía las uñas pintadas.
 
 —Lo intentaré.
 
@@ -358,15 +352,11 @@ Esa noche, junto a la gracia del Paso del Portón, Melina apareció de nuevo. Ed
 
 —¿La conoces?
 
-Melina tardó en contestar.
-
 —La conozco —dijo—. De lejos. Y te aconsejo que tengas cuidado con ella. No porque sea mala. Porque es peligrosa. Las dos cosas no son lo mismo.
 
 —¿Peligrosa cómo?
 
 —Peligrosa porque quiere algo muy grande. Y la gente que quiere cosas muy grandes acaba arrastrando a los demás. —Melina miró el fuego—. Aunque no quiera.
-
-Edda se quedó callada un rato.
 
 —¿Por qué injerta a la gente? —preguntó al final—. Godrick. ¿Qué gana con eso?
 
@@ -378,7 +368,7 @@ Melina miró hacia el castillo. Desde allí se veían sus torres, negras contra 
 
 —No. —Melina bajó la vista hacia la gracia—. Pero tiene una Gran Runa. Y para llegar al Árbol, necesitas al menos dos.
 
-Edda se quedó callada un rato. Luego desenvainó la espada corta que había cogido de uno de los soldados del campamento y la puso a la luz de la gracia, para mirarla. Estaba mellada. No servía de mucho.
+Edda desenvainó la espada corta que había cogido de uno de los soldados del campamento y la puso a la luz de la gracia, para mirarla. Estaba mellada. No servía de mucho.
 
 —Necesito un arma mejor —dijo.
 
@@ -392,7 +382,7 @@ Al alba, cuando Edda se levantó para subir al castillo, Melina seguía allí, s
 
 —¿Quién?
 
-Melina tardó en contestar. Cuando lo hizo, su voz sonaba distinta. Más baja. Casi triste.
+Cuando Melina contestó, su voz sonaba distinta. Más baja. Casi triste.
 
 —Lo llaman Margit. El Augurio Caído.
 
@@ -402,7 +392,7 @@ Melina tardó en contestar. Cuando lo hizo, su voz sonaba distinta. Más baja. C
 
 —¿Entonces qué?
 
-La muchacha la miró con su único ojo durante mucho tiempo.
+La muchacha la miró con su único ojo.
 
 —Que no lucha por odio —dijo—. Lucha por amor. Por un amor que nadie le ha devuelto nunca. Y eso, Edda, es lo más peligroso que hay en el mundo.
 

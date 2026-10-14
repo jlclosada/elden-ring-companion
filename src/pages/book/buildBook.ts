@@ -44,11 +44,10 @@ export function buildBookHtml(chapters: Record<string, Block[]>, o: BookOptions)
   </section>`)
   out.push(`<section class="front verso creditos">
     <p><em>${esc(NOVEL_TITLE)}</em>. ${esc(NOVEL_SUBTITLE)}.</p>
-    <p>${esc(EDICION.edicion)}: ${esc(EDICION.fecha)}.</p>
+    <p>${esc(EDICION.edicion)}.</p>
     ${autor ? `<p>© del texto: ${esc(autor)}.</p>` : ''}
     <p>Obra de ficción derivada, escrita por y para aficionados. Elden Ring y Shadow of the Erdtree son marcas y obras protegidas de FromSoftware, Inc. y Bandai Namco Entertainment. Esta edición no está afiliada ni respaldada por sus titulares y no tiene fines comerciales.</p>
     <p>Los diálogos y los personajes secundarios son invención de esta edición.</p>
-    <p>Compuesto en ${esc(EDICION.tipografia)}.</p>
     <p>${esc(EDICION.sello)}</p>
   </section>`)
   out.push(`<section class="front dedicatoria">${esc(EDICION.dedicatoria)}</section>`)
@@ -128,9 +127,6 @@ export function buildBookHtml(chapters: Record<string, Block[]>, o: BookOptions)
   }
   out.push(`<section class="back colofon">
     <div class="orn">✦</div>
-    <p>Este libro se terminó de componer en ${esc(EDICION.fecha)},</p>
-    <p>con la gracia como única luz.</p>
-    <p>Se compuso en ${esc(EDICION.tipografia)}.</p>
     <p class="sc">${esc(EDICION.sello)}</p>
   </section>`)
 

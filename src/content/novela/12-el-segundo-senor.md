@@ -12,7 +12,7 @@ La encontró en la biblioteca de la mansión, sentada junto a la ventana, con un
 
 —¿Quién? ¿La diosa?
 
-Radagon tardó mucho en contestar. Tenía el pelo largo y rojo, como cuando llegó a Liurnia con su martillo, conquistador y enemigo, hacía tantos años. Pero en sus ojos había algo que Rennala no había visto nunca: un cansancio antiguo, como si llevara siglos cargando un peso que acababa de recordar.
+Radagon no contestó. Tenía el pelo largo y rojo, como cuando llegó a Liurnia con su martillo, conquistador y enemigo, hacía tantos años. Pero en sus ojos había algo que Rennala no había visto nunca: un cansancio antiguo, como si llevara siglos cargando un peso que acababa de recordar.
 
 —No sé explicarlo —dijo al fin—. Es como si una parte de mí estuviera allí y la otra aquí. Y la de allí… es la que manda.
 
@@ -46,7 +46,7 @@ Le puso algo en las manos. Era un huevo de ámbar, del tamaño de un puño, cál
 
 Él no contestó. Se levantó, le dio un beso en la frente y salió de la biblioteca sin volverse.
 
-* * *
+---
 
 Ranni lo estaba esperando en las caballerizas.
 
@@ -70,7 +70,7 @@ Radagon dejó el martillo apoyado en la pared. Fue hasta ella y se sentó a su l
 
 —A veces no lo parecen.
 
-—Lo sé. —La muchacha se volvió hacia él—. A mí también me pasa, padre. Los Dedos me han elegido. Vinieron hace un mes, a la torre, y escribieron en el aire. Dicen que seré una diosa. Una Empírea, como ella.
+—Ya. —La muchacha se volvió hacia él—. A mí también me pasa, padre. Los Dedos me han elegido. Vinieron hace un mes, a la torre, y escribieron en el aire. Dicen que seré una diosa. Una Empírea, como ella.
 
 Radagon cerró los ojos.
 
@@ -78,7 +78,7 @@ Radagon cerró los ojos.
 
 —Sí. —Ranni le puso la mano en el brazo—. Y por eso te lo pregunto, porque eres el único que puede responder. ¿Qué se siente? Cuando el Árbol te llama, cuando los Dedos te escriben, cuando algo que no eres tú empieza a decidir por ti. ¿Qué se siente?
 
-Radagon tardó mucho en contestar. Fuera, el sol empezaba a romper la niebla.
+Fuera, el sol empezaba a romper la niebla.
 
 —Se siente como estar en casa —dijo al fin—. Esa es la trampa, Ranni. No se siente como una cadena. Se siente como estar en casa. Como si todo lo demás, todo lo que amaste antes, hubiera sido un viaje, y por fin volvieras.
 
@@ -100,7 +100,7 @@ Rennala no se movió de la ventana de la biblioteca hasta que vio la silueta de 
 
 Su corazón se fue con Radagon.
 
-* * *
+---
 
 La Reina de la Luna Llena dejó de ser reina en pocos meses.
 
@@ -124,15 +124,15 @@ Una mañana, cuando la caballera Loretta, capitana de la guardia real de Caria, 
 
 —Era. —El decano se apartó de la puerta—. Su luna se apagó, Loretta. Lo sabéis tan bien como yo. Lo sabe todo Liurnia. Esto no es una traición. Es un entierro.
 
-Loretta bajó la alabarda. Se quedó mirando las puertas de bronce durante mucho tiempo. Detrás de ellas, débil, apenas audible, se oía una canción de cuna.
+Loretta bajó la alabarda. Se quedó mirando las puertas de bronce. Detrás de ellas, débil, apenas audible, se oía una canción de cuna.
 
 —Volveré —dijo—. Con todos los caballeros de Caria.
 
-—Lo sé. —El decano suspiró—. Y os estaremos esperando.
+—Contamos con ello. —El decano suspiró—. Y os estaremos esperando.
 
 Volvió. Los caballeros encantados de Caria salieron de la mansión de la orilla con sus armaduras de plata y sus espadas de luz azul, y la guerra civil se extendió por todo Liurnia: hechiceros contra caballeros, torres azules contra la mansión del lago. Duró años. Hubo batallas en los puentes, asedios en las torres, duelos de magia sobre el agua que iluminaban la noche como tormentas. Loretta luchó en todas. No ganó ninguna.
 
-La Academia venció. Sin su reina, con sus herederos lejos, la casa de Caria entró en decadencia, y su influencia se desvaneció como la niebla cuando sale el sol. Loretta se retiró a la mansión con los pocos caballeros que le quedaban y juró defenderla hasta el final. Muchos años después, cuando un niño dios plantó un árbol en el norte para los que nadie quería, se marcharía allí, al Árbol Hálito, buscando un lugar donde servir de nuevo a algo que valiera la pena. Pero en la escalinata de la mansión, dicen, su sombra siguió montando guardia, aunque ya no quedaba nadie a quien defender.
+La Academia venció. Sin su reina, con sus herederos lejos, la casa de Caria entró en decadencia, y su influencia se desvaneció como la niebla cuando sale el sol. Loretta se retiró a la mansión con los pocos caballeros que le quedaban y juró defenderla hasta el final. Muchos años después, cuando un niño dios plantó un árbol en el norte para los que nadie quería, se marcharía allí, al Árbol Hierático, buscando un lugar donde servir de nuevo a algo que valiera la pena. Pero en la escalinata de la mansión, dicen, su sombra siguió montando guardia, aunque ya no quedaba nadie a quien defender.
 
 Rennala no se enteró. O, si se enteró, no le importó. En la gran biblioteca, rodeada de estudiantes jóvenes a los que llamaba «mis pequeños», usaba el huevo de ámbar para hacerlos renacer una y otra vez, en un proceso imperfecto que les borraba la memoria y los dejaba frágiles y de vida breve. Ella los mecía en sus brazos y les cantaba. Ellos le cantaban a ella, y su canción la envolvía en una burbuja dorada que la protegía del mundo.
 
@@ -148,7 +148,7 @@ Ranni se quedó un momento más en la puerta. Luego se dio la vuelta y se fue.
 
 No volvió a llamarla.
 
-* * *
+---
 
 Radagon llegó a Leyndell y se casó con Marika.
 
@@ -184,11 +184,11 @@ Radagon se apoyó en la pared. Le temblaban las piernas.
 
 —Para que el Orden tenga a alguien que lo defienda —dijo Marika—. Porque yo ya no puedo.
 
-Radagon la miró durante mucho tiempo. Luego, despacio, como quien se rinde, cerró los ojos y apoyó la frente en la de ella.
+Radagon la miró. Luego, despacio, como quien se rinde, cerró los ojos y apoyó la frente en la de ella.
 
-No volvieron a hablar de aquello nunca más. No hizo falta.
+No volvieron a hablar de aquello nunca más.
 
-* * *
+---
 
 Con el matrimonio, los tres hijos de Radagon y Rennala —Radahn, Rykard y Ranni— pasaron a ser hijastros de Marika, y con ello semidioses. Inmortales mientras la Hoja Negra siguiera guardada.
 
@@ -198,11 +198,11 @@ Radagon fue un Señor de Elden muy distinto de Godfrey. No le interesaba la guer
 
 —¿Y vos la entendéis, mi señor?
 
-Radagon se quedó callado mucho tiempo, mirando por la ventana de la biblioteca hacia la plaza donde se alzaba la gran estatua de Marika.
+Radagon se quedó mirando por la ventana de la biblioteca hacia la plaza donde se alzaba la gran estatua de Marika.
 
 —Demasiado bien —dijo.
 
-* * *
+---
 
 En Leyndell vivía un escultor llamado Ostrander, viejo, medio ciego, el mejor de su oficio en toda la capital. Había tallado la estatua de Godfrey que presidía la puerta oriental y la de Godwyn que adornaba el patio de los caballeros. Cuando recibió el encargo de tallar al nuevo Señor de Elden para la gran plaza, lo aceptó sin entusiasmo. Estaba cansado.
 
@@ -236,7 +236,7 @@ Ostrander dejó caer el cincel. Bajaron corriendo a la plaza del Árbol, el viej
 
 —¿Qué hacemos, maestro?
 
-El viejo se quedó callado mucho tiempo.
+El viejo cerró el libro.
 
 —Nada —dijo al fin—. No hacemos nada, Tam. No se lo cuentas a nadie. Ni a tu madre, ni a tu novia, ni al sacerdote en confesión. ¿Me has entendido? —Le apretó el hombro con fuerza—. Hay cosas que se pagan con la vida, y esta es una de ellas.
 
@@ -248,7 +248,7 @@ Pero un escultor no puede callar del todo. Durante las semanas siguientes, Ostra
 
 Una semana después, Ostrander desapareció. Su taller amaneció vacío, con las herramientas ordenadas en la mesa y una vela consumida. Tam lo buscó durante meses. Nunca supo si su maestro huyó o si alguien se aseguró de que no hablara. Él tampoco habló nunca. Pero cuando se hizo viejo y tuvo aprendices propios, les enseñaba que hay que mirar siempre los huesos de una cara, porque el pelo y la barba mienten, y los huesos no.
 
-* * *
+---
 
 De aquella unión imposible nacieron gemelos.
 
@@ -274,7 +274,7 @@ Luego miró a Marika, que estaba en la cama, pálida, mirando a sus hijos como s
 
 —Son nuestros —respondió ella—. Es lo mismo.
 
-* * *
+---
 
 Hubo otra hija.
 
@@ -284,10 +284,10 @@ No figura en ninguna crónica ni la registró ningún sacerdote. Nació al pie d
 
 —¿Y si no quiere cumplirlo? —preguntó la persona que la recibía, cuyo nombre nadie conoce.
 
-Marika miró a la niña dormida durante mucho tiempo.
+Marika miró a la niña dormida.
 
 —Entonces será la única de mis hijos que haya podido elegir —dijo—. Y la envidiaré por ello.
 
-Nadie sabe quién crio a aquella niña. Nadie sabe cuándo ni cómo tuvo su visión de fuego, ni cómo ardió, ni cómo se convirtió en un espíritu sin cuerpo que vaga ligado a la gracia. Solo se sabe que, mucho tiempo después, una muchacha sin dedos aparecería ante un Sinluz en un lugar de gracia, con una capa con capucha y un ojo con la marca de la diosa, y le ofrecería un trato.
+Nadie sabe quién crio a aquella niña. Nadie sabe cuándo ni cómo tuvo su visión de fuego, ni cómo ardió, ni cómo se convirtió en un espíritu sin cuerpo que vaga ligado a la gracia. Solo se sabe que, eras después, una muchacha sin dedos aparecería ante un Sinluz en un lugar de gracia, con una capa con capucha y un ojo con la marca de la diosa, y le ofrecería un trato.
 
 Se llamaba Melina.

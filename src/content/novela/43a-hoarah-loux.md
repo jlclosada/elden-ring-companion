@@ -12,7 +12,7 @@ Un león de verdad. Grande, viejo, de melena blanca, con un yelmo de hierro sobr
 
 Edda se quedó inmóvil.
 
-No era la sombra que había visto en el Salón del Trono. No era transparente, no era un eco hecho de luz. Era de carne. Tenía cicatrices. Respiraba. Dejaba huellas en la ceniza.
+No era la sombra que había visto en el Salón del Trono. Este era de carne. Tenía cicatrices. Respiraba. Dejaba huellas en la ceniza.
 
 Era el de la barba dorada del tapiz de Velo Tormentoso. *Godfrey, primer Señor de Elden.*
 
@@ -24,7 +24,7 @@ Godfrey se detuvo en lo alto de la escalinata, frente a Edda, a veinte pasos.
 
 Miró la explanada. El templete derrumbado. El trono cubierto de ceniza. La espada de piedra de Morgott clavada en el mármol. El cuerpo de Gideon en el suelo, con el yelmo de pájaro a un lado. El tronco negro del Árbol, subiendo hacia el cielo gris.
 
-Se quedó mucho tiempo mirando el Árbol.
+Se quedó mirando el Árbol.
 
 —Ha ardido —dijo. Tenía una voz enorme, ronca, que retumbaba como un trueno lejano—. Lo vi desde el mar. Desde la proa del barco. Una columna de fuego que bajaba del norte y caía en la copa. —Hizo una pausa—. Y supe que era la hora. Que ella me llamaba. O que alguien me llamaba en su nombre.
 
@@ -52,17 +52,17 @@ Godfrey se quedó inmóvil.
 
 —Aquí. En esta explanada. —Edda señaló la espada de piedra clavada en el mármol—. Lo maté yo. Defendía el Árbol. Las espinas. Lo había defendido solo durante siglos, contra todos sus hermanos.
 
-Godfrey no dijo nada. Miró la espada de piedra. Mucho tiempo.
+Godfrey no dijo nada. Miró la espada de piedra.
 
-—¿Cuál de ellos? —preguntó al fin, muy bajo.
+—¿Cuál de ellos? —preguntó al fin.
 
 —Morgott.
 
 El hacha bajó. Despacio. Hasta que el filo tocó el mármol, entre la ceniza.
 
-—Morgott —repitió Godfrey—. El que vigila. —Se le quebró la voz—. Me dijeron que había nacido muerto. Él y su hermano. Que los habían enterrado en las raíces con dos piedras. Lo creí. Años. Lloré a dos hijos que no había visto nunca. —Cerró los ojos—. Y la noche que me fui, la noche del exilio, la bestia negra de mi mujer me cogió del brazo en la puerta y me dijo la verdad. Que vivían. Que estaban en las cloacas. Encadenados.
+—Morgott —repitió Godfrey—. El que vigila. Me dijeron que había nacido muerto. Él y su hermano. Que los habían enterrado en las raíces con dos piedras. Lo creí. Años. Lloré a dos hijos que no había visto nunca. —Cerró los ojos—. Y la noche que me fui, la noche del exilio, la bestia negra de mi mujer me cogió del brazo en la puerta y me dijo la verdad. Que vivían. Que estaban en las cloacas. Encadenados.
 
-—Lo sé.
+Edda no dijo nada. No había nada que decirle a eso.
 
 —Y me fui igual. —Godfrey abrió los ojos. Estaban húmedos—. Ella me ordenó irme y me fui. Sabiendo que mis hijos estaban en las cloacas. Sin bajar a verlos. Sin una palabra. —Apretó el mango del hacha—. Soy el Señor de Elden. Fui el Señor de Elden. Y dejé a mis hijos en una cloaca porque me lo ordenaron.
 
@@ -82,15 +82,15 @@ Godfrey no dijo nada.
 
 —¿Su hermana?
 
-—La que nació al pie del Árbol. Melina. —A Edda le tembló la voz—. La que ha quemado el Árbol. Se convirtió en la llama.
+—La que nació al pie del Árbol. Melina. La que ha quemado el Árbol. Se convirtió en la llama.
 
-Godfrey se quedó mirándola mucho tiempo.
+Godfrey se quedó mirándola.
 
-—Una hija —dijo, muy bajo—. Otra. Que tampoco conocí.
+—Una hija —dijo—. Otra. Que tampoco conocí.
 
 —Tampoco la conoció ella a su madre. Más que dos veces.
 
-Godfrey cerró los ojos. Se quedó así un largo rato, de pie en lo alto de la escalinata, con el hacha en el suelo y el león sobre los hombros y la ceniza cayéndole en la melena castaña.
+Godfrey cerró los ojos. Se quedó así, de pie en lo alto de la escalinata, con el hacha en el suelo y el león sobre los hombros y la ceniza cayéndole en la melena castaña.
 
 —¿Murió solo? —preguntó al fin—. Morgott.
 
@@ -120,7 +120,7 @@ Godfrey levantó la vista.
 
 Godfrey se quedó pensando. Miró la espada de piedra clavada en el mármol.
 
-—Lo sé yo —dijo al fin—. Iba a decir que lo sentía. Que no bajó. Que debió bajar. —Se secó la cara con el dorso de la mano—. Es lo único que he pensado durante siglos, al otro lado del mar. Cada noche, junto a cada hoguera. Que debí bajar a las cloacas aunque me lo prohibieran. Que debí romper la puerta con el hacha y sacarlos de allí, a los dos, y llevármelos conmigo al exilio. —Se le quebró la voz—. Habrían sido buenos guerreros. Los dos. Con esos cuernos.
+—Lo sé yo —dijo al fin—. Iba a decir que lo sentía. Que no bajó. Que debió bajar. —Se secó la cara con el dorso de la mano—. Es lo único que he pensado durante siglos, al otro lado del mar. Cada noche, junto a cada hoguera. Que debí bajar a las cloacas aunque me lo prohibieran. Que debí romper la puerta con el hacha y sacarlos de allí, a los dos, y llevármelos conmigo al exilio. —Se pasó la mano enorme por la barba—. Habrían sido buenos guerreros. Los dos. Con esos cuernos.
 
 * * *
 
@@ -138,11 +138,11 @@ El hacha se le escapó de la mano. Cayó en el mármol con un ruido sordo, metá
 
 Godfrey no la recogió.
 
-—Había una Edda —dijo, casi sin voz—. Con nosotros. En el exilio. Una arquera. Joven. De las que vinieron conmigo en los barcos. Compartía carne seca con Ordovis junto a las hogueras. —Le tembló la voz—. Fue ella la que me vio quitarme a Serosh de los hombros, la noche de la colina roja. Lo supe después. Estaba en la hoguera de abajo. Me miró.
+—Había una Edda —dijo, casi sin voz—. Con nosotros. En el exilio. Una arquera. Joven. De las que vinieron conmigo en los barcos. Compartía carne seca con Ordovis junto a las hogueras. Fue ella la que me vio quitarme a Serosh de los hombros, la noche de la colina roja. Lo supe después. Estaba en la hoguera de abajo. Me miró.
 
 —Me pusieron el nombre por ella —dijo Edda—. Creo. En mi familia siempre había una. No sabíamos por qué. Mi abuela decía que era una costumbre muy vieja.
 
-Godfrey no dijo nada durante mucho tiempo.
+Godfrey la miró como se mira a un fantasma.
 
 Luego se rio. Una carcajada enorme, rota, entre lágrimas, que rodó por la explanada y escaleras abajo y resonó en la ciudad vacía.
 
@@ -158,7 +158,7 @@ Godfrey se quedó quieto.
 
 Godfrey cerró los ojos.
 
-—Fui yo —dijo, muy bajo—. Pinté la primera. En la primera casa que levantamos al otro lado del mar. La de Ordovis. Cuando se murió. Le pinté la puerta de azul. Del color del lago de Liurnia, que era el color más bonito que había visto en mi vida. —Le tembló la voz—. Y les dije a los demás: así, cuando la reina cumpla su promesa y nos devuelva la gracia, los muertos sabrán dónde está su casa. Sabrán adónde volver.
+—Fui yo —dijo—. Pinté la primera. En la primera casa que levantamos al otro lado del mar. La de Ordovis. Cuando se murió. Le pinté la puerta de azul. Del color del lago de Liurnia, que era el color más bonito que había visto en mi vida. Y les dije a los demás: así, cuando la reina cumpla su promesa y nos devuelva la gracia, los muertos sabrán dónde está su casa. Sabrán adónde volver.
 
 Edda sintió que se le doblaban las rodillas.
 
@@ -190,7 +190,7 @@ Edda se quedó mirándolas.
 
 —No eran sus tumbas —dijo.
 
-—Lo sé. Lo supe la noche del exilio. —Godfrey se quedó mirando las dos piedras en su palma enorme—. Y las seguí llevando igual. Porque no tenía otra cosa de ellos.
+—Ya. Lo supe la noche del exilio. —Godfrey se quedó mirando las dos piedras en su palma enorme—. Y las seguí llevando igual. Porque no tenía otra cosa de ellos.
 
 Edda no dijo nada. Godfrey cerró la mano sobre las piedras.
 
@@ -206,7 +206,7 @@ Godfrey se levantó.
 
 Recogió el hacha del suelo. La sopesó. Se quedó mirando la entrada negra del Árbol, detrás de Edda, el hueco en la corteza carbonizada.
 
-—Ella está ahí dentro —dijo—. Lo sé. La noto. Desde que bajé del barco. —Le tembló la voz—. Y no puedo entrar.
+—Ella está ahí dentro —dijo—. La noto. Desde que bajé del barco. Y no puedo entrar.
 
 —¿Por qué?
 
@@ -250,7 +250,7 @@ Se apartó de ella. Retrocedió hasta el centro de la explanada, junto a la espa
 
 Agarró a Serosh por la melena blanca. Con las dos manos. Con cuidado.
 
-—Ya lo he perdido todo, viejo amigo —dijo, muy bajo—. Otra vez. La reina, el Árbol, mis hijos. Ahora también los que vinieron después. —Le tembló la voz—. No me queda nada que perder.
+—Ya lo he perdido todo, viejo amigo —dijo—. Otra vez. La reina, el Árbol, mis hijos. Ahora también los que vinieron después. No me queda nada que perder.
 
 El león lo miró. Con sus ojos dorados, tranquilos. No se resistió.
 
@@ -262,7 +262,7 @@ Lo abrazó. Contra el pecho lleno de cicatrices, con la cara hundida en la melen
 
 Y lo dejó en el suelo.
 
-No lo mató. Edda esperaba que lo matara; no supo por qué. Lo dejó en el suelo de mármol, junto a la espada de piedra de su hijo, y el león se tumbó allí, en la ceniza, como un perro viejo junto a un fuego, y apoyó la cabeza en las patas, y se quedó mirándolos.
+No lo mató. Edda esperaba que lo matara, como en las canciones. Lo dejó en el suelo de mármol, junto a la espada de piedra de su hijo, y el león se tumbó allí, en la ceniza, como un perro viejo junto a un fuego, y apoyó la cabeza en las patas, y se quedó mirándolos.
 
 Godfrey se enderezó.
 
@@ -278,7 +278,7 @@ Soltó el hacha del todo. La apartó de una patada.
 
 Y luchó con las manos.
 
-Agarró a Edda por la cintura, la levantó en el aire como a una niña, y la estampó contra el suelo de mármol. Golpeó la tierra con los puños y la tierra se abrió en grietas que lanzaron ceniza y piedras. Saltó, altísimo, y cayó con las rodillas por delante. Rugió, y el rugido fue una ola que la lanzó hacia atrás. No era un rey. Era una bestia. Era lo que había sido antes de ser rey: un guerrero de las tierras salvajes, uno de los que solo vivían para luchar, uno que se comía las ratas crudas en las celdas.
+Agarró a Edda por la cintura, la levantó en el aire como a una niña, y la estampó contra el suelo de mármol. Golpeó la tierra con los puños y la tierra se abrió en grietas que lanzaron ceniza y piedras. Saltó, altísimo, y cayó con las rodillas por delante. Rugió, y el rugido fue una ola que la lanzó hacia atrás. Ya no quedaba rey. Quedaba una bestia. Era lo que había sido antes de ser rey: un guerrero de las tierras salvajes, uno de los que solo vivían para luchar, uno que se comía las ratas crudas en las celdas.
 
 Y se reía. Todo el tiempo. Cada golpe, cada caída, cada vez que Edda se levantaba de la ceniza.
 
@@ -290,7 +290,7 @@ Edda murió. Muchas veces. Y cada vez que volvía, Hoarah Loux la estaba esperan
 
 En la décima, o en la decimoquinta, Edda soltó la espada.
 
-No supo por qué. Fue como en el jardín de Enir-Ilim, delante de Radahn. Como en el puente de Dane. El cuerpo lo hizo antes de que la cabeza lo decidiera.
+Fue como en el jardín de Enir-Ilim, delante de Radahn. Como en el puente de Dane. El cuerpo lo hizo antes de que la cabeza lo decidiera.
 
 Dejó caer la espada de Hewg en la ceniza. Y se puso en guardia con las manos.
 
@@ -310,9 +310,9 @@ Hoarah Loux se quedó completamente inmóvil.
 
 Luego se rio. No como antes. Una risa distinta. Más pequeña. Más rota. Casi un sollozo.
 
-—En la celda —dijo—. Bajó a mi celda con una antorcha. Me dijo que las de su pueblo estaban en tinajas. Le enseñé a pelear con las manos esa noche, para que pudiera defenderse en la torre. —Se le quebró la voz—. Tenía las manos pequeñas. Muy pequeñas. Y aprendía muy deprisa.
+—En la celda —dijo—. Bajó a mi celda con una antorcha. Me dijo que las de su pueblo estaban en tinajas. Le enseñé a pelear con las manos esa noche, para que pudiera defenderse en la torre. Tenía las manos pequeñas. Muy pequeñas. Y aprendía muy deprisa. Me mordió. Aquí, en el pulgar. Le enseñé eso también: que si te cogen, muerdes.
 
-—Lo sé.
+Edda se rio, sin querer.
 
 —Y siglos después —siguió Hoarah Loux—, de mano en mano, de monje en monje, vuelve. En las manos de una Edda. Delante de mí. —Se le llenaron los ojos de lágrimas—. Como un fuego pequeño.
 
@@ -352,7 +352,7 @@ Fue una carcajada enorme, feliz, de pura alegría, como las que soltaba en las b
 
 —¡Bien! —dijo—. ¡Bien hecho! ¡Así se lucha!
 
-Cayó despacio. De rodillas primero. Luego de espaldas. Se quedó tumbado en la ceniza, en el centro de la explanada, junto a la espada de piedra de su hijo, mirando el cielo gris donde ya empezaban a verse, débiles, por primera vez en mucho tiempo, algunas estrellas.
+Cayó despacio. De rodillas primero. Luego de espaldas. Se quedó tumbado en la ceniza, en el centro de la explanada, junto a la espada de piedra de su hijo, mirando el cielo gris donde ya empezaban a verse, débiles, por primera vez en siglos, algunas estrellas.
 
 Serosh se levantó. Caminó despacio hasta él. Se tumbó a su lado, apoyando la cabeza en su hombro.
 
@@ -378,7 +378,7 @@ Respiró hondo. Una vez. Dos.
 
 —¿Sí?
 
-—Píntala. —Le apretó la mano con la suya, enorme, caliente—. La puerta. Cuando vuelvas a tu aldea. Aunque no quede casa detrás. Píntala de azul. —Le tembló la voz—. Por si alguien más quiere volver.
+—Píntala. —Le apretó la mano con la suya, enorme, caliente—. La puerta. Cuando vuelvas a tu aldea. Aunque no quede casa detrás. Píntala de azul. Por si alguien más quiere volver.
 
 —Lo haré.
 
@@ -392,7 +392,7 @@ Las estrellas, arriba, se veían cada vez más.
 
 * * *
 
-Edda se quedó junto a él mucho tiempo. Junto a él y junto al león, que no se movió.
+Edda se quedó junto a él hasta que la ceniza le cubrió las botas. Junto a él y junto al león, que no se movió.
 
 Luego se levantó. Se guardó las dos piedras grises de Godfrey en el bolsillo de dentro. Ya no cabían. Tuvo que sacar la nota de Ranni y metérsela por dentro de la camisa, contra la piel, para hacerles sitio.
 

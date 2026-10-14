@@ -16,15 +16,13 @@ Edda miró el acantilado. Luego miró el camino que acababa de recorrer.
 
 Tardó tres semanas en reunir las dos mitades.
 
-La primera estaba en la Fortaleza de la Cuarta Luna, en las tierras altas al norte del lago, en manos de un caballero de Caria que llevaba siglos encerrado en la torre más alta. No luchó. Edda lo encontró sentado junto a una ventana, con la armadura puesta y la espada sobre las rodillas, mirando hacia la Academia. Estaba muerto. Llevaba muerto tanto tiempo que la armadura se había oxidado sobre los huesos, y el medallón seguía en su mano, apretado entre los dedos de hueso, como Thops había apretado su llave. Edda tuvo que romperle los dedos, también, para cogerlo. Le pidió perdón en voz alta antes de hacerlo. No supo por qué.
+La primera estaba en la Fortaleza de la Cuarta Luna, en las tierras altas al norte del lago, en manos de un caballero de Caria que llevaba siglos encerrado en la torre más alta. No luchó. Edda lo encontró sentado junto a una ventana, con la armadura puesta y la espada sobre las rodillas, mirando hacia la Academia. Estaba muerto. Llevaba muerto tanto tiempo que la armadura se había oxidado sobre los huesos, y el medallón seguía en su mano, apretado entre los dedos de hueso, como Thops había apretado su llave. Edda tuvo que romperle los dedos, también, para cogerlo. Le pidió perdón en voz alta antes de hacerlo. Se sintió idiota.
 
 La segunda estaba en la Fortaleza Haight, una torre de vigía de la Orden en el este de Necrolimbo, custodiada por un caballero de armadura dorada que no sabía lo que guardaba. Este sí estaba vivo. Edda intentó hablar con él; le dijo que solo quería el medallón, que no tenía intención de hacerle daño. El caballero la miró a través de la visera de su yelmo con una expresión que Edda conocía bien, porque la había visto en los ojos de los soldados de Godrick: la de alguien que lleva tanto tiempo obedeciendo una orden que ya no recuerda quién se la dio.
 
 —Nadie pasa —dijo el caballero—. Por orden del rey.
 
 —¿De qué rey?
-
-El caballero se quedó callado un momento.
 
 —Del rey —repitió, y levantó la espada.
 
@@ -56,7 +54,7 @@ Campos de hierba dorada hasta el horizonte, mecidos por un viento suave que olí
 
 Edda lo había visto desde el primer día, desde la colina donde despertó: una silueta dorada en el horizonte, enorme, brillante, como un sol que no se pone. Pero nunca lo había visto así. Desde la meseta ocupaba la mitad del cielo. Su tronco era tan grueso que parecía una montaña de luz, y sus ramas se extendían por encima de las nubes, y sus hojas —millones de hojas doradas— caían despacio sobre la meseta, constantemente, como una nevada que no terminaba nunca. Al pie del Árbol, sobre una colina, se alzaba la capital: Leyndell, una ciudad de piedra blanca y cúpulas doradas, rodeada de murallas, como una corona dejada en el suelo.
 
-Edda se quedó mucho tiempo en el borde del ascensor, sin moverse. Una hoja dorada le cayó en el hombro. La cogió. Era cálida, como algo vivo, y pesaba menos que el aire.
+Edda se quedó en el borde del ascensor, sin moverse. Una hoja dorada le cayó en el hombro. La cogió. Era cálida, como algo vivo, y pesaba menos que el aire.
 
 —Es hermoso —dijo al fin.
 
@@ -96,7 +94,7 @@ Uno era Corhyn, el sacerdote de la Mesa Redonda, con su túnica dorada y su libr
 
 El otro estaba de pie en mitad del puente, inmóvil, con los brazos cruzados.
 
-Era un hombre delgado, casi esquelético, desnudo de cintura para arriba, con la piel bronceada y pegada a las costillas. Llevaba unos pantalones de lino gastados y estaba descalzo. Tenía la cara cubierta con una máscara de oro lisa, sin rasgos, con dos rendijas finas para los ojos. Miraba al cielo. No se movía. Edda se quedó mirándolo un rato largo y no lo vio parpadear, ni cambiar el peso de un pie a otro, ni respirar más fuerte. Era como una estatua que alguien hubiera vestido.
+Era un hombre delgado, casi esquelético, desnudo de cintura para arriba, con la piel bronceada y pegada a las costillas. Llevaba unos pantalones de lino gastados y estaba descalzo. Tenía la cara cubierta con una máscara de oro lisa, sin rasgos, con dos rendijas finas para los ojos. Miraba al cielo. No se movía. Edda se quedó mirándolo y no lo vio parpadear, ni cambiar el peso de un pie a otro, ni respirar más fuerte. Era como una estatua que alguien hubiera vestido.
 
 —No le hables —susurró Corhyn cuando Edda se acercó—. Está pensando.
 
@@ -120,7 +118,7 @@ Edda pensó en lo que Corhyn le había dicho en el patio de la Fortaleza: que la
 
 —¿Y qué quedaría?
 
-Corhyn se quedó callado. No contestó.
+Corhyn no contestó.
 
 Máscara Dorada no se había movido. Pero, al cabo de un rato, levantó una mano —una mano huesuda, de dedos larguísimos, con las uñas rotas— y la apoyó en la barandilla del puente. Corhyn contuvo la respiración. El hombre de la máscara giró la cabeza, muy despacio, y la miró a ella. A Edda. Durante un instante, a través de las rendijas de la máscara, Edda vio unos ojos grises, claros, de una inteligencia tan intensa que casi daba miedo.
 
@@ -160,7 +158,7 @@ Edda pensó en Arn. En la promesa que le había hecho. En la abuela diciéndole 
 
 —A veces se miente para que alguien pueda dormir —dijo—. Yo lo hice. Muchas veces. No me arrepiento de todas.
 
-Corhyn la miró durante mucho tiempo. Luego asintió despacio.
+Corhyn la miró. Luego asintió despacio.
 
 —Gracias —dijo—. No sé si tienes razón. Pero gracias.
 
@@ -218,9 +216,7 @@ Lo leyó entero. Lo leyó dos veces. Cuando llegó al final —*tengo miedo de q
 
 —¿Cómo lo sabes?
 
-Melina tardó en contestar.
-
-—No lo sé —dijo al fin, muy bajo—. Igual que en Nokron. Lo sé y no sé por qué.
+—No lo sé —dijo—. Igual que en Nokron. Lo sé y no sé por qué.
 
 Edda volvió a doblar la carta y la dejó en la grieta, junto a los huesos. Encima puso una piedra para que el viento no se la llevara.
 

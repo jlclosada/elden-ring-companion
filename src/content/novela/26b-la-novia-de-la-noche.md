@@ -16,7 +16,7 @@ Edda se miró las manos.
 
 Ranni seguía sin moverse. Pero Edda notó que el ojo azul había dejado de mirar la ventana.
 
-—Mi abuela me dijo que no le prometiera lo que no dependía de mí. —Edda sonrió, y la sonrisa le salió torcida—. Se lo prometí igual. Y me mataron en una colina en las Tierras Áridas, de un flechazo, llevándole agua a un general. Y cuando desperté en la Capilla, un hombre de máscara me dijo que habían pasado siglos. Siglos. —Se le quebró la voz—. Arn se hizo viejo y se murió sin saber qué me había pasado. O no se hizo viejo. No lo sé. No sé si llegó a la cosecha siguiente. Una mujer en Caelid me ha dicho que de la aldea solo quedan las puertas. Puertas azules en mitad de la nada.
+—Mi abuela me dijo que no le prometiera lo que no dependía de mí. —Edda sonrió, y la sonrisa le salió torcida—. Se lo prometí igual. Y me mataron en una colina en las Tierras Áridas, de un flechazo, llevándole agua a un general. Y cuando desperté en la Capilla, un hombre de máscara me dijo que habían pasado siglos. Siglos. Arn se hizo viejo y se murió sin saber qué me había pasado. O no se hizo viejo. No lo sé. No sé si llegó a la cosecha siguiente. Una mujer en Caelid me ha dicho que de la aldea solo quedan las puertas. Puertas azules en mitad de la nada.
 
 Sacó la bolsa del cinturón. La abrió. Puso las piedras sobre la mesa, una a una, junto al anillo de la luna oscura.
 
@@ -28,7 +28,7 @@ Las piedras brillaban débilmente a la luz negra del anillo.
 
 Se calló. No tenía más que decir. Se quedó mirando las piedras.
 
-Durante mucho tiempo, Ranni no habló.
+Ranni no habló.
 
 Luego, muy despacio, una de sus cuatro manos de porcelana se movió sobre la mesa. Se acercó a las piedras. Se detuvo encima de la azul, la del lago de Liurnia, sin tocarla. Y después la tocó: la punta de un dedo, frío, de porcelana, sobre la piedra. Se quedó así.
 
@@ -60,7 +60,7 @@ Edda no dijo nada.
 
 —Que cuando todo esto termine, sea como sea, buscaremos juntas la aldea de las puertas azules. Y dejaremos las piedras en el umbral.
 
-Edda se quedó mirándola. Sintió que algo se le rompía dentro, algo que llevaba mucho tiempo apretado, como un nudo que se suelta de golpe. No lloró. Pero tuvo que apartar la mirada hacia la ventana, hacia la luna, y quedarse así un rato largo, respirando despacio.
+Edda se quedó mirándola. Sintió que algo se le rompía dentro, algo que llevaba desde la Capilla apretado, como un nudo que se suelta de golpe. No lloró. Pero tuvo que apartar la mirada hacia la ventana, hacia la luna, y respirar despacio.
 
 Recogió las piedras una a una. Las guardó en la bolsa.
 
@@ -88,7 +88,7 @@ Murió dos veces en el lago. La primera, a mitad de camino, cuando una de las co
 
 La tercera vez llegó.
 
-Se derrumbó en la orilla del otro lado, sobre una losa de piedra blanca, temblando, con la piel cubierta de manchas que se desvanecían despacio. Se quedó tumbada mucho tiempo, mirando el techo rojo de la caverna, esperando a que el cuerpo le volviera a pertenecer.
+Se derrumbó en la orilla del otro lado, sobre una losa de piedra blanca, temblando, con la piel cubierta de manchas que se desvanecían despacio. Se quedó tumbada, mirando el techo rojo de la caverna, esperando a que el cuerpo le volviera a pertenecer.
 
 Cuando por fin se levantó, vio el sarcófago.
 
@@ -98,7 +98,7 @@ Era enorme, de piedra blanca, liso, sin adornos. Flotaba en el aire sobre una pl
 
 Edda se tumbó dentro.
 
-La piedra empezó a moverse. Bajó. Bajó durante mucho tiempo, por un túnel oscuro, tan estrecho que Edda podía tocar las paredes con los dedos si sacaba la mano. Luego el túnel se abrió y el sarcófago siguió bajando por el vacío, despacio, como una hoja que cae, y Edda vio algo que no olvidaría nunca.
+La piedra empezó a moverse. Bajó. Bajó tanto que se le taparon los oídos, por un túnel oscuro, tan estrecho que Edda podía tocar las paredes con los dedos si sacaba la mano. Luego el túnel se abrió y el sarcófago siguió bajando por el vacío, despacio, como una hoja que cae, y Edda vio algo que no olvidaría nunca.
 
 * * *
 
@@ -106,7 +106,7 @@ Era un campo de estrellas.
 
 No un cielo falso, como el de Nokron, sino un cielo de verdad. Oscuro, infinito, sin techo ni paredes, con estrellas reales en todas direcciones, arriba, abajo, a los lados. Galaxias que giraban despacio como remolinos de leche en el agua. Nebulosas de colores imposibles: violetas, verdes, ámbar. Edda estaba de pie sobre una plataforma de piedra suspendida en el vacío, del tamaño de una plaza, y alrededor de ella no había nada. Solo el cosmos. Solo la noche. Solo el silencio, un silencio tan absoluto que podía oír su propio corazón.
 
-Se quedó inmóvil, con la boca abierta, durante mucho tiempo.
+Se quedó inmóvil, con la boca abierta.
 
 Pensó en Arn. En el pozo. En la rana vieja. Pensó que, si existiera un sitio donde los muertos van cuando se mueren, sería algo así. No un sitio frío. Un sitio grande. Tan grande que todo cabía.
 
@@ -170,7 +170,7 @@ La lágrima inclinó la cabeza.
 
 —Había algo —dijo Edda—. Algo que se movía. Muy lejos.
 
-No supo qué era. No lo sabría hasta mucho tiempo después. Pero esa noche, cuando por fin volvió a la superficie, soñó con un ojo enorme, sin párpado, al otro lado del cielo, que la miraba sin odio y sin interés, como se mira una hormiga.
+No supo qué era. No lo sabría hasta mucho después. Pero esa noche, cuando por fin volvió a la superficie, soñó con un ojo enorme, sin párpado, al otro lado del cielo, que la miraba sin odio y sin interés, como se mira una hormiga.
 
 Y el camino se abrió.
 
@@ -192,7 +192,7 @@ Edda se acercó despacio. Se detuvo junto al altar.
 
 Tenía la cara de la muñeca. La misma cara exacta, las mismas facciones finas, la misma barbilla. Pero no era porcelana. Era piel. Y la piel tenía pecas, muy pocas, muy claras, en el puente de la nariz. La muñeca no las tenía. La bruja de las nieves no las había puesto.
 
-Edda se quedó mirando las pecas mucho tiempo.
+Edda se quedó mirando las pecas.
 
 Luego sacó el anillo de la luna oscura de la bolsa. Le tomó la mano izquierda al cuerpo. Estaba fría como el mármol, pero no rígida. Los dedos se dejaron mover. Le puso el anillo en el anular, despacio, con cuidado, como se pone un anillo en una boda.
 
@@ -260,11 +260,11 @@ Edda esperó.
 
 —Yo me iré con ella. Lejos. A las estrellas. —La voz le tembló un poco—. Ese es el precio. No se puede llevar el Orden lejos sin ir con él.
 
-Edda se quedó callada. Miró las lunas de las paredes.
+Edda miró las lunas de las paredes.
 
 —¿Por qué me lo cuentas?
 
-Ranni tardó mucho en contestar. Le tomó la mano. La suya estaba fría, y temblaba, y era de carne.
+Ranni le tomó la mano. La suya estaba fría, y temblaba, y era de carne.
 
 —Porque no quiero irme sola —dijo—. Y porque eres la única persona en novecientos años que me ha traído un cuchillo envuelto en un trozo de su capa sin saber lo que era. Que ha dejado viva a mi madre. Que ha dejado una flor en un escalón. Que me ha contado lo de las piedras.
 
@@ -282,7 +282,7 @@ Edda la miró. A los cuatro ojos. A las pecas. A la mano fría que temblaba sobr
 
 —Entonces te equivocarás. —Ranni casi sonrió—. Y yo me equivocaré contigo. Que es más de lo que he hecho en novecientos años.
 
-Edda se quedó en silencio mucho tiempo. Luego, despacio, apretó la mano que tenía entre las suyas. No dijo que sí. No dijo que no. Solo apretó.
+Edda no contestó. Luego, despacio, apretó la mano que tenía entre las suyas. No dijo que sí. No dijo que no. Solo apretó.
 
 Ranni bajó los ojos hacia las dos manos. Se quedó mirándolas.
 
@@ -290,7 +290,7 @@ Ranni bajó los ojos hacia las dos manos. Se quedó mirándolas.
 
 —Yo tampoco.
 
-—Lo sé. —Ranni le soltó la mano. Se levantó, despacio, apoyándose en el altar—. Te esperaré al final del camino. Te lo prometo. Aunque no dependa de mí.
+—Ya. —Ranni le soltó la mano. Se levantó, despacio, apoyándose en el altar—. Te esperaré al final del camino. Te lo prometo. Aunque no dependa de mí.
 
 Se volvió hacia la ventana alta, hacia la luna que bajaba. Y se desvaneció. No de golpe, como Melina, sino despacio, como la luna cuando la cubren las nubes: primero los bordes, luego el pelo, luego la cara. Lo último que quedó de ella en la catedral, durante un instante, fueron las pecas, flotando en el aire como tres granos de polvo de estrellas.
 
@@ -302,13 +302,11 @@ Edda salió de la catedral cuando ya era de día. Melina la estaba esperando en 
 
 —Ya está —dijo Edda.
 
-—Lo sé. —Melina no la miró—. La he oído reír desde aquí.
+—Ya. —Melina no la miró—. La he oído reír desde aquí.
 
 Edda se sentó a su lado. Las hojas tintineaban sobre sus cabezas.
 
 —¿Qué piensas? —le preguntó.
-
-Melina tardó mucho en contestar.
 
 —Pienso que hay muchos caminos —dijo al fin—. Y que no me corresponde a mí elegir el tuyo.
 

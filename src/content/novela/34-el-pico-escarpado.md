@@ -6,7 +6,7 @@ No volaban como pájaros, en círculos ordenados. Volaban como moscas alrededor 
 
 Había dejado la iglesia de la llanura tres días antes. Leda le había dicho que el camino hacia el Torreón de Messmer pasaba por el este, rodeando el pico, y que no se acercara a la montaña. *Allí no hay nada que tenga que ver con el señor*, había dicho. *Solo dragones viejos y locos.*
 
-Edda había mirado el pico desde el puente de Castillo Ensis y había sentido algo que no supo explicar. Una llamada. Como cuando había tocado el brazo marchito en Mohgwyn. Como cuando había bajado a la fisura de los ataúdes. No era el perfume de Miquella. Era otra cosa. Algo más antiguo, más triste.
+Edda había mirado el pico desde el puente de Castillo Ensis y había sentido algo que no supo explicar. Una llamada. Como cuando había tocado el brazo marchito en Mohgwyn. Como cuando había bajado a la fisura de los ataúdes. No el perfume de Miquella: otra cosa. Algo más antiguo, más triste.
 
 Rodeó el pico igualmente, como le había dicho Leda. Pero se quedó a dormir al pie.
 
@@ -34,25 +34,25 @@ Comieron en silencio un rato. Las siluetas de los dragones volaban sobre la cumb
 
 —¿Por qué cazas dragones? —preguntó Edda al fin.
 
-Igon tardó en contestar. Masticó el pan despacio, muy despacio, mirando la montaña. Luego tragó y se quedó un rato callado, con el resto del pan en la mano.
+Igon masticó el pan despacio, muy despacio, mirando la montaña. Luego tragó, con el resto del pan en la mano.
 
-—Hace mucho tiempo —dijo al fin—, cuando yo era joven, vivía en un pueblo de pescadores. Junto al mar. En el norte de las Tierras Intermedias, donde el mar es gris y frío y las olas rompen contra rocas negras. Era un lugar tranquilo. Pequeño. Cuarenta casas. Una iglesia. Un muelle de madera donde atracábamos las barcas. —Hizo una pausa—. Feliz. Era un pueblo feliz. No lo supe hasta después.
+—Hace cuarenta años —dijo al fin—, cuando yo era joven, vivía en un pueblo de pescadores. Junto al mar. En el norte de las Tierras Intermedias, donde el mar es gris y frío y las olas rompen contra rocas negras. Era un lugar tranquilo. Pequeño. Cuarenta casas. Una iglesia. Un muelle de madera donde atracábamos las barcas. —Hizo una pausa—. Feliz. Era un pueblo feliz. No lo supe hasta después.
 
 Edda no dijo nada.
 
-—Yo tenía una mujer —siguió Igon—. Y dos hijos. Un niño y una niña. El niño tenía siete años y quería ser pescador como yo. Bajaba al muelle cada mañana a verme salir. La niña tenía cuatro y le daba miedo el mar. —Se le quebró la voz, apenas—. Mi mujer remendaba redes. Cantaba mientras las remendaba. Siempre la misma canción. Una canción de pescadores, de las que se cantan para que vuelvan las barcas.
+—Yo tenía una mujer —siguió Igon—. Y dos hijos. Un niño y una niña. El niño tenía siete años y quería ser pescador como yo. Bajaba al muelle cada mañana a verme salir. La niña tenía cuatro y le daba miedo el mar. Mi mujer remendaba redes. Cantaba mientras las remendaba. Siempre la misma canción. Una canción de pescadores, de las que se cantan para que vuelvan las barcas.
 
 —¿Qué pasó?
 
-—Un día vino un dragón. —Igon apretó el pan con los dedos hasta desmigarlo—. Uno enorme, negro. Volaba torcido, con una sola ala, como un pájaro herido. Venía del oeste. Iba sangrando. Lo vimos desde el mar. Yo estaba en la barca, pescando, lejos de la costa, y lo vi pasar por encima de mí. Sangraba oro. Y rugía. Rugía de una manera que no he vuelto a oír nunca. —Cerró los ojos—. No era un rugido de rabia. Era otra cosa. Como un hombre que llora.
+—Un día vino un dragón. —Igon apretó el pan con los dedos hasta desmigarlo—. Uno enorme, negro. Volaba torcido, con una sola ala, como un pájaro herido. Venía del oeste. Iba sangrando. Lo vimos desde el mar. Yo estaba en la barca, pescando, lejos de la costa, y lo vi pasar por encima de mí. Sangraba oro. Y rugía. Rugía de una manera que no he vuelto a oír nunca. —Cerró los ojos—. No de rabia. Como un hombre que llora.
 
-Se quedó en silencio un largo momento.
+Escupió al fuego.
 
 —Se posó en el pueblo —dijo al fin—. No sé por qué. Quizá estaba cansado. Quizá ya no podía volar más. Se posó en la plaza, junto a la iglesia, y se quedó allí tumbado, sangrando, rugiendo. Y la gente salió a mirarlo. Y alguien le tiró una piedra. —Abrió los ojos—. Y el dragón levantó la cabeza. Y abrió la boca.
 
-Igon no terminó. No hacía falta.
+»Yo lo vi desde la barca. El rayo no quema como el fuego. Revienta. A los que estaban en la plaza los abrió por dentro, y se quedaron de pie un momento, humeando, antes de caer. La iglesia se vino abajo con la gente que había corrido a esconderse dentro. Oí gritar a los de debajo de las piedras hasta que se hizo de noche.
 
-—Yo sobreviví porque estaba en el mar —dijo, al cabo de un rato—. Volví a la mañana siguiente y no quedaba nada. Solo ceniza. Las casas, la iglesia, el muelle. Todo. Y huellas de garras en la arena de la playa. Y un rastro de sangre dorada que se iba hacia el sur. —Levantó la vista hacia la montaña—. Lo he seguido desde entonces. Cuarenta años. De tierra en tierra. De rumor en rumor. Hasta el borde del mundo. Y cuando ya no había más mundo, encontré una mano marchita en un palacio de sangre y la toqué. Porque me dijeron que el rastro seguía al otro lado.
+—Volví a la mañana siguiente —siguió—. Encontré a mi mujer por la mano. Por el anillo. El resto no se podía reconocer. A los niños no los encontré nunca. Las casas, la iglesia, el muelle. Todo ceniza. Y huellas de garras en la arena de la playa. Y un rastro de sangre dorada que se iba hacia el sur. —Levantó la vista hacia la montaña—. Lo he seguido desde entonces. Cuarenta años. De tierra en tierra. De rumor en rumor. Hasta el borde del mundo. Y cuando ya no había más mundo, encontré una mano marchita en un palacio de sangre y la toqué. Porque me dijeron que el rastro seguía al otro lado.
 
 —¿Y lo has encontrado?
 
@@ -86,7 +86,7 @@ Edda se quedó muy quieta.
 
 Se quedaron un rato en silencio.
 
-—Huyó herido —dijo Igon al fin—. Enloquecido de dolor y de rabia. Atravesó el mundo con una sola ala, sangrando. Pasó por mi pueblo. —Se quedó callado un momento—. Y llegó hasta aquí. Hasta este pico. Donde lleva siglos lamiéndose las heridas, esperando a volver a ser fuerte para vengarse de su señor.
+—Huyó herido —dijo Igon al fin—. Enloquecido de dolor y de rabia. Atravesó el mundo con una sola ala, sangrando. Pasó por mi pueblo. Y llegó hasta aquí. Hasta este pico. Donde lleva siglos lamiéndose las heridas, esperando a volver a ser fuerte para vengarse de su señor.
 
 Edda se quedó mirando al viejo cazador. El arco enorme a su espalda. Las flechas del tamaño de jabalinas. La armadura remendada con trozos de otras.
 
@@ -100,15 +100,13 @@ Igon la miró con sorpresa. Luego se rio. Una carcajada seca, corta, sin alegrí
 
 —Las crías —dijo Edda, más tarde, cuando el fuego ya era solo brasas—. ¿Qué pasó con ellas?
 
-Igon tardó en contestar.
-
 —No lo sé —dijo al fin—. Las canciones no lo dicen. Algunas dicen que murieron en la batalla, con su madre. Otras que huyeron. —Levantó la vista hacia la cumbre, donde las siluetas de los dragones seguían volando en espirales—. Hay dragones rojos ahí arriba. Como la madre. No sé si son sus hijos. Los dragones no tienen familia como nosotros. Pero lo siguen. Vuelan a su alrededor. Lo protegen.
 
 —Como tus hijos bajaban al muelle a verte salir.
 
 Igon se quedó inmóvil.
 
-No dijo nada durante mucho tiempo. Luego se levantó, cogió el arco, y se alejó del fuego, hacia la oscuridad de la aldea vacía. Edda lo oyó caminar entre las casas en ruinas durante un buen rato. Luego dejó de oírlo.
+Luego se levantó, cogió el arco, y se alejó del fuego, hacia la oscuridad de la aldea vacía. Edda lo oyó caminar entre las casas en ruinas durante un buen rato. Luego dejó de oírlo.
 
 Cuando volvió, al amanecer, tenía los ojos rojos. No dijo nada. Se sentó junto a las brasas, cogió el resto del pan, lo partió por la mitad y le dio un trozo.
 
@@ -132,9 +130,9 @@ Al segundo rojo, Edda lo vio dudar. Un instante. Con la cuerda tensa y la flecha
 
 La draca cayó por la ladera, rodando, entre las rocas. Se quedó tumbada al pie de un risco, con las alas abiertas.
 
-Igon bajó el arco. Se quedó mirando el cuerpo rojo un largo rato.
+Igon bajó el arco. Se quedó mirando el cuerpo rojo.
 
-—Era joven —dijo, muy bajo—. Mira. No tiene cicatrices.
+—Era joven —dijo—. Mira. No tiene cicatrices.
 
 Edda no dijo nada.
 
@@ -160,7 +158,7 @@ El viejo se acercó. Miró las escamas. Se quedó muy quieto.
 
 —Rojas.
 
-Igon no dijo nada. Se quedó mirando las escamas mucho tiempo. Luego se agachó, muy despacio, y cogió una. La miró a la luz roja de la llama. Le dio la vuelta. En el reverso, alguien había grabado algo con una garra, torpemente, como un niño que aprende a escribir. Una marca. Una sola línea curva.
+Igon no dijo nada. Luego se agachó, muy despacio, y cogió una. La miró a la luz roja de la llama. Le dio la vuelta. En el reverso, alguien había grabado algo con una garra, torpemente, como un niño que aprende a escribir. Una marca. Una sola línea curva.
 
 —No sé qué significa —dijo Igon.
 
@@ -194,9 +192,9 @@ Igon se detuvo. Tensó el arco. Le temblaban las manos.
 
 —Bayle —dijo, con una voz que Edda nunca le había oído: alta, rota, casi infantil—. Bayle el Pavoroso. ¿Me recuerdas?
 
-El dragón lo miró con sus ojos rojos. Unos ojos enormes, del tamaño de un escudo, inyectados en sangre, con la pupila estrecha como una rendija. Lo miró mucho tiempo. No había reconocimiento en ellos. Solo cansancio. Un cansancio tan antiguo y tan profundo que Edda sintió que se le encogía el estómago.
+El dragón lo miró con sus ojos rojos. Unos ojos enormes, del tamaño de un escudo, inyectados en sangre, con la pupila estrecha como una rendija. Lo miró. No había reconocimiento en ellos. Solo cansancio. Un cansancio tan antiguo y tan profundo que Edda sintió que se le encogía el estómago.
 
-—No me recuerdas —dijo Igon. Y se rio, una risa horrible—. Claro que no. ¿Por qué ibas a recordarme? Solo era un pescador. Solo era un pueblo. Cuarenta casas y una iglesia. Solo eran… —Se le quebró la voz—. Solo eran mi mujer y mis hijos.
+—No me recuerdas —dijo Igon. Y se rio, una risa horrible—. Claro que no. ¿Por qué ibas a recordarme? Solo era un pescador. Solo era un pueblo. Cuarenta casas y una iglesia. Solo eran… Solo eran mi mujer y mis hijos, hijo de puta.
 
 Bayle siguió mirándolo. Luego habló.
 
@@ -232,7 +230,7 @@ El ojo de Bayle se movió hacia ella. La miró por primera vez.
 
 —Nadie. Una que coge piedras. —Edda se tocó la bolsa del cinturón—. ¿Son de ellas? ¿De tus crías?
 
-El dragón no contestó durante mucho tiempo.
+El dragón no contestó.
 
 —Son de Vyrka —dijo al fin—. De mi compañera. Las que se le cayeron en la batalla. Las cogí antes de caer de la tormenta. Con la boca, porque ya no tenía brazos. —Cerró los ojos—. Las he puesto en el altar porque es el único sitio de esta montaña donde arde algo. Para que no estén a oscuras.
 
@@ -244,7 +242,7 @@ Edda sintió algo en el pecho, como un nudo que se aprieta.
 
 —¿Y las crías?
 
-—No lo sé. —El dragón miró hacia los dos dragones rojos posados en las rocas—. Algunos de estos dicen que son nietos de mis crías. O bisnietos. No lo sé. No me acuerdo de las caras. Han pasado demasiadas eras. —Hizo una pausa—. Me traen comida. Vuelan a mi alrededor. Me protegen de los que vienen a comerse mi corazón. —Se le quebró la voz, una voz de roca—. No sé si son mías. Pero me cuidan como si lo fueran.
+—No lo sé. —El dragón miró hacia los dos dragones rojos posados en las rocas—. Algunos de estos dicen que son nietos de mis crías. O bisnietos. No lo sé. No me acuerdo de las caras. Han pasado demasiadas eras. —Hizo una pausa—. Me traen comida. Vuelan a mi alrededor. Me protegen de los que vienen a comerse mi corazón. No sé si son mías. Pero me cuidan como si lo fueran.
 
 Igon seguía con el arco tenso. Le temblaban los brazos cada vez más.
 
@@ -280,7 +278,7 @@ Del fondo de su garganta brotó una luz roja. Un rayo enorme, el más grande que
 
 Igon no se apartó.
 
-Se quedó de pie, en el camino del rayo, con el arco tensado al máximo y la última flecha apuntada al ojo del dragón. Edda le gritó que se apartara. No lo hizo. Tenía la cara tranquila. Los labios se le movían. Estaba cantando algo, muy bajo. Una canción de pescadores. De las que se cantan para que vuelvan las barcas.
+Se quedó de pie, en el camino del rayo, con el arco tensado al máximo y la última flecha apuntada al ojo del dragón. Edda le gritó que se apartara. No lo hizo. Tenía la cara tranquila. Los labios se le movían. Estaba cantando algo entre dientes. Una canción de pescadores. De las que se cantan para que vuelvan las barcas.
 
 El rayo lo alcanzó al mismo tiempo que la flecha salía disparada.
 
@@ -303,8 +301,6 @@ El viejo estaba tumbado de espaldas, a veinte pasos, con la armadura fundida sob
 —Bien. —Igon cerró los ojos—. Bien. Cuarenta años. —Le temblaron los labios—. No me siento como pensaba.
 
 —¿Cómo te sientes?
-
-El viejo tardó mucho en contestar.
 
 —Cansado —dijo al fin—. Solo cansado. —Abrió los ojos—. Pensé que me sentiría… no sé. Lleno. Que se cerraría algo. Y no se cierra. Siguen sin estar. —Se le escapó una lágrima por la comisura del ojo—. Siguen sin estar, Sinluz.
 
@@ -336,7 +332,7 @@ Bayle seguía vivo. Apenas. El ojo bueno, el que no tenía la flecha, la miró a
 
 —Nada es justo —dijo Edda, sin saber de dónde le venía—. Lo decía un padre.
 
-El dragón la miró un rato largo.
+El dragón la miró.
 
 —Las escamas del altar —dijo al fin—. Las de Vyrka. ¿Puedes…?
 
@@ -376,7 +372,7 @@ Esa noche, sola junto a una gracia en la ladera del pico, Edda miró hacia el oe
 
 Sacó de la bolsa del cinturón una piedra que había cogido en la cumbre, antes de bajar: negra, porosa, con un brillo dorado en el fondo de los agujeros, donde la sangre del dragón se había secado. La decimotercera.
 
-La miró mucho tiempo.
+La miró.
 
 Pensó en Igon, en *siguen sin estar*. En que había matado a su dragón y no se había cerrado nada. En que cuarenta años de venganza le habían dado una cumbre de ceniza y tres nombres grabados en una piedra.
 

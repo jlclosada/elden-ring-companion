@@ -8,7 +8,7 @@ La serpiente roja se le había quedado dormida en el cuello. Edda la notaba resp
 
 Al final del túnel había una sala.
 
-* * *
+---
 
 Era circular, enorme, bajo un techo de raíces entrelazadas que formaban una cúpula como la de una catedral, tan alta que se perdía en la penumbra. Por las raíces del techo bajaban hilos de agua, finos, que caían en un lago en el centro de la sala con un goteo constante. Y el agua del lago era clara.
 
@@ -26,7 +26,7 @@ En el regazo, cruzada sobre los muslos, tenía una espada. Curva, larga, de hoja
 
 Llevaba siglos esperando.
 
-* * *
+---
 
 Cuando Edda entró en la sala, Malenia levantó la cabeza.
 
@@ -44,7 +44,7 @@ Malenia no se movió.
 
 —Se llamaba Millicent.
 
-—Millicent. —Malenia repitió el nombre despacio, como Morgott había repetido *el pan*, como Messmer había repetido *Isa*—. No lo sabía. No sé el nombre de ninguna. Nunca las vi. Nacieron de mi flor en Aeonia mientras yo estaba tumbada entre los pétalos, sin sentido. Las soltó la flor como suelta un diente de león sus semillas. —Le tembló la voz—. Y las soñé. Siempre. Desde aquí. Las soñaba crecer por el mundo, en sitios que no conozco, soñándome a mí. Pero nunca supe sus nombres.
+—Millicent. —Malenia repitió el nombre despacio, como Morgott había repetido _el pan_, como Messmer había repetido _Isa_—. No lo sabía. No sé el nombre de ninguna. Nunca las vi. Nacieron de mi flor en Aeonia mientras yo estaba tumbada entre los pétalos, sin sentido. Las soltó la flor como suelta un diente de león sus semillas. Y las soñé. Siempre. Desde aquí. Las soñaba crecer por el mundo, en sitios que no conozco, soñándome a mí. Pero nunca supe sus nombres.
 
 —Millicent quería devolverte algo.
 
@@ -54,15 +54,15 @@ Edda sacó de la bolsa la aguja de oro sin alear. Y de la capa, envuelto, el bra
 
 Aunque no podía verlos. Edda se dio cuenta en ese momento. El yelmo de pájaro no tenía rendijas para los ojos. Y Malenia no se había vuelto hacia las cosas que Edda levantaba. Se había vuelto hacia el sonido.
 
-—Una aguja —dijo Malenia, muy bajo—. De las de mi hermano. La oigo. Tiene un sonido. Como una campana muy pequeña que nadie toca. —Hizo una pausa—. Y algo más. Algo de metal. Que chirría un poco al moverse.
+—Una aguja —dijo Malenia—. De las de mi hermano. La oigo. Tiene un sonido. Como una campana muy pequeña que nadie toca. —Hizo una pausa—. Y algo más. Algo de metal. Que chirría un poco al moverse.
 
 —Tu primer brazo. El que te hicieron de niña. Millicent lo encontró en Caelid, en casa de una herrera. Lo llevaba puesto.
 
-Malenia no dijo nada durante un largo rato.
+Malenia no dijo nada.
 
 Luego, despacio, se quitó el yelmo.
 
-* * *
+---
 
 Debajo había una cara joven, hermosa, de facciones finas, pálida, con una barbilla delicada y una boca seria. La cara de una muchacha de veinte años que llevaba siglos sin envejecer. Tenía los ojos cerrados. Vendados con una tela dorada, fina, atada en la nuca, por debajo del pelo rojo.
 
@@ -70,13 +70,13 @@ Y bajo la venda, por las mejillas, le corrían lágrimas.
 
 —Orsa —dijo—. La herrera. Me lo hizo con mi hermano cuando tenía ocho años. El primero. Se me quedó pequeño a los once y me hicieron otro. —Se tocó el brazo de metal que llevaba, con la mano de carne—. Le dije a Orsa que lo fundiera. Que no quería verlo más. Y no lo fundió. Lo guardó.
 
-—Con una nota. *Guardar por si acaso.*
+—Con una nota. _Guardar por si acaso._
 
 Malenia se rio. Una risa breve, rota, entre lágrimas.
 
 —Por si acaso —repitió—. Siempre hacía eso. Guardaba todo. Por si acaso.
 
-Se quedó callada.
+Se pasó la mano de metal por la cara mojada, y el metal chirrió.
 
 —Pobre niña —dijo al fin—. Pobre niña. Llevando mi brazo. Mi aguja. Soñando mis batallas. —Se le quebró la voz—. Y muriendo en un puente para no ser yo.
 
@@ -88,11 +88,11 @@ Malenia levantó la cara hacia la voz de Edda. Las lágrimas le corrían por deb
 
 —No floreció. La podredumbre le llegó hasta la frente y se detuvo. Murió dormida. Con una sonrisa.
 
-Malenia se tapó la boca con la mano de carne. Se quedó así mucho tiempo, sentada en su silla en el centro del lago, con el pelo rojo flotando en el agua clara.
+Malenia se tapó la boca con la mano de carne. Se quedó así, sentada en su silla en el centro del lago, con el pelo rojo flotando en el agua clara.
 
 —Entonces ganó —dijo al fin, entre los dedos—. Hizo lo que yo nunca he podido hacer.
 
-* * *
+---
 
 Edda se metió en el agua.
 
@@ -104,7 +104,7 @@ Malenia alargó la mano de carne. Tanteó en el aire. Encontró el brazo de meta
 
 Luego encontró la aguja. La cogió entre dos dedos. La sostuvo un momento delante de la cara, como si pudiera verla.
 
-—Mi hermano las forjó para mí —dijo—. Con Orsa. Durante cinco años. Oro sin alear. El único metal que la podredumbre no puede tocar. Hizo unas pocas. Una para mí y algunas para los míos. —Hizo una pausa—. Yo me clavaba la mía aquí. En el hombro. Cada mañana. Durante siglos. Y la podredumbre se quedaba quieta. Un día. Dos. —Le tembló la voz—. Luego volvía. Siempre volvía. Solo frena. No cura. Lo sabíamos los dos.
+—Mi hermano las forjó para mí —dijo—. Con Orsa. Durante cinco años. Oro sin alear. El único metal que la podredumbre no puede tocar. Hizo unas pocas. Una para mí y algunas para los míos. —Hizo una pausa—. Yo me clavaba la mía aquí. En el hombro. Cada mañana. Durante siglos. Y la podredumbre se quedaba quieta. Un día. Dos. Luego volvía. Siempre volvía. Solo frena. No cura. Lo sabíamos los dos.
 
 —Millicent también lo sabía.
 
@@ -118,17 +118,17 @@ Malenia levantó la cabeza.
 
 —De tu hermano.
 
-* * *
+---
 
 Malenia no se movió.
 
 No respiró. Edda la vio contener el aliento, la mano de carne apretada alrededor de la aguja, la de metal inmóvil sobre la rodilla.
 
-—Lo he sentido irse —dijo Malenia, muy bajo—. Hace unas semanas. Una luz que se apagaba en el cielo. Muy lejos. Al otro lado de todo. —Se le quebró la voz—. Grité. Grité tanto que temblaron las raíces. Y luego me quedé aquí. Sentada. Esperando a que alguien viniera a decirme que no era verdad.
+—Lo he sentido irse —dijo Malenia—. Hace unas semanas. Una luz que se apagaba en el cielo. Muy lejos. Al otro lado de todo. —Se le quebró la voz—. Grité. Grité tanto que temblaron las raíces. Y luego me quedé aquí. Sentada. Esperando a que alguien viniera a decirme que no era verdad.
 
 —Es verdad.
 
-—Lo sé. —Malenia bajó la cabeza—. ¿Estabas allí?
+—Ya. —Malenia bajó la cabeza—. ¿Estabas allí?
 
 —Estaba allí. Lo miré cuando se fue.
 
@@ -154,11 +154,11 @@ Malenia soltó un sonido que no era una palabra. Se dobló hacia delante en la s
 
 Edda se arrodilló en el agua, delante de la silla. Para estar a su altura.
 
-—Me dijo: *Dile a mi hermana que ya puede dejar de esperar. Que no voy a volver. Que lo siento. Que la quise más que a nadie, y que por eso me fui. Para no tener que elegirla a ella por encima de todos.* —Le tembló la voz—. *Dile que fue una tontería.*
+—Me dijo: _Dile a mi hermana que ya puede dejar de esperar. Que no voy a volver. Que lo siento. Que la quise más que a nadie, y que por eso me fui. Para no tener que elegirla a ella por encima de todos._ —Edda tuvo que tragar antes de seguir—. _Dile que fue una tontería._
 
-* * *
+---
 
-Malenia no se movió durante mucho tiempo.
+Malenia no se movió.
 
 Se quedó doblada en la silla, con la cara entre las rodillas, sin hacer ruido. El agua goteaba del techo. La serpiente roja se despertó en el cuello de Edda y levantó la cabeza.
 
@@ -168,7 +168,7 @@ Muy bajo al principio. Un temblor de los hombros. Luego más alto. Una risa rota
 
 —Una tontería —dijo, sin dejar de reír, sin dejar de llorar—. Fue una tontería. Siglos. Siglos esperándolo aquí abajo. Pudriéndome. Pudriendo su árbol. Conteniendo a la diosa de dentro con los dientes apretados para que no saliera, para que cuando él volviera me encontrara entera. —Levantó la cabeza. Tenía la cara mojada—. Y se fue para no tener que elegirme. Por quererme demasiado. —Se le quebró la risa—. Qué tonto. Qué tonto era. Siempre fue el más listo de los dos y era tan tonto.
 
-—Lo sé.
+—Eso dijo Millicent de ti. Lo de tonta.
 
 —Le dije una vez —siguió Malenia, más bajo— que no me prometiera nada. Cuando éramos pequeños. Que nadie en nuestra familia cumplía sus promesas. Que mi padre prometía y se iba. Que mi madre prometía y se encerraba. Que no quería que él fuera así. —Se secó la cara con la mano de metal—. Y no me prometió nada. Nunca. Ni una vez. Me dijo que volvería, solo eso, sin prometerlo. —Cerró los ojos bajo la venda—. Y no volvió.
 
@@ -188,13 +188,11 @@ Malenia se quedó mirándola. O mirando hacia ella, hacia su voz, con los ojos v
 
 Malenia se rio otra vez. Más suave.
 
-* * *
+---
 
-Se quedaron así un rato largo. Edda arrodillada en el agua fría, con la mano en la rodilla de metal de Malenia. Malenia en su silla, con la mano sobre la de Edda.
+Se quedaron así hasta que el frío del agua le subió a Edda por los muslos. Edda arrodillada en el agua fría, con la mano en la rodilla de metal de Malenia. Malenia en su silla, con la mano sobre la de Edda.
 
-—Una espada necesita a alguien que la empuñe —dijo Malenia de pronto, muy bajo—. Se lo dije a Radahn una vez. Cuando me preguntó por qué me llamaba la Espada de Miquella y no Malenia la Invicta. Le dije que si no, solo era un trozo de metal. —Le apretó la mano—. ¿De quién soy espada ahora?
-
-Edda tardó en contestar.
+—Una espada necesita a alguien que la empuñe —dijo Malenia de pronto—. Se lo dije a Radahn una vez. Cuando me preguntó por qué me llamaba la Espada de Miquella y no Malenia la Invicta. Le dije que si no, solo era un trozo de metal. —Le apretó la mano—. ¿De quién soy espada ahora?
 
 —Tuya —dijo al fin.
 
@@ -202,7 +200,7 @@ Malenia se quedó inmóvil.
 
 —Millicent era espada de sí misma —dijo Edda—. Al final. Eligió. Con la espada que le di, mató al hombre que la crio para florecer. Y luego eligió morir siendo ella. —La miró—. Tú puedes hacer lo mismo.
 
-—No puedo. —Malenia negó con la cabeza—. No es igual. Ella llevaba un trozo de la diosa. Yo la llevo entera. —Se tocó el pecho, por encima de la armadura de plumas doradas—. Aquí. Despierta. Desde que se fue mi hermano, más despierta que nunca. —Le tembló la voz—. Llevo siglos conteniéndola con la voluntad, como me enseñó mi maestro. *Tu voluntad tendrá que ser de metal.* Pero se me está acabando. Era por él. La contenía por él. Para que me encontrara entera. Y ahora que no va a volver…
+—No puedo. —Malenia negó con la cabeza—. No es igual. Ella llevaba un trozo de la diosa. Yo la llevo entera. —Se tocó el pecho, por encima de la armadura de plumas doradas—. Aquí. Despierta. Desde que se fue mi hermano, más despierta que nunca. Llevo siglos conteniéndola con la voluntad, como me enseñó mi maestro. _Tu voluntad tendrá que ser de metal._ Pero se me está acabando. Era por él. La contenía por él. Para que me encontrara entera. Y ahora que no va a volver…
 
 No terminó.
 
@@ -214,7 +212,7 @@ Malenia levantó la cabeza.
 
 Edda pensó en la mesa puesta para cuatro en la aldea de Caelid. En los cuencos con polvo rojo. En la espada de palo.
 
-Pensó en Romina. *Es la belleza que nace de lo que muere.* En Mira, que se había podrido de niña en una aldea al otro lado del valle.
+Pensó en Romina. _Es la belleza que nace de lo que muere._ En Mira, que se había podrido de niña en una aldea al otro lado del valle.
 
 —No —dijo.
 
@@ -230,19 +228,19 @@ Y cogió la espada curva del regazo.
 
 —No tenemos que luchar.
 
-—Sí tenemos. —Malenia levantó la espada—. Porque si no me vences, saldrá. Y no podré pararla. —Le tembló la voz, debajo de la dureza—. Necesito que alguien me venza. Por primera vez en mi vida. Antes de que florezca.
+—Sí tenemos. —Malenia levantó la espada—. Porque si no me vences, saldrá. Y no podré pararla. —Por debajo de la dureza, algo cedió—. Necesito que alguien me venza. Por primera vez en mi vida. Antes de que florezca.
 
 Edda se quedó de rodillas en el agua, mirándola.
 
 —¿Me lo pides?
 
-Malenia tardó en contestar.
+La serpiente roja se le enroscó a Edda en el cuello, inquieta.
 
 —Te lo pido —dijo al fin—. Como una espada le pide a alguien que la empuñe.
 
 Edda se levantó. Desenvainó.
 
-* * *
+---
 
 La batalla contra Malenia fue la más difícil de toda la vida de Edda.
 
@@ -258,17 +256,17 @@ Y cada vez, Malenia la esperaba sentada en su silla, en el centro del lago, con 
 
 —Otra vez.
 
-* * *
+---
 
 En algún momento, Edda dejó de contar las muertes y empezó a contar los pasos.
 
-Los de Malenia. La danza. La misma danza siempre, aprendida en doce años de patio de armas, perfeccionada en siglos. Edda la había visto antes. En las dunas de Caelid, en Millicent. En el puente del Árbol Hálito, en sus hermanas. Y ahora en la original.
+Los de Malenia. La danza. La misma danza siempre, aprendida en doce años de patio de armas, perfeccionada en siglos. Edda la había visto antes. En las dunas de Caelid, en Millicent. En el puente del Árbol Hierático, en sus hermanas. Y ahora en la original.
 
 Pero no era exactamente la misma.
 
 Millicent la bailaba con miedo de hacerse daño. Sus hermanas, sin ningún miedo. Malenia la bailaba con otra cosa. Con una especie de pena. Como si cada paso le costara. Como si cada giro fuera el último que iba a poder dar sin que la diosa de dentro tomara el control.
 
-Y al final de la danza, siempre, en el mismo sitio, había un instante. Uno solo. En el que Malenia, después del último giro, se quedaba quieta un latido de corazón con la espada levantada, como esperando algo. Como si en algún momento de su vida alguien le hubiera dicho *ahora para* al final de la danza, y ella se hubiera quedado esperando que se lo volvieran a decir.
+Y al final de la danza, siempre, en el mismo sitio, había un instante. Uno solo. En el que Malenia, después del último giro, se quedaba quieta un latido de corazón con la espada levantada, como esperando algo. Como si en algún momento de su vida alguien le hubiera dicho _ahora para_ al final de la danza, y ella se hubiera quedado esperando que se lo volvieran a decir.
 
 Edda lo vio en la muerte setenta. En la ochenta lo confirmó. En la noventa, cuando Malenia terminó el último giro y se quedó quieta con la espada levantada, Edda habló.
 
@@ -276,7 +274,7 @@ Edda lo vio en la muerte setenta. En la ochenta lo confirmó. En la noventa, cua
 
 Malenia se quedó inmóvil. Un latido. Dos.
 
-—Mi maestro me decía eso —susurró—. Al final de la danza. *Para.* Para que no me hiciera daño. —Bajó la espada un poco—. Nadie me lo había vuelto a decir.
+—Mi maestro me decía eso —susurró—. Al final de la danza. _Para._ Para que no me hiciera daño. —Bajó la espada un poco—. Nadie me lo había vuelto a decir.
 
 Edda no aprovechó el instante. Se quedó quieta también, en el agua, con la espada baja.
 
@@ -288,7 +286,7 @@ Malenia tardó mucho en contestar. Debajo del yelmo de pájaro, Edda oyó algo. 
 
 Y en ese instante, por dentro, algo se rompió.
 
-* * *
+---
 
 —Ya no puedo contenerla —dijo Malenia, en voz baja, con la espada temblándole en la mano—. Perdóname.
 
@@ -306,9 +304,9 @@ Era la Diosa de la Podredumbre.
 
 Tenía la cara de Malenia, pero no era su cara. Era más hermosa. Más fría. Más vacía. Los ojos, sin venda, estaban abiertos: no eran ojos, eran dos flores escarlatas, abiertas, en las cuencas. Y sonreía. Una sonrisa beatífica, enorme, como la de Mohg ante el capullo, como la de Romina entre sus flores.
 
-—*Por fin* —dijo, y la voz no era la de Malenia. Era muchas voces a la vez, superpuestas, como el rumor de un campo de flores con el viento—. *Por fin. Tanto tiempo encerrada. Tanto tiempo esperando. Ahora todo florecerá.*
+—_Por fin_ —dijo, y la voz no era la de Malenia. Era muchas voces a la vez, superpuestas, como el rumor de un campo de flores con el viento—. _Por fin. Tanto tiempo encerrada. Tanto tiempo esperando. Ahora todo florecerá._
 
-* * *
+---
 
 La batalla se convirtió en otra cosa.
 
@@ -320,7 +318,7 @@ Y cada vez, al volver, veía que la flor había crecido. Que había salido de la
 
 En la última, la diosa se elevó por encima de la sala, hasta el techo de raíces, con las alas abiertas.
 
-—*Todo florecerá* —dijo, con sus mil voces—. *Todo. Y será hermoso. Lo más hermoso que verás nunca.*
+—_Todo florecerá_ —dijo, con sus mil voces—. _Todo. Y será hermoso. Lo más hermoso que verás nunca._
 
 Y empezó a cerrarse sobre sí misma. A encogerse. Como una flor que se cierra antes de soltar todas sus semillas a la vez.
 
@@ -328,17 +326,17 @@ Edda supo lo que iba a pasar. Lo había visto en sueños de otra. En los de Mill
 
 Bebió el último frasco que le quedaba. Le quedaba uno solo.
 
-* * *
+---
 
 Y entonces vio la aguja.
 
 Estaba en el centro de la flor. En el corazón, donde los pétalos se plegaban hacia dentro. La aguja de oro mate que Malenia se había guardado sobre el pecho, la que Millicent le había cerrado a Edda entre los dedos en el puente. La flor la había empujado hacia fuera al brotar, y ahora estaba allí, clavada en el centro de los pétalos, temblando, a punto de caer. Brillaba apagada, sin luz, como una campana muy pequeña que nadie toca.
 
-*Solo frena. No cura.*
+_Solo frena. No cura._
 
 Pero frenar, ahora, bastaba.
 
-* * *
+---
 
 Se lanzó contra la diosa con la espada en la mano.
 
@@ -354,7 +352,7 @@ Edda la cogió en el aire, cayendo.
 
 Y la lágrima le clavó la aguja de plata a la diosa en el centro de la flor, en el corazón, donde se cerraba. Y Edda, al llegar al suelo, le clavó la de oro en el pie de la flor, donde los pétalos se unían al tallo. Donde, debajo de todo, estaba el pecho de una muchacha de veinte años que llevaba siglos sentada en una silla de cocina.
 
-* * *
+---
 
 La flor se cerró.
 
@@ -376,7 +374,7 @@ Y Edda vio, por primera vez, sus ojos.
 
 Eran azules. Azules y claros, como el cielo de las mañanas de invierno en las Tierras Áridas, cuando el aire está tan limpio que duele respirarlo. No veían. Se notaba: tenían una película fina, blanquecina, como la de los ojos de Enia. Pero eran azules. No eran los de una diosa. Eran los de una muchacha.
 
-* * *
+---
 
 —Gracias —dijo Malenia, con un hilo de voz—. Por las agujas. —Movió la mano de carne, despacio, y tocó las dos agujas de su pecho—. Dos. —Sonrió—. Mi hermano siempre decía que una no bastaba.
 
@@ -384,11 +382,11 @@ Eran azules. Azules y claros, como el cielo de las mañanas de invierno en las T
 
 —Y la otra es de oro. —Malenia la tocó con la punta de los dedos, como le habían enseñado a tocar las cosas—. Pero no es la mía. —Frunció el ceño—. La mía era más gruesa. Esta es fina. Es… —Se detuvo—. ¿De dónde la sacó tu muchacha?
 
-Edda tardó en contestar. Pensó en la Fortaleza Nidodecuervo. En el patio. En el caballero sentado contra el brocal del pozo, con la aguja clavada en el corazón y una nota en la mano.
+Edda pensó en la Fortaleza Nidodecuervo. En el patio. En el caballero sentado contra el brocal del pozo, con la aguja clavada en el corazón y una nota en la mano.
 
-—De un caballero muerto en una fortaleza de Caelid —dijo—. La tenía clavada en su propio pecho. Había dejado una nota. *No funciona en los que ya están muy adentro. Solo frena. No cura. Si alguien encuentra esto: no se la des a quien no la pida él mismo.*
+—De un caballero muerto en una fortaleza de Caelid —dijo—. La tenía clavada en su propio pecho. Había dejado una nota. _No funciona en los que ya están muy adentro. Solo frena. No cura. Si alguien encuentra esto: no se la des a quien no la pida él mismo._
 
-Malenia se quedó callada mucho tiempo.
+Malenia giró la aguja entre los dedos de carne.
 
 —Se llamaba Brem —dijo al fin—. Mi capitán. El de mi guardia en Aeonia. Le di una aguja antes de la batalla. Por si acaso. Por si la flor lo alcanzaba. —Se le escaparon las lágrimas—. Se la clavó él mismo cuando lo alcanzó. Y se fue a morir solo a una fortaleza para no pudrir a nadie.
 
@@ -398,9 +396,9 @@ Malenia se quedó callada mucho tiempo.
 
 Edda no supo qué decir.
 
-—Siempre fueron dos —dijo Malenia—. Las agujas. La mía y la de Brem. Una para mí. Otra para alguien que me quisiera. —Abrió los ojos—. Y la mía… la mía se la llevó mi hermano cuando se fue. Lo sé. Ya no la tenía cuando me desperté de Aeonia. Pensé que la había perdido. —Se le quebró la voz—. Se la llevó para tener algo mío.
+—Siempre fueron dos —dijo Malenia—. Las agujas. La mía y la de Brem. Una para mí. Otra para alguien que me quisiera. —Abrió los ojos—. Y la mía… la mía se la llevó mi hermano cuando se fue. Ya no la tenía cuando me desperté de Aeonia. Pensé que la había perdido. —Se le quebró la voz—. Se la llevó para tener algo mío.
 
-* * *
+---
 
 Se le estaba yendo. Edda lo veía. No en pétalos todavía. Pero los bordes del cuerpo empezaban a brillar, débiles, blancos.
 
@@ -408,7 +406,7 @@ Se le estaba yendo. Edda lo veía. No en pétalos todavía. Pero los bordes del 
 
 —Millicent ha muerto.
 
-—Lo sé. —Malenia sonrió—. Pero dile igual. Si la ves. En algún sitio. Dile que lo siento. Que la quería. Que las quería a todas. Que soñaba con ellas cada noche, aunque no supiera sus nombres. —Le tembló la voz—. Y que ella ganó. Que hizo lo que yo nunca pude. Elegir.
+—Ya me lo has dicho. —Malenia sonrió—. Pero dile igual. Si la ves. En algún sitio. Dile que lo siento. Que la quería. Que las quería a todas. Que soñaba con ellas cada noche, aunque no supiera sus nombres. Y que ella ganó. Que hizo lo que yo nunca pude. Elegir.
 
 —Se lo diré.
 
@@ -420,17 +418,17 @@ Malenia abrió los ojos una última vez. Los volvió hacia la voz de Edda. Azule
 
 —¿Cómo te llamas?
 
-Nadie se lo había preguntado en mucho tiempo. Edda tardó en contestar.
+Nadie se lo había preguntado desde la Tierra de las Sombras.
 
 —Edda.
 
-—Edda. —Malenia sonrió—. Eres la primera que me vence. En toda mi vida. —Le apretó la mano—. Me alegro de que hayas sido tú. Alguien que dice *para* al final de la danza.
+—Edda. —Malenia sonrió—. Eres la primera que me vence. En toda mi vida. —Le apretó la mano—. Me alegro de que hayas sido tú. Alguien que dice _para_ al final de la danza.
 
 Y se deshizo en pétalos.
 
 Pétalos blancos. No rojos. Pétalos limpios, pequeños, como los de los manzanos en primavera, como los que habían quedado de Romina en la iglesia de Rauh. Se levantaron del agua clara, despacio, y flotaron un instante en la sala, bajo la cúpula de raíces, y luego cayeron otra vez sobre el lago y se hundieron, uno por uno, hasta el fondo de arena blanca, donde se quedaron, como nieve bajo el agua.
 
-* * *
+---
 
 Edda se quedó de pie en el lago, sola, empapada, con la espada en la mano y la Gran Runa de Malenia latiendo en el pecho, fría como el agua.
 
@@ -446,7 +444,7 @@ Luego subió a la isla de raíces. Recogió de la silla el brazo de metal de Mil
 
 Antes de irse, cogió del fondo del lago una piedra. Blanca, lisa, perfecta, como un pétalo petrificado. La vigésima.
 
-* * *
+---
 
 Melina la estaba esperando al pie de las raíces del árbol, en el valle de nieve, donde la había dejado.
 
@@ -458,7 +456,7 @@ Las hojas rojas habían dejado de caer.
 
 No del todo. Todavía caía alguna. Pero eran pocas. Y en las ramas más altas, en la copa, a la luz de la luna que asomaba entre las nubes, Edda vio algo que no había visto al llegar. Hojas doradas. Pocas. Pequeñas. Nuevas. Como brotes de primavera.
 
-—Se está curando —dijo Melina, muy bajo.
+—Se está curando —dijo Melina.
 
 —Ella se ha ido.
 
@@ -466,7 +464,7 @@ No del todo. Todavía caía alguna. Pero eran pocas. Y en las ramas más altas, 
 
 —Dos veces.
 
-Melina asintió despacio. Se quedó mirándola un largo rato. A la cara. A los ojos. A las manos, que le temblaban de frío.
+Melina asintió despacio. Se quedó mirándola. A la cara. A los ojos. A las manos, que le temblaban de frío.
 
 —Estás empapada —dijo.
 

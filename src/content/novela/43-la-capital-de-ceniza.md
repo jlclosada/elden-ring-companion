@@ -1,6 +1,6 @@
 Cuando Edda volvió a Leyndell, la Capital Real se había convertido en ceniza.
 
-Bajó desde Farum Azula por un camino que nunca supo describir. Un descenso de nubes, de viento, de tiempo que se doblaba sobre sí mismo como una tela. Recordaba haber caminado mucho tiempo por una escalera de piedra que flotaba en el aire, con el casco de Alejandro colgando del cinturón y golpeándole el muslo a cada paso. Recordaba haber cerrado los ojos. Y luego recordaba estar de pie en las afueras de la ciudad, en el camino del este, junto a la puerta oriental.
+Bajó desde Farum Azula por un camino que nunca supo describir. Un descenso de nubes, de viento, de tiempo que se doblaba sobre sí mismo como una tela. Recordaba haber caminado horas por una escalera de piedra que flotaba en el aire, con el casco de Alejandro colgando del cinturón y golpeándole el muslo a cada paso. Recordaba haber cerrado los ojos. Y luego recordaba estar de pie en las afueras de la ciudad, en el camino del este, junto a la puerta oriental.
 
 La misma puerta por la que había entrado la primera vez, cuando todo era dorado y las hojas caían como lluvia.
 
@@ -16,7 +16,7 @@ Edda levantó la vista.
 
 El Árbol estaba quemado. Ya no ardía: había ardido, durante días quizá, y ahora era un tronco negro, inmenso, retorcido, del que salían ramas desnudas como los dedos de un muerto que alguien hubiera dejado con la mano abierta hacia el cielo. No brillaba. No tenía hojas. Solo humo, todavía, saliendo de algunas grietas de la corteza carbonizada, subiendo en hilos finos hacia un cielo gris, bajo, del color del plomo.
 
-Edda se quedó mucho tiempo mirándolo.
+Edda se quedó mirándolo.
 
 Pensó en la primera vez que lo había visto, desde la colina de Necrolimbo, al salir de la Capilla. Una silueta dorada en el horizonte, como un sol que no se pone. Pensó en Melina diciendo *es hermoso, siempre lo ha sido* sin ningún entusiasmo, como se dice de alguien que fue hermoso y ya no lo es.
 
@@ -40,7 +40,7 @@ Tenía la cara gris, el pelo gris, la barba gris. Solo los ojos tenían color: c
 
 —Bram.
 
-—Lo he visto. —El viejo miró hacia arriba, hacia el tronco negro—. Desde aquí. Desde mi puerta. Una llama que vino del norte, por el cielo, como una estrella. Ámbar. Se curvó sobre la ciudad y cayó en la copa. Y el Árbol empezó a arder desde arriba. Despacio. Como una vela. —Se le quebró la voz—. Tres días. Ardió tres días. Y yo aquí sentado, mirándolo.
+—Lo he visto. —El viejo miró hacia arriba, hacia el tronco negro—. Desde aquí. Desde mi puerta. Una llama que vino del norte, por el cielo, como una estrella. Ámbar. Se curvó sobre la ciudad y cayó en la copa. Y el Árbol empezó a arder desde arriba. Despacio. Como una vela. Tres días. Ardió tres días. Y yo aquí sentado, mirándolo.
 
 —¿Por qué no te fuiste?
 
@@ -50,9 +50,9 @@ Edda se sentó en el suelo, a su lado, con la espalda contra el muro. La ceniza 
 
 —¿Y qué has visto?
 
-El viejo se quedó callado mucho tiempo.
+El viejo se rascó la costra de la oreja hasta que sangró un poco.
 
-—He visto caer las hojas —dijo al fin—. Todas a la vez. El primer día. Millones de hojas doradas, ardiendo, cayendo sobre la ciudad como una lluvia de chispas. —Cerró los ojos—. Mi padre decía que las hojas del Árbol eran las almas de los que se habían muerto. Que volvían a las raíces y el Árbol se las comía y las convertía en hojas. —Le tembló la voz—. Así que he visto caer todas las almas. Todas a la vez. Ardiendo. Hacia el suelo. Hacia la tierra.
+—He visto caer las hojas —dijo al fin—. Todas a la vez. El primer día. Millones de hojas doradas, ardiendo, cayendo sobre la ciudad como una lluvia de chispas. —Cerró los ojos—. Mi padre decía que las hojas del Árbol eran las almas de los que se habían muerto. Que volvían a las raíces y el Árbol se las comía y las convertía en hojas. Así que he visto caer todas las almas. Todas a la vez. Ardiendo. Hacia el suelo. Hacia la tierra.
 
 —¿Y qué crees que significa?
 
@@ -62,9 +62,7 @@ Edda pensó en Fia. En las raíces que buscaban la muerte que les habían quitad
 
 —La muerte ha vuelto —dijo—. La de verdad.
 
-—Lo sé. —Bram asintió despacio—. Lo he notado. Esta mañana. Un frío. Como cuando se abre una ventana en una habitación donde hace mucho que no entra el aire. —Se miró las manos, grises, temblorosas—. Me voy a morir pronto, ¿verdad? De verdad. Del todo.
-
-Edda tardó en contestar.
+—Ya me he dado cuenta, muchacha, no soy tonto. —Bram asintió despacio—. Lo he notado. Esta mañana. Un frío. Como cuando se abre una ventana en una habitación donde hace mucho que no entra el aire. —Se miró las manos, grises, temblorosas—. Me voy a morir pronto, ¿verdad? De verdad. Del todo.
 
 —Sí —dijo—. Algún día.
 
@@ -78,7 +76,7 @@ Edda pensó en la llanura gris del sueño de Fortissax. En la niebla, fría pero
 
 —Creo que sí —dijo.
 
-Bram se quedó mirándola un largo rato. Luego asintió. Cogió el yelmo de su regazo, lo vació de ceniza, y se lo puso en la cabeza. Se levantó, despacio, apoyándose en la alabarda.
+Bram se quedó mirándola. Luego asintió. Cogió el yelmo de su regazo, lo vació de ceniza, y se lo puso en la cabeza. Se levantó, despacio, apoyándose en la alabarda.
 
 —Entonces voy a hacer la ronda —dijo—. Por última vez. Antes de que se me olvide cómo se hace.
 
@@ -120,7 +118,7 @@ Debajo, con otra letra, más torpe, más reciente, con algo rojo que podía ser 
 
 *Pero había alguien que consolaba.*
 
-Edda se quedó mucho tiempo delante de la estatua.
+Edda se quedó delante de la estatua.
 
 No supo quién había escrito la segunda línea. Quizá un sacerdote que había bajado de las cumbres. Quizá alguien que había conocido a Corhyn. Quizá nadie. Quizá la ceniza, al caer, había dibujado formas que parecían letras.
 
@@ -152,7 +150,7 @@ Cuando vio a Edda, dejó el martillo.
 
 —La Fortaleza está ardiendo.
 
-—Lo sé. —Hewg miró a su alrededor, sin preocupación, como quien comenta que está lloviendo—. El fuego del Árbol ha llegado hasta aquí. Todo lo que dependía de él se está quemando. La Fortaleza estaba fuera del mundo porque el Árbol la sostenía fuera. Ahora el Árbol no sostiene nada. —Se encogió de hombros—. Me da igual. Tengo trabajo.
+—Ya. —Hewg miró a su alrededor, sin preocupación, como quien comenta que está lloviendo—. El fuego del Árbol ha llegado hasta aquí. Todo lo que dependía de él se está quemando. La Fortaleza estaba fuera del mundo porque el Árbol la sostenía fuera. Ahora el Árbol no sostiene nada. —Se encogió de hombros—. Me da igual. Tengo trabajo.
 
 Junto a él, sentada en un taburete, estaba Roderika. Con el brazalete de cuero en la muñeca y una urna pequeña de cenizas entre las manos. Y a su lado, sentada en el suelo, con la espalda contra el yunque, estaba Lis. La niña tenía la cara manchada de hollín y el brazo de más vendado, y miraba las llamas de la puerta sin miedo.
 
@@ -168,7 +166,7 @@ Edda no contestó.
 
 Roderika se quedó mirándola. Luego bajó la vista hacia la urna de sus manos.
 
-—Lo siento —dijo, muy bajo.
+—Lo siento —dijo.
 
 Lis se levantó del suelo. Se acercó a Edda. Le cogió la mano. La suya, la pequeña. No dijo nada. Se quedó así, de pie a su lado, cogiéndole la mano, mirando las llamas.
 
@@ -210,17 +208,17 @@ Edda le tendió la espada. La que había llevado desde la Capilla. La que había
 
 El herrero la cogió. La miró a la luz del fuego. Pasó el pulgar por el filo, despacio.
 
-—Ha estado con todos —dijo, muy bajo—. Con todos los hijos de ella. Lo noto. Huele a ellos. —Giró la hoja—. A oro y a sangre maldita y a luna y a podredumbre y a serpiente y a fuego de gigante. —Se le quebró un poco la voz—. Y a muerte. A la de verdad. A la que salió de la espada de la bestia negra.
+—Ha estado con todos —gruñó—. Con todos los hijos de ella. Lo noto. Huele a ellos. —Giró la hoja—. A oro y a sangre maldita y a luna y a podredumbre y a serpiente y a fuego de gigante. —Se le quebró un poco la voz—. Y a muerte. A la de verdad. A la que salió de la espada de la bestia negra.
 
 —Estuve allí. Cuando salió.
 
-—Lo sé. —Hewg la puso sobre el yunque—. Se le ha quedado pegada. Un poco. En el filo. —Cogió el martillo—. Espera.
+—Se nota. —Hewg la puso sobre el yunque—. Se le ha quedado pegada. Un poco. En el filo. —Cogió el martillo—. Espera.
 
 Golpeó.
 
 Una vez. Dos. Diez. Edda perdió la cuenta. Hewg golpeaba la espada con un cuidado que no le había visto nunca, despacio, como se golpea algo muy frágil, y a cada golpe el filo brillaba un poco, no con luz, sino con algo parecido a una sombra. Roderika se había quedado inmóvil en su taburete. Lis miraba con la boca abierta.
 
-Cuando terminó, Hewg dejó el martillo en el yunque. Se quedó mirando la espada mucho tiempo, sin cogerla.
+Cuando terminó, Hewg dejó el martillo en el yunque. Se quedó mirando la espada, sin cogerla.
 
 —¿Sabes por qué estoy encadenado? —preguntó.
 
@@ -236,7 +234,7 @@ Cuando terminó, Hewg dejó el martillo en el yunque. Se quedó mirando la espad
 
 Hewg le devolvió la espada.
 
-—Que estaba cansada —dijo—. Te lo dije. Era la mujer más hermosa que he visto nunca y estaba tan cansada que me dio pena. —Le tembló la voz—. No me pidió un arma para matar a un dios enemigo. Me pidió un arma para matarla a ella.
+—Que estaba cansada —dijo—. Te lo dije. Era la mujer más hermosa que he visto nunca y estaba tan cansada que me dio pena. No me pidió un arma para matar a un dios enemigo. Me pidió un arma para matarla a ella.
 
 Edda se quedó inmóvil con la espada en la mano.
 
@@ -276,7 +274,7 @@ Lis se quedó mirándola. Luego asintió, muy seria.
 
 —Vale.
 
-Edda se fue. Detrás de ella, el martillo de Hewg siguió sonando entre las llamas. Y Roderika se puso a cantar, muy bajo, con una voz que desafinaba un poco: una canción de marcha, de soldados, de las que cantaba Lenne. Y Lis, sentada a su lado, intentaba seguirla sin saberse la letra.
+Edda se fue. Detrás de ella, el martillo de Hewg siguió sonando entre las llamas. Y Roderika se puso a cantar, bajito, con una voz que desafinaba un poco: una canción de marcha, de soldados, de las que cantaba Lenne. Y Lis, sentada a su lado, intentaba seguirla sin saberse la letra.
 
 * * *
 
@@ -308,7 +306,7 @@ Detrás de él, la entrada del Árbol estaba abierta. Las espinas habían desapa
 
 —¿Por qué?
 
-—Porque quiero saber lo que hay ahí dentro. —Gideon levantó el bastón—. Quiero saberlo yo. No tú. Llevo toda mi vida buscando la verdad. Reuniendo información, piezas, fragmentos. Libros. Testimonios. Cada cosa que veían los Sinluz que pasaban por mi mesa. —Le tembló la voz—. Y ahora sé que no hay nadie al otro lado. Que la Voluntad se fue. Que los Dedos se lo inventan. Que la Orden era una rueda girando sola. —Se le quebró algo debajo del yelmo—. Y necesito saber qué hay en el centro de la rueda. Qué queda cuando se quita todo.
+—Porque quiero saber lo que hay ahí dentro. —Gideon levantó el bastón—. Quiero saberlo yo. No tú. Llevo toda mi vida buscando la verdad. Reuniendo información, piezas, fragmentos. Libros. Testimonios. Cada cosa que veían los Sinluz que pasaban por mi mesa. Ordenados. Anotados. Comprados con sangre, algunos. Y ahora sé que no hay nadie al otro lado. Que la Voluntad se fue. Que los Dedos se lo inventan. Que la Orden era una rueda girando sola. —Se le quebró algo debajo del yelmo—. Y necesito saber qué hay en el centro de la rueda. Qué queda cuando se quita todo.
 
 —¿Y si no hay nada?
 
@@ -330,13 +328,13 @@ Gideon bajó un poco el bastón.
 
 —Te escribe cartas.
 
-—Una al mes. —Gideon se quedó mirando la ceniza que caía—. La última llegó hace una semana. Antes del fuego. Me decía que había empezado a reconstruir las aldeas de Necrolimbo. Que había una niña en una de ellas que le recordaba a ella misma cuando era pequeña. Que la había adoptado. —Le tembló la voz—. Que se llamaba Mirta. Que le estaba enseñando a leer.
+—Una al mes. —Gideon se quedó mirando la ceniza que caía—. La última llegó hace una semana. Antes del fuego. Me decía que había empezado a reconstruir las aldeas de Necrolimbo. Que había una niña en una de ellas que le recordaba a ella misma cuando era pequeña. Que la había adoptado. Que se llamaba Mirta. Que le estaba enseñando a leer.
 
 —Como tú a ella.
 
-Gideon no dijo nada durante mucho tiempo.
+Gideon no dijo nada.
 
-—Como yo a ella —repitió, muy bajo.
+—Como yo a ella —repitió.
 
 Luego levantó el bastón otra vez.
 
@@ -380,13 +378,13 @@ Gideon sonrió.
 
 —¿Qué tiene valor?
 
-Gideon tardó en contestar.
+Gideon soltó una risa seca, que le hizo toser sangre.
 
 —Una niña que se llama Mirta aprendiendo a leer —dijo al fin—. En una aldea de Necrolimbo. Con mi hija. —Abrió los ojos—. Eso. Eso tiene valor. Y no lo sabía. No sabía que eso se podía saber.
 
 Edda se arrodilló a su lado.
 
-—Dile a Nepheli… —empezó Gideon. Se detuvo. Respiró—. Dile que su padre… que su padre se equivocó en muchas cosas. Pero no en ella. —Le tembló la voz—. Que la encontré en un campo de batalla, entre los cadáveres de una aldea quemada, y que fue lo único bueno que encontré en toda mi vida buscando. —Le apretó la mano a Edda con unos dedos largos, de escribano, fríos—. Y que lo siento. Lo del perro de caza. Que nunca fue un perro. Que nunca lo pensé.
+—Dile a Nepheli… —empezó Gideon. Se detuvo. Respiró—. Dile que su padre… que su padre se equivocó en muchas cosas. Pero no en ella. Que la encontré en un campo de batalla, entre los cadáveres de una aldea quemada, y que fue lo único bueno que encontré en toda mi vida buscando. —Le apretó la mano a Edda con unos dedos largos, de escribano, fríos—. Y que lo siento. Lo del perro de caza. Que nunca fue un perro. Que nunca lo pensé.
 
 —Se lo diré.
 

@@ -6,7 +6,7 @@ La corteza del Árbol era entonces parda, como la de cualquier árbol vivo, y su
 
 Hargen fue uno de ellos.
 
-* * *
+---
 
 Tenía sesenta y dos años el día en que nació el príncipe, y seguía de guardia en la puerta oriental.
 
@@ -26,7 +26,7 @@ Hargen sonrió. Lo sabía. Lo sabía toda la ciudad desde hacía meses.
 
 —Ha nacido —dijo—. El hijo de la diosa.
 
-* * *
+---
 
 Godfrey no estaba en la ciudad.
 
@@ -82,7 +82,7 @@ Los soldados que esperaban al pie del acantilado vieron bajar a su señor por el
 
 —Mi señor —dijo Ordovis—, ha matado a mil quinientos de los nuestros.
 
-—Lo sé. —Godfrey dejó el cuerpo en el suelo con mucho cuidado—. Y era el último de los suyos, y ha muerto de pie. Eso también merece algo.
+—Los he contado, crío. —Godfrey dejó el cuerpo en el suelo con mucho cuidado—. Y era el último de los suyos, y ha muerto de pie. Eso también merece algo.
 
 Fue entonces cuando llegó el mensajero de la capital, a caballo, reventado de cansancio, gritando desde lejos.
 
@@ -90,7 +90,7 @@ Fue entonces cuando llegó el mensajero de la capital, a caballo, reventado de c
 
 Godfrey se quedó paralizado. Luego, para asombro de todo el ejército, se sentó en el suelo, junto al cuerpo del viejo rey, y se echó a llorar.
 
-* * *
+---
 
 Tardó cinco días en llegar a Leyndell. Reventó tres caballos.
 
@@ -122,7 +122,7 @@ Godfrey, que había matado a miles de hombres y a una docena de gigantes y a un 
 
 —Todavía no tiene nombre. Te estaba esperando.
 
-Godfrey miró al niño durante mucho tiempo. El niño abrió los ojos. Eran dorados, como los de su madre, y miraron al gigante con una tranquilidad absoluta, como si lo conocieran de siempre.
+Godfrey miró al niño. El niño abrió los ojos. Eran dorados, como los de su madre, y miraron al gigante con una tranquilidad absoluta, como si lo conocieran de siempre.
 
 —Godwyn —dijo Godfrey—. En mi lengua quiere decir «el amigo de todos».
 
@@ -132,7 +132,7 @@ Godfrey miró al niño durante mucho tiempo. El niño abrió los ojos. Eran dora
 
 Marika lo miró desde la cama. Y en sus ojos había algo que Godfrey, en aquel momento, no supo leer. Muchos años después, cuando ya era tarde para todo, comprendió que era miedo.
 
-* * *
+---
 
 Godwyn creció entre el oro y la piedra blanca, adorado por todos.
 
@@ -152,11 +152,11 @@ Godwyn se rio. Godfrey, a su lado, también se rio.
 
 —Te lo dije, crío —le dijo al hijo—. Era el más verde de todos.
 
-Aquella tarde, cuando Hargen volvió a casa, le contó a Elsa lo que había pasado. Elsa se quedó callada un rato. Luego dijo algo que Hargen nunca olvidaría:
+Aquella tarde, cuando Hargen volvió a casa, le contó a Elsa lo que había pasado. Elsa siguió pelando nabos. Luego dijo algo que Hargen nunca olvidaría:
 
 —Ese niño va a ser el mejor rey que haya visto este mundo. O va a morir joven. No sé cuál de las dos.
 
-* * *
+---
 
 Godfrey le enseñó a pescar antes que a luchar.
 
@@ -172,7 +172,7 @@ Fue idea suya, no de Marika. Una mañana de verano, cuando Godwyn tenía ocho a�
 
 —¿Entonces qué quieres que aprenda?
 
-Godfrey se quedó callado un rato, mirando el agua.
+Godfrey tiró una piedra al agua.
 
 —Paciencia —dijo al fin—. Esperar. Estar quieto en un sitio sin hacer nada, mirando, hasta que pase algo. Es lo más difícil del mundo. Yo nunca lo he sabido hacer. Por eso me pusieron un león encima.
 
@@ -192,7 +192,7 @@ Aquella tarde picó una trucha. Godwyn la sacó él solo, gritando de alegría, 
 
 Godwyn miró la trucha, que boqueaba en la hierba. Luego la cogió con las dos manos, con cuidado, y la devolvió al río. La vio alejarse nadando. Y se quedó mirando el agua mucho rato, con una sonrisa que Godfrey recordaría toda su vida.
 
-* * *
+---
 
 Un año después, Godwyn encontró un cuervo con un ala rota en el patio de la Torre de los Dedos.
 
@@ -214,8 +214,6 @@ Godfrey se sentó en el borde de la cama. Miró al cuervo, que lo miró a su vez
 
 —¿Y se curó?
 
-Godfrey tardó en contestar.
-
 —No —dijo al fin—. Se murió igual.
 
 Godwyn lo miró con los ojos muy abiertos. Luego miró al cuervo.
@@ -230,7 +228,7 @@ Godfrey se rio. Le revolvió el pelo. Y cuando salió de la habitación, se qued
 
 El cuervo se curó. A la primavera siguiente, Godwyn abrió la ventana de su habitación y lo soltó, y el cuervo voló hacia el Árbol, y dio tres vueltas alrededor de la torre, y desapareció. Pero durante el resto de su vida, el príncipe dorado vio cuervos posados en su ventana cada mañana. Nunca supo si era el mismo.
 
-* * *
+---
 
 Los gemelos nacieron una noche de invierno, cuando Godwyn tenía doce años.
 
@@ -242,13 +240,13 @@ Fue un parto largo. Duró toda la noche. Marika no gritó ni una sola vez; se mo
 
 Tenían cuernos.
 
-Eran pequeños todavía, apenas unos bultos duros bajo la piel de la frente, pero ya se veía que crecerían retorcidos y enredados, como los de los Cornudos de la torre. Uno de los niños tenía también unas protuberancias a lo largo de la espalda, como raíces bajo la piel. El otro, una mancha roja sobre el ojo izquierdo que parecía una herida antigua.
+Eran pequeños todavía, apenas unos bultos duros bajo la piel de la frente, pero ya se veía que crecerían retorcidos y enredados, como los de los Cornamentados de la torre. Uno de los niños tenía también unas protuberancias a lo largo de la espalda, como raíces bajo la piel. El otro, una mancha roja sobre el ojo izquierdo que parecía una herida antigua.
 
 Eran augurios.
 
-* * *
+---
 
-En otro tiempo —en la tierra de la que venía Marika— un niño con cuernos habría sido un elegido, una señal del Crisol, una promesa de divinidad. Los Cornudos de Belurat los habrían llevado en procesión por las terrazas, habrían quemado incienso a sus pies, los habrían destinado al templo mayor. Pero la Orden Áurea había declarado impuras las marcas del Crisol. Las alas, las escamas, los cuernos: todo eso era ahora suciedad, restos de un mundo primitivo que el oro había venido a limpiar. Los augurios no tenían gracia dorada en los ojos. Sus almas no podían volver al Árbol cuando morían.
+En otro tiempo —en la tierra de la que venía Marika— un niño con cuernos habría sido un elegido, una señal del Crisol, una promesa de divinidad. Los Cornamentados de Belurat los habrían llevado en procesión por las terrazas, habrían quemado incienso a sus pies, los habrían destinado al templo mayor. Pero la Orden Áurea había declarado impuras las marcas del Crisol. Las alas, las escamas, los cuernos: todo eso era ahora suciedad, restos de un mundo primitivo que el oro había venido a limpiar. Los augurios no tenían gracia dorada en los ojos. Sus almas no podían volver al Árbol cuando morían.
 
 —Señora… —susurró Brida.
 
@@ -256,7 +254,7 @@ Marika miró a sus hijos durante largo rato.
 
 Lo que sintió en aquel momento no se lo contó nunca a nadie. Pero Maliketh, que estaba en la puerta y la conocía mejor que nadie en el mundo, lo olió. Y lo que olió fue algo que no había olido en ella desde la noche en que bajaron juntos de las montañas: el olor de una muchacha escondida entre los helechos, viendo cómo se llevaban a su madre.
 
-Porque Marika recordaba. Recordaba a los Cornudos, que habían metido a su gente en tinajas para fabricar cuernos. Recordaba a Ilmar, con dos bultos ridículos en la frente, avergonzado. Recordaba que los Cornudos despreciaban a los suyos por no tener cuernos, y que ella había jurado no ser nunca como ellos.
+Porque Marika recordaba. Recordaba a los Cornamentados, que habían metido a su gente en tinajas para fabricar cuernos. Recordaba a Ilmar, con dos bultos ridículos en la frente, avergonzado. Recordaba que los Cornamentados despreciaban a los suyos por no tener cuernos, y que ella había jurado no ser nunca como ellos.
 
 Y ahora tenía en los brazos a dos niños con cuernos. Y lo que llevaba dentro, lo dorado, lo que ordenaba, lo que le había entrado en la torre, los rechazaba con una fuerza que le revolvía las entrañas. Sentía la luz del Árbol, al otro lado de la ventana, retirarse de ellos como el agua se retira de un aceite.
 
@@ -268,7 +266,7 @@ Y ahora tenía en los brazos a dos niños con cuernos. Y lo que llevaba dentro, 
 
 Brida no dijo nada.
 
-Marika cerró los ojos. Se quedó así mucho tiempo, con los dos niños en los brazos, uno a cada lado, respirando despacio. Uno de ellos —el de los cuernos más simétricos, el de los ojos claros— le agarró un mechón de pelo con un puño diminuto y no lo soltó. El otro, el de la mancha roja, la miraba fijamente, sin llorar, con unos ojos rojizos que parecían querer ver dentro de ella.
+Marika cerró los ojos. Se quedó así, con los dos niños en los brazos, uno a cada lado, respirando despacio. Uno de ellos —el de los cuernos más simétricos, el de los ojos claros— le agarró un mechón de pelo con un puño diminuto y no lo soltó. El otro, el de la mancha roja, la miraba fijamente, sin llorar, con unos ojos rojizos que parecían querer ver dentro de ella.
 
 —Os llamaré Morgott —le dijo al primero, en voz muy baja, en la lengua antigua de las chamanas—. El que vigila. Y a ti, Mohg —le dijo al segundo—. El que espera.
 
@@ -284,9 +282,9 @@ Brida se quedó muy quieta.
 
 —Señora —dijo, con la voz temblando—. Son vuestros hijos.
 
-—Lo sé. —Marika le entregó a los niños. Las manos le temblaban—. Por eso los bajo. Si se quedan aquí arriba, la Orden los matará. Los sacerdotes. Los nobles. Los propios Dedos. Un augurio de sangre divina es una blasfemia que no pueden permitir. —Miró a la comadrona a los ojos—. Abajo, al menos, vivirán.
+—¿Crees que no lo sé? —Marika le entregó a los niños. Las manos le temblaban—. Por eso los bajo. Si se quedan aquí arriba, la Orden los matará. Los sacerdotes. Los nobles. Los propios Dedos. Un augurio de sangre divina es una blasfemia que no pueden permitir. —Miró a la comadrona a los ojos—. Abajo, al menos, vivirán.
 
-* * *
+---
 
 Fue Maliketh quien los bajó.
 
@@ -324,7 +322,7 @@ Isolde se quedó muy quieta. Luego levantó la cara hacia él, hacia el lugar do
 
 —Le dirán que nacieron muertos.
 
-Isolde cerró los ojos que no veían. Se quedó así mucho tiempo. Luego, despacio, le quitó de los brazos a los dos niños, uno en cada brazo, envueltos en la manta.
+Isolde cerró los ojos que no veían. Luego, despacio, le quitó de los brazos a los dos niños, uno en cada brazo, envueltos en la manta.
 
 —Yo los cuidaré —dijo—. Hasta que encuentre a alguien aquí abajo que pueda darles de mamar. Y después también.
 
@@ -332,13 +330,13 @@ Isolde cerró los ojos que no veían. Se quedó así mucho tiempo. Luego, despac
 
 —Puedo. No los veo. —Isolde sonrió con tristeza—. No veo sus cuernos. Para mí son dos bebés que tienen hambre. ¿Quién mejor que yo para cuidarlos?
 
-Maliketh la miró durante mucho tiempo. Luego bajó la cabeza hasta la altura de ella y le rozó la frente con el hocico, un gesto que no había hecho nunca con nadie más que con su hermana.
+Maliketh la miró. Luego bajó la cabeza hasta la altura de ella y le rozó la frente con el hocico, un gesto que no había hecho nunca con nadie más que con su hermana.
 
 —Gracias —dijo.
 
 —No me des las gracias. —Isolde apretó a los niños contra el pecho—. Vete. Antes de que alguien te vea aquí abajo. Y dile a tu hermana que algún día tendrá que mirarlos a la cara. Aunque sea una vez.
 
-* * *
+---
 
 La comadrona Brida no volvió a los barrios bajos.
 
@@ -354,7 +352,7 @@ Hargen no volvió a preguntar. Pero aquella noche, en casa, no pudo dormir. Y a�
 
 Nunca se lo contó a nadie. Ni siquiera a Elsa.
 
-* * *
+---
 
 Godfrey volvió de la Península Llorosa un mes después.
 
@@ -366,11 +364,9 @@ Godfrey desmontó. La miró. Dejó de cantar.
 
 —¿Qué ha pasado?
 
-Marika tardó mucho en contestar.
-
 —Nacieron muertos —dijo al fin—. Los dos. Eran gemelos.
 
-El Señor de Elden se quedó inmóvil. Los soldados que lo seguían se callaron, uno a uno, hasta que la puerta entera quedó en silencio. Hargen, en su garita, vio cómo el gigante de oro miraba a la diosa durante mucho tiempo, y cómo la diosa le sostenía la mirada sin parpadear.
+El Señor de Elden se quedó inmóvil. Los soldados que lo seguían se callaron, uno a uno, hasta que la puerta entera quedó en silencio. Hargen, en su garita, vio cómo el gigante de oro miraba a la diosa, y cómo la diosa le sostenía la mirada sin parpadear.
 
 —¿Los dos? —repitió Godfrey.
 
@@ -388,13 +384,13 @@ Marika no apartó la mirada.
 
 Godfrey cerró los ojos. Luego, despacio, la abrazó. La abrazó allí mismo, en la puerta oriental, delante de todo su ejército, con la armadura sucia y el hacha a la espalda, y la diosa se dejó abrazar, rígida, con los ojos abiertos y secos, mirando por encima del hombro de su esposo hacia la ciudad, hacia la catedral, hacia el lugar donde, muy abajo, bajo toneladas de piedra, dos niños con cuernos dormían en los brazos de una sacerdotisa ciega.
 
-* * *
+---
 
 Esa noche, Godfrey bajó a las raíces del Árbol.
 
 Lo hizo solo. Llevaba en la mano dos piedras pequeñas, lisas, que había cogido del río de las tierras bajas donde le había enseñado a pescar a su hijo. Las colocó juntas entre dos raíces, en un hueco al pie del tronco, y se arrodilló delante.
 
-—No sé cómo os llamabais —dijo, en voz baja—. Vuestra madre no me lo ha dicho. Quizá no tuvisteis nombre. —Se le quebró la voz—. Lo siento. Siento no haber estado. Estaba en una guerra que no importaba, tomando un castillo que no necesitábamos. Debería haber estado aquí.
+—No sé cómo os llamabais —dijo, en voz baja—. Vuestra madre no me lo ha dicho. Quizá no tuvisteis nombre. Lo siento. Siento no haber estado. Estaba en una guerra que no importaba, tomando un castillo que no necesitábamos. Debería haber estado aquí.
 
 El Árbol no contestó. Las hojas doradas caían despacio, sin tocar nunca el suelo.
 

@@ -32,13 +32,13 @@ D no contestó. La espada seguía temblando.
 
 D bajó la espada. Muy despacio. Se quedó de pie delante de ella, con los hombros caídos, como un muchacho al que han regañado.
 
-Edda intervino entonces. Se puso entre los dos. Le dijo a D que se fuera a dormir, que hablarían por la mañana. D la miró a través de la visera durante un largo rato, sin moverse. Luego se dio la vuelta y se fue.
+Edda intervino entonces. Se puso entre los dos. Le dijo a D que se fuera a dormir, que hablarían por la mañana. D la miró a través de la visera, sin moverse. Luego se dio la vuelta y se fue.
 
 —Gracias —le dijo Fia, cuando se quedaron solas.
 
 —No lo he hecho por ti.
 
-—Lo sé. —Fia bajó los ojos hacia la raíz—. Lo has hecho por él. Para que no hiciera algo de lo que se arrepintiera.
+—Ya. —Fia bajó los ojos hacia la raíz—. Lo has hecho por él. Para que no hiciera algo de lo que se arrepintiera.
 
 No volvieron a hablar del asunto. Pero esa noche, y la siguiente, Edda vio a D pasar varias veces por el pasillo de la chimenea, despacio, con la mano en la empuñadura, sin detenerse. Y vio a Fia seguirlo con los ojos cada vez.
 
@@ -76,15 +76,15 @@ Edda no contestó enseguida.
 
 —Alguien que no quería hacerlo —dijo al fin—. Y él tampoco quería hacer lo que iba a hacer.
 
-El gemelo de D se quedó un largo rato en silencio. Luego se acercó a la tumba de su hermano y se arrodilló. Puso una mano sobre la tierra removida.
+El gemelo de D se acercó a la tumba de su hermano y se arrodilló. Puso una mano sobre la tierra removida.
 
-—Siempre fue el más impetuoso de los dos —dijo, muy bajo—. Yo le decía que tuviera cuidado. Que la caza de los muertos acabaría con él. —Levantó la vista hacia la otra tumba—. ¿Y ese?
+—Siempre fue el más bruto de los dos —dijo—. Yo le decía que tuviera cuidado. Que la caza de los muertos acabaría con él. —Levantó la vista hacia la otra tumba—. ¿Y ese?
 
 —Rogier. Su amigo. El del río.
 
 El caballero cerró los ojos.
 
-—El del río —repitió—. Me caí yo, ¿sabes? No él. Fui yo el que se cayó al río. Ellos dos me sacaron. —Se le quebró la voz—. Nos pegaron a los tres por llegar mojados a cenar.
+—El del río —repitió—. Me caí yo, ¿sabes? No él. Fui yo el que se cayó al río. Ellos dos me sacaron. Nos pegaron a los tres por llegar mojados a cenar.
 
 Edda no dijo nada. Lo dejó allí, arrodillado entre las dos tumbas, con una mano en cada una.
 
@@ -100,11 +100,11 @@ Eran raíces del Árbol. Edda lo supo al tocarlas: tenían la misma corteza dora
 
 Abajo, en el fondo, había un bosque.
 
-No era un bosque de árboles. Era un bosque de raíces. Raíces que bajaban del techo de una caverna inmensa y se clavaban en el suelo, como columnas de un templo, como los barrotes de una jaula. Raíces que se retorcían en el suelo formando colinas, puentes, arcos. Raíces por todas partes, hasta donde alcanzaba la vista, iluminadas por una luz débil, verdosa, que salía de unas flores pequeñas, pálidas, que crecían en la corteza como líquenes. Y entre las raíces, agua. Un agua quieta, negra, que cubría el suelo de la caverna y reflejaba las flores pálidas como estrellas.
+Un bosque de raíces. Raíces que bajaban del techo de una caverna inmensa y se clavaban en el suelo, como columnas de un templo, como los barrotes de una jaula. Raíces que se retorcían en el suelo formando colinas, puentes, arcos. Raíces por todas partes, hasta donde alcanzaba la vista, iluminadas por una luz débil, verdosa, que salía de unas flores pequeñas, pálidas, que crecían en la corteza como líquenes. Y entre las raíces, agua. Un agua quieta, negra, que cubría el suelo de la caverna y reflejaba las flores pálidas como estrellas.
 
 Y en el aire, un latido.
 
-Edda lo sintió en cuanto pisó el suelo. Un pulso lento, profundo, que subía desde la roca y recorría las raíces hacia arriba, hacia el techo de la caverna, hacia el Árbol. Como la sangre recorre las venas. Lo sentía en las plantas de los pies, en las manos cuando tocaba las raíces, en el pecho. Era muy lento. Un latido cada mucho tiempo. Pero no paraba nunca.
+Edda lo sintió en cuanto pisó el suelo. Un pulso lento, profundo, que subía desde la roca y recorría las raíces hacia arriba, hacia el techo de la caverna, hacia el Árbol. Como la sangre recorre las venas. Lo sentía en las plantas de los pies, en las manos cuando tocaba las raíces, en el pecho. Era muy lento. Un latido cada cien pasos. Pero no paraba nunca.
 
 Siguió el latido.
 
@@ -148,7 +148,7 @@ Edda miró el cuerpo del trono. La cara del pecho que respiraba.
 
 —¿Es él?
 
-—Es lo que queda de él. —Fia acarició la mano gris—. Godwyn. El Dorado. El príncipe que era amigo de todos. El que pescaba truchas con las manos y las soltaba. —Se le quebró la voz—. Lo mataron los cuchillos negros, la noche de la que te habló el hechicero. Pero lo mataron solo a medias. Mataron su alma, porque los cuchillos llevaban la Runa de la Muerte, y la Runa solo mató el alma. El cuerpo no. El cuerpo siguió vivo. Sin alma. Sin nadie dentro.
+—Es lo que queda de él. —Fia acarició la mano gris—. Godwyn. El Dorado. El príncipe que era amigo de todos. El que pescaba truchas con las manos y las soltaba. Lo mataron los cuchillos negros, la noche de la que te habló el hechicero. Pero lo mataron solo a medias. Mataron su alma, porque los cuchillos llevaban la Runa de la Muerte, y la Runa solo mató el alma. El cuerpo no. El cuerpo siguió vivo. Sin alma. Sin nadie dentro.
 
 —¿Y esa cara? —Edda señaló el pecho.
 
@@ -168,13 +168,13 @@ Se quedaron un rato en silencio. El latido de las raíces subía por la caverna,
 
 —¿Qué eras para él? —preguntó Edda al fin.
 
-Fia tardó mucho en contestar.
+Fia se ciñó el manto.
 
 —No lo sé —dijo—. Nunca lo supe. No era su esposa. No era su amante, no del todo, aunque hubo noches. No era su sacerdotisa ni su criada. —Se pasó la mano libre por la cara—. Era la que estaba con él en la enfermería a medianoche, cuando bajaba con la capa de lana gris para que no lo reconocieran, y se quedaba conmigo hasta que el último niño se dormía. Era la que le cogía la mano mientras le cogía la mano a los que se morían. Era la que lo escuchaba cuando hablaba de su hermano de las cloacas. —Sonrió con tristeza—. Era algo más difícil de nombrar. Algo que no tiene palabra. Algo que no sale en los libros de la Orden.
 
 —¿Lo querías?
 
-—Más que a nada. —Fia miró la cara del hombre joven, caída hacia atrás contra el trono—. Por eso me quedé. Marika me lo pidió, la mañana después de los cuchillos. *Llévatelo a las raíces. Quédate con él allí abajo. Eres la única que sabrá hacerlo.* Y me quedé. —Le tembló la voz—. Siglos. Junto a esta cosa. Esperando a que volviera. Sabiendo que no volvería.
+—Más que a nada. —Fia miró la cara del hombre joven, caída hacia atrás contra el trono—. Por eso me quedé. Marika me lo pidió, la mañana después de los cuchillos. *Llévatelo a las raíces. Quédate con él allí abajo. Eres la única que sabrá hacerlo.* Y me quedé. Siglos. Junto a esta cosa. Esperando a que volviera. Sabiendo que no volvería.
 
 —¿Y por qué subiste?
 
@@ -192,7 +192,7 @@ Fortissax era un dragón antiguo. De piedra, de los que habían luchado contra e
 
 —¿Y qué hace aquí?
 
-—Bajó cuando supo lo que había pasado. —Fia acarició la escama negra de la pata contra la que se apoyaba—. Dijo que lo que quedaba del príncipe no estaba en el cuerpo. Que estaba dentro, atrapado en un sueño entre la vida y la muerte. Y que él podía entrar, porque los dragones sueñan más hondo que los hombres. Que entraría, y lucharía contra lo que lo retenía, y lo traería de vuelta. —Le tembló la voz—. Le dije que no podría. Que la muerte siempre gana, no porque sea más fuerte sino porque no tiene prisa. Que si entraba, no saldría. Y me dijo: *Entonces no saldré.*
+—Bajó cuando supo lo que había pasado. —Fia acarició la escama negra de la pata contra la que se apoyaba—. Dijo que lo que quedaba del príncipe no estaba en el cuerpo. Que estaba dentro, atrapado en un sueño entre la vida y la muerte. Y que él podía entrar, porque los dragones sueñan más hondo que los hombres. Que entraría, y lucharía contra lo que lo retenía, y lo traería de vuelta. Le dije que no podría. Que la muerte siempre gana, no porque sea más fuerte sino porque no tiene prisa. Que si entraba, no saldría. Y me dijo: *Entonces no saldré.*
 
 Edda miró el dragón. Los huesos que asomaban entre las escamas podridas. La luz dorada y negra que brillaba en ellos.
 
@@ -274,7 +274,7 @@ Luego, muy despacio, las fauces se cerraron.
 
 —*Esa pregunta* —dijo Fortissax. La voz no sonó en el aire; sonó dentro de la cabeza de Edda, profunda, cansada, como el eco de una tormenta que se aleja—. *Esa pregunta ya me la hicieron una vez.*
 
-—Lo sé.
+—Me lo han contado.
 
 —*Fue él.* —Los ojos rojos se movieron, buscando algo—. *En una montaña. En una tormenta. Se quitó el yelmo. Como tú.* —El dragón bajó la cabeza hasta quedar a la altura de su cara. Edda sintió su aliento: frío, como el de una cripta—. *¿Quién eres? ¿Por qué me la haces tú?*
 
@@ -298,7 +298,7 @@ Fortissax no contestó.
 
 El dragón la miraba con los ojos rojos muy abiertos.
 
-—*Dile que pare* —repitió, muy bajo—. *Dile que ya no hace falta.*
+—*Dile que pare* —repitió—. *Dile que ya no hace falta.*
 
 —Eso dijo.
 
@@ -306,9 +306,9 @@ El dragón la miraba con los ojos rojos muy abiertos.
 
 Edda pensó en la pregunta. En el dragón que la había hecho, siglos atrás, a un príncipe en una montaña. En que el príncipe, según Fia, había respondido algo. No sabía qué.
 
-—Porque yo también tengo a alguien a quien no puedo traer de vuelta —dijo al fin—. Un niño de seis años en un umbral, que se murió hace siglos esperándome. Y llevo desde que desperté luchando contra eso. Cogiendo piedras para él. Como tú contra la niebla. —Se le quebró la voz—. Y una amiga me ha prometido que cuando todo esto acabe iremos juntas a su aldea y dejaremos las piedras en el umbral. Para que pueda parar.
+—Porque yo también tengo a alguien a quien no puedo traer de vuelta —dijo al fin—. Un niño de seis años en un umbral, que se murió hace siglos esperándome. Y llevo desde que desperté luchando contra eso. Cogiendo piedras para él. Como tú contra la niebla. Y una amiga me ha prometido que cuando todo esto acabe iremos juntas a su aldea y dejaremos las piedras en el umbral. Para que pueda parar.
 
-Fortissax la miró durante mucho tiempo.
+Fortissax la miró.
 
 —*¿Y qué contestó él?* —preguntó Edda—. *Godwyn. Cuando te preguntó por qué luchabas y tú le respondiste. ¿Qué te dijo él?*
 
@@ -326,7 +326,7 @@ Edda se acercó al dragón. Despacio. Hasta tocarlo. Puso la mano sobre la escam
 
 * * *
 
-Fortissax no se movió durante mucho tiempo.
+Fortissax no se movió.
 
 Luego, muy despacio, como un animal muy viejo que se tumba a dormir después de un día muy largo, se dejó caer en la ceniza. Plegó las alas rotas sobre el cuerpo. Apoyó la cabeza en el suelo, junto a los pies de Edda. Cerró los ojos.
 
@@ -380,7 +380,7 @@ Fia se quedó inmóvil.
 
 —Me ha dado un mensaje para ti. —Edda tragó saliva—. Dice que ya puedes ir. Que te espera. Que ya no hace falta que guardes nada.
 
-Fia no dijo nada durante mucho tiempo. Se quedó sentada en el suelo, con la mano sobre el dragón muerto, mirando el trono. El cuerpo deforme del príncipe. La cara del pecho, que había dejado de moverse. Que ya no respiraba. Que tenía la boca cerrada por primera vez en siglos.
+Fia se quedó sentada en el suelo, con la mano sobre el dragón muerto, mirando el trono. El cuerpo deforme del príncipe. La cara del pecho, que había dejado de moverse. Que ya no respiraba. Que tenía la boca cerrada por primera vez en siglos.
 
 Las raíces habían dejado de latir.
 
@@ -392,7 +392,7 @@ Edda se dio cuenta en ese momento. El pulso lento, profundo, que subía por la c
 
 Fia se levantó. Se acercó al trono. Cogió la raíz negra que había dejado en el regazo del cuerpo, la sostuvo un momento entre las manos, y luego la volvió a dejar allí, sobre el pecho, sobre la cara que ya no respiraba.
 
-—Ya no hace falta que te guarde —le dijo a la raíz, muy bajo—. Ya estás donde debías.
+—Ya no hace falta que te guarde —le dijo a la raíz—. Ya estás donde debías.
 
 Luego se volvió hacia Edda.
 
@@ -416,7 +416,7 @@ Cerró los ojos.
 
 —Duerme, príncipe —susurró—. Ya estoy aquí.
 
-Edda esperó mucho tiempo. Fia no se movió. No volvió a abrir los ojos. Su respiración se hizo más lenta, más lenta, hasta que dejó de oírse.
+Edda esperó. Fia no se movió. No volvió a abrir los ojos. Su respiración se hizo más lenta, más lenta, hasta que dejó de oírse.
 
 Las flores pálidas de las raíces se fueron apagando, una por una.
 

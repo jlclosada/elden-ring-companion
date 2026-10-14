@@ -28,17 +28,17 @@ Edda se sentó junto a él. Le habló de Sellen, que buscaba el origen de la hec
 
 —Dice que ya no sabe qué cara tiene debajo.
 
-Thops se quedó callado. Luego asintió despacio.
+Thops asintió despacio.
 
 —Yo me lo quité hace años —dijo, y levantó el capirote que llevaba bajo el brazo—. Pero lo llevo encima. Por si acaso. Por si alguna vez vuelvo a entrar y quiero parecerme a los demás.
 
 * * *
 
-Encontró una llave dos días después, en el cuerpo de un hechicero muerto en las ruinas de una ciudad sumergida al este del lago. El hechicero estaba sentado contra una columna, con el agua por la cintura, con un libro abierto sobre las rodillas que el agua había convertido en pasta. Llevaba muerto mucho tiempo. En la mano tenía un sello de vidrio azul, apretado con tanta fuerza que Edda tuvo que romperle los dedos para cogerlo.
+Encontró una llave dos días después, en el cuerpo de un hechicero muerto en las ruinas de una ciudad sumergida al este del lago. El hechicero estaba sentado contra una columna, con el agua por la cintura, con un libro abierto sobre las rodillas que el agua había convertido en pasta. Llevaba muerto años; los cangrejos le habían dejado la cara en el hueso. En la mano tenía un sello de vidrio azul, apretado con tanta fuerza que Edda tuvo que romperle los dedos para cogerlo.
 
 Se lo llevó a Thops.
 
-El viejo lo miró durante mucho tiempo, con la llave en la palma de la mano. Luego se la devolvió.
+El viejo lo miró, con la llave en la palma de la mano. Luego se la devolvió.
 
 —Entra tú —dijo—. Tú lo necesitas más. Yo solo quiero sentarme en mi vieja mesa y terminar un cálculo.
 
@@ -85,8 +85,6 @@ Era viejo, viejísimo, con una barba blanca que le llegaba a la cintura y el cap
 —Es lo mismo. —El viejo suspiró, y el cristal se empañó un instante—. Yo estaba allí, ¿sabes? Cuando la encerramos. Era decano de cosmografía. Firmé la orden. —Se miró las manos, sarmentosas, temblorosas—. Su luna se había apagado. Eso dijimos. Que ya no servía. Que había dejado de ser reina el día que él se fue, y que la Academia no podía seguir gobernada por una mujer que se pasaba las noches cantándole a un huevo.
 
 —¿Y era verdad?
-
-El viejo tardó mucho en contestar.
 
 —Era verdad que cantaba a un huevo —dijo al fin—. No era verdad que hubiera dejado de ser reina. Una reina no deja de serlo porque esté triste. —Se volvió hacia ella por primera vez. Detrás del cristal opaco, Edda vio unos ojos húmedos, muy pálidos—. Ella nos había protegido de todo. De las guerras. De los Piel de Dios. Del propio Señor de Elden, cuando vino con su ejército a conquistar el lago. Y en cuanto se puso triste, la encerramos como a un perro viejo. Y luego nos encerramos con ella, en este edificio, para no tener que mirar lo que habíamos hecho.
 
@@ -168,9 +166,9 @@ La reina la miró, sorprendida, como si nadie le hubiera hecho esa pregunta en s
 
 —¿Por qué fea?
 
-—Porque no es como la mía. —Rennala bajó los ojos hacia el huevo—. Es fría. Distinta. Dibujó su luna sola, cuando tenía siete años, sin que nadie le enseñara. Y yo le dije que era fea. —Le tembló la voz—. No sé por qué le dije eso. Era hermosa. Era la cosa más hermosa que había visto nunca. Y le dije que era fea porque no era la mía.
+—Porque no es como la mía. —Rennala bajó los ojos hacia el huevo—. Es fría. Distinta. Dibujó su luna sola, cuando tenía siete años, sin que nadie le enseñara. Y yo le dije que era fea. No sé por qué le dije eso. Era hermosa. Era la cosa más hermosa que había visto nunca. Y le dije que era fea porque no era la mía.
 
-Edda se quedó callada mucho tiempo.
+Edda miró el huevo que la reina tenía en el regazo.
 
 —Tu hija está viva —dijo al fin.
 
@@ -196,13 +194,13 @@ Ranni estaba en la misma silla, junto a la misma ventana, como si no se hubiera 
 
 La muñeca no se volvió.
 
-—Lo sé.
+—Ya.
 
 —¿Cómo lo sabes?
 
 —Porque, si la hubieras matado, no habrías subido la escalera tan deprisa. —Ranni seguía mirando la luna—. Habrías tardado. Habrías venido despacio, pensando en cómo decírmelo.
 
-Edda entró y se sentó en la silla incómoda. Durante un rato largo no dijo ninguna de las dos nada. La luna se reflejaba en el lago, abajo, entera.
+Edda entró y se sentó en la silla incómoda. Ninguna de las dos dijo nada. La luna se reflejaba en el lago, abajo, entera.
 
 —Me ha hablado de ti —dijo Edda al fin.
 
@@ -214,7 +212,7 @@ Las cuatro manos de la muñeca se quedaron muy quietas sobre el regazo.
 
 Ranni no contestó. No se movió. La porcelana de su cara, a la luz de la luna, parecía todavía más pálida, todavía más fría. Pero Edda vio que una de las grietas finas que le recorrían la mejilla había empezado a brillar, débil, con una luz azul, como si algo dentro de la muñeca se hubiera encendido un poco más.
 
-—Novecientos años —dijo Ranni al fin, muy bajo— esperando a que alguien me dijera eso.
+—Novecientos años —dijo Ranni al fin— esperando a que alguien me dijera eso.
 
 —Te lo podía haber dicho ella.
 

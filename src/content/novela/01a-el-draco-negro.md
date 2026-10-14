@@ -10,7 +10,7 @@ Era negro como la noche sin estrellas y tan enorme que, cuando se posaba en una 
 
 Ghur lo vio por primera vez cuando ya era viejo. Tenía setenta y cuatro años, y hacía tres que el Señor Dragón dormía en el centro de la tormenta.
 
-* * *
+---
 
 Bayle aterrizó en la gran terraza un amanecer sin avisar, y los acólitos jóvenes huyeron como gorriones.
 
@@ -40,7 +40,7 @@ Bayle soltó una carcajada. Los dracos también podían reír. Fue un sonido ter
 
 —La diosa. Antes de irse, ¿te dijo algo?
 
-Ghur lo miró durante un largo rato. Pensó en la terraza a oscuras, en la luz que se apagaba, en una voz clara como una campana que le pedía algo que él no había cumplido.
+Ghur lo miró. Pensó en la terraza a oscuras, en la luz que se apagaba, en una voz clara como una campana que le pedía algo que él no había cumplido.
 
 —Me dijo que había intentado amarlo —respondió.
 
@@ -62,8 +62,6 @@ Ghur no contestó.
 
 —¿Y los dracos?
 
-Bayle tardó en contestar.
-
 —Los dracos nos morimos, viejo —dijo al fin, en voz más baja—. Los antiguos no. Ellos pueden esperar mil años, diez mil, lo que haga falta. Para ellos, una era es una tarde. Pero yo tengo doscientos años. Me quedan, si tengo suerte, otros doscientos. No puedo pasármelos velando el sueño de alguien que espera a una diosa que se ha ido.
 
 Ghur lo miró. Y por primera vez, detrás de la sonrisa, detrás del humo y los ojos rojos, vio algo que reconoció. Lo había visto en los acólitos nuevos que subían los nueve mil peldaños con sus madres. Miedo.
@@ -76,7 +74,7 @@ Bayle desplegó las cuatro alas.
 
 Y se dejó caer por el borde de la terraza, y desapareció entre las nubes.
 
-* * *
+---
 
 Bayle tenía una compañera.
 
@@ -94,7 +92,7 @@ Bayle se tumbó en la roca, junto a ella. Las crías salieron del fondo de la cu
 
 —Miente —dijo—. Ella le dijo que no la esperaran. Estoy seguro. Y el viejo no se lo dijo a Placidusax porque lo quiere, a su manera. No quería dejarlo sin nada que hacer.
 
-Vyrka se quedó callada un rato.
+Vyrka se lamió una escama.
 
 —Eso es casi bonito —dijo al fin.
 
@@ -116,7 +114,7 @@ Bayle miró a sus crías. Ossk, la mayor, había conseguido subirse a su cabeza 
 
 —Placidusax tiene cinco cabezas y cien antiguos que morirían por él.
 
-Bayle no contestó. Vyrka lo miró durante mucho tiempo.
+Bayle no contestó. Vyrka lo miró.
 
 —Vas a morir —dijo.
 
@@ -136,7 +134,7 @@ Bayle bajó la cabeza hasta el nido, donde las crías se habían quedado quietas
 
 Se quedaron mirándose largo rato, el draco negro y la draca roja, mientras las crías jugaban a sus pies sin entender nada.
 
-* * *
+---
 
 La guerra empezó con un desafío, como empezaban todas las guerras de los dragones.
 
@@ -156,13 +154,13 @@ Las cinco cabezas se alzaron una a una en el centro de la tormenta.
 
 Ghur sintió que se le paraba el corazón. Llevaba tres años sin ver a Placidusax despierto. Las cabezas subieron despacio, muy despacio, entre los relámpagos rojos: la de la izquierda, la vieja, primero; luego las dos jóvenes de los extremos; luego la desconfiada de la derecha. Y por último la del centro, la de la cicatriz, que tardó tanto en abrir los ojos que Ghur pensó que no lo haría.
 
-—*Vuelve a tu cumbre, Bayle.*
+—_Vuelve a tu cumbre, Bayle._
 
 Las cinco voces sonaron cansadas, lejanas, como si hablaran desde el fondo de un pozo.
 
 —Esta es mi cumbre ahora.
 
-—*No lo es.*
+—_No lo es._
 
 —Entonces quítamela.
 
@@ -172,7 +170,7 @@ Ghur no supo nunca qué quiso decirle aquella mirada. Quizá nada. Quizá solo q
 
 Luego Placidusax abrió las alas.
 
-* * *
+---
 
 Lo que siguió no lo vio ningún hombre bestia, porque todos huyeron. Todos salvo uno.
 
@@ -212,7 +210,7 @@ Cayó girando hacia los riscos, sin alas, sin brazos, envuelto en su propio fueg
 
 El Pico Escarpado. Allí se quedó, mutilado y furioso, esperando su propia revancha.
 
-* * *
+---
 
 Placidusax volvió a tumbarse en el centro de la tormenta, con tres cabezas en lugar de cinco.
 
@@ -224,33 +222,31 @@ Las tres cabezas estaban apoyadas en la piedra. Los dos muñones de los cuellos 
 
 La cabeza de la cicatriz abrió un ojo.
 
-—*Has visto* —dijo. Las voces ya no eran cinco. Eran tres, y sonaban huecas, como si faltara algo en medio.
+—_Has visto_ —dijo. Las voces ya no eran cinco. Eran tres, y sonaban huecas, como si faltara algo en medio.
 
 —Lo he visto todo, señor.
 
-—*¿Y qué has visto?*
-
-Ghur tardó en contestar.
+—_¿Y qué has visto?_
 
 —He visto a un padre que quería que sus hijos vivieran para algo —dijo al fin—. Y a un dragón que no quería despertar.
 
-El ojo dorado lo miró durante mucho tiempo.
+El ojo dorado lo miró.
 
-—*Tienes razón* —dijo Placidusax—. *No quería despertar. En el sueño, ella todavía está aquí. Cuando estoy despierto, se ha ido.* —Cerró el ojo—. *Bayle me ha quitado dos cabezas. La que dormía y la que vigilaba. Me queda la que habla. Y la que habla, viejo, ya no tiene a nadie a quien hablar.*
+—_Tienes razón_ —dijo Placidusax—. _No quería despertar. En el sueño, ella todavía está aquí. Cuando estoy despierto, se ha ido._ —Cerró el ojo—. _Bayle me ha quitado dos cabezas. La que dormía y la que vigilaba. Me queda la que habla. Y la que habla, viejo, ya no tiene a nadie a quien hablar._
 
 —Me tiene a mí, señor.
 
-—*A ti* —repitieron las tres voces, y por un instante sonaron casi tiernas—. *Sí. Por ahora.*
+—_A ti_ —repitieron las tres voces, y por un instante sonaron casi tiernas—. _Sí. Por ahora._
 
 Se quedaron un rato en silencio. Luego el Señor Dragón volvió a hablar, y esta vez las voces eran frías, duras, como la piedra de sus escamas.
 
-—*Que su estirpe sea cazada* —dijo—. *Que cada draco nacido de él muera. Sus crías, y las crías de sus crías, hasta que no quede ni una. Y que no lo hagan los antiguos, porque los antiguos no deben mancharse con la sangre de los mortales.*
+—_Que su estirpe sea cazada_ —dijo—. _Que cada draco nacido de él muera. Sus crías, y las crías de sus crías, hasta que no quede ni una. Y que no lo hagan los antiguos, porque los antiguos no deben mancharse con la sangre de los mortales._
 
 —¿Quién, entonces?
 
-—*Los únicos seres que tienen hambre suficiente* —dijo Placidusax—. *Los hombres.*
+—_Los únicos seres que tienen hambre suficiente_ —dijo Placidusax—. _Los hombres._
 
-* * *
+---
 
 El primero en comerse el corazón de un draco fue el propio Placidusax.
 
@@ -262,17 +258,17 @@ Después, Placidusax llamó a Florissax.
 
 Era un dragón antiguo, de los más jóvenes —tenía apenas cinco mil años—, de escamas grises con vetas verdes como el musgo y unos ojos dorados más curiosos que los de los demás. A diferencia de los otros antiguos, Florissax bajaba a menudo a las tierras de abajo. Le gustaba mirar a los hombres. Decía que eran como hormigas con ideas.
 
-—*Ve* —le dijo Placidusax—. *Busca a los más hambrientos. Enséñales.*
+—_Ve_ —le dijo Placidusax—. _Busca a los más hambrientos. Enséñales._
 
 —¿A comer dracos? —Florissax ladeó la cabeza—. Señor, los hombres apenas saben encender fuego. Algunos todavía se comen crudos a los ciervos.
 
-—*Por eso.*
+—_Por eso._
 
 Florissax se marchó. Voló durante años sobre las tierras de abajo, sobre aldeas y campamentos y cuevas, buscando hombres con la mirada lo bastante hambrienta.
 
 Los encontró. Los hombres siempre tienen hambre.
 
-* * *
+---
 
 Aspa tenía diecinueve años y llevaba tres días sin comer cuando el dragón aterrizó junto al río.
 
@@ -290,7 +286,7 @@ Se dio la vuelta. Era un dragón. Gris y verde, más grande que todas las tienda
 
 —Los dracos se han llevado los rebaños.
 
-—Lo sé. —Florissax asintió—. Y yo te voy a enseñar a llevarte a los dracos.
+—Ya. —Florissax asintió—. Y yo te voy a enseñar a llevarte a los dracos.
 
 Aspa bajó la lanza un poco.
 
@@ -302,15 +298,13 @@ Aspa bajó la lanza un poco.
 
 —Porque entonces su fuego será tuyo.
 
-Aspa se quedó mirándolo durante mucho tiempo. El agua del río le corría helada entre los tobillos.
+Aspa se quedó mirándolo. El agua del río le corría helada entre los tobillos.
 
 —¿Por qué nosotros? —preguntó al fin—. Hay muchas tribus. Hay pueblos más fuertes, con lanzas de bronce y murallas. ¿Por qué vienes a enseñarnos a nosotros?
 
-Florissax tardó en contestar.
-
 —Porque los fuertes no tienen hambre —dijo—. Y para comerse el corazón de un dragón, niña, hace falta tener mucha, mucha hambre.
 
-* * *
+---
 
 Mató a su primer draco una luna después.
 
@@ -342,7 +336,7 @@ Crudo. Caliente. Todo. La grava le crujía entre los dientes. La sangre era fueg
 
 Abrió la boca. Y de su boca salió fuego.
 
-* * *
+---
 
 Volvió a la tribu con el cuerpo del draco a rastras y la boca quemada. Esa noche comieron todos. Al día siguiente, Aspa enseñó a los cazadores a matar dracos. A la luna siguiente, la tribu tenía carne para todo el invierno, y tres cazadores más escupían fuego.
 
@@ -356,7 +350,7 @@ Aspa fue de las primeras en cambiar. Al año, tenía escamas negras en los anteb
 
 Su tribu empezó a mirarla de otra manera.
 
-* * *
+---
 
 Ghur murió en las escaleras del templo, barriendo polvo de rayo, a los noventa y un años.
 

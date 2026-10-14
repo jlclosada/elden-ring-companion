@@ -6,7 +6,7 @@ Lo vieron al segundo día de marcha, desde el fondo de un valle helado: una fort
 
 —¿Qué intentaron?
 
-Melina tardó en contestar. Estaba mirando la cúpula de bronce.
+Melina estaba mirando la cúpula de bronce.
 
 —Devolver a un príncipe —dijo al fin—. Con un eclipse. Hace mucho. Después de la noche de los cuchillos. Creían que si tapaban el sol durante una hora, el alma del príncipe encontraría el camino de vuelta a su cuerpo.
 
@@ -16,15 +16,15 @@ Edda se detuvo en la nieve.
 
 —Godwyn.
 
-Edda pensó en las raíces profundas. En el trono cubierto de raíces. En Fia tumbada junto al cuerpo deforme, con la cabeza contra la del príncipe. *Duerme, príncipe. Ya estoy aquí.*
+Edda pensó en las raíces profundas. En el trono cubierto de raíces. En Fia tumbada junto al cuerpo deforme, con la cabeza contra la del príncipe. _Duerme, príncipe. Ya estoy aquí._
 
-Pensó en la niebla de la llanura gris, en el hombre joven de pelo dorado con la capa de lana gris, agachado junto a un dragón dormido. *Gracias, viejo amigo. Ya está. Ya puedes descansar.*
+Pensó en la niebla de la llanura gris, en el hombre joven de pelo dorado con la capa de lana gris, agachado junto a un dragón dormido. _Gracias, viejo amigo. Ya está. Ya puedes descansar._
 
 —No funcionó —dijo.
 
 —No. —Melina siguió caminando—. Nunca funciona. Buscar a alguien que se ha ido nunca funciona.
 
-* * *
+---
 
 Subir al castillo les llevó todo un día.
 
@@ -38,19 +38,19 @@ En la capilla del castillo había un altar con un sol pintado. Un sol negro, rod
 
 En una de las salas había una mesa larga con mapas del cielo. Cartas astrales dibujadas con tinta, llenas de cálculos al margen, de líneas que unían estrellas, de fechas. En el centro de la mesa, un pergamino más grande que los demás, con un círculo negro dibujado y una fecha debajo. Y una sola frase, escrita con una letra firme, militar:
 
-*Hoy volverá.*
+_Hoy volverá._
 
 Debajo, con otra tinta, otra letra, temblorosa, más tarde:
 
-*No ha vuelto.*
+_No ha vuelto._
 
 Y debajo, otra vez, la primera letra, la firme:
 
-*Lo intentaremos de nuevo.*
+_Lo intentaremos de nuevo._
 
 Y debajo, nada. El resto del pergamino estaba en blanco.
 
-* * *
+---
 
 En lo alto del castillo, en la plataforma de la cúpula de bronce, abierta al cielo por el centro, había un caballero.
 
@@ -90,21 +90,21 @@ Niall se quedó inmóvil.
 
 —No. —Edda dio un paso hacia él—. Murió a medias. Su alma se fue y su cuerpo se quedó. En las raíces, debajo de la capital, en un trono. Con una mujer a su lado. Y con un dragón que entró en su sueño para traerlo de vuelta, y luchó siglos contra la niebla. —Hizo una pausa—. Ahora ha muerto del todo. Hace unos meses. Yo estaba allí.
 
-* * *
+---
 
-Niall no se movió durante un largo rato.
+Niall no se movió.
 
 El viento soplaba en la plataforma. La capa negra se agitaba. La nieve le cubría los hombros de la armadura. La espada de luz negra seguía levantada, apuntando a Edda, pero la punta temblaba.
 
 —Explícate —dijo al fin.
 
-Edda se lo explicó. Le habló de Fia, la compañera del lecho de muerte, que se había quedado junto al trono durante siglos. Del dragón Fortissax. De la llanura gris del sueño. De la niebla. De la pregunta: *¿por qué luchas?* De un hombre joven de pelo dorado, con una capa de lana gris, que había aparecido al final junto al dragón dormido y le había dado las gracias.
+Edda se lo explicó. Le habló de Fia, la compañera del lecho de muerte, que se había quedado junto al trono durante siglos. Del dragón Fortissax. De la llanura gris del sueño. De la niebla. De la pregunta: _¿por qué luchas?_ De un hombre joven de pelo dorado, con una capa de lana gris, que había aparecido al final junto al dragón dormido y le había dado las gracias.
 
 —Me preguntó por la carta —dijo Edda—. La que le escribió a su hermano Morgott la noche de los cuchillos. Si la había recibido. Le dije que sí. Que su hermana pequeña se la había leído al final. —Hizo una pausa—. Y luego me pidió que le dijera a Fia que ya podía ir. Que la esperaba. Que ya no hacía falta que guardara nada.
 
 Niall bajó la espada. Despacio. Hasta que la punta tocó la nieve.
 
-—*Ya no hace falta que guarde nada* —repitió.
+—_Ya no hace falta que guarde nada_ —repitió.
 
 —Eso dijo.
 
@@ -118,23 +118,21 @@ Debajo había una cara viejísima, delgada, de piel curtida por el viento y el f
 
 —El eclipse —dijo—. Hace siglos. Lo preparamos durante años. Miramos las estrellas. Hicimos cálculos. Trajimos al joven dios Miquella para que lo bendijera. Y el sol se volvió negro una hora entera sobre estas cumbres. —Miró hacia el hueco de la cúpula, hacia el sol pálido—. Y no volvió.
 
-—Lo sé.
+—Miquella me dijo algo esa noche. —Niall se secó los ojos con el dorso del guantelete—. La víspera. Aquí mismo, en esta plataforma. Le pregunté si funcionaría. Me dijo que no lo sabía. Que un camino abierto no sirve de nada si nadie quiere recorrerlo. Y que a veces, cuando buscamos tanto a alguien, nos olvidamos de preguntarnos si quiere ser encontrado.
 
-—Miquella me dijo algo esa noche. —Niall se secó los ojos con el dorso del guantelete—. La víspera. Aquí mismo, en esta plataforma. Le pregunté si funcionaría. Me dijo que no lo sabía. Que un camino abierto no sirve de nada si nadie quiere recorrerlo. —Se le quebró la voz—. Y que a veces, cuando buscamos tanto a alguien, nos olvidamos de preguntarnos si quiere ser encontrado.
-
-Edda pensó en Miquella flotando en el jardín muerto. *Gracias por mirarme. Nadie me miraba nunca sin quererme.*
+Edda pensó en Miquella flotando en el jardín muerto. _Gracias por mirarme. Nadie me miraba nunca sin quererme._
 
 —Tenía razón —dijo.
 
-—Lo sé. —Niall asintió despacio—. Lo supe esa noche. Y aun así seguí guardando el castillo. Siglos. Por si acaso. —Miró hacia el pergamino del cielo que se veía a través de la puerta, en la sala de los mapas—. *Lo intentaremos de nuevo.* Lo escribí yo. Al día siguiente. Y no lo volvimos a intentar nunca. Los caballeros se fueron muriendo. Uno por uno. Los enterré en la ladera. Y yo me quedé.
+—Claro que la tenía. Siempre la tenía, el muy desgraciado. —Niall asintió despacio—. Lo supe esa noche. Y aun así seguí guardando el castillo. Siglos. Por si acaso. —Miró hacia el pergamino del cielo que se veía a través de la puerta, en la sala de los mapas—. _Lo intentaremos de nuevo._ Lo escribí yo. Al día siguiente. Y no lo volvimos a intentar nunca. Los caballeros se fueron muriendo. Uno por uno. Los enterré en la ladera. Y yo me quedé.
 
 —¿Por qué?
 
-Niall se quedó callado un largo rato.
+Niall escupió por el hueco del yelmo, a la nieve.
 
 —Porque era mi amigo —dijo al fin—. No mi señor. Mi amigo. Me enseñó a pescar truchas con las manos. En un río al pie de Leyndell, cuando éramos jóvenes. Yo nunca cogí ninguna. Él las cogía todas. Y las soltaba. —Se le escapó una risa rota—. Me decía que lo importante no era cogerlas. Que era saber que podías. Y luego soltarlas.
 
-Edda pensó en Fia, junto a la chimenea de la Mesa Redonda, meciendo una raíz negra. *¿Sabes lo que es una trucha?*
+Edda pensó en Fia, junto a la chimenea de la Mesa Redonda, meciendo una raíz negra. _¿Sabes lo que es una trucha?_
 
 —Fia me contó lo mismo —dijo.
 
@@ -142,13 +140,13 @@ Niall se quedó mirándola. Luego se rio. Una carcajada enorme, ronca, que reson
 
 —¡La compañera! —dijo—. ¡Le contó lo de las truchas! —Se secó los ojos—. Se lo contaba a todo el mundo. Estaba orgulloso de eso. Más que de las batallas. Más que de los dragones.
 
-* * *
+---
 
 —Tengo que pasar —dijo Edda—. A la forja.
 
 Niall se volvió hacia ella. Se volvió a poner el yelmo, despacio.
 
-—Lo sé.
+—Ya.
 
 —¿Vas a dejarme?
 
@@ -160,15 +158,15 @@ Niall se quedó quieto un instante.
 
 —Fia lo guardaba a él —dijo—. Yo guardo la puerta. —Levantó la espada—. Y un caballero no abandona una puerta solo porque le digan que ya no hace falta. Tiene que perderla.
 
-Edda pensó en Rellana. *Si te dejara pasar, sería como decirle que he dejado de esperar.*
+Edda pensó en Rellana. _Si te dejara pasar, sería como decirle que he dejado de esperar._
 
-Pensó en Gaius. *Un juramento es un juramento.*
+Pensó en Gaius. _Un juramento es un juramento._
 
-Pensó en Messmer. *Es lo único que sé hacer.*
+Pensó en Messmer. _Es lo único que sé hacer._
 
 —Lo sé —dijo, y desenvainó.
 
-* * *
+---
 
 Niall no luchó solo.
 
@@ -188,7 +186,7 @@ Niall la vio. Bajó la guardia un instante.
 
 Edda no aprovechó el instante. Esperó a que él volviera a levantarla.
 
-* * *
+---
 
 Cuando cayó, el viejo comandante se quedó de rodillas junto al altar de la plataforma, con las piernas de hierro dobladas en la nieve, la espada negra a un lado, mirando hacia arriba, hacia el hueco de la cúpula.
 
@@ -198,17 +196,13 @@ El sol pálido había salido de entre las nubes. Brillaba débil, blanco, sobre 
 
 Edda se arrodilló a su lado.
 
-—Lo sé.
-
 —Ha muerto del todo —dijo Niall, sin dejar de mirar el sol—. Por fin. Con una mujer a su lado. Y con su dragón. —Se le escapó una sonrisa debajo del yelmo—. Eso está bien. Eso es mejor que lo que intentábamos nosotros. Nosotros queríamos que volviera. —Respiró con dificultad—. Debimos querer que descansara.
 
 —Fia lo quiso.
 
 —Fia siempre supo escuchar a los que se iban. —Niall cerró los ojos—. Nosotros solo sabíamos llamarlos.
 
-Se quedó callado un momento.
-
-—Las truchas —dijo de pronto, muy bajo—. Si alguna vez pasas por el río al pie de Leyndell. El de las piedras planas. Mete las manos en el agua. Espera. —Sonrió—. A ver si coges alguna. Y luego suéltala.
+—Las truchas —dijo de pronto—. Si alguna vez pasas por el río al pie de Leyndell. El de las piedras planas. Mete las manos en el agua. Espera. —Sonrió—. A ver si coges alguna. Y luego suéltala.
 
 —Lo haré.
 
@@ -222,11 +216,11 @@ En la nieve de la plataforma quedaron las piernas de hierro, dobladas, y la espa
 
 Edda se agachó y recogió de la nieve una piedra pequeña, gris, con una veta blanca, brillante, como un rayo de sol atrapado. La decimoséptima.
 
-* * *
+---
 
 Más allá del Castillo Sol, en un valle cerrado entre montañas, había un campo de nieve sagrada.
 
-Tardaron otros dos días en llegar. Bajaron por la cara norte de la montaña, por una escalera de hielo todavía peor que la de subida, y luego cruzaron un glaciar agrietado, azul, que crujía bajo los pies y tenía grietas tan profundas que no se veía el fondo. Melina iba delante. Sabía por dónde pisar. No sabía por qué lo sabía.
+Tardaron otros dos días en llegar. Bajaron por la cara norte de la montaña, por una escalera de hielo todavía peor que la de subida, y luego cruzaron un glaciar agrietado, azul, que crujía bajo los pies y tenía grietas tan profundas que no se veía el fondo. Melina iba delante. Sabía por dónde pisar sin haber estado nunca allí, y eso a Edda le daba más miedo que las grietas.
 
 El valle se abrió al final del glaciar como una sala inmensa. Era una llanura blanca, silenciosa, cubierta de una nieve que no se derretía nunca, que no tenía huellas, que brillaba con una luz propia, débil, plateada. No soplaba el viento. No caía nieve. No había ruido. Era como entrar en una iglesia.
 
@@ -234,7 +228,7 @@ El valle se abrió al final del glaciar como una sala inmensa. Era una llanura b
 
 En el centro de la llanura había un lago helado. Y en el lago, de pie sobre el hielo, inmóvil, había una mujer.
 
-* * *
+---
 
 Parecía joven, casi una niña, de pelo blanco y largo que le caía hasta la cintura, envuelta en un manto blanco que se confundía con la nieve. Tenía la piel tan pálida que casi era transparente, como la de Gaius, como la de los albinauricos del pantano de Mohgwyn. Las manos finas, de dedos largos, articulaciones marcadas. Y unos ojos azules muy claros, muy viejos, que contradecían todo lo demás.
 
@@ -246,11 +240,11 @@ Un lobo blanco, enorme, más alto que un caballo, de pelaje espeso y ojos dorado
 
 —Venimos en paz.
 
-—Lo sé. —La mujer sonrió—. Lo nota él. —Acarició al lobo entre las orejas—. Me llamo Latenna. Y este es mi lobo. Lo llamo así, Lobo, porque nunca quiso otro nombre. Le puse muchos cuando era pequeña. Ninguno le gustó.
+—Ya. —La mujer sonrió—. Lo nota él. —Acarició al lobo entre las orejas—. Me llamo Latenna. Y este es mi lobo. Lo llamo así, Lobo, porque nunca quiso otro nombre. Le puse muchos cuando era pequeña. Ninguno le gustó.
 
 —¿Qué haces aquí?
 
-—Busco una cosa. —Latenna miró hacia el norte, hacia unas montañas más altas todavía que las que habían cruzado, blancas, puntiagudas, perdidas entre nubes—. Un lugar. Una ciudad. La de los míos. Los albinauricos. —Bajó la vista—. Hace mucho tiempo, antes de que la Orden nos persiguiera, antes de que nos llamaran abominaciones y nos colgaran en los pantanos de los palacios de sangre, teníamos un hogar. Una ciudad en las montañas. Ordina.
+—Busco una cosa. —Latenna miró hacia el norte, hacia unas montañas más altas todavía que las que habían cruzado, blancas, puntiagudas, perdidas entre nubes—. Un lugar. Una ciudad. La de los míos. Los albinauricos. —Bajó la vista—. Antes de que la Orden nos persiguiera, antes de que nos llamaran abominaciones y nos colgaran en los pantanos de los palacios de sangre, teníamos un hogar. Una ciudad en las montañas. Ordina.
 
 Edda pensó en la mujer pálida del pantano de Mohgwyn, la que no se acordaba de su nombre y quería dormir porque no se podía dormir con los brazos abiertos.
 
@@ -270,11 +264,11 @@ Latenna la miró con sus ojos azules, viejos.
 
 El lobo blanco bajó la cabeza y la apoyó en las patas.
 
-* * *
+---
 
 Edda la ayudó a llegar.
 
-No fue difícil, al final. El sello era una puerta de hielo en la boca de un desfiladero, con un hueco redondo en el centro, como la de Rold. Y Edda tenía, sin saberlo, la llave: una de las mitades del medallón de Dectus, que había guardado sin pensar en la bolsa del cinturón después de subir a Altus. Encajaba. No supo por qué. Melina dijo que todas las puertas de la Orden se cerraban con la misma llave partida en pedazos, para que nadie las tuviera todas.
+No fue difícil, al final. El sello era una puerta de hielo en la boca de un desfiladero, con un hueco redondo en el centro, como la de Rold. Y Edda tenía, sin saberlo, la llave: una de las mitades del medallón de Dectus, que había guardado sin pensar en la bolsa del cinturón después de subir a Altus. Encajaba. Melina dijo que todas las puertas de la Orden se cerraban con la misma llave partida en pedazos, para que nadie las tuviera todas.
 
 Latenna subió a lomos del lobo. Despacio. El animal se paraba a cada tramo de cuesta a recuperar el aliento, con la lengua fuera, y ella le acariciaba el cuello y le hablaba en voz baja, en una lengua que Edda no conocía.
 
@@ -292,7 +286,7 @@ Latenna bajó del lobo en la entrada de la ciudad. Caminó por las calles despac
 
 Edda miró la estatua de la niña. Tenía, en efecto, a sus pies, una forma pequeña de piedra que podía ser un gato.
 
-* * *
+---
 
 Al llegar a la plaza central, una plaza redonda con una fuente en el centro y un banco de piedra frente a ella, Latenna se sentó en el banco y cerró los ojos.
 
@@ -310,11 +304,11 @@ Le cogió la mano a Edda. Tenía la mano fría, delgadísima.
 
 —Así se recuerdan las cosas —dijo—. De mano en mano. De boca en boca. Aunque no las hayas visto nunca. Aunque ya no existan.
 
-Edda pensó en Dane, en el puente. *Así se transmiten estas cosas. De mano en mano. Como un fuego pequeño.*
+Edda pensó en Dane, en el puente. _Así se transmiten estas cosas. De mano en mano. Como un fuego pequeño._
 
 Pensó en el niño pelirrojo del umbral pidiéndole a su abuelo que le contara otra vez lo de la piedra.
 
-* * *
+---
 
 Latenna murió esa noche, en el banco de la plaza, con la mano de Edda entre las suyas.
 
@@ -336,7 +330,7 @@ Melina la miró sin entender.
 
 —Para que alguien más lo sepa —dijo Edda—. De mano en mano.
 
-* * *
+---
 
 En el extremo norte de Ordina, al final de la ciudad, había un camino que bajaba hacia un valle. Y en el fondo del valle, entre la niebla, se veía algo enorme.
 
@@ -348,28 +342,28 @@ Pero algo le pasaba.
 
 Su corteza estaba manchada de rojo. Manchas grandes, irregulares, como heridas, que subían por el tronco desde las raíces. Sus hojas caían. No doradas, como las del Árbol de Leyndell. Rojas. Hojas rojas que caían despacio sobre la nieve del valle y la teñían de manchas escarlatas, como sangre en un pañuelo blanco. Y en sus raíces, alrededor del tronco, crecían flores. Flores escarlatas, grandes como cabezas, que Edda conocía de Caelid y de Rauh.
 
-—El Árbol Hálito —dijo Melina—. El árbol de Miquella. Lo plantó él, de niño, con un injerto del Árbol Áureo. Para tener un hogar para los que nadie quería. —Se le quebró la voz—. Y para su hermana.
+—El Árbol Hierático —dijo Melina—. El árbol de Miquella. Lo plantó él, de niño, con un injerto del Árbol Áureo. Para tener un hogar para los que nadie quería. Y para su hermana.
 
 —¿Está podrido?
 
 —Desde hace mucho. —Melina miró el árbol con tristeza—. Ella lo pudrió. Sin querer. Volvió de Aeonia, después de la flor, con la podredumbre más fuerte que nunca, y se quedó aquí, en lo más hondo del árbol, esperando a que volviera su hermano. —Hizo una pausa—. Y mientras esperaba, la podredumbre se le fue saliendo. Como se sale el agua de una vasija rota. Y el árbol se la fue bebiendo.
 
-Edda se quedó mirando el árbol mucho tiempo. Las hojas rojas cayendo. Las flores en las raíces.
+Edda se quedó mirando el árbol. Las hojas rojas cayendo. Las flores en las raíces.
 
-Pensó en Millicent. En la aguja de oro en el hombro. En el baile en el claro frente a la iglesia de Gowry. *Entonces no soy nadie. Soy un trozo de otra.*
+Pensó en Millicent. En la aguja de oro en el hombro. En el baile en el claro frente a la iglesia de Gowry. _Entonces no soy nadie. Soy un trozo de otra._
 
-Pensó en Miquella perdiéndose en el cielo. *Dile que ya puede dejar de esperar. Que no voy a volver. Que fue una tontería.*
+Pensó en Miquella perdiéndose en el cielo. _Dile que ya puede dejar de esperar. Que no voy a volver. Que fue una tontería._
 
 Luego miró hacia el otro lado, hacia el este, donde se alzaba la montaña negra, altísima, con la columna de humo rojo saliendo de la cumbre. La Forja de los Gigantes. Donde Melina iba a arder.
 
 —¿Adónde voy primero? —preguntó.
 
-Melina tardó en contestar. Miraba el árbol podrido.
+Melina miraba el árbol podrido.
 
-—Ella lleva mucho tiempo esperando —dijo al fin—. Siglos. Sola, en lo más hondo de un árbol, pudriéndose. —Se tocó el pecho, donde guardaba la carta de Godwyn—. Alguien debería ir a decirle que su hermano no volverá. Y por qué.
+—Ella lleva esperando —dijo al fin—. Siglos. Sola, en lo más hondo de un árbol, pudriéndose. —Se tocó el pecho, donde guardaba la carta de Godwyn—. Alguien debería ir a decirle que su hermano no volverá. Y por qué.
 
 —¿Y la forja?
 
-Melina se volvió hacia la montaña negra. Se quedó mirándola un largo rato.
+Melina se volvió hacia la montaña negra. Se quedó mirándola.
 
-—La forja puede esperar unos días más —dijo, muy bajo—. Yo también.
+—La forja puede esperar unos días más —dijo—. Yo también.

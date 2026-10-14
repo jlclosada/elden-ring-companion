@@ -64,7 +64,7 @@ Pero su cabeza se movió. Muy levemente. Hacia ella. Y su voz sonó en todas par
 
 —¿Por qué nos llamaste?
 
-Marika tardó en contestar.
+La luz osciló, como una llama cuando se abre una puerta.
 
 *Porque yo no podía terminar lo que empecé.*
 
@@ -104,7 +104,7 @@ Más lágrimas doradas.
 
 —¿Los amabas?
 
-Marika no contestó durante un largo rato. La luz subía y bajaba en olas lentas.
+Marika no contestó. La luz subía y bajaba en olas lentas.
 
 *Sí* —dijo al fin—. *A todos. Pero nunca supe decírselo. Nunca supe cómo se hacía. Nadie me lo enseñó.* Una pausa. *Mi madre me lo habría enseñado. Si hubiera tenido tiempo.*
 
@@ -120,7 +120,7 @@ La luz se quedó quieta.
 
 *¿Para mí?*
 
-—De mucha gente. —Edda se arrodilló en el camino de oro, delante de la cruz de zarzas—. Llevo mucho tiempo cargándolas. Desde la Tierra de las Sombras. Desde antes. —Le tembló la voz—. Les prometí que te las traería. Aunque no dependiera de mí.
+—De mucha gente. —Edda se arrodilló en el camino de oro, delante de la cruz de zarzas—. Las llevo encima desde la Tierra de las Sombras. Desde antes. Les prometí que te las traería. Aunque no dependiera de mí.
 
 La reina no dijo nada.
 
@@ -134,7 +134,7 @@ Las zarzas se tensaron de golpe. El cuerpo roto de la reina se arqueó contra la
 
 *No.*
 
-—Una mujer la cuidaba. Una vieja Cornuda que se llamaba Yalda. Su familia la había cuidado durante eras. Le cambiaban las velas. Le traían flores. Y le cantaban. Una nana. La misma que salía de dentro. —A Edda se le quebró la voz—. Porque de dentro salía una canción. Una mujer que cantaba una nana. Desde dentro de un cántaro. Eras.
+—Una mujer la cuidaba. Una vieja Cornuda que se llamaba Yalda. Su familia la había cuidado durante eras. Le cambiaban las velas. Le traían flores. Y le cantaban. Una nana. La misma que salía de dentro. Porque de dentro salía una canción. Una mujer que cantaba una nana. Desde dentro de un cántaro. Eras.
 
 *No. No, no, no.*
 
@@ -148,7 +148,7 @@ La luz dorada se apagó un instante. Toda. De golpe. Como si alguien hubiera sop
 
 Y volvió, temblando.
 
-—Me dijo que llevaba mucho tiempo esperando a decírselo —siguió Edda, con los ojos cerrados, con la voz rota—. A su niña. Que la vio. Que la vio correr. Desde la fila de tinajas, antes de que la metieran dentro. Que se volvió a mirarla y sonrió. Que quería que supiera que hizo bien. Que hizo bien en correr.
+—Me dijo que llevaba toda la muerte esperando a decírselo —siguió Edda, con los ojos cerrados, con la voz rota—. A su niña. Que la vio. Que la vio correr. Desde la fila de tinajas, antes de que la metieran dentro. Que se volvió a mirarla y sonrió. Que quería que supiera que hizo bien. Que hizo bien en correr.
 
 Abrió los ojos.
 
@@ -186,13 +186,13 @@ La hoja se movió. Hacia ella. Como se había movido hacia Melina en la fuente s
 
 Marika se quedó inmóvil, con la punta del dedo en la hoja. Lloraba sin ruido. Las lágrimas doradas caían sobre el brote, sobre la tierra, y la tierra las bebía.
 
-*Yrsa* —dijo, al cabo de mucho tiempo, muy bajo—. *Se llamaba Yrsa.*
+*Yrsa* —dijo por fin—. *Se llamaba Yrsa.*
 
 Edda cerró los ojos.
 
 —Yrsa —repitió.
 
-*Hablaba con los árboles. Grababa la espiral en la puerta cada primavera para que supieran que allí vivía una curandera. Me cantaba esa nana todas las noches. La de los helechos. La de que los lobos no entran donde hay una madre despierta.* Le tembló la voz. *Y la última noche se volvió a mirarme y sonrió. Desde la fila de tinajas. Y yo pensé, toda mi vida, que sonreía para que no tuviera miedo. Que me mentía. Que estaba aterrada y me sonreía para que no gritara.*
+*Hablaba con los árboles. Grababa la espiral en la puerta cada primavera para que supieran que allí vivía una curandera. Me cantaba esa nana todas las noches. La de los helechos. La de que los lobos no entran donde hay una madre despierta. Y la última noche se volvió a mirarme y sonrió. Desde la fila de tinajas. Y yo pensé, toda mi vida, que sonreía para que no tuviera miedo. Que me mentía. Que estaba aterrada y me sonreía para que no gritara.*
 
 —No mentía —dijo Edda—. Te vio correr. Y se alegró.
 
@@ -202,9 +202,9 @@ Marika cerró los ojos.
 
 —Para que no cantara sola —dijo Edda—. Eso dijo Yalda. Que alguien tenía que cantarle de vuelta.
 
-Marika no dijo nada durante mucho tiempo.
+Marika no dijo nada.
 
-Luego, muy bajo, con aquella voz pequeña, ronca, de niña, se puso a cantar.
+Luego, con aquella voz pequeña, ronca, de niña, se puso a cantar.
 
 La nana. La de la tinaja. La de los helechos y los lobos. La que Edda había oído en Belurat desde dentro de un cántaro, y en la voz de Yalda que desafinaba en las notas altas, y en la de Melina al amanecer junto a la fuente seca.
 
@@ -256,7 +256,7 @@ La reina se quedó inmóvil.
 
 —Cuando murió en la explanada —siguió Edda—, pidió que alguien le leyera. Pidió a Isolde. Y se la leyó su hermana. La pequeña. La que nació al pie del Árbol. —Tragó saliva—. Melina.
 
-*Melina* —repitió Marika, muy bajo.
+*Melina* —repitió Marika.
 
 —Me pidió que te la trajera. Que la leyeras. Que supieras que su hermano la llevó encima toda su vida. Que ya no eran uno. Que eran dos. —Edda levantó la carta hacia la reina—. ¿Quieres que te la lea?
 
@@ -280,11 +280,11 @@ Las lágrimas le corrían por las grietas.
 
 Edda bajó la carta.
 
-La reina no dijo nada durante mucho tiempo.
+La reina no dijo nada.
 
-*Le enseñé a escribir yo* —dijo al fin, muy bajo—. *A Godwyn. Con letras grandes. Le cogía la mano y le guiaba los dedos. Hacía unas letras horribles.* Le tembló la voz. *Y las siguió haciendo grandes. Para su hermano. Para que pudiera leerlas con un libro de ciegos.* Abrió los ojos. *Yo no le dije nunca que tenía hermanos en las cloacas. Lo descubrió solo. Y les escribió.*
+*Le enseñé a escribir yo* —dijo al fin—. *A Godwyn. Con letras grandes. Le cogía la mano y le guiaba los dedos. Hacía unas letras horribles. Y las siguió haciendo grandes. Para su hermano. Para que pudiera leerlas con un libro de ciegos.* Abrió los ojos. *Yo no le dije nunca que tenía hermanos en las cloacas. Lo descubrió solo. Y les escribió.*
 
-—Lo sé.
+Edda asintió.
 
 *Era mejor que yo* —dijo Marika—. *Todos mis hijos eran mejores que yo. Y los dejé a todos.*
 
@@ -304,7 +304,7 @@ Marika miró las piedras.
 
 —Se quitó a Serosh de los hombros otra vez. No lo mató. Lo abrazó.
 
-Marika se quedó mirando las dos piedras mucho tiempo.
+Marika se quedó mirando las dos piedras.
 
 *Me enseñó a pelear con las manos* —dijo—. *En una celda de Belurat. La noche antes de cruzar la Puerta. Se comía una rata cruda cuando entré.* Sonrió, apenas, con la boca rota. *Me dijo: «¿Vienes a curarme? Dicen que las de tu pueblo cosen la carne como si fuera tela». Y yo le dije que las de mi pueblo estaban en tinajas.*
 
@@ -328,7 +328,7 @@ Marika vio la caja y cerró los ojos con fuerza.
 
 La desdobló.
 
-—*Si alguna vez lees esto, Madre: lo hice todo por ti. La quema. La guardia. Los siglos. Todo. Y sé que no te importa. Pero lo hice.* —Le tembló la voz—. *Tu hijo, el que arde.*
+—*Si alguna vez lees esto, Madre: lo hice todo por ti. La quema. La guardia. Los siglos. Todo. Y sé que no te importa. Pero lo hice.* —Edda se detuvo antes de la firma—. *Tu hijo, el que arde.*
 
 Marika no dijo nada. Le temblaba el cuerpo entero contra las zarzas.
 
@@ -370,13 +370,13 @@ Marika miró la espada. Mucho tiempo.
 
 La reina cerró los ojos.
 
-*Lo sabía* —dijo—. *Se lo vi en la cara. Esa noche. Fue el único que me miró con pena en toda mi vida.* Le tembló la voz. *Por eso no le dije qué dios. Porque si se lo decía, habría dejado de mirarme así.*
+*Lo sabía* —dijo—. *Se lo vi en la cara. Esa noche. Fue el único que me miró con pena en toda mi vida. Por eso no le dije qué dios. Porque si se lo decía, habría dejado de mirarme así.*
 
 * * *
 
 —Y la última —dijo Edda.
 
-Le temblaban las manos. No sabía por qué esta le costaba más que las demás.
+Le temblaban las manos. Esta le costaba más que las demás, porque era la única que también le dolía a ella.
 
 —Melina —dijo—. Tu hija. La que nadie registró. La que sostuviste en brazos una sola vez al pie del Árbol. La que ha ardido en la forja para que yo pudiera entrar.
 
@@ -392,9 +392,7 @@ Silencio.
 
 Un silencio enorme, dorado, quieto, en el centro de la luz.
 
-*¿Quién?* —preguntó Marika, al fin, muy bajo.
-
-Edda tardó en contestar.
+*¿Quién?* —preguntó Marika.
 
 —Yo —dijo—. Le dije el color de su ojo. Al final. Cuando estaba en la llama. Me lo pidió. Que la mirara y le dijera de qué color era. —Abrió el puño. La piedra ámbar brillaba en su palma, cálida, quieta—. Era ámbar. Como la miel al sol. Como la resina de un árbol que llora en primavera.
 
@@ -404,9 +402,9 @@ Marika miró la piedra.
 
 —Le dije que seguía siendo ámbar. Y sonrió.
 
-La reina no dijo nada durante mucho tiempo. Luego alargó la mano libre. Hacia la piedra. Despacio. Y la tocó con la punta del dedo, como había tocado la hoja del brote.
+La reina no dijo nada. Luego alargó la mano libre. Hacia la piedra. Despacio. Y la tocó con la punta del dedo, como había tocado la hoja del brote.
 
-*Le di el ojo* —dijo—. *Para que viera el fuego. Para que supiera elegir.* Le tembló la voz. *Y no le dije nunca de qué color era. Porque no lo sabía. Porque nunca la miré lo bastante cerca.*
+*Le di el ojo* —dijo—. *Para que viera el fuego. Para que supiera elegir. Y no le dije nunca de qué color era. Porque no lo sabía. Porque nunca la miré lo bastante cerca.*
 
 Apartó el dedo.
 
@@ -416,21 +414,21 @@ Edda cerró el puño.
 
 * * *
 
-Se quedaron un rato largo en silencio. Edda arrodillada en el camino de oro. Marika colgada de la cruz de zarzas, con un brazo libre, con la cara mojada. Entre las dos, en el suelo, la caja de cartas abierta, las dos piedras grises, la carta de Godwyn con las letras grandes hacia arriba.
+Se quedaron en silencio. Edda arrodillada en el camino de oro. Marika colgada de la cruz de zarzas, con un brazo libre, con la cara mojada. Entre las dos, en el suelo, la caja de cartas abierta, las dos piedras grises, la carta de Godwyn con las letras grandes hacia arriba.
 
 *Gracias* —dijo Marika.
 
 —No me des las gracias.
 
-*Te las doy. Me has traído a mis hijos.* La reina miró la caja, las piedras, la carta. *A todos. A los que dejé. Me los has traído de vuelta en una bolsa y una caja y un bolsillo.* Se le quebró la voz. *Y a mi madre. Me has traído a mi madre.*
+*Te las doy. Me has traído a mis hijos.* La reina miró la caja, las piedras, la carta. *A todos. A los que dejé. Me los has traído de vuelta en una bolsa y una caja y un bolsillo. Y a mi madre. Me has traído a mi madre.*
 
 Edda no supo qué decir.
 
 *¿Por qué?* —preguntó Marika—. *No eres nada mío. Eres una Sinluz de las Tierras Áridas. Una descendiente de los que mandé al exilio. ¿Por qué has cargado con todo esto?*
 
-Edda se quedó callada mucho tiempo.
+Edda miró la caja abierta, las dos piedras, la carta con letras de niño.
 
-—Porque yo también tengo a alguien esperando en un umbral —dijo al fin—. Y no puedo llevarle nada. Ni una piedra. Ni una carta. Nada. Se murió esperándome. —Le tembló la voz—. Así que lo llevé para los demás. Para que por lo menos a alguien le llegara lo que le habían prometido.
+—Porque yo también tengo a alguien esperando en un umbral —dijo al fin—. Y no puedo llevarle nada. Ni una piedra. Ni una carta. Nada. Se murió esperándome. Así que lo llevé para los demás. Para que por lo menos a alguien le llegara lo que le habían prometido.
 
 Marika la miró.
 
@@ -472,7 +470,7 @@ Tenía la cara de Marika, y no la tenía. Era la misma cara, los mismos pómulos
 
 Miró a Edda. Luego bajó la vista hacia el camino de oro. Hacia la caja de cartas abierta. Hacia las dos piedras grises. Hacia la carta de Godwyn con las letras grandes.
 
-Se quedó mirándolas mucho tiempo, sin expresión.
+Se quedó mirándolas, sin expresión.
 
 —Sinluz —dijo, con una voz grave, firme, que no era la de ella. Una voz de soldado. De campeón—. Has llegado hasta aquí. Has quemado el Árbol. Has liberado la muerte. Has matado a todos los hijos de esta casa.
 
@@ -494,7 +492,7 @@ Radagon se quedó inmóvil.
 
 El martillo bajó. Un palmo.
 
-—Lo sé —dijo Radagon, muy bajo—. Lo sé.
+—Lo sé —dijo Radagon—. Lo sé.
 
 Luego volvió a levantarlo.
 
@@ -540,7 +538,7 @@ Una grieta. No en la piel. En la expresión. Un instante de duda. Como el de Mal
 
 Radagon se quedó inmóvil. El martillo en lo alto.
 
-—Ella está ahí dentro —dijo Edda—. Lo sé. Está llorando. Está cantando una nana. Está tocando una hoja con la punta del dedo. —Bajó la espada—. Y tú también. El que nadó treinta noches hasta una iglesia para pedirle la mano a una reina de la luna. El que se cortó el pelo para honrarla. El que tenía un lobo rojo.
+—Ella está ahí dentro —dijo Edda—. La he visto. Está llorando. Está cantando una nana. Está tocando una hoja con la punta del dedo. —Bajó la espada—. Y tú también. El que nadó treinta noches hasta una iglesia para pedirle la mano a una reina de la luna. El que se cortó el pelo para honrarla. El que tenía un lobo rojo.
 
 Radagon no se movió. Le temblaban los brazos, con el martillo en alto.
 
@@ -562,15 +560,15 @@ Edda no se acercó. Se quedó de pie, a tres pasos, con la espada baja.
 
 —La Orden… —susurró Radagon—. La Orden debe… perdurar…
 
-No terminó la frase.
+La frase se le quedó entre los dientes rotos, con un hilo de sangre dorada.
 
 Levantó la cabeza. Y Edda vio que tenía los ojos azules. Por un instante. Azules y grises a la vez, mezclados, como el cielo cuando se encuentran una nube y un claro.
 
-—Rennala —dijo, muy bajo, con una voz que no era ni la de él ni la de ella. Una voz a medio camino—. ¿Sigue cantando?
+—Rennala —dijo, con una voz que no era ni la de él ni la de ella. Una voz a medio camino—. ¿Sigue cantando?
 
 —Sigue cantando.
 
-—Bien. —Le tembló la voz—. Bien. Era una nana muy bonita. Me la cantaba cuando no podía dormir. La de la luna llena. —Cerró los ojos—. Nunca le dije que la de Marika era la misma. Con otra letra. Las dos nanas eran la misma.
+—Bien —dijo—. Bien. Era una nana muy bonita. Me la cantaba cuando no podía dormir. La de la luna llena. —Cerró los ojos—. Nunca le dije que la de Marika era la misma. Con otra letra. Las dos nanas eran la misma.
 
 Edda se quedó inmóvil.
 

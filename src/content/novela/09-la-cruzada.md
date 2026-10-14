@@ -10,7 +10,7 @@ Marika estaba de rodillas en el suelo, junto a la cama, con el bebé en brazos. 
 
 —Hermana —dijo Maliketh.
 
-—Lo sé.
+—Ya lo veo.
 
 —¿Qué es eso?
 
@@ -20,11 +20,11 @@ Marika no levantó la vista del bebé.
 
 —¿Cómo ha llegado ahí?
 
-La diosa tardó mucho en contestar.
+La diosa le apretó la tripa al niño con dos dedos, y la cosa de dentro se apartó.
 
 —No lo sé —dijo al fin—. O sí lo sé, y no quiero saberlo.
 
-Maliketh se acercó. Olió al niño. Olió la serpiente. Y debajo del olor de la fiebre y de la carne quemada, olió algo que no había olido desde la tierra de los Cornudos: el olor del Árbol Umbrío. Oscuro, antiguo, dulce.
+Maliketh se acercó. Olió al niño. Olió la serpiente. Y debajo del olor de la fiebre y de la carne quemada, olió algo que no había olido desde la tierra de los Cornamentados: el olor del Árbol Umbrío. Oscuro, antiguo, dulce.
 
 —Viene de allí —dijo—. De la tierra que dejaste atrás.
 
@@ -32,7 +32,7 @@ Marika no contestó. Siguió meciendo al niño, que gritaba, que ardía, que se 
 
 Lo sostuvo así durante toda la noche.
 
-* * *
+---
 
 Al amanecer tomó una decisión.
 
@@ -54,11 +54,11 @@ El niño empezó a llorar. Esta vez era un llanto normal, de recién nacido, dé
 
 —¿Cómo se llama? —preguntó Maliketh, cuando el niño se durmió.
 
-Marika lo miró durante mucho tiempo. Al círculo de oro en la cara. A la llama que todavía brillaba, débil, en el ojo izquierdo cerrado.
+Marika lo miró. Al círculo de oro en la cara. A la llama que todavía brillaba, débil, en el ojo izquierdo cerrado.
 
 —Messmer —dijo—. En la lengua de mi aldea quiere decir «el que arde».
 
-* * *
+---
 
 Messmer creció lejos de Leyndell, en la misma torre de las tierras bajas donde había nacido, rodeado de serpientes aladas.
 
@@ -90,13 +90,11 @@ Marika se detuvo con la cincha en la mano.
 
 —¿Él no lleva nada dentro?
 
-Marika tardó en contestar.
-
 —No.
 
 —¿Por eso lo quieres más?
 
-La diosa se volvió hacia él. Lo miró durante mucho tiempo, con una expresión que Messmer no supo leer.
+La diosa se volvió hacia él. Lo miró con una expresión que Messmer no supo leer.
 
 —No te quiero menos, Messmer —dijo al fin—. Te quiero de otra manera. Con más miedo.
 
@@ -114,7 +112,7 @@ La diosa retiró la mano.
 
 Montó a caballo y se fue. Messmer se quedó en el patio, con las serpientes aladas enroscadas en los brazos, mirándola alejarse por el camino hasta que desapareció. Y aquella noche, por primera vez, la llama de su ojo izquierdo se escapó sin que él se enfadara, y quemó la almohada sobre la que lloraba.
 
-* * *
+---
 
 —Tienes una visión de fuego —le dijo su madre años después, en otra de sus visitas, cuando él ya tenía quince años y la llama le quemaba más de lo que le había quemado nunca—. Como yo la tuve una vez.
 
@@ -138,7 +136,7 @@ Marika no contestó enseguida. Miró hacia el oeste, hacia el resplandor dorado 
 
 Fue la única ocasión en que Marika le habló de sí misma. Messmer la recordó durante el resto de su vida, palabra por palabra.
 
-* * *
+---
 
 Messmer tuvo un amigo.
 
@@ -166,13 +164,13 @@ Gaius se levantó del suelo riendo, con la armadura chamuscada y la barba blanca
 
 —Ya lo sé. —Gaius se acercó a él, cojeando, y le tendió la mano—. Yo tampoco elegí nacer así. Me sacaron de un frasco, ¿sabes? Un hechicero me hizo con lágrimas de cera y un poco de sangre de no sé quién, y luego me dejó en un orfanato porque no le salí como quería. —Sonrió—. Tú por lo menos tienes madre.
 
-Messmer miró la mano tendida durante mucho tiempo. Nadie le había tendido la mano nunca. Ni las nodrizas, ni los mozos, ni el sacerdote Aldous. Ni siquiera su madre; su madre le ponía la mano en la cara, sobre el sello, como quien revisa una cerradura.
+Messmer miró la mano tendida. Nadie le había tendido la mano nunca. Ni las nodrizas, ni los mozos, ni el sacerdote Aldous. Ni siquiera su madre; su madre le ponía la mano en la cara, sobre el sello, como quien revisa una cerradura.
 
 La tomó.
 
 Fueron amigos desde entonces.
 
-* * *
+---
 
 Años después, se unió a ellos un niño.
 
@@ -180,7 +178,7 @@ Era pelirrojo, enorme para su edad, ruidoso, con una risa que hacía temblar los
 
 —¡Quiero ser como vosotros! —anunció, plantado delante de los dos con una espada de madera más grande que él—. ¡Quiero ser el guerrero más grande del mundo! ¡Como Godfrey!
 
-Gaius se rio. Messmer no. Messmer miró al niño durante mucho tiempo, con su ojo de oro y su ojo de fuego, y el niño no apartó la mirada ni un instante.
+Gaius se rio. Messmer no. Messmer miró al niño con su ojo de oro y su ojo de fuego, y el niño no apartó la mirada ni un instante.
 
 —¿No te doy miedo? —le preguntó.
 
@@ -198,7 +196,7 @@ Los tres se trataron como hermanos durante muchos años. Messmer y Gaius eran lo
 
 Messmer lo miró. Luego, por primera vez en muchos años, se rio.
 
-* * *
+---
 
 Rellana llegó a Leyndell un día de primavera, a caballo, sola.
 
@@ -224,9 +222,9 @@ Messmer se quedó paralizado.
 
 Rellana ganó el duelo. Derrotó a tres caballeros de la guardia del Árbol, uno tras otro, con sus dos espadas girando a su alrededor como dos lunas. Cuando el último cayó, se volvió hacia las gradas, se quitó el yelmo, y miró hacia arriba. Hacia lo más alto. Hacia un encapuchado sentado junto a un albinaurio enorme que comía cordero.
 
-Messmer sintió que algo le subía por el pecho. No era la serpiente. Era otra cosa.
+Messmer sintió que algo le subía por el pecho. Y no era la serpiente.
 
-* * *
+---
 
 —Te seguiré a donde vayas —le dijo Rellana aquella noche, en un balcón de la Torre de los Dedos, cuando por fin consiguió encontrarlo a solas.
 
@@ -254,11 +252,9 @@ Rellana lo miró a los ojos, al de oro y al de fuego. No apartó la mirada.
 
 —Voy a la guerra —dijo él—. Mi madre me lo ha dicho esta mañana. A una guerra lejana, al este, contra un pueblo que no conozco. Una guerra que no tiene gloria.
 
-Rellana se quedó callada un momento.
+—Entonces necesitarás a alguien que te recuerde que tú sí la tienes —dijo Rellana.
 
-—Entonces necesitarás a alguien que te recuerde que tú sí la tienes.
-
-Messmer la miró durante mucho tiempo. Luego, despacio, alargó una mano. Una de las serpientes aladas se desenroscó de su brazo, voló hasta Rellana, y se posó en su hombro, y se acurrucó allí, contra su cuello, como un gato.
+Messmer la miró. Luego, despacio, alargó una mano. Una de las serpientes aladas se desenroscó de su brazo, voló hasta Rellana, y se posó en su hombro, y se acurrucó allí, contra su cuello, como un gato.
 
 —Nunca hacen eso —dijo Messmer, en voz baja—. Con nadie.
 
@@ -268,9 +264,9 @@ Rellana acarició a la serpiente con la punta de los dedos.
 
 Nunca se lo dijeron. Ni aquella noche, ni en todos los siglos que vinieron después. Ni él a ella ni ella a él. No hizo falta. Rellana lo siguió a la guerra, y a la tierra sellada, y a la eternidad de sombra que vino después. Y la serpiente alada no se separó nunca de su hombro.
 
-Su hermana, que ya era reina, aceptó su renuncia. Le envió un mechón de su larga cabellera negra como despedida, atado con una cinta azul, y una carta de una sola línea: *Que tus dos lunas te alumbren donde no llegue la mía.*
+Su hermana, que ya era reina, aceptó su renuncia. Le envió un mechón de su larga cabellera negra como despedida, atado con una cinta azul, y una carta de una sola línea: _Que tus dos lunas te alumbren donde no llegue la mía._
 
-* * *
+---
 
 La orden había llegado aquella mañana, en la gran sala de la Torre de los Dedos.
 
@@ -296,7 +292,7 @@ Marika sostuvo su mirada.
 
 —No se someterán.
 
-Messmer la miró durante mucho tiempo. A la diosa que lo visitaba dos veces al año. A la mujer que le había arrancado un ojo para salvarlo. A la madre que no lo reconocía ante la corte.
+Messmer la miró. A la diosa que lo visitaba dos veces al año. A la mujer que le había arrancado un ojo para salvarlo. A la madre que no lo reconocía ante la corte.
 
 —¿Por qué yo? —preguntó al fin—. Tienes ejércitos. Tienes a Godfrey. Tienes a Godwyn.
 
@@ -318,7 +314,7 @@ Pero eso fue después.
 
 Aquella mañana, en la sala vacía, solo se arrodilló. Porque era lo único que su madre le había pedido nunca. Y porque, en el fondo de su pecho, junto a la serpiente dormida, había una esperanza pequeña y terca, como una brasa: que si lo hacía bien, quizá algún día ella lo reconociera.
 
-* * *
+---
 
 La cruzada fue la más cruel de todas las guerras de la Orden.
 
@@ -330,13 +326,15 @@ Huw era el que más quería a Messmer. Era un muchacho de veinte años, rubio, i
 
 —Porque mi padre dice que sois un monstruo, mi señor. —Huw se encogió de hombros—. Y yo creo que no. Y quiero tener razón.
 
-Messmer lo miró durante un largo rato. Luego le revolvió el pelo rubio, como hacía Radahn con él.
+Messmer lo miró. Luego le revolvió el pelo rubio, como hacía Radahn con él.
 
-Llegaron a la tierra de los Cornudos como una tormenta de fuego.
+Llegaron a la tierra de los Cornamentados como una tormenta de fuego.
 
-Las aldeas ardieron. Los templos ardieron. Las torres de piedra se ennegrecieron hasta los cimientos. Los Cornudos no se sometieron, como había dicho su madre. Luchaban con una ferocidad desesperada, con lanzas de hueso y espadas curvas y rezos al Crisol, y morían de pie. En Belurat, a los pies de Enir-Ilim, los guerreros de las bestias divinas convirtieron la danza del león en un arte de guerra: se metían bajo la piel de la bestia sagrada y se lanzaban contra los Caballeros de Fuego entre rayos, viento y escarcha. Murieron todos. Al final de la cruzada solo quedaban dos bestias divinas en toda la tierra, escondidas en ruinas, esperando.
+Las aldeas ardieron. Los templos ardieron. Las torres de piedra se ennegrecieron hasta los cimientos. Los Cornamentados no se sometieron, como había dicho su madre. Luchaban con una ferocidad desesperada, con lanzas de hueso y espadas curvas y rezos al Crisol, y morían de pie. En Belurat, a los pies de Enir-Ilim, los guerreros de las bestias divinas convirtieron la danza del león en un arte de guerra: se metían bajo la piel de la bestia sagrada y se lanzaban contra los Caballeros de Fuego entre rayos, viento y escarcha. Murieron todos. Al final de la cruzada solo quedaban dos bestias divinas en toda la tierra, escondidas en ruinas, esperando.
 
-* * *
+Los cantares de la Orden lo contarían así, con lanzas y bestias y muertes de pie. No contarían lo demás. Que los que no morían de pie morían en las cruces: los Caballeros de Fuego clavaban a los Cornamentados vivos en cruces de hierro a lo largo de los caminos, con los brazos abiertos, y les prendían fuego por los pies para que tardaran. Que a los niños con cuernos de leche se los quemaba con sus madres, porque los cuernos crecen. Que los soldados apostaban cuánto aguantaba gritando cada uno, y que Messmer lo sabía y no lo prohibió. Las cruces siguen allí. Nadie las ha quitado.
+
+---
 
 Messmer entró en la plaza del toro de Belurat el día en que la ciudad cayó.
 
@@ -374,9 +372,9 @@ Messmer no dijo nada. Tenía la lanza baja. La llama le temblaba en el ojo.
 
 Messmer dio un paso atrás.
 
-—Mi madre… —dijo, y se le quebró la voz—. Mi madre me ha enviado aquí. A quemar a los Cornudos. A todos. Dice que adoran al Crisol. Que son peligrosos para el Árbol.
+—Mi madre… —dijo—. Mi madre me ha enviado aquí. A quemar a los Cornamentados. A todos. Dice que adoran al Crisol. Que son peligrosos para el Árbol.
 
-Ilmar lo miró durante mucho tiempo con sus ojos casi ciegos.
+Ilmar lo miró con sus ojos casi ciegos.
 
 —Tu madre te ha enviado a vengarla —dijo al fin, con mucha suavidad—. A hacer lo que ella no quiere que nadie sepa que quiere hacer. Y te ha elegido a ti porque nadie sabe que eres su hijo.
 
@@ -388,7 +386,7 @@ Detrás de ellos, una columna de Caballeros de Fuego entró en la plaza con las 
 
 —¡Mi señor! ¿Quemamos esto?
 
-Messmer no contestó enseguida. Miró la tinaja roja. Miró al viejo de los cuernos enormes, que había vuelto a cantar, muy bajo, la canción de cuna de un valle que ya no existía.
+Messmer no contestó enseguida. Miró la tinaja roja. Miró al viejo de los cuernos enormes, que había vuelto a cantar, entre dientes, la canción de cuna de un valle que ya no existía.
 
 —No —dijo—. Esta no. Ni al viejo. Seguid con el resto de la ciudad.
 
@@ -398,11 +396,11 @@ Messmer se quedó en la plaza hasta que la ciudad terminó de arder. Sentado en 
 
 No volvió a abrirlos.
 
-Messmer lo enterró él mismo, al pie de la fuente, con las manos. En el bolsillo de la túnica del viejo encontró una figurita de madera, gastada por siglos de manos, con forma de león. La miró durante mucho tiempo. Luego volvió a meterla en el bolsillo del muerto, y lo cubrió de tierra.
+Messmer lo enterró él mismo, al pie de la fuente, con las manos. En el bolsillo de la túnica del viejo encontró una figurita de madera, gastada por siglos de manos, con forma de león. Luego volvió a meterla en el bolsillo del muerto, y lo cubrió de tierra.
 
 La tinaja roja siguió cantando. Messmer ordenó que nadie la tocara. Siglos después, cuando la tierra sellada ya no era más que ruinas y sombra, la tinaja seguía en la plaza del toro, junto a la fuente, cantando para nadie.
 
-* * *
+---
 
 Rellana lo encontró aquella noche en lo alto de la muralla de Belurat, mirando la ciudad en ruinas.
 
@@ -412,9 +410,9 @@ Messmer no contestó.
 
 Rellana se acercó. La serpiente alada de su hombro voló hasta él y se le enroscó en el cuello, como hacía siempre cuando estaba triste. Messmer la dejó.
 
-—Mi madre nació aquí —dijo al fin—. Cerca de aquí. En un valle al oeste. Los Cornudos metieron a su gente en tinajas. A su madre también. —Se volvió hacia Rellana—. Me ha enviado a vengarla. Sin decírmelo. Porque nadie sabe que soy su hijo.
+—Mi madre nació aquí —dijo al fin—. Cerca de aquí. En un valle al oeste. Los Cornamentados metieron a su gente en tinajas. A su madre también. —Se volvió hacia Rellana—. Me ha enviado a vengarla. Sin decírmelo. Porque nadie sabe que soy su hijo.
 
-Rellana no dijo nada durante mucho tiempo.
+Rellana no dijo nada.
 
 —¿Y qué vas a hacer? —preguntó al fin.
 
@@ -424,7 +422,7 @@ Messmer miró la ciudad en llamas a sus pies.
 
 —Messmer…
 
-—Si lo hago bien, quizá me reconozca. —Se le quebró la voz—. Es estúpido, lo sé. Pero es lo único que tengo.
+—Si lo hago bien, quizá me reconozca. Es estúpido, ya lo sé. Pero es lo único que tengo.
 
 Rellana le tomó la mano. La de la lanza, la que quemaba. No se quemó.
 
@@ -432,13 +430,13 @@ Rellana le tomó la mano. La de la lanza, la que quemaba. No se quemó.
 
 Se quedaron así hasta el amanecer, en lo alto de la muralla, de la mano, mientras Belurat terminaba de arder.
 
-* * *
+---
 
 Rellana tomó el Castillo Ensis, en la frontera, y desde allí destruyó con su hechicería lunar la piedra angular de las Ruinas de Moorth, provocando un desprendimiento que sepultó media aldea Cornuda bajo la tierra. La llamaron, desde entonces, la Espada de Messmer. Ella nunca habló de aquello. Pero los caballeros de Caria que la acompañaban contaban que, la noche después de Moorth, la oyeron llorar en su tienda por primera y única vez.
 
 En las Ruinas Antiguas de Rauh, al noroeste, vivía una sacerdotisa llamada Romina, que cuidaba de una iglesia y de un capullo de flor sagrado. Los soldados de Messmer quemaron la iglesia mientras ella abrazaba el capullo, muda. Cuando las llamas se apagaron, Romina encontró entre las cenizas algo que no era de este mundo: un elemento divino retorcido, rojo, que ardía sin fuego. Lo tomó en sus manos y lo transformó en podredumbre escarlata.
 
-* * *
+---
 
 Hubo soldados que no pudieron soportarlo.
 
@@ -474,15 +472,15 @@ Messmer cerró los ojos.
 
 Los encerró en una tumba subterránea, bajo la tierra, con los demás rebeldes, y selló la puerta con su llama. Los lloró. A Huw, sobre todo. Lo había considerado un hermano de armas. Durante siglos, cada año, en el aniversario de la rebelión, bajaba a la puerta sellada de la tumba y se quedaba allí sentado toda la noche, sin abrirla, sin decir nada.
 
-* * *
+---
 
 Entonces Marika lo abandonó.
 
-No hubo una carta ni un mensajero. Simplemente, un día las comunicaciones con Leyndell dejaron de llegar. Los refuerzos no vinieron. Las órdenes no vinieron. Y una mañana, al despertar, Messmer descubrió que el cielo de la Tierra de los Cornudos se había vuelto gris para siempre.
+No hubo una carta ni un mensajero. Simplemente, un día las comunicaciones con Leyndell dejaron de llegar. Los refuerzos no vinieron. Las órdenes no vinieron. Y una mañana, al despertar, Messmer descubrió que el cielo de la Tierra de los Cornamentados se había vuelto gris para siempre.
 
 Marika había sellado aquella tierra.
 
-La había envuelto en la sombra del Árbol Umbrío, cortando todos los caminos, borrándola de los mapas, de las memorias y de las crónicas. Lo que había pasado allí —la chamana, la Puerta, la traición, la cruzada— dejaría de existir para el resto del mundo. Y dentro de la sombra quedaban atrapados todos: los Cornudos supervivientes, los soldados de la cruzada, Gaius, Rellana y Messmer.
+La había envuelto en la sombra del Árbol Umbrío, cortando todos los caminos, borrándola de los mapas, de las memorias y de las crónicas. Lo que había pasado allí —la chamana, la Puerta, la traición, la cruzada— dejaría de existir para el resto del mundo. Y dentro de la sombra quedaban atrapados todos: los Cornamentados supervivientes, los soldados de la cruzada, Gaius, Rellana y Messmer.
 
 Su madre lo había usado como chivo expiatorio y lo había olvidado allí.
 
@@ -494,9 +492,9 @@ Gaius estaba a su lado, apoyado en la almena, con la barba blanca revuelta por e
 
 —Messmer —dijo Gaius.
 
-—No. —Messmer se volvió hacia él. La llama le ardía en el ojo, más alta que nunca—. Escúchame bien, Gaius. Voy a seguir. Voy a seguir purgando esta tierra. Año tras año, siglo tras siglo, hasta que no quede ni un Cornudo. Porque es lo único que me pidió. Y si lo hago hasta el final, quizá algún día…
+—No. —Messmer se volvió hacia él. La llama le ardía en el ojo, más alta que nunca—. Escúchame bien, Gaius. Voy a seguir. Voy a seguir purgando esta tierra. Año tras año, siglo tras siglo, hasta que no quede ni un Cornudo. Porque es lo único que me pidió. Y si lo hago hasta el final, quizá algún día me mire.
 
-No terminó la frase.
+Lo dijo con el olor de las cruces todavía en la ropa.
 
 Rellana le puso la mano en el brazo. Él no la apartó.
 
@@ -506,9 +504,9 @@ Rellana le puso la mano en el brazo. Él no la apartó.
 
 —Entonces estaré yo —dijo Rellana—. Como siempre.
 
-Messmer siguió cumpliendo la orden. Siguió purgando a los Cornudos, año tras año, siglo tras siglo, con su llama y su lanza, porque era lo único que su madre le había pedido y lo único que todavía lo unía a ella.
+Messmer siguió cumpliendo la orden. Siguió purgando a los Cornamentados, año tras año, siglo tras siglo, con su llama y su lanza, porque era lo único que su madre le había pedido y lo único que todavía lo unía a ella.
 
-* * *
+---
 
 Marika volvió a la aldea de las chamanas una sola vez, como le había dicho a Maliketh.
 

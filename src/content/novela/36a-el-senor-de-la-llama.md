@@ -6,8 +6,6 @@ Edda entró en ellos al amanecer, si es que en la Tierra de las Sombras había a
 
 —¿Qué dice?
 
-Ansbach tardó en contestar.
-
 —Que mi señor no sufriría si todo fuera uno —dijo al fin—. Que yo no sufriría. Que no habría que elegir entre seguir al niño o no seguirlo, porque no habría niño, ni Ansbach, ni nada. —Se le endureció la cara—. Es una voz muy razonable. Eso es lo peor.
 
 La niebla era negra. No gris, no blanca: negra, espesa, como humo de aceite, tan densa que no se veía nada más allá de un brazo extendido. Se movía despacio, sin viento, enroscándose alrededor de los troncos de los árboles como serpientes. Y detrás de ella, en el horizonte, por encima, brillaba la llama amarilla. Lo único que se veía. Como un faro.
@@ -38,7 +36,7 @@ Edda no se movió. No respiró. Sintió algo rozarle la cara: dedos. Dedos enorm
 
 Luego se apartaron. Los pasos siguieron, alejándose, hacia la oscuridad.
 
-Edda se quedó temblando mucho tiempo antes de poder seguir.
+Edda se quedó temblando hasta que dejó de oír los pasos.
 
 * * *
 
@@ -118,7 +116,7 @@ Una llama amarilla, pequeña, del tamaño de un pulgar, que ardía sin quemarlo,
 
 —¿A qué pregunta?
 
-El viejo se quedó callado un momento. La llama de su frente parpadeó.
+La llama de su frente parpadeó.
 
 —¿Sabes qué hay detrás de todo? —preguntó—. ¿Detrás de los dioses, de los dedos, de los árboles? ¿Detrás de las estrellas que miraba tu amigo el conde? ¿Detrás de la voluntad que dejó de hablarle a la madre de los dedos? ¿Sabes qué es lo que hay?
 
@@ -130,13 +128,13 @@ Edda pensó en Hyetta. *Tú y tu hijo seréis lo mismo. Y nadie volverá a estar
 
 —Ya me lo han ofrecido —dijo—. Una muchacha ciega. Bajo la capital. Ante una puerta.
 
-—Lo sé. —Midra asintió despacio—. Lo noto. Lo llevas encima. El calor detrás de los ojos, de aquella vez. Casi entras. —La llama de su frente creció un poco—. ¿Por qué no entraste?
+—Se nota. —Midra asintió despacio—. Lo noto. Lo llevas encima. El calor detrás de los ojos, de aquella vez. Casi entras. —La llama de su frente creció un poco—. ¿Por qué no entraste?
 
 —Porque si todo se funde en uno, no habrá nadie a quien mirar cuando caiga.
 
-Midra se quedó inmóvil. Los ojos amarillos la miraron durante mucho tiempo.
+Midra se quedó inmóvil. Los ojos amarillos la miraron.
 
-—Es una buena razón —dijo al fin, muy bajo—. Es la mejor que he oído. —Hizo una pausa—. Yo tenía una parecida, hace mucho. Antes de cansarme.
+—Es una buena razón —dijo al fin—. Es la mejor que he oído. —Hizo una pausa—. Yo tenía una parecida, hace mucho. Antes de cansarme.
 
 * * *
 
@@ -156,9 +154,7 @@ Era la silla del otro lado de la chimenea. Tenía un cojín de terciopelo azul, 
 
 —¿Y tu familia?
 
-Midra tardó mucho en contestar.
-
-—Mi hija mayor la abrazó —dijo al fin—. La llama. Tenía dieciséis años. Vio arder la aldea del otro lado del río y no pudo más. Se metió dentro de la llama, en su propia cabeza, y ardió. —Le tembló la voz—. Y al arder, quemó a su hermana, que estaba a su lado. Y a su madre, que intentó apagarla. Y a su hermano, que dormía en la habitación de al lado. —Se quedó callado—. Yo estaba en el jardín. Vi salir el fuego amarillo por las ventanas. No hacía ruido. No olía a nada. Solo los fundía. Los convertía en una sola cosa. Cuando entré, no quedaba nada que separar.
+—Mi hija mayor la abrazó —dijo al fin—. La llama. Tenía dieciséis años. Vio arder la aldea del otro lado del río y no pudo más. Se metió dentro de la llama, en su propia cabeza, y ardió. Y al arder, quemó a su hermana, que estaba a su lado. Y a su madre, que intentó apagarla. Y a su hermano, que dormía en la habitación de al lado. Yo estaba en el jardín. Vi salir el fuego amarillo por las ventanas. No hacía ruido. No olía a nada. Solo los fundía. Los convertía en una sola cosa. Cuando entré, no quedaba nada que separar.
 
 Edda no dijo nada. Se le había cerrado la garganta.
 
@@ -186,7 +182,7 @@ Edda se quedó inmóvil.
 
 —No sé su nombre. —Midra la miró—. Pero la noto. En ti. Llevas su olor. Lleva una brasa. Una brasa como la mía. —Se tocó la frente—. No amarilla. Todavía no. Pero podría serlo.
 
-—Va a arder —dijo Edda, muy bajo—. Para quemar el Árbol. Para abrir las espinas. Dice que es para lo que existe.
+—Va a arder —dijo Edda—. Para quemar el Árbol. Para abrir las espinas. Dice que es para lo que existe.
 
 —Arderá. —Midra asintió despacio—. Y cuando arda, elegirá qué fuego. —Se inclinó hacia ella—. Hay dos, ¿sabes? Dos fuegos que pueden quemar un árbol. Uno quema para que crezca otra cosa. Como el fuego que quema un campo en otoño para que en primavera salga trigo. Ese fuego es el de los gigantes, el de la forja de las cumbres. El que la reina no pudo apagar. Ese es el que busca tu muchacha, creo.
 
@@ -195,8 +191,6 @@ Edda se quedó inmóvil.
 —El otro es este. —Midra se tocó la llama—. El que quema para que no crezca nada. Para que todo sea ceniza y la ceniza sea una sola cosa y la cosa no sienta nada. —Hizo una pausa—. Los dos fuegos se parecen mucho, al principio. Los dos son luz. Los dos queman. Y los dos dicen que el mundo sufre y que hay que cambiarlo.
 
 —¿Cómo se distinguen?
-
-Midra la miró durante mucho tiempo.
 
 —El primero te deja elegir qué quieres que crezca después —dijo al fin—. El segundo no te deja elegir nada. —Cerró los ojos—. Vigila a tu muchacha, Sinluz. Vigila qué luz le sale del ojo cuando llegue el momento.
 
@@ -294,8 +288,6 @@ La llama de su frente había desaparecido. Tenía la frente lisa, arrugada, norm
 
 —Nadie lo es nunca. —Midra sonrió—. Es lo que la llama no entiende. Cree que solo hay dos cosas: estar separado o estar fundido. —Respiró con dificultad—. No sabe que hay una tercera. Estar separado y cogerse de la mano.
 
-Se quedó callado un momento.
-
 —Aleth —dijo—. Mi mujer. Se llamaba Aleth. Las niñas, Veda y Ilse. El niño, Teo. —Le apretó la mano—. ¿Te los quedas? Los nombres. Para que no se fundan.
 
 —Me los quedo.
@@ -324,11 +316,9 @@ En el claro donde había encontrado al viejo de la venda, el viejo seguía senta
 
 —Sí.
 
-El viejo se quedó callado un rato. Luego se quitó la venda. Las cuencas vacías miraron al cielo.
+El viejo se quitó la venda. Las cuencas vacías miraron al cielo.
 
 —¿Cómo ha muerto?
-
-Edda tardó en contestar.
 
 —Con su nombre —dijo al fin—. Separado. Cogido de la mano.
 
@@ -354,11 +344,11 @@ Edda pensó en la serpiente apretándole el cuello. En la tierra húmeda contra 
 
 —Lo que llevo encima —dijo.
 
-Ansbach se quedó mirándola un largo rato. Luego asintió.
+Ansbach se quedó mirándola. Luego asintió.
 
 —Te dije que te sujetaras a eso —dijo—. Fuerte.
 
-—Lo sé.
+—Y me sujeto.
 
 —Arriba lo vas a necesitar más. —El viejo caballero se volvió hacia el oeste, hacia el Árbol Umbrío—. He encontrado el rastro. El cuerpo de mi señor. Lo han subido hacia la copa. Hacia Enir-Ilim. —Apretó la empuñadura de la espada—. El niño lo necesita para algo. Y creo que sé para qué.
 

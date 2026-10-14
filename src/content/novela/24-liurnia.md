@@ -110,7 +110,7 @@ Edda pensó en la gente de su aldea. En su abuela, que no había sabido leer per
 
 —No sé si eso es tan malo —dijo.
 
-Sellen la miró a través del cristal durante un rato largo. Luego, sin decir nada, abrió el libro y siguió leyendo.
+Sellen la miró a través del cristal. Luego, sin decir nada, abrió el libro y siguió leyendo.
 
 * * *
 
@@ -138,7 +138,7 @@ Había algo en su voz, una mezcla de esperanza y de miedo, que le recordó a Edd
 
 Edda encontró las uvas al día siguiente. Crecían en racimos de piel morada sobre los cadáveres de unos peregrinos, en el interior de una iglesia en ruinas, enredadas entre los huesos como hiedra. Eran extrañas al tacto. Cuando cogió una, notó que dentro había algo blando que se movía bajo la piel: pequeñas formas alargadas, como dedos diminutos, que se encogían al apretarlas.
 
-Las sostuvo en la mano mucho tiempo. Luego las llevó igualmente.
+Las sostuvo en la mano. Luego las llevó igualmente.
 
 Hyetta las comió con ansia, de una en una, sin masticar casi. Cuando terminó, se quedó muy quieta, con la cara levantada hacia el cielo, como si escuchara algo.
 
@@ -146,9 +146,9 @@ Hyetta las comió con ansia, de una en una, sin masticar casi. Cuando terminó, 
 
 —Hyetta, esas uvas…
 
-—Lo sé. —La muchacha sonrió. Tenía los dientes manchados de morado—. No son uvas. Pero son lo único que me deja ver.
+—Ya. —La muchacha sonrió. Tenía los dientes manchados de morado—. No son uvas. Pero son lo único que me deja ver.
 
-Esa noche, junto a la gracia, Melina estuvo más callada que de costumbre. Edda le habló de la muchacha ciega, de las uvas, de la luz amarilla detrás de la venda. Melina escuchó sin moverse. Cuando Edda terminó, la muchacha de capa gris se quedó mirando el fuego durante mucho tiempo.
+Esa noche, junto a la gracia, Melina estuvo más callada que de costumbre. Edda le habló de la muchacha ciega, de las uvas, de la luz amarilla detrás de la venda. Melina escuchó sin moverse. Cuando Edda terminó, la muchacha de capa gris se quedó mirando el fuego.
 
 —No le lleves más uvas —dijo al fin.
 
@@ -222,7 +222,7 @@ Luego no quedó nada. Solo un brillo azul en el suelo del patio, que se apagó d
 
 Al final de la escalinata había un hombre con cabeza de lobo, sentado en un escalón, afilando una espada.
 
-No era un yelmo. Era su cabeza. Tenía el hocico largo, el pelaje gris oscuro, las orejas puntiagudas y unos ojos amarillos muy vivos. El cuerpo era de un hombre grande, de espaldas anchas, con una armadura de cuero negro y una capa de piel. El espadón que afilaba era casi tan alto como Edda. Al verla llegar, dejó la piedra de afilar en el escalón y se levantó despacio.
+Aquello no era un yelmo. Era su cabeza. Tenía el hocico largo, el pelaje gris oscuro, las orejas puntiagudas y unos ojos amarillos muy vivos. El cuerpo era de un hombre grande, de espaldas anchas, con una armadura de cuero negro y una capa de piel. El espadón que afilaba era casi tan alto como Edda. Al verla llegar, dejó la piedra de afilar en el escalón y se levantó despacio.
 
 —Así que has vencido al eco —dijo, con una voz grave y áspera, que rascaba como la grava—. No me sorprende. Llevaba siglos haciendo lo mismo. Hasta un niño habría aprendido sus pasos.
 
@@ -264,7 +264,7 @@ Era Renna. Y no lo era.
 
 —Y era la misma cara de pocos amigos.
 
-Hubo un silencio. La muñeca no se movió. Pero el ojo azul abierto se fijó en Edda con una intensidad que casi dolía.
+La muñeca no se movió. Pero el ojo azul abierto se fijó en Edda con una intensidad que casi dolía.
 
 —Blaidd te ha avisado de que no me hicieras reír, ¿verdad? —dijo al fin.
 
@@ -280,8 +280,6 @@ Edda se sentó. La silla era, efectivamente, incómoda.
 
 —Te debo una explicación —dijo la muñeca—. Mi nombre no es Renna. Es Ranni. Ranni la Bruja, hija de Rennala, Reina de la Luna Llena, y de Radagon, el que se fue. —Lo dijo sin ninguna emoción, como quien recita una genealogía en una lápida—. Te mentí en el camino porque no te conocía. Ahora te conozco un poco. Has vencido a Godrick, has liberado a una niña del sótano de su castillo, has enterrado once brazos bajo un árbol, y has dejado viva a una mano que tocaba el retrato de mi madre en el pasillo de abajo. —El ojo azul la miró—. Esa mano era una de las criadas de mi madre, por cierto. Las manos servían en esta casa antes de la guerra. Esa en concreto me peinaba cuando era niña.
 
-Edda se quedó callada.
-
 —¿Cómo sabes todo eso?
 
 —Tengo ojos en muchos sitios. —La muñeca hizo un gesto vago con dos de sus manos—. Es lo único que me queda. Ojos.
@@ -292,7 +290,7 @@ Edda se quedó callada.
 
 —¿Qué le pasó a la otra?
 
-La muñeca tardó en contestar. Afuera, sobre el lago, una nube pasó por delante de la luna, y la habitación se oscureció un instante.
+Afuera, sobre el lago, una nube pasó por delante de la luna, y la habitación se oscureció un instante.
 
 —La maté —dijo Ranni—. La noche de los cuchillos negros. Mi cuerpo de carne llevaba dentro un destino que no había elegido: el de ser una diosa, la siguiente, la que heredaría el Anillo cuando mi madrastra se cansara de llevarlo. Los Dos Dedos me habían elegido. Me habían puesto una correa, como a un perro, y me llevaban por el camino que ellos querían. —El ojo azul brilló—. Así que me corté la correa. Y para cortarla tuve que cortar también lo que la sostenía. Mi carne. Mi cara. Mi nombre de antes.
 
@@ -312,7 +310,7 @@ Edda pensó en la noche de los cuchillos negros, de la que le había hablado Rog
 
 * * *
 
-Hablaron mucho tiempo, aquella primera noche. La luna se movió por la ventana de un lado a otro. Ranni hablaba poco y escuchaba mucho, con una atención absoluta, como si cada palabra de Edda fuera una pieza de un rompecabezas. Le preguntó por la Capilla, por Margit, por los brazos colgados en el comedor de Velo Tormentoso. Le preguntó por Melina, y Edda notó que la voz de la muñeca se volvía más fría al pronunciar el nombre.
+Hablaron hasta muy tarde, aquella primera noche. La luna se movió por la ventana de un lado a otro. Ranni hablaba poco y escuchaba mucho, con una atención absoluta, como si cada palabra de Edda fuera una pieza de un rompecabezas. Le preguntó por la Capilla, por Margit, por los brazos colgados en el comedor de Velo Tormentoso. Le preguntó por Melina, y Edda notó que la voz de la muñeca se volvía más fría al pronunciar el nombre.
 
 —La doncella sin dedos —dijo Ranni—. Ten cuidado con ella.
 
@@ -324,11 +322,11 @@ Hablaron mucho tiempo, aquella primera noche. La luna se movió por la ventana d
 
 —Tengo una sospecha. —La muñeca se volvió hacia la ventana—. Pero las sospechas, como las verdades pesadas, no se dan a cualquiera.
 
-Luego le preguntó por su vida antes de morir. Edda le habló de su aldea, del pozo, del monte. No le habló de Arn. No sabía por qué. Era como si nombrarlo allí, en aquella torre de una princesa que había matado su propio cuerpo, fuera a romper algo.
+Luego le preguntó por su vida antes de morir. Edda le habló de su aldea, del pozo, del monte. No le habló de Arn. Era como si nombrarlo allí, en aquella torre de una princesa que había matado su propio cuerpo, fuera a romper algo.
 
 Al final, cuando la luna ya estaba bajando hacia los acantilados, Ranni se quedó un rato callada. Luego habló con una voz distinta. Más baja. Casi vacilante.
 
-—Tengo una propuesta para ti. Te necesito. Hay algo que debo encontrar, algo que me robaron hace mucho tiempo, y no puedo buscarlo yo. Este cuerpo no puede bajar a donde está. —Levantó una de sus manos y la miró—. Quiero llevarme el orden de este mundo lejos. Muy lejos. A las estrellas. Adonde ningún dios ni ninguna voluntad de fuera lo pueda atar de nuevo. Quiero un mundo donde nadie tenga que arrodillarse. Ni siquiera ante mí.
+—Tengo una propuesta para ti. Te necesito. Hay algo que debo encontrar, algo que me robaron hace siglos, y no puedo buscarlo yo. Este cuerpo no puede bajar a donde está. —Levantó una de sus manos y la miró—. Quiero llevarme el orden de este mundo lejos. Muy lejos. A las estrellas. Adonde ningún dios ni ninguna voluntad de fuera lo pueda atar de nuevo. Quiero un mundo donde nadie tenga que arrodillarse. Ni siquiera ante mí.
 
 —¿Y qué tendría que hacer yo?
 
@@ -344,7 +342,7 @@ La muñeca ladeó un poco la cabeza. Era el primer movimiento que hacía que no 
 
 —No me llames Sinluz. Tengo nombre.
 
-Hubo un silencio largo. La luna bajaba. Un búho cantó, muy lejos, en los acantilados.
+La luna bajaba. Un búho cantó, muy lejos, en los acantilados.
 
 —¿Cuál es tu nombre? —preguntó Ranni al fin.
 
@@ -352,7 +350,7 @@ Hubo un silencio largo. La luna bajaba. Un búho cantó, muy lejos, en los acant
 
 La muñeca no dijo nada. Pero Edda habría jurado que el ojo azul, en aquella cara de porcelana que no podía sonreír, brilló un instante con algo parecido a la diversión.
 
-—Edda —repitió Ranni, despacio, como si probara la palabra—. Bien. Entonces ya eres de los míos, Edda. —Se volvió hacia la ventana—. Hay otra cosa. Mañana irás a la Academia. Lo sé. Todos los que buscan runas van a la Academia. Mi madre está allí.
+—Edda —repitió Ranni, despacio, como si probara la palabra—. Bien. Entonces ya eres de los míos, Edda. —Se volvió hacia la ventana—. Hay otra cosa. Mañana irás a la Academia. Todos los que buscan runas van a la Academia. Mi madre está allí.
 
 —La Reina de la Luna Llena.
 

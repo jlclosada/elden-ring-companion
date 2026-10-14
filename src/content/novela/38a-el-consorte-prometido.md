@@ -4,7 +4,7 @@ Edda tardó en entenderlo. Al cruzar el umbral de la torre de la copa, la luz do
 
 Detrás de ella, Freyja le puso una mano en la espalda. Fuerte. Entre los omóplatos.
 
-—Aquí estoy —dijo la gladiadora, muy bajo—. Mira hacia delante. Yo te miro a ti.
+—Aquí estoy —gruñó la gladiadora—. Tú mira para delante, que la espalda te la cubro yo. Como en el foso.
 
 La luz se aclaró.
 
@@ -28,7 +28,7 @@ Tristeza. De niño.
 
 —Radahn —susurró Edda.
 
-* * *
+---
 
 El gigante se levantó del trono.
 
@@ -52,11 +52,11 @@ Radahn se quedó inmóvil.
 
 El gigante cerró los ojos. Algo se movió en su cara, en aquella cara que era la de Mohg, con los cuernos y las cicatrices, pero con la expresión de otro. Algo que se parecía mucho al alivio.
 
-—Bien —dijo, muy bajo—. Llevaba siglos sin acordarme de su cara. —Abrió los ojos—. Y Leonard. ¿Leonard…?
+—Bien —dijo—. Llevaba siglos sin acordarme de su cara. —Abrió los ojos—. Y Leonard. ¿Leonard…?
 
 —Murió contigo. En el cráter. Le pusiste la mano en el cuello.
 
-Radahn no dijo nada durante mucho tiempo. Las espadas le colgaban de las manos.
+Radahn no dijo nada. Las espadas le colgaban de las manos.
 
 —No me acuerdo de eso —dijo al fin—. Solo me acuerdo de la luz. Y luego de esto. —Se miró las manos grises, enormes, que no eran suyas—. De despertar aquí, en este jardín, en este cuerpo. Con él a mi lado.
 
@@ -66,7 +66,7 @@ Radahn levantó la vista hacia algo que estaba por encima de Edda. Por encima de
 
 Edda siguió su mirada.
 
-* * *
+---
 
 A su lado, flotando en el aire, había un niño.
 
@@ -84,43 +84,43 @@ La mano de Freyja le apretó la espalda.
 
 Edda miró sus botas. Gastadas. Rotas en la puntera. Manchadas de la ceniza del pico de Bayle, del polvo rojo de Rauh, de la tierra negra del claro del árbol de sellado.
 
-*Hola*, dijo el niño, sin mover los labios.
+_Hola_, dijo el niño, sin mover los labios.
 
 La voz era suave, dulce, y sonó directamente dentro de la cabeza de Edda. Como la de Fortissax. Como la de la Madre de los Dedos. Como la de Trina en el umbral. Pero distinta. Más cálida que todas. Más dulce que todas.
 
-*Has llegado hasta aquí*, dijo Miquella. *Has sufrido mucho. Lo sé. Lo veo. Llevas a tantos encima. Los once niños de Velo Tormentoso. La doncella de la túnica gris. Los siete albinauricos del pantano. El príncipe de las truchas. El dragón que luchaba contra la niebla. El hijo que arde.* La voz se volvió todavía más suave. *Y un niño en un umbral, que te esperaba.*
+_Has llegado hasta aquí_, dijo Miquella. _Has sufrido mucho. Lo veo. Llevas a tantos encima. Los once niños de Velo Tormentoso. La doncella de la túnica gris. Los siete albinauricos del pantano. El príncipe de las truchas. El dragón que luchaba contra la niebla. El hijo que arde._ La voz se volvió todavía más suave. _Y un niño en un umbral, que te esperaba._
 
 Edda cerró los ojos.
 
-*Ya no tienes que sufrir más.*
+_Ya no tienes que sufrir más._
 
-* * *
+---
 
 —Mira —dijo Miquella, y Edda sintió que señalaba, aunque no lo veía—. Mira a mi consorte.
 
 Edda abrió los ojos. No los levantó hacia el niño. Los dirigió hacia Radahn, que seguía de pie junto al trono, con las espadas en las manos, mirando a Miquella con una expresión que Edda no supo leer.
 
-*Le prometí que volvería a por él*, dijo el niño. *Hace mucho. Cuando era pequeño y me sentaba en sus rodillas en el Castillo Melenarroja. Le pregunté si quería ser mi consorte cuando yo fuera dios. Me dijo que sí. Como se le dice a un niño.* La voz sonrió. *Pero yo no era un niño. Y lo dije en serio. Y he cumplido.*
+_Le prometí que volvería a por él_, dijo el niño. _Hace mucho. Cuando era pequeño y me sentaba en sus rodillas en el Castillo Melenarroja. Le pregunté si quería ser mi consorte cuando yo fuera dios. Me dijo que sí. Como se le dice a un niño._ La voz sonrió. _Pero yo no era un niño. Y lo dije en serio. Y he cumplido._
 
 —Tuvo que morir para eso.
 
-*Su cuerpo tuvo que morir. Su cuerpo estaba roto. Lo rompió mi hermana en Aeonia. Con la flor.* Una pausa. *Y su alma necesitaba un cuerpo nuevo. Un cuerpo fuerte. Un cuerpo que me amara.*
+_Su cuerpo tuvo que morir. Su cuerpo estaba roto. Lo rompió mi hermana en Aeonia. Con la flor._ Una pausa. _Y su alma necesitaba un cuerpo nuevo. Un cuerpo fuerte. Un cuerpo que me amara._
 
 Edda miró los cuernos. Las cicatrices de los cortes. Las manos grises.
 
 —Mohg.
 
-*Mohg me amaba más que nadie.* La voz se volvió tierna, casi triste. *Me robó de mi capullo en el Árbol Hálito porque me amaba. Me bajó a su palacio. Se pasó años de rodillas delante de mí, llorando, diciéndome que nadie le había enseñado a querer así. Y era verdad. Nadie se lo había enseñado. Se lo enseñé yo.*
+_Mohg me amaba más que nadie._ La voz se volvió tierna, casi triste. _Me robó de mi capullo en el Árbol Hierático porque me amaba. Me bajó a su palacio. Se pasó años de rodillas delante de mí, llorando, diciéndome que nadie le había enseñado a querer así. Y era verdad. Nadie se lo había enseñado. Se lo enseñé yo._
 
 —Se lo hiciste sentir tú.
 
-*Es lo mismo.*
+_Es lo mismo._
 
 —No. —Edda apretó los puños—. No es lo mismo.
 
-*Tomé su cuerpo cuando tú lo mataste en su palacio. Lo que mataste allí era lo que quedaba de él, una sombra, un reflejo. Su cuerpo de verdad ya estaba aquí, guardado en el Torreón, esperando. Y en él puse el alma de Radahn, que yo amaba.* La voz se volvió más cálida, más dulce. *Ahora somos uno. Él, yo, Mohg. Ahora seremos dioses juntos. Y todos los que sufren, todos los que lloran, todos los que esperan en umbrales… los amaremos a todos. Por igual. Sin excepción. Sin que nadie se quede fuera.*
+_Tomé su cuerpo cuando tú lo mataste en su palacio. Lo que mataste allí era lo que quedaba de él, una sombra, un reflejo. Su cuerpo de verdad ya estaba aquí, guardado en el Torreón, esperando. Y en él puse el alma de Radahn, que yo amaba._ La voz se volvió más cálida, más dulce. _Ahora somos uno. Él, yo, Mohg. Ahora seremos dioses juntos. Y todos los que sufren, todos los que lloran, todos los que esperan en umbrales… los amaremos a todos. Por igual. Sin excepción. Sin que nadie se quede fuera._
 
-* * *
+---
 
 Edda miró a Radahn.
 
@@ -130,11 +130,9 @@ El gigante seguía de pie junto al trono, inmóvil. Pero tenía la cara rara. Co
 
 Radahn se volvió hacia ella despacio. Los ojos castaños la miraron.
 
-—Sí —dijo, muy bajo—. Muy al fondo. Alguien que no habla. —Se llevó una mano al pecho, al sitio del corazón, donde en el cuerpo de Mohg había estado la Gran Runa—. A veces, por las noches, lo noto moverse. Como un niño que se da la vuelta en la cama.
+—Sí —dijo—. Muy al fondo. Alguien que no habla. —Se llevó una mano al pecho, al sitio del corazón, donde en el cuerpo de Mohg había estado la Gran Runa—. A veces, por las noches, lo noto moverse. Como un niño que se da la vuelta en la cama.
 
 —¿Dice algo?
-
-Radahn tardó en contestar.
 
 —Pregunta por una mujer ciega —dijo al fin—. Muy bajo. Una y otra vez. Pide que le lean.
 
@@ -146,9 +144,9 @@ Dio un paso hacia el gigante. Freyja se movió con ella, la mano todavía en su 
 
 En el aire, encima del trono, la luz dorada parpadeó.
 
-*No te oye*, dijo Miquella, y por primera vez la voz no fue del todo dulce. *Ya no está.*
+_No te oye_, dijo Miquella, y por primera vez la voz no fue del todo dulce. _Ya no está._
 
-—De Ansbach —siguió Edda, sin hacerle caso—. Tu viejo consejero. El sacerdote que te leía en la celda. Ha muerto ahí abajo, en la plaza. Te ha protegido hasta el final. —Le tembló la voz—. Me ha pedido que te diga que lo siente. Que no supo protegerte. Que te leyó todas las noches hasta el final, aunque no lo oyeras.
+—De Ansbach —siguió Edda, sin hacerle caso—. Tu viejo consejero. El sacerdote que te leía en la celda. Ha muerto ahí abajo, en la plaza. Te ha protegido hasta el final. Le abrieron la tripa en los escalones y siguió leyendo en voz alta para que no lo oyeran gritar. Me ha pedido que te diga que lo siente. Que no supo protegerte. Que te leyó todas las noches hasta el final, aunque no lo oyeras.
 
 Radahn se quedó completamente inmóvil.
 
@@ -184,21 +182,21 @@ Radahn se quedó de rodillas en la hierba dorada, con las manos en el pecho, res
 
 —Se ha ido —dijo—. Del todo. Lo he notado. Se ha ido.
 
-* * *
+---
 
 El jardín se oscureció.
 
 No mucho. Apenas. Como cuando una nube pasa por delante del sol. Pero Edda lo notó. La luz dorada se volvió más fría. Las flores blancas y amarillas dejaron de moverse.
 
-*No tenías derecho*, dijo Miquella.
+_No tenías derecho_, dijo Miquella.
 
 Edda no levantó los ojos. Miró la hierba. Las espadas caídas de Radahn.
 
-*No tenías derecho a hacer eso. Era mío. Me amaba. Era feliz amándome.*
+_No tenías derecho a hacer eso. Era mío. Me amaba. Era feliz amándome._
 
 —No era feliz —dijo Edda—. Lloraba. Se llevaba la mano a la cabeza. Preguntaba por qué no le leía nadie.
 
-*Me amaba.*
+_Me amaba._
 
 —Le hacías amarte. —Edda apretó los puños—. Que no es lo mismo. Ansbach me lo dijo antes de morir. Que nunca es lo mismo.
 
@@ -206,17 +204,17 @@ Silencio. Un silencio largo, dorado, frío.
 
 Luego la voz volvió, y era otra vez dulce. Más dulce que nunca. Tan dulce que Edda sintió que le dolía.
 
-*Abre los ojos, Edda.*
+_Abre los ojos, Edda._
 
 No los abrió. Los tenía abiertos, pero mirando al suelo.
 
-*Mírame. Solo un momento. Solo una vez. Y lo entenderás todo. Entenderás que no hay diferencia. Que el amor que siento por ti es el mismo que sentirías tú si me dejaras. Que no hace falta elegir. Que elegir duele. Que elegir es lo que te ha hecho sufrir toda la vida. Elegir ir a la guerra. Elegir prometerle a un niño que volverías. Elegir seguir andando cuando despertaste en la Capilla.*
+_Mírame. Solo un momento. Solo una vez. Y lo entenderás todo. Entenderás que no hay diferencia. Que el amor que siento por ti es el mismo que sentirías tú si me dejaras. Que no hace falta elegir. Que elegir duele. Que elegir es lo que te ha hecho sufrir toda la vida. Elegir ir a la guerra. Elegir prometerle a un niño que volverías. Elegir seguir andando cuando despertaste en la Capilla._
 
-*Déjame elegir por ti. Déjame quererte por ti. Y no volverás a sufrir.*
+_Déjame elegir por ti. Déjame quererte por ti. Y no volverás a sufrir._
 
 Edda sintió que levantaba la cabeza. No quería. Pero la sentía levantarse. Despacio. Hacia la luz. Hacia el niño.
 
-*Mírame.*
+_Mírame._
 
 Detrás de ella, Freyja le clavó los dedos en la espalda. Con tanta fuerza que le dolió.
 
@@ -224,9 +222,9 @@ Detrás de ella, Freyja le clavó los dedos en la espalda. Con tanta fuerza que 
 
 Edda se detuvo.
 
-Pensó en la puerta azul. En el umbral. En el viejo que se sentaba cada tarde a mirar el camino, con una piedra gris en el bolsillo que le había dado su nieto. *Buenas noches, madre.*
+Pensó en la puerta azul. En el umbral. En el viejo que se sentaba cada tarde a mirar el camino, con una piedra gris en el bolsillo que le había dado su nieto. _Buenas noches, madre._
 
-Pensó en la muchacha descalza del umbral, en Trina, con el arañazo en la rodilla, diciéndole: *Lo que eliges querer es tuyo. Lo que te obligan a querer no.*
+Pensó en la muchacha descalza del umbral, en Trina, con el arañazo en la rodilla, diciéndole: _Lo que eliges querer es tuyo. Lo que te obligan a querer no._
 
 Pensó en una catedral de lunas feas, y en tres pecas, y en una mano fría que temblaba.
 
@@ -234,7 +232,7 @@ Cerró los ojos.
 
 —No —dijo.
 
-* * *
+---
 
 El jardín se oscureció del todo.
 
@@ -242,17 +240,15 @@ Las flores blancas se marchitaron de golpe, todas a la vez. La hierba verde se v
 
 Miquella dejó de sonreír. Edda no lo vio, pero lo supo. Lo sintió en la voz cuando volvió a hablar, y ya no era dulce. Era fría. Pequeña. Infantil de una manera que daba miedo.
 
-*Entonces serás la última en sufrir.*
+_Entonces serás la última en sufrir._
 
 Radahn se levantó. Despacio, como si algo tirara de él desde arriba con hilos. Recogió las espadas de la hierba gris. Miró a Edda. Y en sus ojos castaños, Edda vio que no quería.
 
 —Lo siento —dijo el gigante—. No puedo… no puedo no hacerlo. Él lo quiere.
 
-—Lo sé.
-
 —Defiéndete —dijo Radahn, y levantó las espadas—. Por favor. Como en la playa.
 
-* * *
+---
 
 La batalla contra el Consorte Prometido fue la más terrible que Edda había librado jamás.
 
@@ -276,31 +272,31 @@ En la vigésima, o en la trigésima, Edda se dio cuenta de algo.
 
 Radahn no la atacaba con toda su fuerza. Podía. Ella lo veía: veía los huecos en su propia defensa que él no aprovechaba, los momentos en que la tenía en el suelo y no la remataba, los golpes que desviaba un palmo en el último instante. Luchaba como si tirara de él hacia delante algo que no podía resistir, y al mismo tiempo él tirara hacia atrás con todas sus fuerzas.
 
-*Defiéndete. Por favor. Como en la playa.*
+_Defiéndete. Por favor. Como en la playa._
 
 Como Gaius, que esperaba a que ella se levantara antes de volver a cargar.
 
-* * *
+---
 
 En la última, cuando Radahn levantó las dos espadas por encima de la cabeza y la luz dorada de Miquella lo envolvió por completo, tan intensa que el jardín entero se volvió blanco, Edda se acordó de Dane.
 
 Del puente. Del río blanco en el fondo del barranco. De la palma abierta.
 
-*Dejando de mirar lo que te ataca. Y mirando lo que proteges.*
+_Dejando de mirar lo que te ataca. Y mirando lo que proteges._
 
 Soltó la espada.
 
 La dejó caer en la hierba gris. Y corrió hacia el gigante con las manos desnudas, con los ojos cerrados, guiándose solo por el calor de la luz. Saltó. Y le golpeó en el pecho con la palma abierta.
 
-Justo donde, en el cuerpo de Mohg, había estado la Gran Runa. Justo donde, hacía un momento, algo se había dado la vuelta como un niño en la cama y había dicho *gracias por leerme*.
+Justo donde, en el cuerpo de Mohg, había estado la Gran Runa. Justo donde, hacía un momento, algo se había dado la vuelta como un niño en la cama y había dicho _gracias por leerme_.
 
-No fue un golpe fuerte. Fue el golpe que le había dado a Dane en el puente. Lo justo.
+Fue el golpe que le había dado a Dane en el puente. Lo justo.
 
 Pero detrás del golpe iba todo. Las quince piedras de la bolsa. El brote de cuatro hojas. La piedra azul. Las cartas de Messmer. El colgante de Fia. Los nombres de la familia de Midra. La carta de Godwyn que Melina guardaba contra el pecho. El sueño del umbral.
 
 Todo lo que había elegido querer.
 
-* * *
+---
 
 Radahn cayó.
 
@@ -320,7 +316,7 @@ Tristeza. Y alivio.
 
 —¿Y era verdad?
 
-—Era verdad entonces. —Radahn cerró los ojos—. Lo quería como se quiere a un hermano pequeño. No como él quería que lo quisiera. —Abrió los ojos—. Dile a Jerren… no. Jerren no está aquí. —Se quedó callado—. Dile a quien quieras que el pequeño de Caria aprendió a montar en un caballo flaco y nunca lo cambió. Que eso fue mío. Que eso lo elegí yo.
+—Era verdad entonces. —Radahn cerró los ojos—. Lo quería como se quiere a un hermano pequeño. No como él quería que lo quisiera. —Abrió los ojos—. Dile a Jerren… no. Jerren no está aquí. Dile a quien quieras que el pequeño de Caria aprendió a montar en un caballo flaco y nunca lo cambió. Que eso fue mío. Que eso lo elegí yo.
 
 —Se lo diré.
 
@@ -330,13 +326,13 @@ Y se deshizo en polvo dorado.
 
 El cuerpo de Mohg se deshizo con él. Los cuernos, las cicatrices, la piel oscura. Y el pelo rojo, la melena de león, fue lo último en irse: se quedó flotando un instante en el aire gris del jardín, extendida como una llamarada, y luego el viento que no se sentía se la llevó hacia el cielo, hacia el oeste, hacia las Tierras Intermedias, hacia una playa roja donde había un cráter con la forma de un gigante y un caballo pequeño echados uno junto al otro.
 
-* * *
+---
 
 Miquella se quedó flotando en el aire, solo, sobre el jardín muerto.
 
 Edda levantó la vista.
 
-No supo por qué. Quizá porque ya no sentía el perfume. Quizá porque Freyja había dejado de apretarle la espalda. Quizá porque, después de todo, alguien tenía que mirarlo cuando cayera.
+Quizá porque ya no sentía el perfume. Quizá porque Freyja había dejado de apretarle la espalda. Quizá porque, después de todo, alguien tenía que mirarlo cuando cayera.
 
 Ya no era hermoso.
 
@@ -344,17 +340,15 @@ Era solo un niño. Un niño pequeño, delgado, cansado, con la túnica blanca su
 
 Miró el lugar donde había estado su consorte. Luego miró a Edda.
 
-*Yo solo quería…* dijo, con una voz pequeña, sin dulzura, la voz de un niño que no sabe por qué le han castigado. *Yo solo quería que nadie sufriera.*
+_Yo solo quería…_ dijo, con una voz pequeña, sin dulzura, la voz de un niño que no sabe por qué le han castigado. _Yo solo quería que nadie sufriera._
 
 —Lo sé —dijo Edda.
 
-*Mi hermana se pudría. Desde que nació. Y nadie podía hacer nada. Mi madre no hacía nada. Mi padre no hacía nada. La Orden decía que era la voluntad del Árbol.* Le temblaba la voz. *Y yo no crecía. Nunca. Me quedé así para siempre. Y la gente se reía de mí, o me tenía lástima, o me tenía miedo.*
+_Mi hermana se pudría. Desde que nació. Y nadie podía hacer nada. Mi madre no hacía nada. Mi padre no hacía nada. La Orden decía que era la voluntad del Árbol._ Le temblaba la voz. _Y yo no crecía. Nunca. Me quedé así para siempre. Y la gente se reía de mí, o me tenía lástima, o me tenía miedo._
 
-—Lo sé.
+_Así que quise un mundo amable. Un mundo donde todos se amaran. Donde nadie se pudriera solo. Donde nadie se quedara pequeño solo. Donde nadie esperara solo._ Las lágrimas le corrían por la cara. _¿Por qué no me dejaste?_
 
-*Así que quise un mundo amable. Un mundo donde todos se amaran. Donde nadie se pudriera solo. Donde nadie se quedara pequeño solo. Donde nadie esperara solo.* Las lágrimas le corrían por la cara. *¿Por qué no me dejaste?*
-
-Edda tardó mucho en contestar. Se quedó mirando al niño que flotaba en el jardín muerto.
+Edda se quedó mirando al niño que flotaba en el jardín muerto.
 
 —Porque dejaste a Trina en un prado —dijo al fin—. En piedra. Entre flores moradas.
 
@@ -362,65 +356,65 @@ Miquella se quedó inmóvil.
 
 —Me senté con ella —siguió Edda—. En un umbral. En mi aldea. Me dejó elegir qué sueño llevarme. Me dijo que tú la habías dejado porque dejaba elegir. —Hizo una pausa—. Y que un dios que quiere que todos lo amen no puede dejar que nadie elija otra cosa.
 
-*Trina* —repitió el niño, muy bajo.
+_Trina_ —repitió el niño.
 
-—Ella era tu amor. El de verdad. El que no pide nada. —Edda lo miró—. Y lo dejaste atrás para subir hasta aquí. Igual que dejaste tu carne y tu fuerza y tu nombre de niño en las cruces de la llanura. *He dejado aquí mi amor.*
+—Ella era tu amor. El de verdad. El que no pide nada. —Edda lo miró—. Y lo dejaste atrás para subir hasta aquí. Igual que dejaste tu carne y tu fuerza y tu nombre de niño en las cruces de la llanura. _He dejado aquí mi amor._
 
 Miquella bajó los ojos.
 
-*Dolía* —dijo, casi sin voz—. *Quererla dolía. Quererla a ella y a mi hermana y a Radahn. Cada uno de una manera. Cada uno distinto. Dolía elegir a quién querer más. Así que pensé que si los quería a todos igual, dejaría de doler.*
+_Dolía_ —dijo, casi sin voz—. _Quererla dolía. Quererla a ella y a mi hermana y a Radahn. Cada uno de una manera. Cada uno distinto. Dolía elegir a quién querer más. Así que pensé que si los quería a todos igual, dejaría de doler._
 
 —Y dejaste de querer a nadie.
 
-El niño levantó la vista hacia ella. Se quedó mirándola durante mucho tiempo.
+El niño levantó la vista hacia ella. Se quedó mirándola.
 
-*¿Tú no tienes miedo de que duela?*
+_¿Tú no tienes miedo de que duela?_
 
 Edda se tocó la bolsa del cinturón. Quince piedras. Cada una pesando más que la anterior.
 
 —Todos los días —dijo—. Pero duele porque es mío.
 
-* * *
+---
 
-Miquella no dijo nada durante un largo rato.
+Miquella no dijo nada.
 
-—Un amor que no se puede rechazar no es amor —dijo Edda al fin, muy bajo—. Es una cadena. Eso lo aprendí de ti. Y de Mohg. Y de Leda.
+—Un amor que no se puede rechazar no es amor —dijo Edda al fin—. Es una cadena. Eso lo aprendí de ti. Y de Mohg. Y de Leda.
 
 El niño asintió despacio. Muy despacio. Como si por fin entendiera algo que llevaba siglos sin entender. O como si lo hubiera sabido siempre y acabara de dejar de fingir que no.
 
-*Leda* —dijo—. *¿Ha muerto?*
+_Leda_ —dijo—. _¿Ha muerto?_
 
 —En la plaza. Se acordó de una luna de cristal azul. En tu ventana. De cuando tenía doce años.
 
 Miquella cerró los ojos.
 
-*Me la regaló mi tía Rellana* —dijo—. *La luna. La colgué en la ventana porque me daba miedo la oscuridad. Leda la miraba siempre que entraba en mi cuarto.* Abrió los ojos. *No le pedí que me amara. Lo juro. No le pedí nada. Solo le sonreí.*
+_Me la regaló mi tía Rellana_ —dijo—. _La luna. La colgué en la ventana porque me daba miedo la oscuridad. Leda la miraba siempre que entraba en mi cuarto._ Abrió los ojos. _No le pedí que me amara. Lo juro. No le pedí nada. Solo le sonreí._
 
-—Lo sé.
+—Ya.
 
-*Pero no dejé de sonreír. Aunque sabía lo que pasaba cuando sonreía.* Le temblaron los labios. *Eso sí fue culpa mía.*
+_Pero no dejé de sonreír. Aunque sabía lo que pasaba cuando sonreía._ Le temblaron los labios. _Eso sí fue culpa mía._
 
 Empezó a desvanecerse.
 
 No en oro, ni en sangre, ni en llamas. En luz. Una luz suave, blanca, sin calor, que le salía de los bordes del cuerpo, de las puntas de los dedos, de los extremos del pelo, y subía despacio hacia el cielo de plomo.
 
-*Mi hermana* —dijo, de pronto, con urgencia—. *Malenia. ¿La verás?*
+_Mi hermana_ —dijo, de pronto, con urgencia—. _Malenia. ¿La verás?_
 
 Edda pensó en Millicent. En la guerrera del brazo de metal de sus sueños. En un árbol enorme, al norte del mundo, en lo alto de las montañas, donde según Melina vivían los que nadie quería.
 
 —Puede que sí.
 
-*Dile que ya puede dejar de esperar.* La luz le subía por los brazos. *Que no voy a volver. Que lo siento. Que la quise más que a nadie, y que por eso me fui. Para no tener que elegirla a ella por encima de todos.* Se le quebró la voz. *Dile que fue una tontería.*
+_Dile que ya puede dejar de esperar._ La luz le subía por los brazos. _Que no voy a volver. Que lo siento. Que la quise más que a nadie, y que por eso me fui. Para no tener que elegirla a ella por encima de todos._ _Dile que fue una tontería._
 
 —Se lo diré.
 
 Miquella la miró. Ya casi no quedaba nada de él. Solo la cara, flotando en la luz blanca. La cara de un niño pequeño, cansado, con los ojos dorados llenos de lágrimas.
 
-*Gracias por mirarme* —dijo—. *Al final. Nadie me miraba nunca sin quererme. Es la primera vez.*
+_Gracias por mirarme_ —dijo—. _Al final. Nadie me miraba nunca sin quererme. Es la primera vez._
 
 Y se perdió en el cielo como la última estrella del amanecer.
 
-* * *
+---
 
 Edda se quedó sola en el jardín muerto. Con Freyja detrás, que había caído de rodillas en la hierba gris y lloraba sin ruido, con la mano en el costado.
 
@@ -438,7 +432,7 @@ La gladiadora levantó la cabeza. Tenía la cara mojada.
 
 Edda le tendió la mano. Freyja la cogió y se levantó.
 
-* * *
+---
 
 Al fondo del jardín, junto al borde de la torre, donde terminaba la hierba y empezaba el vacío, había una figura sentada.
 
@@ -462,27 +456,27 @@ Thiollier se encogió de hombros.
 
 La muchacha se movió en sueños. Abrió los ojos un instante. Miró a Edda. Sonrió, con la misma sonrisa del umbral.
 
-—Has elegido bien —dijo Trina, muy bajo, medio dormida—. Lo noté desde aquí. Cuando él te pidió que lo miraras.
+—Has elegido bien —dijo Trina, medio dormida—. Lo noté desde aquí. Cuando él te pidió que lo miraras.
 
 —Freyja me ayudó.
 
-—Lo sé. —Trina cerró los ojos otra vez—. Nadie elige solo. Por eso duele menos.
+—Ya la he visto. Ronca. —Trina cerró los ojos otra vez—. Nadie elige solo. Por eso duele menos.
 
 Y se volvió a dormir.
 
-Edda se quedó mirándolos un rato largo. Al envenenador que había dejado de contar caras y a la santa que dejaba elegir. Luego se dio la vuelta.
+Edda se quedó mirándolos. Al envenenador que había dejado de contar caras y a la santa que dejaba elegir. Luego se dio la vuelta.
 
 Cuando volvió a mirar, ya no estaban. Solo quedaba, en la hierba gris, una flor morada. Y una hilera de piedrecitas pequeñas, colocadas en fila.
 
-* * *
+---
 
 Bajó de Enir-Ilim con Freyja, por la escalera de raíces, durante tres días.
 
 En la plaza, enterraron a Ansbach y a Leda juntos, al pie de la columna donde había muerto él, en la única franja de tierra que había entre las losas. Freyja cavó. Edda colocó los cuerpos. A Ansbach le puso la espada cruzada sobre el pecho. A Leda, la aguja. Y entre los dos, en la tierra removida, Edda dejó un trozo de pergamino en blanco del libro de Ansel, con unas palabras escritas con el carbón de la casa de los niños.
 
-*Ansbach, que leía.*
+_Ansbach, que leía._
 
-*Leda, que miraba una luna azul.*
+_Leda, que miraba una luna azul._
 
 En la llanura de las cruces, la iglesia estaba llena. Moore había vuelto con Yalda y Hornen, y Tavi de Morne había llegado unos días antes, y estaban arreglando el tejado hundido. Bruto dormía en la puerta. Hornen había plantado algo en la tierra junto al muro: un árbol pequeño, un esqueje, que Edda no reconoció.
 
@@ -500,19 +494,19 @@ Freyja se quedó también. Edda no se lo pidió ni se lo prohibió. La gladiador
 
 —No lo sé. —Freyja sonrió—. Ya se te ocurrirá.
 
-* * *
+---
 
 Volvió al otro lado por donde había venido.
 
-En el centro de la llanura de las cruces, junto a la cruz más pequeña, la que estaba inclinada sobre un arroyo seco —*He dejado aquí mi amor*—, había ahora algo que no estaba antes. Un brazo. Un brazo marchito, blanco, de niño, que salía de la tierra con los dedos abiertos hacia arriba, como el del capullo de Mohgwyn.
+En el centro de la llanura de las cruces, junto a la cruz más pequeña, la que estaba inclinada sobre un arroyo seco —_He dejado aquí mi amor_—, había ahora algo que no estaba antes. Un brazo. Un brazo marchito, blanco, de niño, que salía de la tierra con los dedos abiertos hacia arriba, como el del capullo de Mohgwyn.
 
-Edda se arrodilló a su lado. Lo miró mucho tiempo.
+Edda se arrodilló a su lado. Lo miró.
 
 Ya no sentía nada. Ni ternura, ni perfume, ni ganas de protegerlo. Solo un brazo de niño que salía de la tierra.
 
 Lo tocó.
 
-* * *
+---
 
 Despertó en el salón del trono de Mohgwyn, de rodillas, en el lago de sangre, junto al mausoleo blanco.
 
@@ -526,7 +520,7 @@ Junto a una fuente seca. Con las hojas doradas cayendo despacio a su alrededor, 
 
 Y junto a la muñeca, sentada en el borde de la fuente, con la capa gris cubierta también de hojas doradas, con una carta doblada en las manos, estaba Melina.
 
-* * *
+---
 
 Melina levantó la vista.
 
@@ -546,7 +540,7 @@ Se le cayó la carta de las manos. Se le quedó en el regazo.
 
 Edda se acercó. Despacio. Se sentó en el borde de la fuente, al otro lado de la muñeca de trapo.
 
-No dijeron nada durante mucho tiempo. Las hojas caían.
+No dijeron nada. Las hojas caían.
 
 Luego Melina alargó la mano. Despacio. Y le tocó la cara. La mejilla. Como si comprobara que era real.
 

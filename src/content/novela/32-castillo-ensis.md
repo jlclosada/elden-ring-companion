@@ -1,6 +1,6 @@
 Para llegar al corazón de la Tierra de las Sombras había que cruzar un río, y el río lo guardaba un castillo.
 
-Castillo Ensis se alzaba sobre un acantilado, entre la llanura de las cruces y los bosques del interior, con sus murallas grises y sus torres afiladas cortando el cielo plateado como cuchillas. Era una fortaleza de frontera. La habían construido los soldados de Messmer en los años de la conquista, piedra a piedra, con manos de Cornudos esclavizados, para que nadie entrara en las tierras del interior sin permiso. Desde la llanura parecía una sola roca tallada, sin juntas, sin puertas. Solo cuando uno se acercaba veía el puente levadizo, alzado, y la cadena que lo sujetaba, gruesa como un tronco.
+Castillo Ensis se alzaba sobre un acantilado, entre la llanura de las cruces y los bosques del interior, con sus murallas grises y sus torres afiladas cortando el cielo plateado como cuchillas. Era una fortaleza de frontera. La habían construido los soldados de Messmer en los años de la conquista, piedra a piedra, con manos de Cornamentados esclavizados, para que nadie entrara en las tierras del interior sin permiso. Desde la llanura parecía una sola roca tallada, sin juntas, sin puertas. Solo cuando uno se acercaba veía el puente levadizo, alzado, y la cadena que lo sujetaba, gruesa como un tronco.
 
 —Hay una entrada lateral —dijo Leda, que la había acompañado hasta el pie del acantilado—. Por los muros del norte. Los caballeros de Messmer la usan para bajar a la llanura de noche.
 
@@ -18,7 +18,7 @@ Leda no contestó. Se dio la vuelta y echó a andar hacia la llanura.
 
 —Hay serpientes —dijo, sin volverse—. Muchas. No las mires a los ojos.
 
-* * *
+---
 
 Había serpientes por todas partes.
 
@@ -34,7 +34,7 @@ No la atacaron. Ni una. Pero la siguieron con la mirada todo el tiempo, por todo
 
 En el castillo había también caballeros. Caballeros de armadura negra y dorada, con capas rojas y escudos con una llama pintada, que patrullaban las murallas en silencio. Y soldados de a pie, con lanzas, y arqueros, y perros. Edda esquivó a los que pudo. A los que no pudo, los mató. Ninguno le habló. Ninguno gritó al morir. Se dejaban caer al suelo con un ruido de metal y se quedaban allí, quietos, y las serpientes se acercaban a ellos y se enroscaban alrededor de los cuerpos, despacio, como quien arropa a un niño.
 
-* * *
+---
 
 En el patio central del castillo, Edda se encontró con un caballero que leía.
 
@@ -56,11 +56,11 @@ Edda se detuvo a cinco pasos, con la espada en la mano.
 
 Edda dudó. Luego guardó la espada y se sentó en el banco, en el otro extremo.
 
-* * *
+---
 
 El caballero le habló durante horas.
 
-Le habló de la Tierra de las Sombras antes de la llegada de Marika: un reino de Cornudos con ciudades de piedra blanca, con templos en lo alto de las montañas, con el Árbol Umbrío en el centro como un dios silencioso, sin oro, sin gracia, sin promesas, que no le pedía nada a nadie y no daba nada a cambio. Le habló de la Torre de la Divinidad, en lo más alto de Belurat, donde los sabios de cuernos enormes intentaban crear dioses a partir de seres de fuera, metiéndolos en tinajas, cociéndolos vivos durante años, durante generaciones.
+Le habló de la Tierra de las Sombras antes de la llegada de Marika: un reino de Cornamentados con ciudades de piedra blanca, con templos en lo alto de las montañas, con el Árbol Umbrío en el centro como un dios silencioso, sin oro, sin gracia, sin promesas, que no le pedía nada a nadie y no daba nada a cambio. Le habló de la Torre de la Divinidad, en lo más alto de Belurat, donde los sabios de cuernos enormes intentaban crear dioses a partir de seres de fuera, metiéndolos en tinajas, cociéndolos vivos durante años, durante generaciones.
 
 —Funcionaba, a veces —dijo, mirando la página—. Rara vez. Salía algo de las tinajas. Algo que no era humano ni Cornudo. Algo que brillaba. Lo subían a la torre, a la Puerta, y lo empujaban a cruzarla. —Pasó una página—. Nunca volvía ninguno. Pero ellos seguían haciéndolo.
 
@@ -74,9 +74,9 @@ Le habló de una muchacha de fuera. Una chamana de un valle del oeste, de pelo d
 
 El caballero se quedó en silencio un momento.
 
-—Hay una teoría —dijo al fin, muy bajo—. Que no está escrita en ningún libro. Que se me ocurrió a mí, aquí, en este banco, después de leerlos todos. —Se subió las gafas—. Que no la borró para esconder lo que hicieron los Cornudos. Sino para esconder lo que hizo ella. Porque cuando vio arder Belurat desde lo alto de la torre, con su hijo al frente del ejército, se dio cuenta de que se había convertido en lo mismo que había metido a su madre en una tinaja.
+—Hay una teoría —dijo al fin—. Que no está escrita en ningún libro. Que se me ocurrió a mí, aquí, en este banco, después de leerlos todos. —Se subió las gafas—. Que no la borró para esconder lo que hicieron los Cornamentados. Sino para esconder lo que hizo ella. Porque cuando vio arder Belurat desde lo alto de la torre, con su hijo al frente del ejército, se dio cuenta de que se había convertido en lo mismo que había metido a su madre en una tinaja.
 
-Edda pensó en la voz de la tinaja. *Y aun así es mi niña.*
+Edda pensó en la voz de la tinaja. _Y aun así es mi niña._
 
 Se tocó la bolsa de cuero que llevaba al cuello, bajo la capa. Notó la tierra húmeda dentro.
 
@@ -90,7 +90,7 @@ El caballero negó con la cabeza.
 
 —Nunca. —Pasó el dedo por una línea del libro—. Ni una vez.
 
-* * *
+---
 
 —Arriba hay alguien —dijo el caballero, cuando Edda se levantó para seguir—. En la gran sala de la torre del río. La guardiana del castillo.
 
@@ -102,7 +102,7 @@ El caballero negó con la cabeza.
 
 —Vaya. —El caballero se quedó pensativo—. La guardiana pregunta por ella a veces. Por la muchacha que le abrió la puerta del cuarto del niño, en Leyndell, hace siglos. —Volvió a bajar la vista al libro—. Ten cuidado con la guardiana. Es la mejor espada que he visto nunca. Y no está aquí por obligación. Está aquí por amor. Que es mucho peor.
 
-* * *
+---
 
 En lo más alto del castillo, en una gran sala con ventanales que daban al río, había una mujer.
 
@@ -126,17 +126,17 @@ Edda se detuvo en la puerta. Había algo en aquella mujer que le resultaba famil
 
 Rellana inclinó la cabeza. Detrás de la máscara, Edda adivinó la sorpresa.
 
-—Lo era —dijo—. Hace mucho tiempo. Antes de esto. —Levantó un poco la espada azul, como si la mirara—. ¿Cómo lo sabes?
+—Lo era —dijo—. Antes de esto. —Levantó un poco la espada azul, como si la mirara—. ¿Cómo lo sabes?
 
 —Por la armadura. He visto una igual. En la mansión del lago. La llevaba un eco que guardaba la escalera de una torre.
 
 Rellana se quedó inmóvil.
 
-—Loretta —dijo, muy bajo—. ¿Sigue allí?
+—Loretta —dijo—. ¿Sigue allí?
 
 —Su eco sí. Ella se fue. Me pidió que le dijera a la princesa que lo sentía.
 
-Hubo un silencio largo. La llama de la espada dorada parpadeó.
+La llama de la espada dorada parpadeó.
 
 —Mi hermana era la reina de la luna llena —dijo Rellana al fin—. Rennala. ¿La conoces?
 
@@ -148,7 +148,7 @@ Edda dudó.
 
 —Llorando. En su biblioteca. Abrazando un huevo de ámbar. Me preguntó si había visto a su marido. Me preguntó qué hora era.
 
-Rellana no dijo nada durante un largo rato. Se volvió hacia el ventanal, de espaldas a Edda, y se quedó mirando el castillo negro del otro lado del río.
+Rellana se volvió hacia el ventanal, de espaldas a Edda, y se quedó mirando el castillo negro del otro lado del río.
 
 —Ya veo —dijo al fin, con la voz más baja—. Siempre fue así. Siempre amó demasiado. Desde niñas. Elegía una cosa y la quería con todo, sin dejarse nada, y cuando la perdía se quedaba vacía. —Hizo una pausa—. Yo no. Yo quise dos lunas desde el principio. Para que si una se iba, me quedara la otra.
 
@@ -156,7 +156,7 @@ Rellana no dijo nada durante un largo rato. Se volvió hacia el ventanal, de esp
 
 Rellana no contestó.
 
-* * *
+---
 
 Edda dio un paso dentro de la sala.
 
@@ -172,7 +172,7 @@ La caballera se quedó muy quieta. Las dos espadas bajaron un poco.
 
 —Ranni —repitió—. La pequeña. La de la luna fea. —Detrás de la máscara, la voz se le quebró—. ¿Vive?
 
-—Vive. En una torre al oeste del lago. En un cuerpo de muñeca, durante mucho tiempo. Ahora… —Edda se detuvo—. Ahora en el suyo. Lo recuperó.
+—Vive. En una torre al oeste del lago. En un cuerpo de muñeca, durante siglos. Ahora… —Edda se detuvo—. Ahora en el suyo. Lo recuperó.
 
 Rellana se acercó. Despacio. Sin levantar las espadas. Se detuvo a tres pasos de Edda, y se quedó mirándola a través de la máscara de los ojos cerrados. Y luego, de pronto, bajó la vista. Hacia su pecho. Hacia la capa. Hacia el bolsillo de dentro.
 
@@ -200,9 +200,9 @@ Edda dudó. Luego dijo la verdad.
 
 —Que no era para mi hijo. Que era para mí. Para que no se me olvidara que había alguien esperando al final del camino.
 
-Rellana no dijo nada durante mucho tiempo. Luego, despacio, se quitó el yelmo.
+Rellana se quitó el yelmo.
 
-* * *
+---
 
 Debajo había una cara de mujer madura, bella, de facciones finas, con el pelo blanco que en otro tiempo había sido negro. Tenía arrugas finas alrededor de los ojos y una cicatriz pequeña en la barbilla. Tenía los ojos azules de su hermana. Los de Ranni. Pero al contrario que los de Rennala, estos no estaban tristes ni perdidos. Estaban tranquilos. Y un poco húmedos.
 
@@ -218,15 +218,13 @@ Edda guardó la piedra en el bolsillo de dentro. Le ardían las mejillas.
 
 Rellana se volvió hacia el ventanal. Hacia el castillo negro.
 
-—Lo vi luchar por primera vez en un torneo de las tierras bajas —dijo—. Hace siglos. Yo era joven. Él también. Luchó contra un albinaurio enorme que montaba un jabalí. Le quemó la armadura. Lo tiró al suelo. Y luego, cuando el albinaurio estaba en el suelo, vencido, con todo el mundo gritando que lo rematara… le dio la mano. —Se le quebró la voz—. Le dio la mano para levantarlo. Eso fue lo que vi. No el fuego. La mano.
+—Lo vi luchar por primera vez en un torneo de las tierras bajas —dijo—. Hace siglos. Yo era joven. Él también. Luchó contra un albinaurio enorme que montaba un jabalí. Le quemó la armadura. Lo tiró al suelo. Y luego, cuando el albinaurio estaba en el suelo, vencido, con todo el mundo gritando que lo rematara… le dio la mano. Le dio la mano para levantarlo. Eso fue lo que vi. No el fuego. La mano.
 
 —Y lo seguiste.
 
-—Renuncié a Caria. A mi derecho de nacimiento. A mi hermana. —Rellana apoyó la mano en el cristal del ventanal—. Me fui a Leyndell y gané un duelo ritual para que me dejaran servir al Árbol, solo para estar cerca de él. Y cuando su madre lo mandó aquí a quemar esta tierra, vine con él. —Se le quebró la voz—. Lo vi quemarla. Lo vi quemar Belurat. Lo vi colgar a los Cornudos en cruces de hierro. Y me quedé. Porque esperaba volver a ver la mano.
+—Renuncié a Caria. A mi derecho de nacimiento. A mi hermana. —Rellana apoyó la mano en el cristal del ventanal—. Me fui a Leyndell y gané un duelo ritual para que me dejaran servir al Árbol, solo para estar cerca de él. Y cuando su madre lo mandó aquí a quemar esta tierra, vine con él. Lo vi quemarla. Lo vi quemar Belurat. Lo vi colgar a los Cornamentados en cruces de hierro. Y me quedé. Porque esperaba volver a ver la mano.
 
 —¿Y la viste?
-
-Rellana tardó mucho en contestar.
 
 —Una vez —dijo al fin—. Después del último incendio. Lo encontré en las ruinas de un templo, de rodillas, solo, con un niño muerto en los brazos. Un niño Cornudo. Lo había sacado de entre las cenizas. Y estaba llorando. —Cerró los ojos—. No lloraba nunca. Ni cuando su madre lo dejaba. Ni cuando las nodrizas lo llamaban monstruo. Pero ese día lloraba con un niño muerto en los brazos, uno de los que él mismo había quemado. —Abrió los ojos—. Y yo supe que me quedaría para siempre. Por si volvía a pasar.
 
@@ -234,13 +232,11 @@ Edda no dijo nada.
 
 —No ha vuelto a pasar —dijo Rellana—. En siglos. Pero aquí sigo. Guardando su puerta.
 
-* * *
+---
 
 Se quedaron un rato en silencio, las dos, junto al ventanal, mirando el castillo negro al otro lado del río.
 
 —Tengo que cruzar —dijo Edda al fin.
-
-—Lo sé.
 
 —Hacia allí. Hacia el Torreón. Hacia él.
 
@@ -264,7 +260,7 @@ Se puso en guardia. La espada azul y la dorada, una a cada lado.
 
 —Pero si me vences —dijo— te diré una cosa antes de irme. Una cosa que solo sé yo.
 
-* * *
+---
 
 Rellana luchaba como luchaban en Caria: con elegancia, con precisión, con una mezcla de espada y magia que hacía que cada movimiento fuera un hechizo. La espada azul lanzaba ondas de luz lunar que congelaban el aire y dejaban escarcha en el mármol. La espada dorada lanzaba arcos de fuego que lo fundían. Las dos juntas se entrelazaban en una danza de luz y llamas que llenaba la sala de vapor, de reflejos, de chispas.
 
@@ -294,7 +290,7 @@ Y vio que se detenían.
 
 Rellana bajó las espadas un instante antes de que la de Edda la alcanzara.
 
-* * *
+---
 
 La caballera cayó de rodillas en el suelo helado de la sala. La espada azul se le escapó de la mano y resbaló por el mármol. La dorada se apagó.
 
@@ -314,7 +310,7 @@ Edda se arrodilló a su lado. Le cogió la mano. Estaba fría, de la espada azul
 
 —Sí.
 
-—Escucha bien. —Rellana le apretó la mano—. Cuando llegues a él. Cuando lo tengas delante, con su fuego y sus serpientes, y te parezca un monstruo, que te lo parecerá… acuérdate de la mano. Del albinaurio en el torneo. Del niño muerto en las cenizas. —Le tembló la voz—. Debajo de todo lo que es, sigue habiendo un muchacho al que su madre arrancó un ojo al nacer y visitaba dos veces al año. Que se sentaba en lo alto de una torre a mirar el camino por donde tenía que llegar ella. Que todavía la espera.
+—Escucha bien. —Rellana le apretó la mano—. Cuando llegues a él. Cuando lo tengas delante, con su fuego y sus serpientes, y te parezca un monstruo, que te lo parecerá… acuérdate de la mano. Del albinaurio en el torneo. Del niño muerto en las cenizas. Debajo de todo lo que es, sigue habiendo un muchacho al que su madre arrancó un ojo al nacer y visitaba dos veces al año. Que se sentaba en lo alto de una torre a mirar el camino por donde tenía que llegar ella. Que todavía la espera.
 
 —Lo recordaré.
 
@@ -336,7 +332,7 @@ Rellana asintió. Muy despacio. Y su cuerpo se deshizo en una lluvia de luz azul
 
 En la mano de Edda no quedó nada. Solo frío en un lado de la palma y calor en el otro.
 
-* * *
+---
 
 Al otro lado del castillo, el puente levadizo había bajado solo. Cruzaba el río hacia el interior de la Tierra de las Sombras: los bosques negros, las ruinas, las montañas. Y a lo lejos, sobre su colina, el castillo negro con torres como lanzas. El Torreón de la Sombra. La fortaleza de Messmer.
 
@@ -346,9 +342,9 @@ El caballero de las gafas estaba en mitad del puente, con su libro bajo el brazo
 
 —Bajó las espadas.
 
-El caballero se quedó callado. Se subió las gafas.
+El caballero se subió las gafas.
 
-—Sí —dijo al fin—. Lo imaginaba. —Miró hacia la torre del río, donde ya no había luz—. Llevaba mucho tiempo esperando una excusa para dejar de esperar.
+—Sí —dijo al fin—. Lo imaginaba. —Miró hacia la torre del río, donde ya no había luz—. Llevaba años esperando una excusa para dejar de esperar.
 
 —¿Por qué no me detuviste tú?
 
@@ -356,11 +352,11 @@ El caballero se quedó callado. Se subió las gafas.
 
 Edda cogió el libro. Era pesado, encuadernado en cuero negro, con las páginas amarillentas y una escritura fina, apretada, en una lengua antigua que no conocía. En la primera página había un dibujo hecho con tinta, a mano: una muchacha de pelo dorado saliendo de una tinaja rota, con los brazos abiertos, mirando hacia arriba. Y en el suelo, junto a la tinaja, una planta pequeña, de dos hojas.
 
-Edda se quedó mirando el dibujo mucho tiempo.
+Edda se quedó mirando el dibujo.
 
 —¿Quién lo dibujó?
 
-—Yo. —El caballero se encogió de hombros—. Es como me la imagino. No sé si es verdad. —Hizo una pausa—. La planta es lo que nunca sale en los libros. Lo que salió de la tinaja de verdad, dicen los Cornudos viejos. No una diosa. Una hierba.
+—Yo. —El caballero se encogió de hombros—. Es como me la imagino. No sé si es verdad. —Hizo una pausa—. La planta es lo que nunca sale en los libros. Lo que salió de la tinaja de verdad, dicen los Cornamentados viejos. No una diosa. Una hierba.
 
 Edda se tocó la bolsa de cuero que llevaba al cuello. No dijo nada.
 
@@ -374,15 +370,15 @@ El caballero la miró un momento. Luego sonrió, como si nadie se lo hubiera pre
 
 —Bien. —Ansel se volvió hacia el castillo, despacio, de vuelta a su biblioteca—. Eso estaría bien.
 
-* * *
+---
 
 Esa noche, Edda acampó en el otro lado del río, al borde del bosque negro. No encendió fuego. Se sentó con la espalda contra un árbol y sacó la piedra azul del bolsillo de dentro.
 
-*Mi sobrina se ha enamorado de una Sinluz. Qué disparate.*
+_Mi sobrina se ha enamorado de una Sinluz. Qué disparate._
 
-*Nadie regala su luna sin más. Es como regalar un trozo de la cara.*
+_Nadie regala su luna sin más. Es como regalar un trozo de la cara._
 
-Se quedó mirando la luna diminuta girar dentro de la piedra. Pensó en Rogier, en su sofá, diciendo *ella lo planeó todo*. Pensó en Rellana bajando las espadas porque alguien había encontrado el camino de plata que solo Ranni había encontrado de niña.
+Se quedó mirando la luna diminuta girar dentro de la piedra. Pensó en Rogier, en su sofá, diciendo _ella lo planeó todo_. Pensó en Rellana bajando las espadas porque alguien había encontrado el camino de plata que solo Ranni había encontrado de niña.
 
 Pensó que no sabía nada. Que Ranni había hecho cosas terribles, quizá. Que había abierto o no había abierto una puerta, que había robado o no había robado una runa, que había matado o no había matado a un príncipe al que todos querían. Que ella misma había matado a mucha gente en una guerra antes de morir, y a muchos más después. Que Messmer había quemado niños y había llorado con uno en brazos. Que Marika había quemado Belurat y su madre le seguía cantando desde un cántaro.
 
