@@ -122,6 +122,26 @@ decenas de imágenes): copia el `.safetensors` en `models/loras` y aparecerá un
 - Equipo del DLC añadido a las 8 builds y una build nueva solo DLC: **Puño de Hoja Seca** (artes marciales Destreza/Fe).
 - Unos 450 objetos del DLC en el compendio, con filtro *Juego base / Shadow of the Erdtree*.
 
+## App móvil (iOS y Android, Expo)
+
+La carpeta `mobile/` es una app nativa hecha con Expo (SDK 57, Expo Router, pestañas nativas) con todo excepto el Estudio de imágenes y la novela: inicio, partidas, guía paso a paso, recomendaciones, ruta, checklist, jefes, diario, atributos, mapa interactivo, builds, planificador, compendio, crónicas y personajes.
+
+- **Comparte el código de la web**: datos (`src/data`), guía, plan y estadísticas (`src/lib`) se importan tal cual desde `../src` (alias `@shared/*`). Si cambias una build o un jefe en la web, la app lo recoge.
+- **Partidas** guardadas en el teléfono (AsyncStorage), con la misma lógica que la web.
+- **Mapa**: Leaflet dentro de un WebView. Leaflet y los iconos van empaquetados en la app (se regeneran con `node mobile/scripts/gen-map-assets.mjs`). Las teselas (53 MB) se sirven desde el contenedor web del ordenador: `docker compose up -d web` (puerto 8090) y el móvil en la misma wifi. Para otro servidor, `EXPO_PUBLIC_TILES_URL` en `mobile/.env`.
+
+### Probarla en tu móvil
+
+Requiere Node 22 (`nvm install 22`) y la app **Expo Go** en el teléfono (App Store o Google Play).
+
+```bash
+cd mobile
+npm install
+npx expo start
+```
+
+Escanea el código QR con la cámara (iPhone) o con Expo Go (Android). Para el simulador de iOS, pulsa `i` en la terminal de Expo.
+
 ## Arquitectura
 
 ```
