@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from 'react'
 import { Link, useNavigate, useParams } from 'react-router-dom'
 import { ArrowLeft, ArrowRight, List, Minus, Plus, X } from 'lucide-react'
-import { BOOKS, CHAPTERS, NOVEL_TITLE, chapterArt, chapterExists, loadChapter, parseChapter, type Block } from '../content/novela'
+import { BOOKS, CHAPTERS, NOVEL_TITLE, chapterExists, loadChapter, parseChapter, type Block } from '../content/novela'
 import { cx } from '../components/ui'
 import { numeroEnLetras } from '../content/novela/edicion'
 
@@ -98,11 +98,6 @@ export default function NovelReader() {
           <h1 className="mt-4 font-display text-4xl font-semibold leading-tight text-gold-gradient sm:text-5xl">{ch.title}</h1>
           <div className="font-lore mt-3 text-lg italic text-parch-400">{ch.era}</div>
         </header>
-        {chapterArt(ch.slug) && (
-          <figure className="chapter-art -mx-4 mb-12 sm:mx-0">
-            <img src={chapterArt(ch.slug)} alt={`Ilustración del capítulo ${idx + 1}: ${ch.title}`} className="aspect-[3/2] w-full object-cover" />
-          </figure>
-        )}
 
         {!chapterExists(ch.slug) ? (
           <p className="font-lore text-center text-lg italic text-parch-400">Este capítulo todavía se está escribiendo.</p>

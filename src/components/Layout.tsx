@@ -1,5 +1,5 @@
 import { NavLink, Outlet, useLocation } from 'react-router-dom'
-import { Home, Compass, Map, Swords, Calculator, BookOpen, ScrollText, Palette, Search, PanelLeftClose, PanelLeftOpen } from 'lucide-react'
+import { Home, Compass, Map, Swords, Calculator, BookOpen, ScrollText, Search, PanelLeftClose, PanelLeftOpen } from 'lucide-react'
 import { Suspense, useEffect, useState, type ReactNode } from 'react'
 import { useActiveRun } from '../store/runs'
 import { progressStats } from '../lib/plan'
@@ -22,7 +22,6 @@ const NAV = [
   { to: '/planificador', label: 'Planificador', icon: Calculator },
   { to: '/compendio', label: 'Compendio', icon: BookOpen },
   { to: '/lore', label: 'Lore', icon: ScrollText },
-  { to: '/estudio', label: 'Estudio', icon: Palette },
 ]
 
 export function GraceMark({ className }: { className?: string }) {

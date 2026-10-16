@@ -1,4 +1,4 @@
-import { BOOKS, CHAPTERS, NOVEL_SUBTITLE, NOVEL_TITLE, chapterArt, type Block } from '../../content/novela'
+import { BOOKS, CHAPTERS, NOVEL_SUBTITLE, NOVEL_TITLE, type Block } from '../../content/novela'
 import { CRONOLOGIA, EDICION, EPIGRAFES_LIBRO, GLOSARIO, NOTA_EDITORIAL, capitulosDe, numeroEnLetras } from '../../content/novela/edicion'
 import { CHAPTERS as CRONICAS, CHARACTERS, LORE_PARTS } from '../../data/lore'
 
@@ -6,7 +6,6 @@ export interface BookOptions {
   cronicas: boolean
   reparto: boolean
   glosario: boolean
-  ilustraciones: boolean
   mapa: boolean
   a4: boolean
 }
@@ -90,14 +89,12 @@ export function buildBookHtml(chapters: Record<string, Block[]>, o: BookOptions)
       out.push(`<section class="front mapa"><figure><img src="/tiles/shadow-preview.webp" alt="Mapa de la Tierra de las Sombras"><figcaption>La Tierra de las Sombras</figcaption></figure></section>`)
     }
     for (const c of written.filter((x) => x.book === b.n)) {
-      const art = o.ilustraciones ? chapterArt(c.slug) : undefined
-      out.push(`<section class="chapter${art ? ' con-ilustracion' : ''}" id="cap-${c.slug}">
+      out.push(`<section class="chapter" id="cap-${c.slug}">
         <header>
           <div class="num">Capítulo ${numeroEnLetras(c.n)}</div>
           <h2 class="titulillo">${esc(c.title)}</h2>
           <div class="era">${esc(c.era)}</div>
         </header>
-        ${art ? `<figure><img src="${art}" alt=""></figure>` : ''}
         <div class="texto">${blocksHtml(chapters[c.slug])}</div>
       </section>`)
     }

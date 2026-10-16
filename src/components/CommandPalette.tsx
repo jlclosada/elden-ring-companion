@@ -2,7 +2,7 @@ import { useEffect, useMemo, useRef, useState, type ComponentType } from 'react'
 import { useNavigate } from 'react-router-dom'
 import {
   Search, Skull, BookOpen, MapPin, ScrollText, Swords, Compass, CornerDownLeft, Loader2, User, Home, Map as MapIcon,
-  Calculator, Palette, Plus, FileDown, BookMarked,
+  Calculator, Plus, FileDown, BookMarked,
 } from 'lucide-react'
 import { BOSSES, BOSS_KIND } from '../data/bosses'
 import { REGION_BY_ID } from '../data/regions'
@@ -42,7 +42,6 @@ const PAGES: Item[] = [
   { id: 'p:comp', group: 'Ir a', title: 'Compendio', to: '/compendio', icon: BookOpen },
   { id: 'p:lore', group: 'Ir a', title: 'Biblioteca de lore', to: '/lore', icon: ScrollText },
   { id: 'p:libro', group: 'Ir a', title: 'Edición impresa de la novela', sub: 'Exportar a PDF', to: '/lore/libro', icon: FileDown },
-  { id: 'p:estudio', group: 'Ir a', title: 'Estudio de imágenes', to: '/estudio', icon: Palette },
 ]
 
 function staticItems(): Item[] {

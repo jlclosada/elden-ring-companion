@@ -235,17 +235,6 @@ const files = import.meta.glob('./*.md', { query: '?raw', import: 'default' }) a
   () => Promise<string>
 >
 
-// Ilustraciones generadas con ComfyUI (npm run illustrate); solo existen las que se hayan generado
-const art = import.meta.glob('./ilustraciones/*.webp', {
-  eager: true,
-  query: '?url',
-  import: 'default',
-}) as Record<string, string>
-
-export function chapterArt(slug: string): string | undefined {
-  return art[`./ilustraciones/${slug}.webp`]
-}
-
 export function chapterExists(slug: string) {
   return `./${slug}.md` in files
 }

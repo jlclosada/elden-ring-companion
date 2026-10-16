@@ -22,7 +22,7 @@ const base = opt('url', 'http://localhost:5173').replace(/\/$/, '')
 const query = new URLSearchParams()
 if (opt('formato')) query.set('formato', opt('formato'))
 if (flag('cronicas')) query.set('cronicas', '1')
-for (const k of ['ilustraciones', 'mapa', 'reparto', 'glosario']) if (flag(`sin-${k}`)) query.set(k, '0')
+for (const k of ['mapa', 'reparto', 'glosario']) if (flag(`sin-${k}`)) query.set(k, '0')
 const out = resolve(opt('out', 'El-Anillo-Roto.pdf'))
 
 const CHROME = process.env.CHROME_PATH ?? [

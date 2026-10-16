@@ -122,7 +122,6 @@
 
 /* ───── Capítulos ───── */
 .chapter header { text-align: center; padding-top: 16%; margin-bottom: 9mm; }
-.chapter.con-ilustracion header { padding-top: 2mm; margin-bottom: 6mm; }
 .chapter .num { font-family: 'Cinzel', serif; font-size: 7.6pt; letter-spacing: .32em; color: #8a6420; text-transform: uppercase; }
 .chapter h2 { font-family: 'Cinzel', serif; font-size: 17pt; line-height: 1.15; margin-top: 4mm; letter-spacing: .02em; }
 .chapter .era { font-style: italic; font-size: 9.6pt; color: #5b4a35; margin-top: 2.6mm; }

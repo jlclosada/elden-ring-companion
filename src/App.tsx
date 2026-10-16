@@ -15,7 +15,6 @@ const LorePage = lazy(() => import('./pages/Lore'))
 const LoreChapterPage = lazy(() => import('./pages/LoreChapter'))
 const NovelReader = lazy(() => import('./pages/NovelReader'))
 const NovelBook = lazy(() => import('./pages/NovelBook'))
-const StudioPage = lazy(() => import('./pages/Studio'))
 
 function Loading() {
   return <div className="grid h-64 place-items-center text-sm text-parch-400">Buscando la gracia…</div>
@@ -40,7 +39,6 @@ export function App() {
             <Route path="lore" element={<LorePage />} />
             <Route path="lore/novela/:slug" element={<NovelReader />} />
             <Route path="lore/:id" element={<LoreChapterPage />} />
-            <Route path="estudio" element={<StudioPage />} />
             <Route path="*" element={<HomePage />} />
           </Route>
         </Routes>

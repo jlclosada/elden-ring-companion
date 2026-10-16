@@ -178,9 +178,6 @@ input[type="range"] { accent-color: var(--color-gold-500); }
 .novel p.dropcap::first-line { font-variant: small-caps; letter-spacing: .03em; color: var(--color-parch-100); }
 
 /* Ilustración de cabecera del capítulo (lector) */
-.chapter-art { position: relative; overflow: hidden; border-radius: 14px; border: 1px solid rgb(230 197 111 / .18); box-shadow: 0 30px 60px -30px rgb(0 0 0 / .9); }
-.chapter-art::after { content: ""; position: absolute; inset: 0; pointer-events: none; box-shadow: inset 0 0 80px 10px rgb(11 9 7 / .55); }
-@media (max-width: 639px) { .chapter-art { border-radius: 0; border-inline: 0; } }
 
 /* ───────── Edición impresa (Paged.js) ───────── */
 .book-root { min-height: 100%; background: #2b2721; }

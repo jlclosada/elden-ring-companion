@@ -16,7 +16,6 @@ const FORMATS = {
 type FormatId = keyof typeof FORMATS
 
 const TOGGLES: { key: keyof Omit<BookOptions, 'a4'>; label: string }[] = [
-  { key: 'ilustraciones', label: 'Ilustraciones' },
   { key: 'mapa', label: 'Mapas' },
   { key: 'reparto', label: 'Dramatis personae' },
   { key: 'glosario', label: 'Glosario' },
@@ -32,7 +31,6 @@ export default function NovelBook() {
   const [params, setParams] = useSearchParams()
   const format = (params.get('formato') as FormatId) in FORMATS ? (params.get('formato') as FormatId) : '15x23'
   const opts: BookOptions = {
-    ilustraciones: params.get('ilustraciones') !== '0',
     mapa: params.get('mapa') !== '0',
     reparto: params.get('reparto') !== '0',
     glosario: params.get('glosario') !== '0',
