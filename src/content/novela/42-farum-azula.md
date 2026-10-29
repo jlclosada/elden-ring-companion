@@ -12,7 +12,7 @@ Era una ciudad entera, de templos y torres y escalinatas y columnatas, rota en p
 
 Edda se incorporó despacio. Se miró la mano. La piedra ámbar seguía en el puño. La luz de dentro, débil, cálida, no se movía.
 
-Se tocó el cuello. La serpiente roja estaba allí, quieta, caliente. Se tocó la bolsa del cuello. El brote. Cinco hojas, la última de color ámbar. Se tocó el bolsillo de dentro de la capa gris de Melina: la carta de Godwyn. La piedra azul. La piedra de colores. La nota. El colgante. Los nombres. La hoja roja. La cuenta de hierro.
+Se tocó el cuello. La escama de Loretta estaba allí, quieta, caliente. Se tocó el bolsillo de dentro de la capa gris de Melina: la carta de Godwyn. La piedra azul. La piedra de colores. La nota. El colgante. La hoja roja. La cuenta de hierro.
 
 Todo estaba.
 
@@ -106,7 +106,7 @@ Pensó en Fia, junto a la chimenea de la Mesa Redonda, meciendo una raíz negra 
 
 —No importa lo que sepas. —Bernahl se puso en guardia—. Importa lo que vas a hacer. Y yo le juré que nadie llegaría hasta él.
 
-Edda pensó en Rellana. En Niall. En Loretta. En Gaius. En todos los que guardaban puertas.
+Edda pensó en Niall. En Loretta. En Morgott. En todos los que guardaban puertas.
 
 —Lo sé —dijo, y desenvainó.
 
@@ -176,7 +176,7 @@ Dejó de masticar.
 
 Se levantó.
 
-Despacio. Era más grande de lo que parecía de rodillas. Mucho más grande. Más alto que Morgott, más ancho que Gaius. Se quitó la túnica de clérigo, despacio, con cuidado, como quien se quita algo que le han prestado y que no quiere romper, y la dobló y la dejó en el suelo. Debajo había una armadura. Negra, antigua, de placas finas como escamas, cubierta de polvo y de arañazos. Y una capa de pelaje oscuro que le caía por la espalda hasta el suelo.
+Despacio. Era más grande de lo que parecía de rodillas. Mucho más grande. Más alto que Morgott, más ancho que Radahn. Se quitó la túnica de clérigo, despacio, con cuidado, como quien se quita algo que le han prestado y que no quiere romper, y la dobló y la dejó en el suelo. Debajo había una armadura. Negra, antigua, de placas finas como escamas, cubierta de polvo y de arañazos. Y una capa de pelaje oscuro que le caía por la espalda hasta el suelo.
 
 Levantó la mano derecha. Y en ella, de la nada, como de la sombra misma, apareció una espada.
 
@@ -198,7 +198,7 @@ La espada negra tembló en su mano.
 
 —¿Quién te ha dicho eso?
 
-Edda pensó en todo lo que había oído. En la Mesa Redonda, en la torre de Ranni, en la boca de Rogier muriéndose en un sofá. En lo que había leído en el libro de Ansel, en la Tierra de las Sombras. En lo que Melina sabía sin saber por qué lo sabía.
+Edda pensó en todo lo que había oído. En la Mesa Redonda, en la torre de Ranni, en la boca de Rogier muriéndose en un sofá. En lo que Melina sabía sin saber por qué lo sabía.
 
 —Nadie —dijo al fin—. Lo he juntado yo. —Dio un paso dentro de la sala—. Y sé cuál es la palabra.
 
@@ -296,7 +296,7 @@ Recogió la espada negra del suelo. La empuñó con la mano derecha, y Edda vio 
 
 —Mi hermana me la entregó. —Maliketh se puso en guardia—. Juré guardarla. Es lo único que me queda de ella. De lo que fuimos. Cuando era una muchacha descalza en un valle y yo un cachorro negro que la seguía por los caminos. Si te la doy, no queda nada.
 
-Edda pensó en Messmer. *Es lo único que sé hacer.*
+Edda pensó en Ansbach en su escalón. *Yo no sé apartarme.*
 
 —Lo sé —dijo, y se levantó también.
 
@@ -367,6 +367,18 @@ Maliketh la miró. Sus ojos amarillos se volvieron, por un instante, de un color
 Maliketh abrió los ojos.
 
 —Isolde decía eso —dijo—. Que la sombra también tiene derecho a quedarse quieta cuando el cuerpo se va. —Sonrió, con una sonrisa extraña en aquel hocico de lobo—. No le hice caso.
+
+—Una reina me dijo una vez que moriría cuando eligiera —dijo después, muy bajo—. Hace eras. En unos llanos de hierba roja, con el cuello abierto, mirándome con un ojo que veía la muerte de todo. —Tosió—. Elegí no matarla. Fue lo único que elegí en mi vida. Y luego tuvo que venir otro a terminar lo que yo no terminé. Un muchacho con dos rayos en las manos, en un valle de nieve. —Abrió los ojos amarillos—. Ese no dudó. Me incliné ante él. Es el único ante quien me he inclinado que no era ella.
+
+—Lynx —dijo Edda.
+
+Maliketh la miró con sorpresa.
+
+—¿Lo conociste?
+
+—Conocí a los que lo quisieron.
+
+—Bien. —La bestia volvió a cerrar los ojos—. Fui a su tumba. Cuando ya no recordaba bien quién era. Me acuerdo de las piedras. Estaban calientes.
 
 Se quedó callado un momento.
 
@@ -450,7 +462,7 @@ Lo guardó en una bolsa pequeña de tela, aparte, junto a la piedra ámbar.
 
 Luego recogió el casco de guerrero del suelo. Lo limpió con la manga. Y se lo colgó del cinturón.
 
-Antes de irse, cogió del suelo de la sala un trozo de la tinaja. Un fragmento pequeño, curvo, de barro cocido, rojo por dentro y marrón por fuera, con un borde de la resina con que Alejandro se había remendado tantas veces. No era una piedra. Pero era barro, y el barro viene de la tierra. La vigesimosegunda.
+Antes de irse, cogió del suelo de la sala un trozo de la tinaja. Un fragmento pequeño, curvo, de barro cocido, rojo por dentro y marrón por fuera, con un borde de la resina con que Alejandro se había remendado tantas veces. No era una piedra. Pero era barro, y el barro viene de la tierra. La decimoséptima.
 
 * * *
 
@@ -458,7 +470,7 @@ En lo más alto de Farum Azula, en un fragmento de piedra que flotaba sobre todo
 
 Lo vio desde lejos, desde la escalinata del templo de Maliketh, al salir. Una plataforma circular, enorme, rodeada de tormenta, en el centro del centro de la ciudad, donde convergían todas las nubes. Y sobre ella, un dragón.
 
-Inmenso. Más grande que Bayle, más grande que Fortissax, más grande que nada. De escamas grises como la piedra más antigua, cubiertas de líquenes plateados. Con alas como velas de un barco que llevara eras sin navegar. Y cinco cuellos. Cinco cuellos largos, enroscados sobre el cuerpo. Tres terminaban en cabezas, grandes, dormidas, con los ojos cerrados y los hocicos apoyados en la piedra. Dos terminaban en muñones. Viejos. Cicatrizados. Con costras doradas.
+Inmenso. Más grande que Fortissax, más grande que nada. De escamas grises como la piedra más antigua, cubiertas de líquenes plateados. Con alas como velas de un barco que llevara eras sin navegar. Y cinco cuellos. Cinco cuellos largos, enroscados sobre el cuerpo. Tres terminaban en cabezas, grandes, dormidas, con los ojos cerrados y los hocicos apoyados en la piedra. Dos terminaban en muñones. Viejos. Cicatrizados. Con costras doradas.
 
 Placidusax. El Señor de los Dragones. El Señor de Elden de antes del Árbol. El que llevaba eras esperando a que volviera su dios.
 
@@ -482,33 +494,41 @@ Era dorado. Viejísimo. Con la pupila estrecha como una rendija. Se fijó en ell
 
 —*Todos vienen a por algo.*
 
-—Bayle ha muerto —dijo.
-
-El ojo dorado se quedó inmóvil.
-
-—Lo mató un pescador de un pueblo que Bayle quemó al huir de aquí. Con un arco. Le atravesó el ojo. —Edda hizo una pausa—. Antes de morir, Bayle miró hacia el oeste. Hacia aquí. Y dijo el nombre de su compañera. Vyrka. Dijo que ya iba.
-
-La cabeza no dijo nada. Luego se abrió otro ojo. En otra cabeza. Y luego en la tercera.
+El ojo dorado se quedó mirándola mucho rato. Luego se abrió otro ojo. En otra cabeza. Y luego en la tercera.
 
 Tres ojos dorados, mirándola.
 
-—*Bayle* —dijo la voz—. *El que me quitó dos cabezas. La que dormía y la que vigilaba.* Una pausa larga. *¿Me odiaba todavía? ¿Al final?*
+—*Hueles a nosotros* —dijo la voz, despacio, con algo parecido al asombro—. *Poco. Muy al fondo. Debajo de la carne de los que no tienen luz. Como una brasa debajo de la ceniza.* Una de las cabezas se acercó, arrastrando el cuello por la piedra, hasta quedar a diez pasos. Olfateó. *Y llevas al cuello una escama que no es tuya. Gris clara. Veteada de plata.*
 
-Edda pensó en el dragón negro mutilado en lo alto de su pico, con la única ala torcida, tumbado sobre las rocas mirando hacia el oeste.
+Edda se llevó la mano a la escama de Loretta.
 
-—No lo sé —dijo—. Creo que ya no le quedaba sitio para odiar. Estaba demasiado cansado. Solo pensaba en ella. En las escamas que se le cayeron en la batalla. Las guardó eras en un altar, en el único sitio de su montaña donde ardía algo. Para que no estuvieran a oscuras.
+—Me la encontré —dijo—. En el yelmo de alguien que me crio.
 
-Los tres ojos dorados se cerraron a la vez.
+—*Es de Lansseax* —dijo la voz—. *La hermana de Fortissax. De su cuello. Del sitio donde los nuestros llevamos las escamas que se regalan. Solo se arrancan para una cosa.* Los tres ojos se entornaron. *Para un hijo.*
 
-—*Vyrka* —dijo la voz—. *La roja. La que se quedó con él.* Otra pausa. *La aplastaron tres de los míos contra la torre mayor. Al tercer día. Yo lo vi. No hice nada.*
+Edda no se movió.
 
-—Las escamas están en la forja de los gigantes ahora. Sobre el pecho del último gigante. Junto a una brasa. —Edda lo miró—. Las dejé yo. Para que no estén a oscuras.
+—Yo no soy hija de ninguna dragona.
 
-Los ojos se abrieron.
+—*No* —dijo Placidusax—. *Tú no.*
 
-—*¿Por qué me lo cuentas?*
+Y no dijo nada más sobre aquello, por mucho que Edda esperó.
 
-—Porque ya no queda nadie que te odie —dijo al fin—. Y pensé que alguien debía decírtelo.
+---
+
+—*Hubo uno de los míos que se rebeló* —dijo el dragón, al cabo de un rato, como quien cambia de conversación porque la otra le pesa—. *Bayle. El que me quitó dos cabezas. La que dormía y la que vigilaba. Se fue hacia el este, herido, enloquecido, quemando lo que encontraba. Ahora está en una tierra que no está en los mapas. Lo noto. En lo alto de un pico, al otro lado de una sombra.* Una pausa larga. *¿Sabes si me odia todavía?*
+
+—No lo conozco.
+
+—*Lo conocerás.* Los tres ojos se cerraron un instante. *Llevas la marca de los que van a todas partes.* Se abrieron. *Tenía una compañera. Vyrka. La roja. La que se quedó con él cuando se rebeló. La aplastaron tres de los míos contra la torre mayor, al tercer día. Yo lo vi. No hice nada.*
+
+—¿Por qué me lo cuentas?
+
+—*Porque si llegas a ese pico* —dijo el dragón—, *quiero que le digas que no hice nada. Que lo vi y no hice nada. Que eso es lo único de esta guerra que no me he perdonado.* Una pausa. *Y que ya no le odio. Hace eras que no queda sitio. Estoy demasiado cansado.*
+
+Edda se quedó mirándolo.
+
+—Se lo diré —dijo—. Si llego.
 
 * * *
 
@@ -550,7 +570,7 @@ Las tres cabezas no se movieron. Pero Edda vio que los muñones dorados temblaba
 
 * * *
 
-—*Vete, pequeña* —dijo Placidusax, al cabo de un rato—. *Tienes cosas que hacer allá abajo. Lo noto. Llevas encima muchas cosas que no son tuyas. Cartas. Semillas. Brasas.* Una pausa. *Y la muerte, que acaba de salir de su espada. La noto pasar por debajo de mi tormenta. Fría. Limpia.*
+—*Vete, pequeña* —dijo Placidusax, al cabo de un rato—. *Tienes cosas que hacer allá abajo. Lo noto. Llevas encima muchas cosas que no son tuyas. Cartas. Piedras. Brasas. Y una escama.* Una pausa. *Y la muerte, que acaba de salir de su espada. La noto pasar por debajo de mi tormenta. Fría. Limpia.*
 
 —¿Y tú?
 
@@ -562,6 +582,6 @@ Luego se dio la vuelta y lo dejó dormir.
 
 Le pareció que alguien, en aquel mundo, tenía derecho a seguir esperando. Aunque supiera que no iba a volver nadie. Aunque fuera una tontería.
 
-Al bajar de la plataforma, se volvió una última vez. Las tres cabezas dormían. Pero los dos muñones dorados, los de las cabezas que le había arrancado Bayle, se habían movido. Se habían girado hacia el oeste. Hacia donde estaba la forja. Hacia donde unas escamas rojas brillaban sobre el pecho de un gigante, junto a una brasa.
+Al bajar de la plataforma, se volvió una última vez. Las tres cabezas dormían. Pero los dos muñones dorados, los de las cabezas que le había arrancado Bayle, se habían movido. Se habían girado hacia el este. Hacia una tierra que no estaba en los mapas, donde en lo alto de un pico un dragón negro sin mandíbula también miraba hacia el oeste.
 
 Como quien mira hacia una ventana iluminada en la noche.

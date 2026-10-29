@@ -290,7 +290,7 @@ Edda murió. Muchas veces. Y cada vez que volvía, Hoarah Loux la estaba esperan
 
 En la décima, o en la decimoquinta, Edda soltó la espada.
 
-Fue como en el jardín de Enir-Ilim, delante de Radahn. Como en el puente de Dane. El cuerpo lo hizo antes de que la cabeza lo decidiera.
+Fue como en la orilla del pozo, de niña, cuando la abuela le quitaba el palo de avellano de un manotazo y le decía _y ahora qué, niña, ¿ahora qué haces?_ El cuerpo lo hizo antes de que la cabeza lo decidiera.
 
 Dejó caer la espada de Hewg en la ceniza. Y se puso en guardia con las manos.
 
@@ -300,11 +300,11 @@ La miró. A las manos abiertas. A los pies. A la manera de doblar las rodillas, 
 
 —¿Quién te ha enseñado eso? —preguntó.
 
-—Un monje. En un puente. En la Tierra de las Sombras.
+—Mi abuela. En la orilla de un pozo, en las Tierras Áridas. —Edda no bajó las manos—. Que no era mi abuela. Que era una caballera de Caria.
 
-—¿Y quién se lo enseñó a él?
+—¿Y quién se lo enseñó a ella?
 
-—Los monjes de la reina. —Edda no bajó las manos—. Que lo aprendieron de ella. Que lo aprendió de un prisionero. En una celda de Belurat. Un guerrero que comía ratas crudas y luchaba con las manos porque le habían quitado las armas.
+—Un general al que siguió toda su vida. Que lo aprendió de una princesa de dos espadas. Que lo aprendió en Leyndell, de los monjes de la reina. —Edda respiró en dos veces—. Que lo aprendieron de ella. Que lo aprendió de un prisionero. En una celda de Belurat. Un guerrero que comía ratas crudas y luchaba con las manos porque le habían quitado las armas.
 
 Hoarah Loux se quedó completamente inmóvil.
 
@@ -314,7 +314,7 @@ Luego se rio. No como antes. Una risa distinta. Más pequeña. Más rota. Casi u
 
 Edda se rio, sin querer.
 
-—Y siglos después —siguió Hoarah Loux—, de mano en mano, de monje en monje, vuelve. En las manos de una Edda. Delante de mí. —Se le llenaron los ojos de lágrimas—. Como un fuego pequeño.
+—Y siglos después —siguió Hoarah Loux—, de mano en mano, de monje en caballero y de caballero en abuela, vuelve. En las manos de una Edda. Delante de mí. —Se le llenaron los ojos de lágrimas—. Como un fuego pequeño.
 
 Bajó la guardia.
 
@@ -396,7 +396,7 @@ Edda se quedó junto a él hasta que la ceniza le cubrió las botas. Junto a él
 
 Luego se levantó. Se guardó las dos piedras grises de Godfrey en el bolsillo de dentro. Ya no cabían. Tuvo que sacar la nota de Ranni y metérsela por dentro de la camisa, contra la piel, para hacerles sitio.
 
-Recogió del suelo una piedra pequeña de mármol, de las que habían saltado al partir Hoarah Loux el suelo con los puños. Blanca, con una veta gris, como una cicatriz. La vigesimotercera.
+Recogió del suelo una piedra pequeña de mármol, de las que habían saltado al partir Hoarah Loux el suelo con los puños. Blanca, con una veta gris, como una cicatriz. La decimoctava.
 
 Se volvió hacia la entrada del Árbol.
 

@@ -306,9 +306,13 @@ Maliketh saltó. La derribó contra el suelo. Le cerró las fauces sobre el cuel
 
 ---
 
-No murió enseguida.
+No murió.
 
-Se quedó tendida en la hierba quemada, con la garganta abierta y el mandoble caído a su lado, mirando el cielo. Las primeras estrellas empezaban a aparecer. Maliketh se apartó de ella, jadeando, con la boca llena de sangre, y se quedó de rodillas a su lado. Algo le impedía irse.
+Las fauces se cerraron, y la sangre de la Reina le llenó la boca, caliente, amarga, con un sabor a hierro y a ceniza que Maliketh no olvidaría nunca. Pero cuando apretó para terminar, algo lo detuvo. No fue ella. Fue él. Un temblor en la mandíbula, un instante de duda que no había sentido jamás en ninguna cacería, como si una voz muy pequeña, en el fondo de su pecho, le hubiera preguntado si de verdad quería hacerlo.
+
+Aflojó.
+
+La Reina se quedó tendida en la hierba quemada, con la garganta abierta y el mandoble caído a su lado, respirando con un silbido húmedo, mirando el cielo. Las primeras estrellas empezaban a aparecer. Maliketh se apartó de ella, jadeando, con la boca llena de sangre, y se quedó de rodillas a su lado.
 
 Ozren se arrastró hasta ella. Le tomó la cabeza entre las manos.
 
@@ -316,13 +320,11 @@ Ozren se arrastró hasta ella. Le tomó la cabeza entre las manos.
 
 Ella lo miró. Movió los labios. No salía voz, pero Ozren se inclinó para oírla, y Maliketh, con sus oídos de bestia, la oyó también.
 
-—Ahora… sí… veo la mía —susurró—. Es… es pequeña. No es tan… terrible.
+—No… ha cerrado —susurró—. Podía… y no ha cerrado.
 
 —No hables.
 
-—Escucha. —Le apretó la mano con una fuerza que no debería haber tenido—. Esconde la espada. Que nadie la use. Que… que nadie mate dioses con ella por odio. Solo… por piedad.
-
-—Te lo prometo.
+—Escucha. —Le apretó la mano con una fuerza que no debería haber tenido—. La espada. Que no la toque nadie. Todavía no.
 
 La Reina volvió la cabeza, muy despacio, hacia Maliketh. El ojo crepuscular brillaba todavía, más débil, como una brasa que se apaga.
 
@@ -330,13 +332,13 @@ La Reina volvió la cabeza, muy despacio, hacia Maliketh. El ojo crepuscular bri
 
 —¿Cuándo? —preguntó Maliketh, y se sorprendió de haberlo preguntado.
 
-La Reina sonrió.
+La Reina sonrió con los labios llenos de sangre.
 
-—Cuando dejes de… ser su sombra —dijo—. Cuando… elijas.
+—Cuando dejes de… ser su sombra —dijo—. Cuando… elijas. Hoy has empezado a elegir… y ni siquiera lo sabes.
 
-Y murió.
+---
 
-Ozren se quedó abrazado a su cuerpo hasta que se hizo de noche del todo. Maliketh no lo tocó. Esperó, de rodillas, en la hierba quemada, mientras el viejo lloraba. Luego, cuando el llanto se calmó, se inclinó sobre el cuerpo de la Reina, le abrió con dos dedos el párpado del ojo derecho, y lo miró.
+Maliketh no le contestó. Se inclinó sobre ella y le abrió con dos dedos el párpado del ojo derecho.
 
 Dentro del ojo, donde debería haber estado la pupila, latía una luz negra. Pequeña. Enfermiza. Como un corazón de tinta.
 
@@ -344,7 +346,15 @@ Dentro del ojo, donde debería haber estado la pupila, latía una luz negra. Peq
 
 —Lo que he venido a hacer.
 
-Maliketh metió la garra en el ojo de la Reina, con cuidado, casi con ternura, y sacó la luz negra. Latía en su palma como un pájaro pequeño. Era fría. Pesaba más que una montaña.
+—Está viva. Está viva, bestia, por todos los dioses que ha matado…
+
+—Lo sé. —Maliketh no lo miró—. Sujétala.
+
+Ozren no la sujetó. La abrazó. Y Maliketh metió la garra en el ojo de la Reina, con cuidado, casi con ternura, y sacó la luz negra.
+
+Ella gritó. Fue el único grito de toda la batalla: un grito largo, desgarrado, que no era de dolor, o no solo de dolor, sino de algo más hondo, como el de alguien a quien arrancan de golpe la única ventana por la que ha mirado el mundo. Los cuervos que esperaban en el torreón echaron a volar todos a la vez. Y cuando el grito se apagó, la Reina se quedó quieta en los brazos del viejo, con el ojo derecho abierto, vacío, cubierto de una película blanca y lechosa como la de los ciegos, como un velo de lino sobre un espejo.
+
+La luz negra latía en la palma de Maliketh como un pájaro pequeño. Era fría. Pesaba más que una montaña.
 
 La Runa de la Muerte. La Muerte Destinada. La ley que decía que todo lo que existe ha de morir, de verdad, para siempre.
 
@@ -354,27 +364,61 @@ Ozren la miró, y luego miró a la bestia.
 
 —Lo sé.
 
-—Ella dio la vida para impedirlo.
+—Ella ha dado toda su vida para impedirlo.
 
 —También lo sé.
 
-—¿Y aun así lo harás?
+—Entonces mátala. —El viejo lo dijo llorando, con los dientes apretados—. Mátala, ya que estás. Es más piadoso que dejarla así. Ciega para lo único que sabía ver.
 
-Maliketh cerró la garra sobre la runa.
+Maliketh cerró la garra sobre la runa. Miró a la mujer de la trenza negra, tendida en el regazo del viejo, con el ojo velado mirando a ninguna parte y el otro, el castaño, el humano, mirándolo a él.
 
-—Me pidió que volviera —dijo—. Nada más.
+—Me pidió que volviera —dijo—. Nada más. No me pidió que la matara.
 
-Se levantó. Recogió su espada negra. Miró un momento el mandoble de la Reina, caído en la hierba, con el rostro del dios del pozo grabado en la hoja, y no lo tocó.
+—Te pidió que la detuvieras.
 
-—Escóndelo, viejo —dijo—. Como te pidió. Nadie lo buscará.
+—Ya está detenida.
+
+La Reina se rio. Era apenas un hilo de aire entre la sangre, pero era una risa.
+
+—No… —susurró—. No lo estoy. Me has quitado los ojos, sombra. No… las ganas. —Levantó una mano temblorosa y le tocó el hocico, un instante, como se toca a un perro que no es tuyo—. Volveré a ver la muerte. Algún día. Con otros ojos. Y cuando la vea… iré a buscarla.
+
+Maliketh se apartó de su mano. Se levantó. Recogió su espada negra. Miró un momento el mandoble de la Reina, caído en la hierba, con el rostro del dios del pozo grabado en la hoja, y no lo tocó.
+
+—Llévatela al norte, viejo —dijo—. Lejos. Donde mi hermana no la busque. Si la vuelvo a ver, no volveré a dudar.
 
 Y se marchó hacia el oeste, despacio, cojeando, sangrando por la herida del pecho, que no se cerraba. Ozren lo vio alejarse por la llanura hasta que la oscuridad se lo tragó.
 
-Esa noche, el viejo monje cavó una tumba al pie del torreón, con las manos, y enterró en ella a la Reina de los Ojos Lóbregos. Después recogió el mandoble y bajó con él a lo más hondo del torreón, por una escalera de caracol que parecía no tener fin, hasta una cámara a la que nadie bajaría en siglos. Allí lo dejó, apoyado contra la pared, con la hoja hacia arriba y el rostro del dios con los ojos cerrados mirando al techo.
+---
 
-Luego subió, se sentó junto a la tumba, encendió en su brasero una llama negra muy pequeña, y esperó a que llegara la mañana.
+Esa noche, de entre las ruinas del torreón salieron cuatro figuras largas y sonrientes que se habían escondido en lo más hondo de la escalera de caracol mientras sus hermanos morían. Eran Piel de Dios jóvenes, apenas novicios, con las túnicas de piel todavía sin coser del todo. Se arrodillaron ante su Reina sin dejar de sonreír, porque no sabían hacer otra cosa, y lloraron sonriendo.
 
-Vivió muchos años más. Solo. Y se acordó de ella cada noche, tal como ella le había dicho.
+Entre los cinco la subieron a una litera hecha con lanzas y mantos. Ozren cargó el mandoble a la espalda, envuelto en tela, con el rostro del dios con los ojos cerrados mirando hacia abajo. Y emprendieron el camino del norte: más allá de los llanos de hierba roja, más allá de las colinas, hacia las montañas heladas que se alzaban sobre la meseta de los molinos, donde los caminos se terminaban y nadie iba nunca.
+
+La Reina no habló en todo el viaje. Iba tumbada en la litera, con el ojo velado abierto hacia el cielo. A veces movía los labios. Ozren se inclinaba para oírla, y siempre era lo mismo: nombres. Nombres de dioses. Diecisiete. Los recitaba uno por uno, despacio, como quien cuenta las cuentas de un rosario, y cuando terminaba volvía a empezar.
+
+Al vigésimo día de viaje, en lo alto de un paso de montaña cubierto de nieve, se incorporó en la litera por primera vez.
+
+—Ozren.
+
+—Aquí estoy.
+
+—No veo nada. —Lo dijo con calma, con una curiosidad extraña—. Te miro y no veo nada. Ninguna sombra. Ninguna mancha. Solo tu cara. Tu cara vieja y fea y llena de cicatrices. —Le tocó la boca partida—. ¿Así es como ve la gente?
+
+—Así es.
+
+—Qué solos estáis. —La Reina se quedó mirándolo un largo rato—. Sin saber cuándo. Sin saber cómo. Cada mañana os levantáis sin saber si será la última. —Bajó la mano—. Ahora entiendo por qué la quieren quitar. La muerte. Debe de dar mucho miedo no verla venir.
+
+—Da miedo, sí.
+
+—Entonces les enseñaré a no tenerlo. —Se volvió hacia el norte, hacia las cumbres blancas—. Les enseñaré que la muerte no es una enemiga. Aunque tenga que matar a muchos para que lo entiendan.
+
+Ozren no contestó. Pero aquella noche, junto al fuego, mientras ella dormía, sacó el mandoble de la tela, lo miró a la luz de las llamas, y le pidió perdón al dios del pozo por lo que sabía que iba a venir.
+
+Se instalaron en las montañas del norte de la meseta, en una fortaleza de piedra negra que había pertenecido a un pueblo que ya no existía. Allí los fueron encontrando, uno a uno, durante años, los que odiaban la Orden: desertores, herejes, sacerdotes de dioses muertos, Piel de Dios que habían sobrevivido escondidos. Allí la Reina aprendió a ver otra vez, no con el ojo, sino con la llama: a escuchar en el fuego negro la vida que la Voluntad había dado, y a saber dónde estaba, y a saber cómo apagarla.
+
+En las aldeas de la meseta empezaron a llamarla de otra manera. Ya no la Reina de los Ojos Lóbregos. La Reina de los Ojos Velados.
+
+Tardaría siglos en bajar de las montañas. Pero bajaría.
 
 ---
 
@@ -406,21 +450,33 @@ Marika se quedó mirándola. Por un instante, Maliketh creyó ver en sus ojos al
 
 —¿Y ella?
 
-—Murió.
+Maliketh tardó en contestar.
 
-—¿Te dijo algo?
+—Vive —dijo al fin.
 
-—Que la muerte es lo único justo que hay en el mundo —dijo—. Que quitarla es la mayor crueldad.
+Marika retiró la mano de la runa como si quemara.
 
-Marika cerró los ojos.
+—¿Vive?
+
+—Sin el ojo. Ya no ve la muerte de nadie. Se la llevaron al norte. —La bestia le sostuvo la mirada—. Me pediste que volviera, hermana. No me pediste nada más.
+
+—Debiste matarla.
+
+—Quizá. —Maliketh cerró los ojos—. Dudé. Es la primera vez en mi vida que dudo. No sé por qué. Ella dijo que hoy había empezado a elegir.
+
+La diosa se quedó en silencio mucho rato, arrodillada en el barro junto a la muralla. Maliketh esperó la reprimenda, la orden de volver, la furia. No llegó nada de eso. Cuando volvió a abrir los ojos, vio que su hermana estaba llorando. Nunca la había visto llorar. Ni siquiera en la montaña, la noche que bajaron de la tierra de los Cornamentados.
+
+—¿Te dijo algo? —preguntó Marika.
+
+—Que la muerte es lo único justo que hay en el mundo —dijo—. Que quitarla es la mayor crueldad. Y que volverá a buscarla.
 
 —¿Y tú qué crees?
 
 —Yo no creo nada, hermana. Yo he vuelto.
 
-Ella abrió los ojos y lo miró, y Maliketh vio que estaba llorando. Nunca la había visto llorar. Ni siquiera en la montaña, la noche que bajaron de la tierra de los Cornamentados.
+Marika miró la runa durante un largo momento.
 
-—Voy a sacarla —dijo Marika, mirando la runa—. Del Anillo. Del mundo.
+—Voy a sacarla —dijo—. Del Anillo. Del mundo.
 
 —¿Y dónde la guardarás?
 

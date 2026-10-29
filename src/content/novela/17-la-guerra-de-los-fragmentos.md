@@ -46,7 +46,7 @@ Radahn bajó de Caelid para desafiarlo. Se plantó ante las murallas de Velo Tor
 
 Godrick no fue.
 
-Malenia marchó hacia el sur desde el Árbol Hierático con su ejército de caballeros de la podredumbre limpia, bajando por la gran calzada de Bellum, venciendo a todo el que se le ponía delante. Iba camino de Caelid, a enfrentarse a Radahn. No tenía ningún interés en Necrolimbo. Pero al pasar cerca de Velo Tormentoso, Godrick cometió el error de insultarla.
+Malenia marchó hacia el sur desde el Árbol Hierático con el ejército del árbol, bajando por la gran calzada de Bellum, venciendo a todo el que se le ponía delante. A su lado cabalgaba siempre el general del dragón y el rayo, y por donde pasaban los dos, nadie se quedaba en pie. Después de Leyndell siguieron hacia el sur, camino de Caelid, a enfrentarse a Radahn. No tenía ningún interés en Necrolimbo. Pero al pasar cerca de Velo Tormentoso, Godrick cometió el error de insultarla.
 
 Lo hizo desde las murallas, con un heraldo. El heraldo gritó, a petición de su señor, que la Espada de Miquella era una lisiada podrida que se escondía detrás de su hermano pequeño, y que si tenía valor, que viniera a Velo Tormentoso a medirse con el señor de todo lo dorado.
 
@@ -81,6 +81,18 @@ Godrick siguió sollozando, con la cara en el barro.
 —Mi hermano también parece un niño —siguió Malenia—. Pero él no llora. Nunca. Ni cuando le duele. —Retiró la espada de la garganta de Godrick—. Tú no vales la pena.
 
 Y se marchó sin matarlo.
+
+El general del dragón no se marchó enseguida. Bajó del caballo y caminó hasta el semidiós arrodillado en el barro, despacio, ante los ojos de todo el castillo. Godrick levantó la cara. Vio a un hombre enorme, de mechón dorado, con dos espadas a la espalda. Se encogió, esperando el golpe.
+
+El general le tendió la mano.
+
+—Levántate —dijo, sin alzar la voz, para que solo lo oyera él—. No por ellos. —Señaló con la barbilla las murallas, llenas de caras—. Por ti. Mi padre siempre le daba la mano a los que vencía. Decía que la derrota es un sitio muy pequeño y que hay que ayudar a la gente a salir de él antes de que se acostumbre a vivir dentro. Era Godwyn. El Dorado. El de verdad. —Dejó la mano tendida—. Tú llevas su sangre lejana, Godrick. Y la llevas como si pesara. No tiene por qué pesar. Coge la mano. Nadie en esas murallas va a recordar que perdiste si te ven levantarte.
+
+Godrick miró la mano. Miró la cara del hombre. Algo en ella —los pómulos, la frente, el mechón— le recordó a una estatua que había en el patio de los caballeros de Leyndell, en la que había pasado horas de niño, mirándola, deseando parecerse a ella.
+
+No aceptó la mano. Se quedó en el barro, temblando, con la cara roja de vergüenza.
+
+El general retiró la mano sin decir nada más. Montó a caballo y siguió al ejército del árbol por el camino del este. Y esa fue la peor humillación de todas: no la espada de Malenia en la garganta, sino la mano tendida de un hombre que se parecía a Godwyn, y que Godrick no había sido capaz de coger.
 
 Godrick se quedó de rodillas en el barro, meado encima, hasta que el ejército de la Espada de Miquella desapareció por el camino del este. Luego se levantó, recogió los dos trozos de su hacha, y volvió al castillo. Al pasar por la puerta, vio a sus soldados en las almenas. Ninguno lo miraba. Todos apartaban la vista.
 
@@ -342,7 +354,123 @@ Uno a uno, los demás soldados se arrodillaron.
 
 La segunda defensa de Leyndell fue su obra maestra.
 
-Morgott contuvo a los ejércitos de los semidioses en las murallas de la capital durante años. Rechazó a Rykard antes de que bajara a la serpiente. Rechazó a Radahn, que vino del este con sus Melenarrojas y se fue riéndose, impresionado, diciendo que nunca había visto a nadie defender una muralla así. Rechazó a todos. Nunca salió de la ciudad. Nunca perdió una puerta.
+Morgott contuvo a los ejércitos de los semidioses en las murallas de la capital durante años. Rechazó a Rykard antes de que bajara a la serpiente. Rechazó a Radahn, que vino del este con sus Melenarrojas y se fue riéndose, impresionado, diciendo que nunca había visto a nadie defender una muralla así. Rechazó a todos.
+
+A todos menos a uno.
+
+---
+
+El Árbol Hierático bajó del norte en primavera, por la gran calzada de Bellum.
+
+Nadie en las Tierras Intermedias había visto nunca un ejército así. Ni en la guerra de los gigantes, ni en la de los dragones, ni en los días de Godfrey. Treinta mil soldados con armaduras doradas de oro sin alear y capas blancas, en formación perfecta, con estandartes blancos y limpios en los que estaba bordado el Árbol Hierático. Ochocientos caballeros de la podredumbre limpia, con las mejillas manchadas de rojo. Los tres mil del dragón y el rayo. Los nueve caballeros sagrados al frente, con sus capas blancas. Y a la cabeza de todo, a caballo, uno al lado del otro, una guerrera pelirroja con los ojos vendados y un general enorme con dos espadas a la espalda.
+
+Llegaron a las murallas de Leyndell al atardecer del decimocuarto día.
+
+Morgott los vio desde lo alto de la puerta oriental. Había visto llegar a Rykard, a Radahn, a los ejércitos de media docena de semidioses menores. Había visto ejércitos más grandes. Ninguno tan ordenado. Ninguno tan silencioso. Los treinta mil se detuvieron a mil pasos de la muralla sin que nadie gritara una orden, como si fueran un solo cuerpo, y plantaron el campamento en un silencio absoluto, sin una hoguera de más, sin una tienda fuera de sitio.
+
+—¿Quién manda eso? —preguntó el capitán viejo, el nieto de Hargen, a su lado.
+
+Morgott tardó en contestar. Miraba la bandera que ondeaba junto al estandarte blanco del árbol, en el centro del campamento. Un dragón de plata atravesado por un rayo.
+
+—Un hombre al que conocí en una celda —dijo.
+
+---
+
+El asedio duró cuarenta días.
+
+No fue como los otros. El Árbol Hierático no asaltó las murallas a ciegas, como había hecho Rykard, ni se sentó a esperar, como había hecho Radahn. El general del dragón cerró los caminos. Uno a uno, como había cerrado una vez los puentes de un lago a la espalda de un campeón de pelo rojo. Cortó el agua del acueducto del norte. Tomó las torres de vigilancia de la meseta. Y cuando la capital llevaba un mes sin recibir un solo carro de grano, lanzó un único asalto, de noche, contra el barbacana del oeste.
+
+Lo tomó en una hora. Malenia entró la primera, danzando sobre la muralla entre los arqueros de oro como un remolino de acero, y detrás de ella entraron los nueve, y detrás de los nueve, la tormenta. Al amanecer, la bandera del árbol blanco ondeaba en la puerta oeste de la ciudad exterior de Leyndell, y los soldados de Morgott se habían replegado a la muralla interior, a la que rodeaba la plaza del Árbol.
+
+Morgott no la perdió. La muralla interior aguantó. Pero la ciudad exterior era del general del dragón, y los dos lo sabían.
+
+Al cuadragésimo día, un heraldo con bandera blanca subió hasta la puerta de la muralla interior.
+
+—El general del Árbol Hierático —dijo— pide hablar con el señor de Leyndell. Solos. En la plaza de la Piedra del Rey. Sin armas.
+
+---
+
+Se encontraron al anochecer, junto a la Piedra del Rey, en la puerta oriental, donde un viejo capitán con un cojín en la silla había visto pasar una vez a un príncipe dorado que iba a hablar con un dragón.
+
+Morgott llegó con la capa y la capucha del Monarca Velado. Lynx, sin armadura, sin las dos espadas. Se quedaron de pie a cinco pasos el uno del otro, mientras el sol se ponía detrás del Árbol.
+
+—Te has hecho rey —dijo Lynx.
+
+—No soy rey. Soy el que vigila.
+
+—Ya. —Lynx miró la capucha—. ¿Por qué te tapas? Te he visto la cara. Tres meses, a través de una reja.
+
+Morgott no contestó enseguida. Luego, despacio, se quitó la capucha. Los cuernos retorcidos asomaron a la luz roja del atardecer.
+
+—Porque la Orden no puede ser defendida por un augurio —dijo—. No a la vista de todos.
+
+—Eso es una estupidez. Una estupidez muy elaborada, pero una estupidez. —Lynx no apartó la vista de los cuernos—. Te he visto defender esta ciudad con los dientes, Morgott. Te he visto a través de una reja levantarte cada mañana con los grilletes puestos y mirar hacia arriba, hacia el Árbol que te había escupido, con más lealtad que todos los caballeros dorados juntos. Si la Orden no puede soportar que la defienda el único hijo que no la traicionó, el problema no es tu cara. Es la Orden.
+
+—Lo sé. —Morgott sonrió apenas—. Es mi estupidez. Ya te dije una vez que es lo único que he elegido. —Miró hacia la ciudad exterior, donde ondeaban los estandartes blancos—. Me has quitado la mitad de la ciudad, renegado. Nadie lo había conseguido.
+
+—No he venido a quitarte la otra mitad.
+
+—¿Entonces a qué has venido?
+
+Lynx tardó en contestar.
+
+—A decirte que mi padre te quería —dijo al fin—. No me lo invento para ablandarte; no me hace falta, ya has perdido media ciudad. Me lo escribió en una carta que tardé años en abrir, porque estaba enfadado con él por esconderse. Decía que había otra carta, para ti, escrita con letras grandes, como las de los niños que aprenden a leer, porque se acordaba de que tu hermano y tú aprendisteis así, a escondidas, con una mujer ciega en las cloacas. —Hizo una pausa—. Tenía la costumbre de escribir a los que no podía ver. Creo que era su manera de visitarlos sin que nadie lo siguiera.
+
+Morgott se quedó muy quieto. Se llevó la mano al pecho, debajo de la capa, donde llevaba un papel doblado, amarillento, gastado por los bordes.
+
+—¿Tu padre?
+
+—Godwyn. —Lynx le sostuvo la mirada—. Soy su hijo, Morgott. Hijo de él y de una dragona. Por eso olía a tormenta en la celda. Por eso tu hermano decía que los dos olíamos igual. —Se encogió de hombros—. Soy tu sobrino. Si eso significa algo.
+
+El augurio no dijo nada durante mucho tiempo. El sol terminó de ponerse. La plaza se quedó a oscuras, iluminada solo por el resplandor dorado del Árbol, que llegaba desde lo alto de la ciudad.
+
+—Te respeto —dijo Morgott al fin—. Lo sabes. Te respeté en la celda, aunque te despreciara. Eres el hombre más honorable que he conocido, después de él. —Se puso la capucha otra vez—. Pero escúchame bien, sobrino. No serás rey de esta ciudad. Ni Señor del Anillo. No mientras yo viva. Este Árbol tiene un guardián, y el guardián soy yo.
+
+—No quiero ser rey. He visto lo que hacen las coronas con la gente que quiero, Morgott. A la reina que me crió la convirtieron en una mujer que le canta a un huevo. A mi padre, en un muerto sin muerte. A ti, en un guardián que se tapa la cara. No conozco una sola corona que no haya pedido a alguien que dejara de ser quien era para ponérsela. —Negó con la cabeza—. Yo he tardado demasiado en saber quién soy para cambiarlo ahora por un trono.
+
+—Lo sé. Por eso eres peligroso. —Morgott se acercó un paso—. ¿Sabes lo que eres? ¿De verdad lo sabes? Hijo del primer semidiós. Hijo de una dragona antigua. Sangre de la diosa por un lado y de los dragones por el otro. Los Dedos no te han nombrado nunca porque nadie sabía que existías. Pero lo eres, Lynx. Eres un Empíreo. Podrías subir. Podrías ser dios. Podrías ser Señor de Elden mañana, si te pusieras delante del Árbol con la mitad de las runas que hay sueltas por el mundo.
+
+—No quiero.
+
+—Ya lo sé. Te lo he dicho: por eso eres peligroso. —El augurio bajó la voz—. Porque hay otros que sí quieren. Y uno de ellos te quiere a ti.
+
+Lynx frunció el ceño.
+
+—¿Qué quieres decir?
+
+Morgott miró hacia el norte, hacia la ciudad exterior, hacia el campamento de estandartes blancos. Hacia el lugar donde, en una tienda bordada en oro, dormía un niño que no crecía.
+
+—Soy el que vigila —dijo—. Es lo único que he sabido hacer en mi vida. Vigilar. Desde una celda, a través de una rendija, he visto pasar a todos los hijos de mi madre. He visto lo que quieren. Y he visto a uno que quiere más que todos los demás juntos, y que no lo dice nunca. —Volvió a mirar a Lynx—. Eres parte de un plan más grande de lo que crees, sobrino. No sé cuál. No sé de quién. Pero tú no has llegado a ese árbol del norte por casualidad. Nadie llega a ningún sitio por casualidad en esta familia.
+
+—¿Me estás diciendo que me han usado?
+
+—Te estoy diciendo que mires. —Morgott se dio la vuelta para irse—. Que vigiles, como yo. Tu enemigo quizá esté más cerca de lo que crees. Quizá esté durmiendo en tu propio campamento.
+
+Se marchó por la puerta oriental, despacio, encorvado bajo sus cuernos.
+
+Lynx se quedó solo junto a la Piedra del Rey.
+
+---
+
+Al día siguiente, el Árbol Hierático levantó el asedio.
+
+Nadie en la capital entendió por qué. Tenían la ciudad exterior. Tenían los caminos. Les bastaba con esperar un mes más para que la muralla interior se rindiera de hambre. Pero al amanecer, los treinta mil recogieron sus tiendas en silencio, devolvieron la puerta oeste a los soldados de Morgott sin disparar una flecha, y se marcharon hacia el sur, hacia Necrolimbo y Caelid, con sus estandartes blancos al viento.
+
+En lo alto de la muralla interior, el Monarca Velado los vio marcharse.
+
+—Os ha devuelto la ciudad, mi señor —dijo el capitán viejo, a su lado, sin poder creerlo.
+
+—Nunca la quiso. —Morgott no apartó la vista de la columna—. Vino a hablar conmigo. Y yo le dije lo que tenía que decirle.
+
+—¿El qué, mi señor?
+
+Morgott tardó en contestar.
+
+—Que vigile —dijo al fin.
+
+La ciudad exterior volvió a manos de Morgott aquella misma tarde. Desde entonces, nunca perdió una puerta.
+
+---
 
 Con el tiempo aprendió a proyectarse a sí mismo por las Tierras Intermedias, a aparecer en lugares lejanos sin dejar la capital. Para eso adoptó otro nombre y otra forma: la de Margit, el Augurio Caído. Como Margit, salía a los caminos y mataba a todos los campeones que aspiraban a llegar al Árbol para convertirse en Señor de Elden. Amontonaba sus cadáveres a las puertas de la ciudad. Lo acompañaban jinetes negros, la Caballería de la Noche, que perseguían a los guerreros más fuertes en la oscuridad.
 
@@ -402,7 +530,7 @@ Ansbach no entendió entonces lo que su señor quería decir. Lo entendería muc
 
 ---
 
-Ranni se escondió en la Mansión Caria, al oeste de Liurnia, con su cuerpo de muñeca. Dormía largas temporadas, porque la muñeca se cansaba más que un cuerpo de verdad. Mientras dormía, sus aliados —Blaidd, Iji, el preceptor Seluvis— trabajaban para ella en secreto. Y Loretta, que había vuelto de visita a la mansión desde el Árbol Hierático, se quedó un tiempo montando guardia en la escalinata, como en los viejos tiempos, aunque la reina a la que había servido ya no cantaba.
+Ranni se escondió en la Mansión Caria, al oeste de Liurnia, con su cuerpo de muñeca. Dormía largas temporadas, porque la muñeca se cansaba más que un cuerpo de verdad. Mientras dormía, sus aliados —Blaidd, Iji, el preceptor Seluvis— trabajaban para ella en secreto. Y en la escalinata de la mansión, siete caballeros encantados que una capitana de canas tempranas había dejado allí, años atrás, seguían montando guardia, aunque la reina a la que habían servido ya no cantaba.
 
 La Academia de Raya Lucaria se declaró neutral. Selló sus puertas con barreras mágicas que solo se abrían con una llave especial, y se olvidó del mundo. En el corazón de su biblioteca, en una urna de cristal, una brasa roja que llevaba mil años encendida empezó a apagarse aquel invierno. Ningún hechicero supo por qué.
 

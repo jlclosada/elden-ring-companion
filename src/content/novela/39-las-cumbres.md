@@ -1,22 +1,22 @@
-Edda se la contó entera, junto a la fuente seca de Leyndell, mientras las hojas doradas caían sobre las dos.
+Edda se lo contó entero, junto a la fuente seca de Leyndell, mientras las hojas doradas caían sobre las dos.
 
-Tardó toda la noche. Le habló de la llanura de las cruces y de Hornen. De Belurat y de la tinaja roja, y de la voz que había salido de ella cuando cortó la cera. Le habló de Rellana y de las dos lunas, de Thiollier y del umbral, de Bayle y de las escamas de Vyrka. De Gaius, que se caía del jabalí cuando se reía. De Messmer en lo alto de su torre, pidiendo que fuera una mano. De Ymir y de la Madre de los Dedos. De Midra y de los dos fuegos. De Leda, que al final se acordó de una luna azul, y de Ansbach, que leía. De Radahn, que dio las gracias por segunda vez, y de un niño que se perdió en el cielo diciendo que nadie lo había mirado nunca sin quererlo.
+Tardó toda la noche. Le habló del pantano de los albinauricos sangrando en sus cruces. De Varré, que se quitó la máscara para morir y tenía una cara corriente, de hombre cansado. De Ansbach en su escalón, con la espada sobre las rodillas, diciendo que no creía que su señor pensara aquellas cosas él solo. De Mohg, que al final preguntó por qué no le leía nadie. Y del capullo vacío, y del brazo marchito, y de la voz de una muchacha que la esperaba en una tierra que no estaba en los mapas.
+
+—No lo toqué —dijo al final—. Iba a hacerlo. Y no lo toqué.
 
 Melina escuchó sin interrumpir. Con las manos en el regazo, sobre la carta de Godwyn. Con el único ojo abierto fijo en la cara de Edda.
 
-Cuando Edda llegó a la parte de la tinaja —a la voz que preguntaba _¿eres tú, mi niña?_, a la niña de pelo claro que se escondía en los helechos, a _que la vi correr, que hizo bien, que no fue culpa suya_—, Melina se tapó la boca con la mano.
+—¿Por qué? —preguntó al fin.
 
-No lloró. Se quedó así, con la mano en la boca.
+—Por una frase. —Edda se miró las manos—. «No seas de nadie que te lo pida sonriendo.» No sé de dónde la saqué. La tenía dentro, como se tienen las nanas.
 
-—Mi abuela —dijo al fin, entre los dedos.
+Melina se quedó muy quieta.
 
-—Sí.
+—Esa frase la escribió alguien —dijo despacio—. Lo noto. Como noto las cosas cuando me acerco al fuego. La escribió alguien en una carta, para alguien a quien quería mucho. —Frunció el ceño—. No sé quién.
 
-—Nunca supe su nombre. Nunca supe nada de ella. De ninguna de ellas. —Bajó la mano—. Solo sé que mi madre nació en un valle, de una mujer que hablaba con los árboles. Y que una noche llegaron hombres con cuernos. —Miró el brote de la bolsa de cuero, que Edda había dejado sobre el borde de la fuente, entre las dos—. ¿Cómo se llamaba?
+—Yo tampoco.
 
-—No me lo dijo —dijo—. No se lo pregunté. —Se miró las manos—. Debería habérselo preguntado. Se lo pregunto a todos.
-
-—No pasa nada. —Melina alargó la mano y tocó una de las hojas del brote con la punta del dedo, como había hecho al principio—. Ya lo sabremos.
+—No pasa nada. —Melina le cogió la mano—. Ya lo sabremos.
 
 ---
 
@@ -24,9 +24,7 @@ Al amanecer, cuando las hojas doradas empezaban a brillar con la primera luz, Me
 
 Muy bajo. Casi sin voz. Una melodía sencilla, lenta, de pocas notas, que subía y bajaba como una mano que acuna. Sin palabras.
 
-Edda se quedó inmóvil.
-
-Era la nana de la tinaja. La que Yalda cantaba con su voz de vieja que desafinaba en las notas altas. La que Edda había cantado en el entierro de Isa sin saber que se la sabía.
+Edda se quedó inmóvil. No la conocía. Y sin embargo algo, en algún sitio, la reconocía: una melodía de helechos y de lobos, de un valle muy lejano, que desafinaba un poco en las notas altas.
 
 —¿Dónde la has aprendido? —preguntó, cuando Melina terminó.
 
@@ -34,17 +32,17 @@ Melina se miró las manos, sorprendida.
 
 —No lo sé —dijo—. Me ha salido sola. —Frunció el ceño—. Creo que… creo que alguien me la cantó una vez. Hace mucho. Antes de tener cuerpo. Antes de arder. —Se tocó el ojo cerrado—. Una mujer. Me sostuvo en brazos una sola vez, al pie de un árbol, y me la cantó. Y luego me dio a otra persona.
 
-Edda no dijo nada. Pensó en Marika, con una niña recién nacida en brazos, al pie del Árbol, en secreto, cantándole la nana que su propia madre le cantaba en un valle del oeste antes de que llegaran los hombres con cuernos.
+Edda no dijo nada. Pensó en Marika, con una niña recién nacida en brazos, al pie del Árbol, en secreto.
 
 La única vez.
 
-Miró el brote. Las cuatro hojas se habían vuelto hacia Melina. Todas. Como se vuelven las plantas hacia el sol.
+Mucho después, en una plaza en ruinas de una tierra que no estaba en los mapas, oiría aquella misma nana salir de una tinaja roja, con una voz de vieja que desafinaba en las notas altas, y entendería de dónde venía. Para entonces Melina ya no estaría para contárselo.
 
 ---
 
 Esa mañana, antes de salir hacia el norte, Edda volvió a la Mesa Redonda.
 
-Necesitaba que Hewg le arreglara la espada, mellada por la lanza de Messmer y la aguja de Leda y las espadas de luz de Radahn. Necesitaba comer algo caliente. Y necesitaba, sin saber muy bien por qué, sentarse un rato en un sitio donde hubiera gente.
+Necesitaba que Hewg le arreglara la espada, mellada por el tridente de Mohg y la espada roja de Varré y las fauces de una serpiente que se comía a los dioses. Necesitaba comer algo caliente. Y necesitaba, sin saber muy bien por qué, sentarse un rato en un sitio donde hubiera gente.
 
 Encontró más gente de la que esperaba.
 
@@ -94,25 +92,21 @@ Hewg dejó el martillo en el yunque.
 
 Edda le tendió la espada. El herrero la cogió, la sopesó, pasó el pulgar por el filo. Se le arrugó la cara de escamas grises.
 
-—Ha estado en la misma sala que un dios —dijo.
+—Ha estado en la misma sala que un semidiós —dijo.
 
-—En el mismo jardín.
+—En muchas. La última, inundada de sangre.
 
 —Y no se ha partido. —Hewg la puso en el yunque—. Ya es más de lo que puedo decir de la mía. —Levantó el martillo. Lo volvió a bajar—. ¿La has visto?
 
 —¿A quién?
 
-—A la reina. —El herrero la miró por primera vez. Los ojos amarillos, pequeños, hundidos entre las escamas—. Ahí fuera, en la otra tierra. Donde has estado. ¿Has visto algo de ella?
+—A la reina. —El herrero la miró por primera vez. Los ojos amarillos, pequeños, hundidos entre las escamas—. Has matado a sus hijos, uno por uno. ¿Has visto algo de ella en ellos?
 
-Edda pensó en la tinaja roja. En la voz. En la niña de pelo claro.
+Edda pensó en Morgott, ante las espinas. En Mohg, preguntando por qué no le leía nadie. En Rennala abrazando un huevo.
 
-—He visto a su madre —dijo.
+—He visto lo que dejó —dijo—. Niños esperando en todas partes. A que alguien los mirara.
 
 Hewg se quedó inmóvil con el martillo en alto.
-
-—¿A su madre?
-
-—Lo que quedaba de ella. En una tinaja. Le cantaba a su hija desde dentro. —Edda se tocó la bolsa del cuello—. Llevo lo que salió de la tinaja. Para dárselo a ella. Si llego.
 
 Hewg escupió en la fragua. Luego bajó el martillo, despacio, y golpeó el hierro. Una vez. Muy suave.
 
@@ -124,17 +118,17 @@ En lo alto de su escalera, en la galería, entre pilas de libros, Gideon Ofnir l
 
 No bajó. La miró desde arriba, con su yelmo de pájaro y su capa de plumas grises, apoyado en el bastón de piedra azul. Edda subió la escalera hasta él.
 
-—Has vuelto de la Tierra de las Sombras —dijo Gideon—. Nadie vuelve de allí.
+—Has vuelto del palacio de la sangre —dijo Gideon—. Nadie vuelve de allí.
 
 —Yo sí.
 
-—Ya lo veo. —El Omnisciente se quedó mirándola. A la serpiente roja enroscada en su cuello. A la caja atada al costado. A la bolsa de cuero del pecho—. Y traes cosas. —Hizo una pausa—. Cuéntame lo que has visto. Era el trato, ¿recuerdas? Yo te digo lo que sé, y tú me cuentas lo que ves.
+—Ya lo veo. —El Omnisciente se quedó mirándola. A la sangre seca de la capa. A la bolsa de piedras del cinturón—. Y traes preguntas. —Hizo una pausa—. Cuéntame lo que has visto. Era el trato, ¿recuerdas? Yo te digo lo que sé, y tú me cuentas lo que ves.
 
-Edda se lo contó. No todo. Le habló de la tierra borrada, de los Cornamentados, de Messmer, de la Madre de los Dedos, de Miquella. No le habló de la tinaja. No le habló del umbral. No le habló de la piedra azul.
+Edda se lo contó. No todo. Le habló de Mohgwyn, de la Madre Sin Forma, del capullo vacío y del brazo que llamaba hacia una tierra que no estaba en los mapas. No le habló de la frase. No le habló de la piedra azul.
 
 Gideon escuchó en silencio, inmóvil. A veces apuntaba algo en un cuaderno con una pluma fina. Cuando Edda terminó, terminó él también su nota, sin prisa, y secó la tinta con arena.
 
-—La Madre de los Dedos. Muerta. Fascinante. —Dejó la pluma—. Y la Voluntad Mayor le había dejado de hablar. Hace siglos. —Se volvió hacia la galería, hacia los libros—. Eso lo cambia todo, ¿sabes? Si la Voluntad ya no habla con la madre, los Dedos no reciben mensajes. Y si los Dedos no reciben mensajes, todo lo que nos dicen los Dos Dedos de abajo… —Se detuvo—. Todo lo que nos dicen se lo inventan ellos.
+—Una tierra fuera de los mapas. Fascinante. Encaja. —Dejó la pluma—. Tengo en la galería un códice robado de una ciudad eterna que habla de una Madre de los Dedos. Una mano enorme, en algún sitio que no es este, de la que nacieron todos los Dedos. Dice que la Voluntad Mayor le dejó de hablar. Hace siglos. —Se volvió hacia la galería, hacia los libros—. Si es verdad, lo cambia todo, ¿sabes? Si la Voluntad ya no habla con la madre, los Dedos no reciben mensajes. Y si los Dedos no reciben mensajes, todo lo que nos dicen los Dos Dedos de abajo… —Se detuvo—. Todo lo que nos dicen se lo inventan ellos.
 
 Edda pensó en Enia, traduciendo los signos con los ojos blancos. _No te corresponde a ti decidirlo. El orden es el orden._
 
@@ -212,7 +206,7 @@ Montañas blancas, altísimas, que se perdían en las nubes. Valles de nieve vir
 
 Y en todas partes, restos de gigantes.
 
-Huesos enormes, tan grandes como casas, medio enterrados en la nieve. Cráneos del tamaño de una iglesia, con cuernos curvos y cuencas vacías llenas de hielo. Costillas que se levantaban de la nieve como los arcos de una catedral en ruinas. Armas de piedra del tamaño de torres, clavadas en los glaciares. Una mano. Una mano entera, de piedra o de carne petrificada, saliendo de la nieve con los dedos abiertos, como la de Miquella en la llanura de las cruces. Cada dedo era más alto que Edda.
+Huesos enormes, tan grandes como casas, medio enterrados en la nieve. Cráneos del tamaño de una iglesia, con cuernos curvos y cuencas vacías llenas de hielo. Costillas que se levantaban de la nieve como los arcos de una catedral en ruinas. Armas de piedra del tamaño de torres, clavadas en los glaciares. Una mano. Una mano entera, de piedra o de carne petrificada, saliendo de la nieve con los dedos abiertos hacia arriba, como el brazo marchito del capullo de Mohgwyn. Cada dedo era más alto que Edda.
 
 —Aquí vivían —dijo Melina, deteniéndose junto a un cráneo que sobresalía de la nieve—. Los gigantes del fuego. Antes de que mi madre llegara.
 
@@ -260,7 +254,7 @@ Una piedra de colores.
 
 La sostuvo en la palma hasta que se le entumecieron los dedos. _Le prometí que volvería para la cosecha. Le prometí que le traería una piedra de colores._
 
-La decimosexta.
+La undécima.
 
 No la guardó en la bolsa con las otras. La guardó aparte. En el bolsillo de dentro de la capa, junto a la azul.
 
@@ -346,7 +340,7 @@ La luz amarilla se encendió en sus ojos y ya no se apagó.
 
 Corhyn sonrió. Y no era su sonrisa.
 
-—_Hola, Sinluz_ —dijo, con una voz que no era la suya. Una voz suave, cálida, razonable—. _Cuánto tiempo. Desde la puerta de abajo. Desde la casa de Midra. Desde el jardín de oro. Siempre estás a punto. Siempre casi._
+—_Hola, Sinluz_ —dijo, con una voz que no era la suya. Una voz suave, cálida, razonable—. _Cuánto tiempo. Desde la puerta de abajo. Desde las uvas de la muchacha ciega. Siempre estás a punto. Siempre casi._
 
 Edda soltó la mano.
 
@@ -394,9 +388,9 @@ _Aunque mintiera. Ayudó._
 
 ---
 
-Esa noche acamparon en un refugio de piedra, junto a los huesos de un gigante. Hacía tanto frío que la serpiente roja se metió dentro de la capa de Edda, contra el pecho, y no quiso salir.
+Esa noche acamparon en un refugio de piedra, junto a los huesos de un gigante. Hacía tanto frío que Edda se metió las manos dentro de la capa, contra el pecho, y no quiso sacarlas.
 
-Melina estuvo callada hasta que la serpiente asomó otra vez la cabeza. Luego habló.
+Melina estuvo callada mucho rato. Luego habló.
 
 —Eso que te dijo. Shabriri. Que siempre vuelve.
 
@@ -404,7 +398,7 @@ Melina estuvo callada hasta que la serpiente asomó otra vez la cabeza. Luego ha
 
 —Es verdad. —Melina se abrazó las rodillas—. La llama no muere. Solo se apaga en un sitio y se enciende en otro. Mientras haya sufrimiento, tendrá dónde arder. —Hizo una pausa—. La noto. Desde que bajamos a la puerta, bajo la capital. Aquí. —Se tocó el ojo cerrado—. A veces se enciende. Sin que yo quiera. Como una brasa a la que alguien sopla.
 
-Edda la miró. Pensó en Midra. _Vigila qué luz le sale del ojo cuando llegue el momento._
+Edda la miró. Pensó en Enia, en la Mesa Redonda, con sus ojos blancos: _Hay otra llama. Amarilla. Si alguna vez la ves en alguien…_
 
 —¿De qué color?
 

@@ -18,7 +18,7 @@ Edda lo supo sin que nadie se lo dijera, como había sabido tantas cosas en aque
 
 Ahora, con el cuerpo roto, había salido.
 
-Era inmensa. Más grande que Bayle, que Placidusax, que la Madre de los Dedos. Una criatura de luz dorada, translúcida, con forma de serpiente, o de pez, o de dragón, o de las tres cosas a la vez, con aletas larguísimas como velos que flotaban en el aire sin peso. Su cuerpo no era carne ni escamas: era un cielo. Un cielo de noche, oscuro, lleno de galaxias que giraban despacio dentro de ella, de nebulosas de colores, de estrellas que nacían y morían en un instante. Y dentro, flotando entre las galaxias, girando, brillando, se veían runas. Las runas del Anillo. Cada una una ley. Cada una una forma de que las cosas fueran como eran.
+Era inmensa. Más grande que Placidusax, que Rykard, que el Gigante de Fuego. Una criatura de luz dorada, translúcida, con forma de serpiente, o de pez, o de dragón, o de las tres cosas a la vez, con aletas larguísimas como velos que flotaban en el aire sin peso. Su cuerpo no era carne ni escamas: era un cielo. Un cielo de noche, oscuro, lleno de galaxias que giraban despacio dentro de ella, de nebulosas de colores, de estrellas que nacían y morían en un instante. Y dentro, flotando entre las galaxias, girando, brillando, se veían runas. Las runas del Anillo. Cada una una ley. Cada una una forma de que las cosas fueran como eran.
 
 Y en su centro, en lo que podría haber sido su corazón, había una espada.
 
@@ -80,11 +80,11 @@ Pensó en Millicent, sentada contra la rama del puente del Árbol Hierático. _G
 
 Pensó en Alejandro, partiéndose como un héroe. _Y que lo abrazaron antes. Eso también._
 
-En Ansbach, cerrando los ojos en un escalón de Enir-Ilim. _Ya no la siento. Qué tranquilidad._
+En Loretta, bajando la guardia al tercer giro de la alabarda, en la orilla de un lago rojo. _Has aprendido lo del codo. Buena chica._
 
-En Igon, diciéndole los nombres de su mujer y de sus hijos. _Maren, Tobias y Lena. Alguien más los sabe._
+En Malenia, con la mano de carne sobre la suya. _No me lo digas. Así puedo hacer como que no lo sé._
 
-En Rellana bajando las espadas. En Messmer pidiendo una mano. En Gaius cayéndose del jabalí de risa. En Midra, separado, con su nombre. En Fia tumbada junto a su príncipe. En Morgott, _ya no es uno, ahora son dos_.
+En Radahn cayendo en las dunas. En Mohg preguntando por qué no le leía nadie. En Fia tumbada junto a su príncipe. En Morgott, _ya no es uno, ahora son dos_.
 
 En todos los que habían muerto para que ella llegara hasta allí. En todos los que le habían dado algo para que lo llevara. En todos los que habían dicho _dile_.
 
@@ -182,7 +182,7 @@ Estaba tumbada en el suelo dorado, rota en pedazos, como una estatua que se ha c
 
 Tenía los ojos cerrados.
 
-A su lado, en el suelo, estaban la caja de cartas de Messmer, abierta. Las dos piedras grises de Godfrey. La carta de Godwyn con las letras grandes hacia arriba. Y un martillo, el de Radagon, partido por la mitad.
+A su lado, en el suelo, estaban las dos piedras grises de Godfrey. La carta de Godwyn con las letras grandes hacia arriba. Y un martillo, el de Radagon, partido por la mitad.
 
 La estatua de oro de Radagon ya no estaba. Se había deshecho.
 
@@ -192,7 +192,7 @@ Alrededor de Marika, flotando en el aire pálido, despacio, como hojas que el vi
 
 Edda se acercó.
 
-Le temblaban las piernas. Se arrodilló junto a la reina rota. Le tomó la mano. La que le quedaba entera, la izquierda, la del hombro roto, la que había tocado una hoja del brote.
+Le temblaban las piernas. Se arrodilló junto a la reina rota. Le tomó la mano. La que le quedaba entera, la izquierda, la del hombro roto, la que había alargado hacia ella entre las zarzas.
 
 Estaba fría. Pero no tanto como esperaba.
 
@@ -262,7 +262,7 @@ Edda miró los fragmentos. Los sintió. Sintió su poder, su peso, su llamada. S
 
 _¿Y ahora qué?_
 
-Pensó en Godrick, injertándose brazos para que lo vieran. En Morgott defendiendo un árbol que lo rechazaba. En Rykard queriendo comerse a los dioses. En Miquella queriendo que todos lo amaran. En Midra sujetando la llama de todos para que no ardieran. En Marika rompiendo el Anillo con un martillo porque no sabía cómo decirles a sus hijos que los quería.
+Pensó en Godrick, injertándose brazos para que lo vieran. En Morgott defendiendo un árbol que lo rechazaba. En Rykard queriendo comerse a los dioses. En un niño dorado que se había ido dejando un brazo seco en un capullo, para que todos lo amaran. En Marika rompiendo el Anillo con un martillo porque no sabía cómo decirles a sus hijos que los quería.
 
 Todos habían querido hacer el mundo mejor. Todos lo habían hecho peor.
 
@@ -320,9 +320,11 @@ Y llamó.
 
 La reina no vio llegar a la princesa.
 
-Se le cerraron los ojos antes. Despacio, como se cierran las flores al anochecer. Su mano, la izquierda, la rota, se quedó en el suelo dorado, abierta, con la palma hacia arriba. Y en la palma, sin que Edda supiera cómo había llegado allí, había una hoja. Pequeña. Verde. Una de las siete del brote de la bolsa del cuello.
+Se le cerraron los ojos antes. Despacio, como se cierran las flores al anochecer. Su mano, la izquierda, la rota, se quedó en el suelo dorado, abierta, con la palma hacia arriba. Y en la palma, sin que Edda supiera cómo había llegado allí, había una hoja. Pequeña. Verde. Tierna. Como la de un brote que acaba de salir de la tierra.
 
-Edda se llevó la mano a la bolsa. La abrió. El brote tenía seis hojas. Le faltaba una.
+En el interior quemado de un árbol que no había dado una hoja verde en eras.
+
+Edda se quedó mirándola. No la tocó. No supo por qué, pero no la tocó.
 
 La que Marika había tocado.
 

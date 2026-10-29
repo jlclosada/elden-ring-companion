@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from 'react'
 import { Link, useNavigate, useParams } from 'react-router-dom'
 import { ArrowLeft, ArrowRight, List, Minus, Plus, X } from 'lucide-react'
-import { BOOKS, CHAPTERS, NOVEL_TITLE, chapterExists, loadChapter, parseChapter, type Block } from '../content/novela'
+import { BOOKS, CHAPTERS, VOLUMES, NOVEL_TITLE, chapterExists, loadChapter, parseChapter, type Block } from '../content/novela'
 import { cx } from '../components/ui'
 import { numeroEnLetras } from '../content/novela/edicion'
 
@@ -154,6 +154,11 @@ export function TableOfContents({ current, onPick }: { current?: string; onPick?
     <div className="space-y-5">
       {BOOKS.map((b) => (
         <div key={b.n}>
+          {VOLUMES.find((v) => v.parts[0] === b.n) && (
+            <div className="mb-3 mt-2 border-b border-gold-500/20 pb-1 font-display text-sm text-gold-300">
+              {VOLUMES.find((v) => v.parts[0] === b.n)!.title} · {VOLUMES.find((v) => v.parts[0] === b.n)!.name}
+            </div>
+          )}
           <div className="mb-1.5 text-[10px] font-semibold uppercase tracking-[0.25em] text-gold-500">{b.title} · {b.name}</div>
           <ol className="space-y-0.5">
             {CHAPTERS.map((c, i) => ({ c, i })).filter(({ c }) => c.book === b.n).map(({ c, i }) => (

@@ -238,15 +238,89 @@ Leda la miró. Los ojos azules estaban limpios. Por primera vez desde que la con
 
 —Tenía doce años —dijo Leda—. Cuando lo vi por primera vez. En su cuarto. Con la luna de cristal en la ventana. Me sonrió. —Se le escapó una lágrima—. Y desde entonces no he vuelto a sentir otra cosa. Nada. Nada más que eso.
 
-—¿Era mío? —Leda le apretó la mano—. Lo que sentía. ¿Era mío?
+Se quedó callada un momento. Respiraba con dificultad.
 
-—No lo sé —dijo al fin—. Pero la niña de doce años que se quedó mirando la luna de cristal sí era tuya.
+—Una vez sí —dijo al fin, más bajo—. Una vez sentí otra cosa. Hace mucho. Antes de esta tierra. Había un hombre… un general, con un mechón dorado y dos espadas. Me preguntó qué quería. Nadie me lo había preguntado nunca. —Se le escapó una risa rota—. Me dio un mes para pensarlo. Me hizo una de sus nueve. Me dijo que si alguna vez el niño me pedía darles la espalda a los que no tienen a nadie, no lo hiciera. Sobre todo si me lo pedía él.
 
-Leda la miró. Luego, despacio, sonrió. Una sonrisa pequeña, sorprendida, de niña.
+—¿Y qué pasó?
+
+—Que se apartó. En Aeonia. Delante de todos. —Leda cerró los ojos—. Fue el único que pudo. Y yo lo seguí. Un tiempo. Hasta una ciudad debajo de la tierra, con un cielo falso de cristales. —Le tembló la boca—. Lo vi arrodillarse en una plaza. Entre dos niños. Una niña le apretaba la mano tan fuerte que se le ponían blancos los nudillos. Y le dio su alma a la noche para que dejaran de arder. Y me quedé sola, y no supe qué hacer. —Abrió los ojos—. Así que volví. Con el niño. Porque era lo único que sabía hacer.
+
+Edda no dijo nada. La escama del cuello le quemaba como si fuera a atravesarle la piel.
+
+Y en ese momento, por encima de la plaza, sin una nube en el cielo plateado, retumbó un trueno.
+
+---
+
+Leda lo oyó.
+
+Volvió la cabeza, despacio, hacia la escalinata de bajada, la que venía de la puerta de raíces y de la ciudad vacía. Edda se volvió con ella.
+
+Subían dos personas. Una mujer de pelo blanco recogido en una trenza, con una túnica azul y dos espadas al cinto, una de hoja azul y otra dorada. Y a su lado, un hombre enorme, con una túnica gris de los Cornudos que le estaba pequeña y los brazos llenos de cicatrices de rayo, y un mechón dorado en la frente pegado por el sudor de tres días de escalera.
+
+Llovía sobre ellos. Una franja estrecha de lluvia dorada que los seguía escalón a escalón.
+
+—Te oí respirar —dijo Lynx, cuando llegó arriba, sin aliento, mirando a Edda—. Desde la mitad del tronco. En dos veces. Como un perro.
+
+Edda no pudo contestar. Se le había llenado la cara de lágrimas sin darse cuenta.
+
+Leda lo miraba.
+
+Lo miraba con los ojos azules muy abiertos, desde el suelo, de rodillas, con la espada de Ansbach todavía dentro del costado. Y en su cara, que había sido severa toda la vida, que no había sonreído casi nunca, apareció algo que Edda no le había visto: una sorpresa absoluta, limpia, de niña.
+
+—Ya me he muerto —dijo—. Estoy viéndolo. Ya me he muerto.
+
+Lynx se arrodilló a su lado. Tuvo que doblarse mucho para quedar a su altura. Se sentó en el suelo, frente a ella, como se había sentado una noche en una sala alta del Árbol Hierático.
+
+—No, Leda. Todavía no.
+
+—Mi señor. —A Leda se le doblaron los labios—. Mi general. Diste el alma. Te vi. En la plaza de los Nox. No se vuelve de eso. No se vuelve.
+
+—Me dijiste en el palacio de la sangre que todos vuelven. —Lynx le cogió la mano, la que no apretaba la de Edda—. Se lo dijiste a ella. Me lo ha contado.
+
+—Lo decía por él.
+
+—Ya. —Lynx sonrió apenas—. Pero era verdad igual.
+
+Leda se quedó mirándolo. Luego miró a Rellana, de pie detrás de él, con la mano en la boca. Luego a Edda. Y otra vez a él.
+
+—¿Era mío? —Le apretó la mano a Lynx, no a Edda—. Lo que sentía por él. ¿Era mío?
+
+Lynx tardó en contestar.
+
+—Lo que sentías por él no lo sé —dijo al fin—. Eso solo lo sabes tú. Pero que vinieras a la plaza la noche del solsticio, con la aguja y la capa blanca, después de pensarlo un mes sola en lo alto de una rama… eso fue tuyo. Te lo vi elegir. Y que subieras conmigo a la nieve, y que me siguieras hasta debajo de la tierra… eso también.
+
+Leda cerró los ojos.
+
+—Quería aprender lo que él no podía enseñarme —murmuró.
+
+—Lo aprendiste. Un tiempo.
+
+—Se me olvidó.
+
+—A mí se me olvidó todo —dijo Lynx—. Siglos. Hasta mi nombre. Y alguien me lo trajo. —Le apretó la mano—. Las cosas que se aprenden de verdad no se pierden, Leda. Se esconden. Están en las manos.
+
+Leda abrió los ojos una última vez. Miró a Lynx. Luego, despacio, bajó la vista hacia la mano de Edda, que le seguía apretando la otra. Y frunció el ceño, como quien ve algo que no esperaba en un sitio que conocía.
+
+—La niña —dijo—. La de la plaza. Te apretaba la mano así. Igual. Con los nudillos blancos.
+
+Lynx se quedó inmóvil.
+
+—¿Qué niña?
+
+Pero Leda ya no contestó. Sonrió. Una sonrisa pequeña, sorprendida, de niña.
 
 —La luna era azul —dijo—. Me acuerdo. Era muy bonita.
 
-Y se dejó caer hacia delante, contra el hombro de Edda.
+Y se dejó caer hacia delante, contra el pecho de su general.
+
+---
+
+Lynx se quedó sentado en las losas, con la caballera muerta contra el pecho, sin moverse. No lloraba. Tenía los ojos abiertos, fijos en el aire, y una mano se le había ido sola a la cicatriz redonda del pecho, debajo de la túnica, y la apretaba.
+
+Rellana se había arrodillado a su lado. Tenía la cara blanca. Y la mano en el vientre.
+
+Ninguno de los dos dijo nada. Pero Edda los vio mirarse, una sola vez, por encima del pelo rubio de Leda, y en esa mirada había dos huecos, uno frente a otro, con la misma forma.
 
 ---
 
@@ -260,7 +334,7 @@ Ansbach seguía de pie. Con la aguja de Leda clavada en el pecho. Apoyado en una
 
 —Llevo siglos sangrando. —Ansbach intentó sonreír—. Es lo que hace la sangre maldita. Sangra. —Se sentó, despacio, con la espalda contra la columna—. Sube. Freyja, sube con ella. Yo os sigo en un rato. Solo necesito… descansar un poco.
 
-Freyja miró a Edda. Edda miró a Ansbach.
+Freyja miró a Edda. Edda miró a Ansbach. Y luego a Lynx, sentado en el suelo con Leda en brazos, que levantó la vista y asintió una vez: _ve, yo me quedo_.
 
 No quería dejarlo. Pero la luz dorada caía por la escalinata, y la sentía, y sabía que si no subía ahora, el perfume la alcanzaría allí abajo.
 
@@ -298,7 +372,23 @@ Edda le apretó la mano.
 
 —Se lo diré.
 
-Ansbach asintió despacio. Luego miró hacia arriba. Hacia la luz dorada.
+Ansbach asintió despacio. Luego volvió la cabeza, con mucho esfuerzo, hacia el hombre enorme sentado en las losas con la caballera muerta en brazos.
+
+—Tú eres el que se apartó —dijo—. En Aeonia. Leda me lo contaba. Al principio, cuando aún hablaba de otra cosa que no fuera él.
+
+—Soy yo —dijo Lynx.
+
+—Mi señor no supo. —Ansbach cerró los ojos un momento—. Tú sí. ¿Cómo?
+
+Lynx tardó en contestar.
+
+—Tenía a alguien esperándome en un lago —dijo al fin—. Es difícil amar a un niño dorado por encima de todo cuando ya hay alguien por encima de todo.
+
+Ansbach sonrió.
+
+—Mi señor no tenía a nadie —dijo—. Ese fue el problema. Siempre fue ese.
+
+Luego miró hacia arriba. Hacia la luz dorada.
 
 —Ya no la siento —dijo, con una sonrisa de alivio—. El perfume. Ya no llega. —Cerró los ojos—. Qué tranquilidad.
 
@@ -356,13 +446,27 @@ Freyja asintió. No dijo nada más. Se quedó mirando la puerta abierta, de la q
 
 —Contigo. —Freyja la miró—. Pero no voy a mirarle a los ojos. Voy a mirarte a ti. A la espalda. Como se mira a la compañera en los fosos de lucha. —Se le escapó una sonrisa cansada—. Las de las Tierras Áridas nos cubrimos la espalda.
 
+Lynx y Rellana subieron detrás de ella. Habían dejado a Leda junto a Ansbach, al pie de la columna, con la aguja sobre el pecho y las manos cruzadas encima, como se deja a alguien que duerme.
+
+—No tenéis por qué entrar —les dijo Edda—. No es vuestra guerra.
+
+—Me aparté de él una vez —dijo Lynx—. Delante de ochocientos mil. Puedo apartarme otra. —Miró la luz dorada que salía por la puerta, y no se le movió nada en la cara—. Y ahí dentro hay alguien a quien enseñé a levantarse del suelo. Si lo han puesto a luchar contra ti, quiero estar delante.
+
+—¿Radahn?
+
+—Gaius te lo dijo, ¿no? —Lynx casi sonrió—. Que se levantaba más rápido con ocho años. Se lo enseñé yo.
+
+Rellana no dijo nada. Se colocó al lado de Freyja, detrás de Edda, con una mano en cada empuñadura, y le guiñó un ojo a la gladiadora como se guiña a una compañera de foso.
+
+—Las de Caria también cubrimos espaldas —dijo.
+
 Edda se tocó el cuello. La serpiente roja estaba despierta, con la cabeza levantada, mirando la luz.
 
 Se tocó la bolsa del cuello. El brote. Cuatro hojas.
 
 Se tocó el bolsillo de dentro. La piedra azul. La nota. El colgante de Fia. Los nombres de la familia de Midra.
 
-Se tocó la bolsa del cinturón. Quince piedras.
+Se tocó la bolsa del cinturón. Veintitrés piedras.
 
 —Vamos —dijo.
 

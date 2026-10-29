@@ -651,6 +651,12 @@ export const CHARACTERS: LoreCharacter[] = [
     bio: 'Hijo amado de Marika y Godfrey. Su alma murió en la Noche de los Cuchillos Negros y su cuerpo se convirtió en el Príncipe de la Muerte.',
   },
   {
+    id: 'lynx',
+    name: 'Lynx',
+    title: 'Hijo del rayo, general de Caria y del Árbol Hierático',
+    bio: 'Hijo secreto de Godwyn y la dragona Lansseax, criado por Rennala como pupilo de la casa de la luna. Fue la Espada de Rennala, maestro de Radahn y amor de Rellana. Destruyó a la Reina de los Ojos Velados, fundó Andrax y fue general absoluto del Árbol Hierático. Se apartó de Miquella en Aeonia y dio su alma a la noche en Nokstella para salvar a sus hijos, Aldren y Nyra. Su alma cayó como una estrella en la Tierra de las Sombras, donde vivió siglos sin memoria protegiendo a los Cornudos. Allí lo reencontraron Edda, que resultó ser su hija Nyra, y la mitad de Rellana que guardaba Castillo Ensis. Recuperó sus recuerdos, luchó contra Radahn en Enir-Ilim y volvió al mundo cuando se apagó la última brasa de Marika.',
+  },
+  {
     id: 'morgott',
     name: 'Morgott',
     title: 'El Rey Augurio',
@@ -675,7 +681,7 @@ export const CHARACTERS: LoreCharacter[] = [
     id: 'rellana',
     name: 'Rellana',
     title: 'Caballero de las Lunas Gemelas',
-    bio: 'Gemela de Rennala. Siguió a Messmer a la Tierra de las Sombras y vigila desde el Castillo Ensis.',
+    bio: 'Gemela de Rennala y amor de toda la vida de Lynx, con quien se casó en la Iglesia de los Votos. Su juramento la partió en dos: una mitad guardó Castillo Ensis para Messmer, que la amó sin ser correspondido, y la otra murió defendiendo el puente del sur después de dar a luz a Aldren y Nyra. En la Tierra de las Sombras, la mitad que quedaba reconoció a Lynx por las manos y recuperó los recuerdos de las dos.',
     portrait: R('items', 'Remembrance of the Twin Moon Knight'),
     dlc: true,
   },

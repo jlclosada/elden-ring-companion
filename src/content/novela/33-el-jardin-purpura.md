@@ -216,7 +216,7 @@ Edda se acercó al lirio de la orilla. Luego, con el cuchillo, hizo un corte peq
 
 No cortó la flor. La dejó allí, junto al lago, donde el caballero la había guardado.
 
-Antes de irse, se agachó y recogió del fondo de la orilla una piedra: negra, lisa, pulida por el agua, con una veta morada en el centro, como un pétalo atrapado. La duodécima.
+Antes de irse, se agachó y recogió del fondo de la orilla una piedra: negra, lisa, pulida por el agua, con una veta morada en el centro, como un pétalo atrapado. La vigésima.
 
 ---
 
@@ -236,7 +236,7 @@ El envenenador la miró. Tenía los ojos enrojecidos, hundidos, pero tranquilos 
 
 —No lo sé —dijo—. No me importa. —Miró la estatua—. Ciento doce caras. Las he contado cada noche durante veinte años. Quiero dejar de contarlas. —Se volvió hacia Edda—. ¿Tú no quieres dejar de contar algo?
 
-Edda se tocó la bolsa del cinturón. Las piedras de Arn. Doce.
+Edda se tocó la bolsa del cinturón. Las piedras de Arn. Veinte.
 
 No contestó.
 
@@ -386,7 +386,7 @@ Edda se sentó. Se quedó mirando la estatua. La muchacha de piedra con los ojos
 
 Le pareció, aunque nunca estuvo segura, que tenía un arañazo pequeño en la rodilla. Que antes no estaba.
 
-Se tocó el bolsillo de dentro de la capa. La piedra azul. La nota. El colgante de Fia. Se tocó la bolsa del cuello. El brote de la tinaja. Se tocó la bolsa del cinturón. Doce piedras.
+Se tocó el bolsillo de dentro de la capa. La piedra azul. La nota. El colgante de Fia. Se tocó la bolsa del cuello. El brote de la tinaja. Se tocó la bolsa del cinturón. Veinte piedras.
 
 No sabía si el sueño era verdad. Nunca lo sabría.
 

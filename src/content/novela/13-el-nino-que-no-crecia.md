@@ -368,15 +368,7 @@ Alrededor del árbol se refugiaron los que nadie quería.
 
 Llegaron poco a poco, durante años, siguiendo rumores, siguiendo sueños con nenúfares lila. Los Malnacidos que habían escapado de la esclavitud de las canteras. Los albinaúricos perseguidos por los inquisidores de Rykard. Los deformes, los proscritos, los olvidados. Orsa, la herrera con cara de oso, llegó el segundo año y montó una forja junto a las raíces. Hesper, la muchacha de las cocinas, llegó el tercero con otras siete soñadoras de Trina.
 
-Una caballera de Caria, Loretta, ya veterana y con canas en el pelo, abandonó su servicio en la mansión de la luna y fundó en las ramas del árbol un santuario para los albinaúricos. Llegó una tarde de primavera, sola, con su alabarda al hombro, y se arrodilló ante Miquella en la plaza de Elphael.
-
-—Serví a una reina que cantaba —dijo—. Ahora solo canta a un huevo que no va a nacer. Necesito servir a alguien que todavía quiera algo.
-
-Miquella la miró.
-
-—Yo quiero muchas cosas —dijo.
-
-—Por eso he venido.
+Y un invierno, años después, llegó un ejército entero, por el campo de nieve consagrada, con miles de estandartes de un dragón de plata atravesado por un rayo. Pero esa historia merece contarse aparte.
 
 Los caballeros del Árbol Hierático se trenzaban coronas de oro sin alear y juraban defender a Miquella con su vida. La primera en jurar fue una mujer alta, de hombros anchos y rostro severo, una antigua soldado de la guardia de la capital que había seguido a Malenia hasta el norte después de verla bailar su danza de acero en un torneo. Se llamaba Finlay. Juró arrodillada en la nieve, con la lanza ante sí, y cuando Malenia le preguntó por qué, Finlay se quitó el yelmo, que no se quitaba nunca.
 

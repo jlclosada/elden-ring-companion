@@ -320,9 +320,9 @@ A Edda se le llenaron los ojos de lágrimas sin saber por qué.
 
 —_¿La conoces?_ —preguntó la voz—. _¿Sabes dónde está mi niña?_
 
-Edda pensó en la estatua de la Capilla, al principio de todo. En la estatua de Radagon en Leyndell, con la misma cara. En las espinas de la entrada del Árbol, con manchas oscuras en las puntas. En Morgott diciendo _se encerró dentro y no ha vuelto a salir_.
+Edda pensó en la estatua de la Capilla, al principio de todo. En la estatua de Radagon en Leyndell, con la misma cara. En las espinas de la entrada del Árbol, con manchas oscuras en las puntas. En Morgott diciendo _se encerró dentro y no ha vuelto a salir_. En una cruz de zarzas vacía, en lo alto de una ciudad de ceniza, y una mujer rota en el suelo que gritaba como una niña.
 
-—Sé dónde está —dijo—. Está dentro de un árbol. Muy lejos. Encerrada. Sola.
+—Sé dónde está —dijo—. Estaba dentro de un árbol. El árbol ha ardido. Lo quemé yo. —Tragó saliva—. Y ella sigue allí, en lo que queda. Rota. Tendida en el suelo, entre las zarzas rotas. Con una brasa encendida en el pecho. Sola.
 
 —_Sola_ —repitió la voz.
 
@@ -338,7 +338,7 @@ Edda cerró los ojos.
 
 —_¿Podrías?_
 
-—No lo sé. —Edda abrió los ojos—. Puede que llegue hasta ella. Puede que no. No depende de mí.
+—No lo sé. —Edda abrió los ojos—. Puede que vuelva a llegar hasta ella. Puede que la brasa se apague antes. No depende de mí.
 
 La voz se rio. Una risa muy suave, muy breve, como la de una mujer joven en un bosque.
 
@@ -372,7 +372,7 @@ La anciana se levantó despacio. Se acercó, apoyándose en el bastón. Se asom�
 
 Yalda la miró.
 
-—Llévatela —dijo—. Llévasela a su hija. Si llegas. —Hizo una pausa—. Y si no llegas, plántala en algún sitio donde haya sol. Aquí no hay sol. Nunca lo ha habido. —Miró el cielo plateado, sin sombras—. Una chamana necesita sol.
+—Llévatela —dijo—. Llévasela a su hija. Si la brasa aguanta. —Hizo una pausa—. Y si no llegas, plántala en algún sitio donde haya sol. Aquí no hay sol. Nunca lo ha habido. —Miró el cielo plateado, sin sombras—. Una chamana necesita sol.
 
 Edda metió las manos en la tinaja. Cogió el brote con la tierra alrededor, con mucho cuidado, con las dos manos juntas, como se coge agua. La tierra estaba tibia. Las raíces del brote eran finas como pelos y se le enredaron en los dedos.
 

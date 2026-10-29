@@ -282,6 +282,8 @@ Jerren se lo contó. No de golpe, como se cuentan las leyendas, sino a trozos, c
 
 —Se llamaba Leonard —dijo Jerren—. El caballo. Un nombre ridículo. Se lo puso él con seis años. Cuando creció y el caballo ya no podía con su peso, todo el mundo le dijo que se buscara otro. Uno de guerra. Un percherón. Y él se fue a Sellia, a la ciudad de la hechicería, y se pasó cinco años estudiando la magia de la gravedad con un maestro de alabastro. Cinco años. Solo para poder seguir montando a Leonard sin aplastarlo. —Jerren se rio, y la risa se le quebró—. ¿Te imaginas? El guerrero más grande de su época, estudiando cinco años con libros por un caballo flaco.
 
+»Y antes de Sellia —siguió Jerren, sin esperar respuesta— tuvo otro maestro. Uno de verdad. Un general de Caria, enorme, con un mechón dorado en la frente, que lo entrenó cada mañana en el patio de la mansión desde que tenía seis años. —El viejo se quedó mirando el fuego—. Radahn decía que era el único hombre del mundo capaz de tirar al lago a un Señor de Elden. Y que lo difícil, le había enseñado, era ayudarlo a salir. —Se le quebró la voz—. En Aeonia vinieron los dos, frente a frente. Maestro y alumno. Pelearon dos horas y ninguno ganó. Y luego el maestro envainó, le tendió la mano y se fue andando entre los dos ejércitos. Radahn lo abrazó antes de dejarlo ir. Fue lo último que hizo antes de la flor que tenía algo de él todavía.
+
 —Su madre me lo dijo —dijo Edda—. Que le gustaban los caballos pequeños.
 
 Jerren se volvió hacia ella de golpe.

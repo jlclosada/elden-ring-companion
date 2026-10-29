@@ -34,7 +34,7 @@ Melina asintió. Se acurrucó contra ella, bajo la capa gris. No dijo nada más.
 
 Edda vio al gigante desde lejos, al quinto día, al llegar a lo alto del último glaciar.
 
-Una figura enorme, sentada en el borde de una plataforma de roca negra, de espaldas a ella, mirando hacia el sur. Como una montaña que respira. Era más grande que nada que hubiera visto nunca. Más que Rykard enroscado sobre su lago de lava. Más que el dragón muerto de Godrick. Más que Bayle en su pico. Más que los huesos de gigante que sobresalían de la nieve en todas las cumbres.
+Una figura enorme, sentada en el borde de una plataforma de roca negra, de espaldas a ella, mirando hacia el sur. Como una montaña que respira. Era más grande que nada que hubiera visto nunca. Más que Rykard enroscado sobre su lago de lava. Más que el dragón muerto de Godrick. Más que los huesos de gigante que sobresalían de la nieve en todas las cumbres.
 
 Tenía la piel de color ceniza, agrietada como la tierra en verano, y en las grietas brillaba una luz naranja, como la de las brasas. Su pelo era de fuego: llamas lentas, rojas, que le caían por la espalda y se movían con un viento que soplaba hacia arriba. Tenía una barba roja, larguísima, trenzada, y en la trenza, colgando, había cuentas. Cuentas de hierro, gruesas, cada una del tamaño de la cabeza de Edda, pulidas, brillantes.
 
@@ -48,7 +48,7 @@ Pensó en Iji, en la torre de Ranni, junto a la fragua apagada, tocando su colla
 
 —Desde antes del Árbol. —Melina se tocó el ojo—. Desde la guerra de los gigantes. Desde que Godfrey le cerró los ojos a su padre en un glaciar.
 
-Edda miró al gigante. Pensó en los Cornamentados de la Tierra de las Sombras, quemados por Messmer. En Isa en su tinaja de cristal. En los Nox encerrados bajo tierra con su cielo pintado. En los albinauricos sangrando en el pantano de Mohgwyn, en Latenna y su lobo en la plaza helada de Ordina. En todos los pueblos que la Orden había borrado, uno detrás de otro, para que el Árbol creciera.
+Edda miró al gigante. Pensó en los Augurios encadenados desde la cuna en las cloacas de Leyndell. En los Nox encerrados bajo tierra con su cielo pintado. En los albinauricos sangrando en el pantano de Mohgwyn, en Latenna y su lobo en la plaza helada de Ordina. En todos los pueblos que la Orden había borrado, uno detrás de otro, para que el Árbol creciera.
 
 —No quiero matarlo —dijo.
 
@@ -264,7 +264,7 @@ Edda luchó a lomos de Torrente. El caballo espiritual había aparecido al prime
 
 Y lloraba. Todo el tiempo. Edda lo veía. Las lágrimas le salían de los ojos encendidos y se evaporaban en las mejillas antes de caer.
 
-Edda le atacó en el tobillo encadenado. En la vieja herida que le habían dejado las espinas durante eras. No quería. Pero era el único sitio. Golpeó, una y otra vez, con la espada y con los fragmentos de roca brillante de Sellen y con las patadas de llama dorada de Dane, hasta que la carne de alrededor de las espinas se abrió del todo y la luz naranja salió a borbotones.
+Edda le atacó en el tobillo encadenado. En la vieja herida que le habían dejado las espinas durante eras. No quería. Pero era el único sitio. Golpeó, una y otra vez, con la espada y con los fragmentos de roca brillante de Sellen, hasta que la carne de alrededor de las espinas se abrió del todo y la luz naranja salió a borbotones.
 
 El gigante cayó de rodillas.
 
@@ -332,17 +332,15 @@ Edda se quedó arrodillada junto a la cabeza del gigante hasta que dejó de sali
 
 Luego se levantó. Fue hasta el cuerpo, tumbado de espaldas en la plataforma. Las grietas de la piel ya casi no brillaban. Solo un poco, aquí y allá, como brasas en una chimenea a medianoche. En el pecho, sobre la cara del vientre, que tenía los ojos cerrados otra vez, todavía ardía algo. Un rescoldo. Naranja. Caliente.
 
-Edda sacó de la capa el bulto de tela donde llevaba las escamas de Vyrka. Lo desenvolvió. Las cinco escamas rojas, del tamaño de una mano, con la marca curva grabada en el reverso con una garra.
+Edda recogió de la nieve, una por una, las cuentas de hierro de la barba del gigante, que se habían soltado en la pelea. Eran muchas. Grandes como puños de niño, pulidas por eras de roce.
 
-_Las he puesto en el altar porque es el único sitio de esta montaña donde arde algo_, había dicho Bayle. _Para que no estén a oscuras._
+Las colocó sobre el pecho del gigante. En círculo. Alrededor del rescoldo. Como se pone una corona a alguien que nunca la tuvo.
 
-Las colocó una a una sobre el pecho del gigante. En círculo. Alrededor del rescoldo. Como estaban en el altar del pico.
+El rescoldo se avivó. Un poco. Lo justo para que el hierro brillara naranja, como si estuviera vivo.
 
-El rescoldo se avivó. Un poco. Lo justo para que las escamas brillaran rojas, como si estuvieran vivas.
+—Para que no estés a oscuras —dijo Edda en voz alta.
 
-—Para que no estén a oscuras —dijo Edda en voz alta.
-
-Y recogió de la nieve, de entre las cuentas esparcidas, una piedra pequeña, negra, con un brillo naranja en las grietas, como una brasa que no termina de apagarse. La vigesimoprimera.
+Y recogió de la nieve, de entre las cuentas esparcidas, una piedra pequeña, negra, con un brillo naranja en las grietas, como una brasa que no termina de apagarse. La decimosexta.
 
 ---
 
@@ -380,7 +378,7 @@ Melina miró la llama por encima del hombro. —De mi madre —dijo al fin—. H
 
 Melina no contestó. Pero tampoco lo negó.
 
-—Me cantó la nana antes —dijo—. La de la tinaja. La de mi abuela. Antes de decírmelo. Me la cantó entera. —Se le escaparon las lágrimas—. Es la única vez que me habló. La única vez que me cantó. Al pie del Árbol cuando nací, y desde dentro del Árbol cuando me dio la misión. Dos veces. Nada más.
+—Me cantó la nana antes —dijo—. La de la fuente seca. La que me salió sola. Antes de decírmelo. Me la cantó entera. —Se le escaparon las lágrimas—. Es la única vez que me habló. La única vez que me cantó. Al pie del Árbol cuando nací, y desde dentro del Árbol cuando me dio la misión. Dos veces. Nada más.
 
 Edda no dijo nada. Se acercó. Le cogió la mano.
 
@@ -400,7 +398,7 @@ Melina la miró.
 
 Edda se quedó inmóvil.
 
-—Midra me dijo que hay dos —siguió Melina—. Me lo contaste. Uno que quema para que crezca otra cosa. Otro que quema para que no crezca nada. Que al principio se parecen. Que solo se distinguen por la luz. Yo no puedo verme el ojo, Edda. Tú sí. —Hizo una pausa—. Cuando entre en la llama, mírame. Y dime qué color es.
+—Hyetta te lo dijo en la puerta de abajo, que hay dos —siguió Melina—. Me lo contaste. Uno que quema para que crezca otra cosa. Otro que quema para que no crezca nada. Que al principio se parecen. Que solo se distinguen por la luz. Yo no puedo verme el ojo, Edda. Tú sí. —Hizo una pausa—. Cuando entre en la llama, mírame. Y dime qué color es.
 
 —Melina…
 
@@ -436,7 +434,7 @@ Edda sintió que algo se le rompía dentro.
 
 Se metió la mano en el vestido, sobre el pecho, y sacó la carta. La carta de Godwyn a Morgott. Doblada en cuatro, gastada, con las letras grandes y claras casi borradas, con la mancha de sangre negra en una esquina.
 
-—Llévasela a ella —dijo—. A nuestra madre. Si llegas. Junto con lo demás. Junto con el brote de la abuela y las cartas de Messmer. —Se la puso en la mano—. Que la lea. Que sepa que mi hermano la llevó encima toda su vida, contra el corazón. Que sepa que ya no eran uno. Que eran dos. Y que ahora…
+—Llévasela a ella —dijo—. A nuestra madre. Si llegas. Junto con lo demás. —Se la puso en la mano—. Que la lea. Que sepa que mi hermano la llevó encima toda su vida, contra el corazón. Que sepa que ya no eran uno. Que eran dos. Y que ahora…
 
 —¿Ahora?
 
@@ -446,11 +444,11 @@ Melina sonrió.
 
 ---
 
-Edda guardó la carta en el bolsillo de dentro, con todo lo demás. La piedra azul. La piedra de colores. La nota de Ranni. El colgante de Fia. Los nombres de la familia de Midra. La hoja roja de Millicent. La cuenta de hierro de Brund.
+Edda guardó la carta en el bolsillo de dentro, con todo lo demás. La piedra azul. La piedra de colores. La nota de Ranni. El colgante de Fia. La hoja roja de Millicent. La cuenta de hierro de Brund.
 
 Ya no cabía casi nada más.
 
-—Y dile otra cosa —dijo Melina—. A mi madre. —Se acercó un paso—. Dile que me sé la nana. Que me la cantó dos veces y me la aprendí. Que se la he cantado a una muñeca de trapo en una fuente seca. Y al brote de la abuela. —Se le quebró la voz—. Dile que no me hace falta que me mire. Que ya me miró alguien.
+—Y dile otra cosa —dijo Melina—. A mi madre. —Se acercó un paso—. Dile que me sé la nana. Que me la cantó dos veces y me la aprendí. Que se la he cantado a una muñeca de trapo en una fuente seca. —Se le quebró la voz—. Dile que no me hace falta que me mire. Que ya me miró alguien.
 
 —Se lo diré.
 
@@ -490,7 +488,7 @@ El ojo cerrado. El de la marca. El de la quemadura antigua. Lo abrió por primer
 
 Edda miró.
 
-Lo miró con todo lo que tenía. Con los ojos, con el pecho, con las manos que le temblaban. Pensó en Midra. En Hyetta detrás de su venda. En los ojos de Corhyn al final. En la llama de la frente de un viejo en una mansión.
+Lo miró con todo lo que tenía. Con los ojos, con el pecho, con las manos que le temblaban. Pensó en Enia. En Hyetta detrás de su venda. En los ojos de Corhyn al final.
 
 No era amarillo.
 
@@ -518,7 +516,7 @@ Primero las ramas más altas, que se encendieron como antorchas, una por una, de
 
 Edda se quedó de rodillas en la Forja, junto al yunque vacío, mirando arder el Árbol.
 
-No supo cuánto tiempo pasó allí. Horas. Quizá un día. Torrente se tumbó a su lado, como un perro. La serpiente roja se le enroscó en el cuello y no se movió. La lágrima de plata salió del frasco y se sentó a su lado, con las piernas cruzadas, con su cara, mirando también hacia el sur.
+No supo cuánto tiempo pasó allí. Horas. Quizá un día. Torrente se tumbó a su lado, como un perro. La lágrima de plata salió del frasco y se sentó a su lado, con las piernas cruzadas, con su cara, mirando también hacia el sur.
 
 Cuando por fin se levantó, la llama ya no estaba. El hueco en la roca estaba vacío, negro, frío. Solo quedaba, en el suelo, delante del yunque, algo pequeño. Edda se agachó a cogerlo.
 
@@ -532,8 +530,6 @@ No la guardó con las piedras de Arn. No la guardó en el bolsillo de dentro, qu
 
 Mucho después, cuando bajó de la montaña, se dio cuenta de una cosa.
 
-La bolsa de cuero que llevaba al cuello, la del brote de la tinaja, estaba caliente. Y cuando la abrió, el brote tenía una quinta hoja.
+La escama que llevaba al cuello, la del yelmo de Loretta, estaba caliente. Más que nunca. Como si hubiera visto el fuego y lo hubiera reconocido.
 
-Pequeña, recién desdoblada.
 
-De color ámbar.

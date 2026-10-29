@@ -10,9 +10,9 @@ Era enorme, oscuro, gris, con ramas desnudas que se abrían contra el cielo como
 
 Edda se sentó en la hierba. Se tocó el pecho, por fuera de la capa.
 
-La piedra azul seguía en el bolsillo de dentro. La nota. El colgante de Fia. Y en la bolsa del cinturón, las piedras de Arn, diez, contando el carbón. Las contó a ciegas, con los dedos, una por una, antes de levantarse. Luego buscó con la vista una gracia. Una luz dorada en la hierba. No la había.
+La piedra azul seguía en el bolsillo de dentro. La nota. El colgante de Fia. La piedra ámbar. La escama de Loretta, al cuello, caliente. Y en la bolsa del cinturón, las piedras de Arn, dieciocho, y los dos carbones. Las contó a ciegas, con los dedos, una por una, antes de levantarse. Luego buscó con la vista una gracia. Una luz dorada en la hierba. No la había.
 
-—Melina —dijo en voz alta.
+—Melina —dijo en voz alta. Por costumbre. Sabía que no iba a contestar nadie. Melina había ardido en lo alto del mundo, y el Árbol con ella.
 
 Nadie contestó.
 
@@ -23,6 +23,28 @@ Nadie contestó.
 Era una mujer joven, de pelo rubio cortado a la altura de la mandíbula, con una armadura ligera de color blanco y oro, ceñida, de placas finas como escamas, y una espada estrecha como una aguja colgada a la cintura. Tenía una cara seria, de facciones limpias, casi severas, y unos ojos azules que miraban a Edda con una intensidad que resultaba incómoda. Estaba de pie entre dos cruces, con las manos cruzadas a la espalda, como si llevara mucho rato esperando.
 
 —Leda —se presentó—. Caballera de la Aguja. Sirvo al señor Miquella.
+
+Y entonces sus ojos bajaron al cuello de Edda. A la escama.
+
+Fue muy rápido. Edda casi no lo vio. Pero lo vio: la cara seria se quedó blanca, como se queda blanca la cara de quien oye su nombre en una voz que creía muerta. Leda dio medio paso hacia ella. Se detuvo.
+
+—¿De dónde has sacado eso?
+
+—Era de mi abuela. —Edda se llevó la mano a la escama, por instinto, como se protege una herida—. Bueno. De la mujer que me crió. Murió junto a un lago rojo, con una alabarda en la mano. Se llamaba Loretta.
+
+Leda no dijo nada durante mucho rato. Miró la escama. Miró la cara de Edda. Los ojos de Edda. Algo se le movió en la mandíbula, como si apretara los dientes para no dejar salir una palabra.
+
+—La conocí —dijo al fin—. Hace mucho. Éramos… —Se interrumpió—. Servimos juntas a alguien. Antes.
+
+—¿A quién?
+
+—A alguien que se apartó. —Leda se dio la vuelta, bruscamente, hacia el Árbol Umbrío—. No importa. Ya no está.
+
+—¿Murió?
+
+—Peor —dijo Leda—. Se fue.
+
+Y no volvió a hablar de ello. Pero Edda notó, el resto de aquel día, que la caballera de la aguja la miraba cuando creía que ella no la veía. Como se mira algo que se ha perdido hace mucho y aparece de pronto en el bolsillo de otro.
 
 —¿Tú me trajiste aquí?
 
@@ -84,7 +106,7 @@ Leda no contestó. Siguió caminando.
 
 Edda se agachó junto a la cruz pequeña antes de seguir. A sus pies, entre la hierba gris, había una piedra: pequeña, plana, de un gris pálido, casi blanco, con un brillo nacarado, como el interior de una concha. La cogió. La miró un momento.
 
-No sabía si debía. Aquella tierra no era la de Arn. Nada de allí era de su mundo. Pero la guardó igual. La undécima.
+No sabía si debía. Aquella tierra no era la de Arn. Nada de allí era de su mundo. Pero la guardó igual. La decimonovena.
 
 ---
 
@@ -94,11 +116,13 @@ Leda los había reunido allí: un grupo extraño, de todas las procedencias, que
 
 Ansbach estaba entre ellos. El viejo caballero de Mohg había llegado poco después de Edda, decía Leda, y se había sentado en un rincón del fondo, con la espada sobre las rodillas y la barba blanca trenzada sobre el pecho. Levantó la vista al verla entrar.
 
-—Sinluz —dijo—. Al final has venido. Como yo.
+—Sinluz —dijo—. Al final has venido. Has tardado.
 
-—Te dije que si volvía hablaríamos.
+—Tenía un árbol que quemar.
 
-—Y no volviste. —Ansbach casi sonrió—. Viniste aquí. Que es lo mismo, supongo.
+—Lo hemos visto. —Ansbach casi sonrió—. Hace unas semanas, una noche, el cielo de esta tierra se puso rojo por el oeste, al otro lado de la sombra. Leda lloró. Yo no. —Hizo una pausa—. ¿Y la reina?
+
+—Rota. Tendida en el suelo del Árbol quemado. Con una brasa en el pecho. —Edda se sentó—. Todavía no ha terminado de apagarse.
 
 Había un caballero enorme, con una armadura de placas negras muy gastada, cubierta de abolladuras, y un yelmo con forma de cabeza de toro, de cuernos cortos, que llevaba en la mano en lugar de en la cabeza. Tenía una cara ancha, amable, de nariz rota y ojos pequeños y tristes. Se levantó para saludarla, y el banco crujió de alivio.
 
@@ -204,7 +228,7 @@ Se quedaron en silencio. La gracia crepitaba.
 
 —Llegar a Messmer —dijo el Cornudo—. Y matarlo. Con mis manos. Y después de él, a la reina. Si es que sigue viva.
 
-Edda pensó en lo que le habían contado en la Mesa Redonda. En lo que había visto en la explanada de Leyndell: la entrada del Árbol cerrada por espinas. _Mi madre lo abandonó_, había dicho Morgott. _Se encerró dentro y no ha vuelto a salir._
+Edda pensó en una mujer rota, tendida en el suelo de un árbol quemado, que había gritado como una niña escondida en los helechos. En una brasa pequeña, dorada, latiendo despacio en su pecho.
 
 No dijo nada.
 

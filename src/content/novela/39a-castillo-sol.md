@@ -28,7 +28,7 @@ Pensó en la niebla de la llanura gris, en el hombre joven de pelo dorado con la
 
 Subir al castillo les llevó todo un día.
 
-El camino era una escalera excavada en el hielo, empinada, resbaladiza, con cadenas oxidadas clavadas en la roca a un lado para agarrarse. A mitad de la subida, el viento era tan fuerte que tuvieron que esperar una hora agazapadas detrás de una roca, con la serpiente roja metida dentro de la capa de Edda chillando de frío.
+El camino era una escalera excavada en el hielo, empinada, resbaladiza, con cadenas oxidadas clavadas en la roca a un lado para agarrarse. A mitad de la subida, el viento era tan fuerte que tuvieron que esperar una hora agazapadas detrás de una roca, con las manos metidas debajo de los brazos para no perder los dedos.
 
 El castillo estaba vacío de personas. Pero no de otras cosas.
 
@@ -54,7 +54,7 @@ Y debajo, nada. El resto del pergamino estaba en blanco.
 
 En lo alto del castillo, en la plataforma de la cúpula de bronce, abierta al cielo por el centro, había un caballero.
 
-Era viejo. Más viejo que Ansbach, que Igon, que Midra. Llevaba una armadura dorada, oscurecida, abollada, cubierta de escarcha, y una capa negra raída que el viento agitaba como una bandera rota. Estaba de pie junto a un altar de piedra, en el centro de la plataforma, mirando hacia arriba, hacia el hueco de la cúpula, donde un sol pálido brillaba débilmente entre las nubes.
+Era viejo. Más viejo que Ansbach, que Jerren, que el viejo Gowry de su cabaña. Llevaba una armadura dorada, oscurecida, abollada, cubierta de escarcha, y una capa negra raída que el viento agitaba como una bandera rota. Estaba de pie junto a un altar de piedra, en el centro de la plataforma, mirando hacia arriba, hacia el hueco de la cúpula, donde un sol pálido brillaba débilmente entre las nubes.
 
 No tenía piernas. No de carne. En lugar de piernas tenía dos prótesis de hierro, gruesas, articuladas, que se hundían en la nieve de la plataforma como raíces. Estaban oxidadas. Una de ellas tenía una grieta larga que alguien había intentado soldar muchas veces.
 
@@ -120,7 +120,7 @@ Debajo había una cara viejísima, delgada, de piel curtida por el viento y el f
 
 —Miquella me dijo algo esa noche. —Niall se secó los ojos con el dorso del guantelete—. La víspera. Aquí mismo, en esta plataforma. Le pregunté si funcionaría. Me dijo que no lo sabía. Que un camino abierto no sirve de nada si nadie quiere recorrerlo. Y que a veces, cuando buscamos tanto a alguien, nos olvidamos de preguntarnos si quiere ser encontrado.
 
-Edda pensó en Miquella flotando en el jardín muerto. _Gracias por mirarme. Nadie me miraba nunca sin quererme._
+Edda pensó en el brazo marchito de Mohgwyn, con los dedos abiertos hacia arriba, y en el calor que le había subido por el pecho al acercarse. En la frase que la había hecho apartarse.
 
 —Tenía razón —dijo.
 
@@ -136,7 +136,7 @@ Edda pensó en Fia, junto a la chimenea de la Mesa Redonda, meciendo una raíz n
 
 —Fia me contó lo mismo —dijo.
 
-Niall se quedó mirándola. Luego se rio. Una carcajada enorme, ronca, que resonó en la cúpula de bronce y asustó a la serpiente roja.
+Niall se quedó mirándola. Luego se rio. Una carcajada enorme, ronca, que resonó en la cúpula de bronce y espantó a los cuervos de la cúpula.
 
 —¡La compañera! —dijo—. ¡Le contó lo de las truchas! —Se secó los ojos—. Se lo contaba a todo el mundo. Estaba orgulloso de eso. Más que de las batallas. Más que de los dragones.
 
@@ -158,11 +158,11 @@ Niall se quedó quieto un instante.
 
 —Fia lo guardaba a él —dijo—. Yo guardo la puerta. —Levantó la espada—. Y un caballero no abandona una puerta solo porque le digan que ya no hace falta. Tiene que perderla.
 
-Edda pensó en Rellana. _Si te dejara pasar, sería como decirle que he dejado de esperar._
+Edda pensó en Morgott, ante las espinas. _Alguien tenía que amarlo._
 
-Pensó en Gaius. _Un juramento es un juramento._
+Pensó en el eco de Loretta en la escalera de Caria, montando guardia sobre una casa vacía.
 
-Pensó en Messmer. _Es lo único que sé hacer._
+Pensó en Ansbach en su escalón. _Yo no sé apartarme._
 
 —Lo sé —dijo, y desenvainó.
 
@@ -178,7 +178,7 @@ Luchaban bien. Los tres. Como una sola cosa, con una coordinación perfecta, apr
 
 Edda murió dos veces.
 
-A la tercera, abrió el frasco de la lágrima. Y la serpiente roja salió de la capa y voló, chillando, hacia los espectros, y los espectros retrocedieron ante su llama pequeña, anaranjada, como habían retrocedido las sombras del bosque de Midra.
+A la tercera, abrió el frasco de la lágrima. Y la lágrima de plata salió, con su cara y su espada, y se lanzó contra los espectros, y los espectros retrocedieron, confundidos, ante dos Eddas a la vez.
 
 Cayeron primero los dos caballeros. Se deshicieron en luz dorada, despacio, con una especie de alivio. El último, la caballera que se llamaba Lise, se volvió hacia su comandante antes de desaparecer y levantó la mano, como se saluda a alguien desde lejos.
 
@@ -230,7 +230,7 @@ En el centro de la llanura había un lago helado. Y en el lago, de pie sobre el 
 
 ---
 
-Parecía joven, casi una niña, de pelo blanco y largo que le caía hasta la cintura, envuelta en un manto blanco que se confundía con la nieve. Tenía la piel tan pálida que casi era transparente, como la de Gaius, como la de los albinauricos del pantano de Mohgwyn. Las manos finas, de dedos largos, articulaciones marcadas. Y unos ojos azules muy claros, muy viejos, que contradecían todo lo demás.
+Parecía joven, casi una niña, de pelo blanco y largo que le caía hasta la cintura, envuelta en un manto blanco que se confundía con la nieve. Tenía la piel tan pálida que casi era transparente, como la de los albinauricos del pantano de Mohgwyn. Las manos finas, de dedos largos, articulaciones marcadas. Y unos ojos azules muy claros, muy viejos, que contradecían todo lo demás.
 
 Estaba de pie junto a un lobo.
 
@@ -304,7 +304,7 @@ Le cogió la mano a Edda. Tenía la mano fría, delgadísima.
 
 —Así se recuerdan las cosas —dijo—. De mano en mano. De boca en boca. Aunque no las hayas visto nunca. Aunque ya no existan.
 
-Edda pensó en Dane, en el puente. _Así se transmiten estas cosas. De mano en mano. Como un fuego pequeño._
+Edda pensó en su abuela, junto al fuego, hilando. _Así se aprenden las cosas que importan, niña. De mano en mano. Como un fuego pequeño._
 
 Pensó en el niño pelirrojo del umbral pidiéndole a su abuelo que le contara otra vez lo de la piedra.
 
@@ -322,7 +322,7 @@ Edda no tuvo corazón para despertarlos. Ni para enterrarlos.
 
 Los dejó allí. Con los suyos.
 
-Antes de irse, se agachó junto a la fuente helada y recogió una piedra pequeña de su borde: blanca, lisa, con una mancha roja en el centro, como un pez atrapado en el hielo. La decimoctava.
+Antes de irse, se agachó junto a la fuente helada y recogió una piedra pequeña de su borde: blanca, lisa, con una mancha roja en el centro, como un pez atrapado en el hielo. La decimotercera.
 
 —Wenna echaba agua a los gatos —le dijo a Melina, mientras bajaban de la ciudad—. Y en la fuente había peces rojos.
 
@@ -340,7 +340,7 @@ Un árbol inmenso, casi tan grande como el Árbol Áureo, de un dorado pálido, 
 
 Pero algo le pasaba.
 
-Su corteza estaba manchada de rojo. Manchas grandes, irregulares, como heridas, que subían por el tronco desde las raíces. Sus hojas caían. No doradas, como las del Árbol de Leyndell. Rojas. Hojas rojas que caían despacio sobre la nieve del valle y la teñían de manchas escarlatas, como sangre en un pañuelo blanco. Y en sus raíces, alrededor del tronco, crecían flores. Flores escarlatas, grandes como cabezas, que Edda conocía de Caelid y de Rauh.
+Su corteza estaba manchada de rojo. Manchas grandes, irregulares, como heridas, que subían por el tronco desde las raíces. Sus hojas caían. No doradas, como las del Árbol de Leyndell. Rojas. Hojas rojas que caían despacio sobre la nieve del valle y la teñían de manchas escarlatas, como sangre en un pañuelo blanco. Y en sus raíces, alrededor del tronco, crecían flores. Flores escarlatas, grandes como cabezas, que Edda conocía de Caelid.
 
 —El Árbol Hierático —dijo Melina—. El árbol de Miquella. Lo plantó él, de niño, con un injerto del Árbol Áureo. Para tener un hogar para los que nadie quería. Y para su hermana.
 
@@ -352,7 +352,7 @@ Edda se quedó mirando el árbol. Las hojas rojas cayendo. Las flores en las ra�
 
 Pensó en Millicent. En la aguja de oro en el hombro. En el baile en el claro frente a la iglesia de Gowry. _Entonces no soy nadie. Soy un trozo de otra._
 
-Pensó en Miquella perdiéndose en el cielo. _Dile que ya puede dejar de esperar. Que no voy a volver. Que fue una tontería._
+Pensó en el capullo vacío de Mohgwyn. En que nadie le había dicho todavía a la que esperaba allí abajo que su hermano ya no estaba en él.
 
 Luego miró hacia el otro lado, hacia el este, donde se alzaba la montaña negra, altísima, con la columna de humo rojo saliendo de la cumbre. La Forja de los Gigantes. Donde Melina iba a arder.
 

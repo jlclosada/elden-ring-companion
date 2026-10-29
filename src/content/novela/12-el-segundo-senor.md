@@ -108,31 +108,103 @@ No volvió a invocar su luna. Dejó de presidir los consejos de la Academia, de 
 
 La Academia la observó durante un tiempo. Y comprendió algo que hasta entonces no se había atrevido a pensar: que su reina no era una campeona. Que el hechizo que los había arrodillado ante ella se había roto el día en que se rompió su corazón.
 
-La rebelión empezó con una puerta cerrada.
+No se atrevieron a hacer nada. Todavía no. Mientras el general siguiera en la mansión, nadie en Raya Lucaria se atrevería a levantar un báculo contra la casa de la luna.
 
-Una mañana, cuando la caballera Loretta, capitana de la guardia real de Caria, llegó a la gran biblioteca para hacer su informe diario, encontró las puertas de bronce atrancadas desde fuera. Delante había veinte hechiceros de la Academia con los báculos de brillo en alto, y detrás de ellos, en la escalinata, el decano de Raya Lucaria, un anciano de barba azulada llamado Thops el Viejo, que no la miraba a los ojos.
+---
 
-—Apartaos —dijo Loretta. Llevaba la armadura de plata de los caballeros reales y la gran alabarda al hombro—. Vengo a ver a mi reina.
+Lynx subió a la gran biblioteca una mañana de primavera, la última.
 
-—La reina no recibe visitas —dijo el decano.
+Llevaba la armadura de general, la capa azul de Caria sobre los hombros y la espada de la noche y de la llama a la cintura. Los dos hechiceros que guardaban la puerta se apartaron sin que él tuviera que decir nada. Dentro, la sala circular estaba en penumbra, con las cortinas echadas y las velas a medio consumir. En el centro, flotando a un palmo del suelo, la reina mecía el huevo de ámbar y cantaba.
 
-—Eso lo decidirá ella.
+Lynx se quedó de pie ante ella.
 
-—Ya no, capitana. —El anciano levantó por fin la vista. Tenía los ojos húmedos—. Lo siento. De verdad lo siento. Pero la Academia no puede seguir gobernada por una mujer que canta nanas a un huevo. Liurnia necesita una mano firme, y la suya ya no lo es.
+—Majestad.
 
-—Es la Reina de la Luna Llena.
+Rennala siguió cantando.
 
-—Era. —El decano se apartó de la puerta—. Su luna se apagó, Loretta. Lo sabéis tan bien como yo. Lo sabe todo Liurnia. Esto no es una traición. Es un entierro.
+—Majestad. Soy yo. Lynx.
 
-Loretta bajó la alabarda. Se quedó mirando las puertas de bronce. Detrás de ellas, débil, apenas audible, se oía una canción de cuna.
+La canción no se detuvo. Era una nana. La misma que ella le cantaba a él cuando era niño y el cielo se oscurecía sobre la mansión porque no podía dormir. La reconoció a la primera nota, y algo se le encogió en el pecho.
 
-—Volveré —dijo—. Con todos los caballeros de Caria.
+—Ayer quemaron una aldea en la orilla del sur —dijo—. Bandidos de las colinas. Saben que la reina ya no sale. Saben que los caballeros no reciben órdenes. Saben que la Academia cuenta los días. —Dio un paso hacia ella—. Liurnia se está deshaciendo, Rennala. Y tú le cantas a un huevo.
 
-—Contamos con ello. —El decano suspiró—. Y os estaremos esperando.
+La reina levantó la vista, por fin. Lo miró. Y Lynx vio que no lo veía: que sus ojos azules pasaban a través de él como pasa la luz a través de una ventana.
 
-Volvió. Los caballeros encantados de Caria salieron de la mansión de la orilla con sus armaduras de plata y sus espadas de luz azul, y la guerra civil se extendió por todo Liurnia: hechiceros contra caballeros, torres azules contra la mansión del lago. Duró años. Hubo batallas en los puentes, asedios en las torres, duelos de magia sobre el agua que iluminaban la noche como tormentas. Loretta luchó en todas. No ganó ninguna.
+—Calla, pequeño —dijo Rennala, con una voz dulce, distraída—. Vas a despertarlo.
 
-La Academia venció. Sin su reina, con sus herederos lejos, la casa de Caria entró en decadencia, y su influencia se desvaneció como la niebla cuando sale el sol. Loretta se retiró a la mansión con los pocos caballeros que le quedaban y juró defenderla hasta el final. Muchos años después, cuando un niño dios plantó un árbol en el norte para los que nadie quería, se marcharía allí, al Árbol Hierático, buscando un lugar donde servir de nuevo a algo que valiera la pena. Pero en la escalinata de la mansión, dicen, su sombra siguió montando guardia, aunque ya no quedaba nadie a quien defender.
+Lynx se quedó inmóvil.
+
+Durante un largo momento no dijo nada. Luego, despacio, se quitó la capa azul de los hombros. La dobló, con cuidado, como Rennala le había enseñado a doblar las capas cuando era niño. Y la dejó en el suelo, a los pies de la reina, bajo el huevo de ámbar.
+
+—Me recogiste sin preguntar de dónde venía —dijo—. Me arropaste. Me hiciste caballero. Me hiciste tu espada. —Le tembló la voz—. Te habría seguido a cualquier sitio. A cualquier guerra. Contra la diosa, contra el Árbol, contra el mundo entero. Pero no puedo seguirte aquí. No puedo servir a una reina que ya no ve a nadie.
+
+Rennala siguió cantando.
+
+—Adiós, madre —dijo Lynx.
+
+Era la primera vez que la llamaba así. La canción se detuvo un instante, apenas un compás, como una respiración que se corta. Lynx esperó. Rennala no levantó la vista del huevo.
+
+La canción siguió.
+
+---
+
+Loretta lo esperaba en los establos, con su caballo ya ensillado.
+
+—No —dijo él, al verla.
+
+—No te he preguntado nada.
+
+—Lo vas a hacer. Y te voy a decir que no. —Lynx empezó a cinchar su propio caballo—. Alguien tiene que quedarse, Loretta. Alguien tiene que defender la mansión cuando la Academia se atreva. Y se atreverá. En cuanto yo cruce el lago, se atreverá.
+
+—Entonces no cruces el lago.
+
+—Tengo que cruzarlo. —Apretó la cincha con tanta fuerza que el caballo resopló—. Si me quedo, me convertiré en otro de los que la miran por la ventana. Llevo años haciéndolo. Desde que se fue Rellana. Desde que llegó él. Esperando a que alguien vuelva, o a que alguien se vaya, o a que algo cambie. —Se volvió hacia ella—. Yo no sé esperar, Loretta. Si espero, el cielo se pone negro.
+
+Loretta lo miró durante mucho tiempo. Tenía ya canas en las sienes, aunque era joven; la guerra se las había puesto.
+
+—¿Adónde vas a ir?
+
+—No lo sé. A algún sitio donde haga falta alguien que no obedezca. —Lynx se encogió de hombros—. Fuera del lago, la Orden quema a los que no le gustan. A los albinauricos. A los que adoran dioses viejos. A los que nacen raros. Quizá alguno necesite un general.
+
+—No tienes ejército.
+
+—Tengo una espada. Y unos cuantos locos que dicen que me seguirán. —Señaló con la cabeza hacia el patio, donde siete caballeros encantados y un troll joven esperaban junto a la puerta, montados, sin capas azules—. Empezaré por ahí.
+
+Loretta desensilló su caballo. Despacio. Sin mirarlo.
+
+—Me quedo —dijo—. Con ella. Y con la niña, que se está quedando sola en la torre. —Dejó la silla sobre el poste—. Pero si alguna vez me necesitas…
+
+—No te necesitaré.
+
+—Mentiroso. —Loretta se volvió hacia él y le dio un empujón en el pecho, como cuando tenían once años y él perdía las carreras a nado—. Si alguna vez me necesitas, haz llover con sol encima del lago. Lo veré desde la escalinata. Y vendré.
+
+Lynx se rio. Era la primera vez en meses.
+
+—Trato hecho.
+
+---
+
+Ranni lo vio marcharse desde lo alto de su torre, al otro lado del lago, apoyada en la ventana junto a una luna oscura que nadie más veía.
+
+Habían hablado la noche anterior. Ella lo había mandado llamar, y él había subido los cien escalones de la torre con la armadura puesta, y se había sentado en el suelo junto a la princesa, como cuando ella era pequeña y él la dejaba subirse a sus hombros para tocar las ramas altas del jardín.
+
+—Te vas —había dicho Ranni.
+
+—Me voy.
+
+—Bien. —La princesa no lo había mirado—. Tú tampoco perteneces a nadie, Lynx. Ni a mi madre, ni a esta casa, ni a nada. Lo he sabido siempre. Hueles a algo que no es de aquí. —Se había vuelto hacia él, con sus ojos fríos—. Vete antes de que alguien decida que sí.
+
+—¿Y tú?
+
+—Yo también me iré. —Ranni había mirado la luna oscura—. Pero más lejos.
+
+Al amanecer, desde la ventana de la torre, la vio cruzar el lago: una barca grande, con siete caballeros sin capa y un troll joven, y en la proa un hombre enorme, de pie, con un mechón dorado sobre la frente, que no miraba atrás.
+
+Sobre la escalinata de la mansión, una caballera de canas tempranas levantó la mano. Él no la vio. O la vio y no se volvió, porque si se volvía no se iría.
+
+Liurnia se quedó sin su espada.
+
+---
 
 Rennala no se enteró. O, si se enteró, no le importó. En la gran biblioteca, rodeada de estudiantes jóvenes a los que llamaba «mis pequeños», usaba el huevo de ámbar para hacerlos renacer una y otra vez, en un proceso imperfecto que les borraba la memoria y los dejaba frágiles y de vida breve. Ella los mecía en sus brazos y les cantaba. Ellos le cantaban a ella, y su canción la envolvía en una burbuja dorada que la protegía del mundo.
 

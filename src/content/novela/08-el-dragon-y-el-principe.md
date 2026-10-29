@@ -326,7 +326,7 @@ Los otros dragones antiguos, al ver a uno de los suyos aceptar la Orden, fueron 
 
 De aquella amistad nació el Culto del Dragón de la capital. Era una orden de caballeros que veneraban a los dragones antiguos y estudiaban sus encantamientos de rayo. Los caballeros del culto vestían armaduras de escamas grises y empuñaban lanzas que crepitaban de electricidad roja. Los más cercanos a Godwyn formaban su guardia personal —Berold entre ellos— y recibieron los medallones de ámbar más grandes que la diosa entregó nunca.
 
-Lansseax, la hermana de Fortissax, adoptó forma humana. Se convirtió en una sacerdotisa de cabello plateado que caminaba por las calles de Leyndell con un báculo de rayo y enseñaba a los caballeros del culto. Muchos de ellos la amaron. Ella amó a uno, siglos después: un Sinluz llamado Vyke, que llegaría a la Mesa Redonda desde muy lejos y que, durante un tiempo, estaría más cerca que nadie de convertirse en Señor de Elden.
+Lansseax, la hermana de Fortissax, adoptó forma humana. Se convirtió en una sacerdotisa de cabello plateado que caminaba por las calles de Leyndell con un báculo de rayo y enseñaba a los caballeros del culto. Muchos de ellos la amaron. Ella amó a dos en toda su larga vida. Del primero no habló nunca, y durante siglos nadie supo que había existido. El segundo llegaría mucho después: un Sinluz llamado Vyke, que vendría a la Mesa Redonda desde muy lejos y que, durante un tiempo, estaría más cerca que nadie de convertirse en Señor de Elden.
 
 * * *
 

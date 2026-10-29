@@ -478,7 +478,7 @@ Marika se volvió despacio. Lo miró. Tenía los ojos secos, muy abiertos, y en 
 
 No contestó.
 
-Maliketh lo entendió todo. Lo entendió en aquel silencio mejor de lo que lo habría entendido con mil palabras. Su hermana, la muchacha que había bajado con él de la montaña, la diosa por la que había matado a la Reina de los Ojos Lóbregos y por la que llevaba siglos cargando la muerte de todas las cosas, le había abierto la puerta a alguien para que robara la muerte. Y con esa muerte habían matado a su hijo.
+Maliketh lo entendió todo. Lo entendió en aquel silencio mejor de lo que lo habría entendido con mil palabras. Su hermana, la muchacha que había bajado con él de la montaña, la diosa por la que había arrancado el ojo a la Reina de los Ojos Lóbregos y por la que llevaba siglos cargando la muerte de todas las cosas, le había abierto la puerta a alguien para que robara la muerte. Y con esa muerte habían matado a su hijo.
 
 Y él no podía hacer nada. Porque era su sombra. Y una sombra no puede volverse contra quien la proyecta.
 
@@ -529,3 +529,89 @@ Morgott no contestó. Se quedó mirando la rendija hasta que entró el hilo de o
 Nunca le llegó la carta. Pero años después, cuando por fin rompió sus cadenas y subió a la superficie a defender una ciudad sin defensores, una asesina de pelo negro y sonrisa triste lo esperaba en la puerta de la capital, apoyada en el muro, con algo en la mano. Un papel doblado, amarillento, con letras grandes y claras.
 
 Pero esa es otra historia.
+
+* * *
+
+En el norte, la noticia tardó veinte días en llegar al Árbol Hierático.
+
+La trajo una dragona. Llegó volando una noche de ventisca, en su forma verdadera, con las alas cubiertas de escarcha, y se posó en la plaza del árbol con tanta violencia que la nieve saltó hasta las ramas. No cambió de forma. Se quedó allí, en el centro de la plaza, con la cabeza baja, respirando con un silbido largo y roto, hasta que el general bajó del palacio a medio vestir, con las dos espadas en la mano, creyendo que los atacaban.
+
+Lynx la reconoció a la primera. Bajó las espadas.
+
+—Madre.
+
+Lansseax levantó la cabeza. Tenía los ojos de oro pálido llenos de algo que Lynx no le había visto nunca. Los dragones no lloran. Pero aquello se parecía mucho.
+
+—Tu padre —dijo, con su voz de viento entre las piedras.
+
+No hizo falta que dijera nada más.
+
+---
+
+Lynx subió a lo alto del árbol aquella noche. Solo. Trepó por las ramas pálidas, entre la ventisca, hasta la copa, donde el viento del campo de nieve soplaba tan fuerte que costaba mantenerse en pie, y se sentó en una horquilla del tronco, de espaldas a Elphael, mirando hacia el sur.
+
+Hacia Leyndell. Que no se veía. Que estaba demasiado lejos.
+
+Sacó del bolsillo de la capa un estuche de cuero. Pequeño, gastado por los años, con las costuras abiertas por los bordes. Lo había llevado encima desde una mañana de invierno en la puerta oriental de la capital, junto a la Piedra del Rey, cuando un hombre de pelo dorado se lo había dado y le había dicho que no lo abriera hasta que estuviera lejos.
+
+Había estado lejos durante muchos años. No lo había abierto nunca.
+
+Lo abrió.
+
+Dentro había un papel doblado en cuatro, y escrito en él, con la letra cuidada de un príncipe, en letras grandes y claras —las letras que alguien escribe para una persona que tardó cuarenta años en saber de dónde venía—, una carta.
+
+_Hijo._
+
+_No sé cuándo leerás esto. Te dije que no lo abrieras hasta que estuvieras lejos, y te conozco lo bastante, aunque no te conozca nada, para saber que tardarás. Así que lo escribo para un hombre que no sé cómo será. Quizá tengas canas. Quizá tengas hijos. Quizá ya no me odies, o me odies más. Da igual._
+
+_Quiero que sepas tres cosas._
+
+_La primera: que no hubo un solo otoño en que no subiera a la terraza a mirar los relámpagos. Ni uno. Fia dice que eran de los buenos. Yo creo que eran los mejores que ha habido nunca sobre ese lago, y tengo motivos para saberlo._
+
+_La segunda: que cuando te vi pasar en aquel carro, con la cara llena de fruta, y no bajé, fue lo más cobarde que he hecho en mi vida. No te pido que lo olvides. Te pido que sepas que yo no lo olvidaré nunca._
+
+_La tercera, y la más importante: que tu madre y yo no te escondimos porque fueras un error. Te escondimos porque eras lo único que habíamos hecho en nuestras vidas que no le pertenecía al Árbol. Ni a la Orden, ni a la diosa, ni a la Voluntad, ni a los Dedos. Eras nuestro. Solo nuestro. Y queríamos que fueras tuyo._
+
+_Sé tuyo, Lynx. Es lo único que te pido. No seas de nadie que te lo pida sonriendo._
+
+_Tu padre, que te quiere más de lo que supo decirte._
+
+_Godwyn._
+
+---
+
+Lynx leyó la carta tres veces, en la copa del árbol, en mitad de la ventisca.
+
+Luego la dobló, la guardó en el estuche, y se la puso contra el pecho, debajo de la armadura, donde antes había llevado una escama de dragón engarzada en oro.
+
+Y el cielo sobre el Árbol Hierático, que estaba negro de ventisca, se abrió.
+
+No en lluvia. No en sol. Se abrió en relámpagos. Cientos. Miles. Rojos y dorados, enroscados unos en otros, que cayeron sobre el campo de nieve consagrada durante toda la noche, sin tocar a nadie, sin quemar nada, en un silencio extraño, como una tormenta que llorase. Los refugiados de Elphael salieron de sus casas a mirarlos. Los nueve caballeros sagrados subieron a las murallas. Miquella se asomó a la ventana de su cuarto, con los ojos muy abiertos.
+
+Malenia subió al árbol.
+
+Trepó por las ramas con su mano de metal y sus piernas de oro, sin ver, siguiendo el sonido de una respiración que conocía de memoria, hasta que llegó a la horquilla de la copa. Se sentó al lado de él. No le dijo nada. No le tocó la cara. Se quedó allí sentada, a su lado, con la venda sobre los ojos y la ventisca alrededor y los relámpagos cayendo sobre la nieve, hasta que amaneció.
+
+Al amanecer, los relámpagos pararon.
+
+—Era mi hermano —dijo Malenia, por fin, en voz muy baja—. Lo vi muy pocas veces. Mi madre no nos dejaba bajar a los salones donde estaba él, porque decía que la podredumbre se contagia por la mirada. Una vez se coló en nuestro cuarto, de noche, con una pera. Me la puso en la mano de carne y me dijo que era la mejor del huerto de la Torre, que la había robado él mismo. —Se le escapó algo parecido a una sonrisa—. Estaba dura. Verde. Incomible. Me la comí entera para que no se diera cuenta.
+
+Lynx se rio. Una risa breve, rota, con los ojos húmedos.
+
+—Así era —dijo—. Lo poco que lo conocí, así era. Llegaba tarde, con un regalo equivocado y una disculpa perfecta. Me escribió durante años cartas larguísimas que yo no contestaba, contándome lo que comía, lo que pensaba, lo que le dolía. Nunca vino a verme. Le daba miedo que lo siguieran hasta mí. —Se miró las manos—. Me pasé media vida enfadado con él por esconderse, Malenia. Y luego hice exactamente lo mismo con todos los que quise. Es lo que más me duele esta noche. No que haya muerto. Que se haya muerto antes de que yo pudiera decirle que lo entendía.
+
+Malenia se quedó callada un rato largo.
+
+—Él lo sabía —dijo al fin—. Los que escriben cartas que nadie contesta saben siempre que alguien las lee. Si no, dejarían de escribirlas.
+
+Lynx se volvió hacia ella.
+
+—Me dijo una vez que arriba había sol —dijo—. En la terraza, la única noche que hablamos de verdad. Que en la capital, cuando amanece, el oro del Árbol hace que el sol parezca el doble. Que algún día me llevaría a verlo.
+
+—¿Y lo había?
+
+Lynx miró hacia el sur, hacia donde, muy lejos, más allá de la nieve y de las cumbres, una ciudad dorada lloraba a su príncipe.
+
+—No lo sé —dijo—. Nunca subí a comprobarlo. —Y luego, más bajo—: Gracias por subir tú.
+
+Malenia no contestó. Pero se quedó.

@@ -210,45 +210,35 @@ Messmer la vio por primera vez en el coliseo de la capital, adonde su madre lo h
 
 —¿Por qué?
 
-—Dicen que por un hombre.
+—Por un juramento, dicen. —Gaius bajó la voz—. Que lo hizo para que terminara la guerra del lago. La diosa pidió una princesa de Caria jurada al Árbol, como prenda de la tregua, y la reina no podía ser. Así que se ofreció ella. —Le dio otro mordisco al cordero—. Y dicen que dejó a alguien atrás. Un general de los magos. Uno al que llaman la Espada de la Reina, que le partió la cara tres veces al campeón de la diosa en los puentes del lago.
 
-—¿Qué hombre?
+Messmer no dijo nada.
 
-Gaius lo miró de reojo.
+Rellana ganó el duelo. Derrotó a tres caballeros de la guardia del Árbol, uno tras otro, con sus dos espadas girando a su alrededor como dos lunas. Cuando el último cayó, se quitó el yelmo, y el coliseo entero se puso en pie para aplaudirla. Ella no miró a nadie. Se volvió hacia el oeste, hacia donde, muy lejos, más allá de las murallas y de la meseta y de los acantilados, había un lago cubierto de niebla, y se quedó mirando en esa dirección mientras la gente gritaba su nombre, con la cara muy quieta.
 
-—No lo sé —dijo, con una sonrisa extraña—. Uno que vio luchar una vez en un torneo de las tierras bajas, dicen. Un encapuchado con fuego en los ojos.
-
-Messmer se quedó paralizado.
-
-Rellana ganó el duelo. Derrotó a tres caballeros de la guardia del Árbol, uno tras otro, con sus dos espadas girando a su alrededor como dos lunas. Cuando el último cayó, se volvió hacia las gradas, se quitó el yelmo, y miró hacia arriba. Hacia lo más alto. Hacia un encapuchado sentado junto a un albinaurio enorme que comía cordero.
-
-Messmer sintió que algo le subía por el pecho. Y no era la serpiente.
+Messmer reconoció aquella mirada. Era la suya. La de alguien que se ha enviado a sí mismo adonde no quería ir, porque era lo que se esperaba de él.
 
 ---
 
-—Te seguiré a donde vayas —le dijo Rellana aquella noche, en un balcón de la Torre de los Dedos, cuando por fin consiguió encontrarlo a solas.
+—Me han destinado a tu mando —le dijo Rellana aquella noche, en un balcón de la Torre de los Dedos, cuando por fin consiguió encontrarlo a solas.
 
 Messmer estaba apoyado en la balaustrada, mirando el Árbol, con las serpientes aladas enroscadas en los brazos. No se volvió.
 
 —No me conoces.
 
-—Te vi luchar. En las tierras bajas, hace cuatro años. Contra el albinaurio.
-
-—Le quemé la armadura.
-
-—Y luego le diste la mano. —Rellana se acercó a la balaustrada—. Eso fue lo que vi. No el fuego. La mano.
+—Te vi luchar. En las tierras bajas, hace cuatro años. Contra el albinaurio. Fui al torneo con mi hermana, de incógnito. —Rellana se acercó a la balaustrada—. Le quemaste la armadura y luego le diste la mano. Mi hermana dijo que eras un monstruo. Yo le dije que los monstruos no dan la mano.
 
 Messmer se volvió por fin. Se quitó la capucha. Le dejó ver el sello de oro en la cuenca derecha, la llama en el ojo izquierdo, las serpientes en los brazos.
 
-—Esto es lo que soy —dijo—. Mi madre me arrancó un ojo al nacer para que no me comiera lo que llevo dentro. Quemo lo que toco cuando me enfado. Las nodrizas me llamaban monstruo. Mi madre me visita dos veces al año. No sé quién es mi padre. —Apretó la mandíbula—. ¿De verdad quieres seguir a esto?
+—Esto es lo que soy —dijo—. Mi madre me arrancó un ojo al nacer para que no me comiera lo que llevo dentro. Quemo lo que toco cuando me enfado. Las nodrizas me llamaban monstruo. Mi madre me visita dos veces al año. No sé quién es mi padre. —Apretó la mandíbula—. ¿De verdad quieres servir a esto?
 
 Rellana lo miró a los ojos, al de oro y al de fuego. No apartó la mirada.
 
-—Mi hermana se enamoró de un campeón que vino a conquistarla con un martillo —dijo—. Mi madre se enamoró de una luna que no hablaba. En mi familia nos enamoramos de cosas extrañas. —Sonrió—. Tú eres la menos extraña de todas.
+—En mi casa hay un muchacho que hace caer rayos cuando llora —dijo—. Le he enseñado a pelear desde que tenía cuatro años. Una vez me hizo llover con sol encima del lago. —Sonrió, y era una sonrisa triste—. Un ojo de oro no me asusta, comandante.
 
 —No sabes adónde voy.
 
-—No importa.
+—No importa. Juré servir al Árbol allí adonde el Árbol me enviara. —Rellana se encogió de hombros—. Me ha enviado contigo. Podría haber sido peor.
 
 —Voy a la guerra —dijo él—. Mi madre me lo ha dicho esta mañana. A una guerra lejana, al este, contra un pueblo que no conozco. Una guerra que no tiene gloria.
 
@@ -262,9 +252,17 @@ Rellana acarició a la serpiente con la punta de los dedos.
 
 —Ahora sí —dijo.
 
-Nunca se lo dijeron. Ni aquella noche, ni en todos los siglos que vinieron después. Ni él a ella ni ella a él. No hizo falta. Rellana lo siguió a la guerra, y a la tierra sellada, y a la eternidad de sombra que vino después. Y la serpiente alada no se separó nunca de su hombro.
+No fueron amantes. Las crónicas de la Orden, que lo entendieron todo mal, dirían después que sí, porque no sabían explicar de otra manera que una princesa de Caria siguiera a un comandante tuerto hasta el fin del mundo.
 
-Su hermana, que ya era reina, aceptó su renuncia. Le envió un mechón de su larga cabellera negra como despedida, atado con una cinta azul, y una carta de una sola línea: _Que tus dos lunas te alumbren donde no llegue la mía._
+La verdad era más sencilla y más triste. Messmer se enamoró de ella. Aquella misma noche, en el balcón, cuando la serpiente se le posó en el hombro y ella no se apartó. Se enamoró como se enamoran los que no han recibido nunca una mano tendida: de golpe, entero, sin defensa. Y Rellana no se enamoró de él. Nunca. Ni aquella noche ni en todos los siglos que vinieron después. Su corazón estaba al otro lado de un lago, con un muchacho enorme que hacía llover con sol, y no se movió de allí ni un palmo.
+
+Lo que sintió por Messmer fue otra cosa. Cariño. Lealtad. Una pena honda, que no le dijo nunca, por aquel hombre que ardía por dentro y al que nadie había abrazado. Fue su amiga. La mejor que tuvo él nunca. Y le guardó las espaldas durante siglos.
+
+Messmer lo supo desde el principio. Lo supo la primera vez que la vio mirar hacia el oeste en el coliseo, y cada vez que, en los campamentos de la cruzada, la oía decir un nombre en sueños que no era el suyo. No le preguntó nunca por él. No le dijo nunca lo que sentía. Se quedó con lo que ella podía darle, que era mucho, y no pidió lo que no podía. Ella se lo agradeció siempre, sin decírselo tampoco.
+
+La serpiente alada no se separó nunca de su hombro.
+
+Su hermana le envió un mechón de su larga cabellera negra como despedida, atado con una cinta azul, y una carta de una sola línea: _Que tus dos lunas te alumbren donde no llegue la mía._ De Lynx no le llegó nada. Ella tampoco le escribió. Habría sido más fácil si lo hubiera hecho alguno de los dos, y por eso no lo hizo ninguno.
 
 ---
 
@@ -428,7 +426,27 @@ Rellana le tomó la mano. La de la lanza, la que quemaba. No se quemó.
 
 —No es estúpido —dijo—. Es lo más triste que he oído nunca. Pero no es estúpido.
 
-Se quedaron así hasta el amanecer, en lo alto de la muralla, de la mano, mientras Belurat terminaba de arder.
+Se quedaron así un largo rato, en lo alto de la muralla, de la mano, mientras Belurat terminaba de arder.
+
+—Rellana —dijo Messmer al fin, sin mirarla.
+
+—Dime.
+
+—Si te pidiera que te quedaras. No como soldado. No por el juramento. —Le tembló la mano en la de ella, y la llama del ojo se le encogió, como se encoge una vela cuando alguien abre una puerta—. Si te pidiera que te quedaras conmigo.
+
+Rellana no le soltó la mano. Tardó en contestar, y cuando lo hizo fue con mucho cuidado, como se deja algo frágil en el suelo.
+
+—Me quedaré contigo, Messmer. Todo lo que dure esto. Te guardaré la espalda y te traeré agua cuando no comas y te diré que no eres un monstruo cada vez que se te olvide. —Le apretó la mano—. Pero mi corazón está en un lago. Con alguien que no sabe que se lo he dejado. No puedo moverlo de allí. Lo he intentado, en los campamentos, mirando el fuego. No se mueve.
+
+Messmer asintió despacio. No apartó la mano.
+
+—Lo sabía —dijo—. Dices su nombre en sueños.
+
+—Lo siento.
+
+—No lo sientas. —Messmer miró la ciudad que ardía—. Es lo más honrado que me ha dicho nadie nunca. Mi madre me dice que me quiere de otra manera. Tú me dices que no me quieres de esa. —Se le escapó algo parecido a una risa—. Prefiero lo tuyo.
+
+Se quedaron así hasta el amanecer. No volvieron a hablar de aquello en siglos.
 
 ---
 

@@ -4,7 +4,7 @@ Para llegar hasta allí había que bajar al valle de la niebla, desde Ordina, po
 
 Melina se había quedado abajo, al pie de las raíces. _Aquí tampoco puedo entrar_, le había dicho, mirando el árbol podrido con una expresión que Edda no le había visto nunca. Como si le doliera algo. _Es de él. De Miquella. Hay algo en las raíces que me rechaza._
 
-Edda subió sola, con la serpiente roja enroscada en el cuello, quieta, inquieta.
+Edda subió sola.
 
 A mitad de camino entre las raíces y la copa, en una plataforma de madera construida sobre una rama tan ancha como una calle de Leyndell, había alguien sentado con la espalda contra el tronco.
 
@@ -262,7 +262,7 @@ Antes de irse, recogió del puente una hoja roja, caída junto a la mano de Mill
 
 En la entrada de las raíces, en lo más hondo del árbol, junto a un lago de agua roja, había un caballero.
 
-Edda bajó hasta allí durante un día entero, por el interior del tronco, por escaleras de corteza que se hundían en la oscuridad, por túneles de raíces, por salas abovedadas donde la savia roja goteaba del techo como lluvia. Bajó sola. La serpiente roja chillaba cada vez que una gota le caía cerca.
+Edda bajó hasta allí durante un día entero, por el interior del tronco, por escaleras de corteza que se hundían en la oscuridad, por túneles de raíces, por salas abovedadas donde la savia roja goteaba del techo como lluvia. Bajó sola.
 
 El lago estaba en una caverna enorme, entre las raíces más gruesas del árbol, iluminada por una luz azul que no venía de ningún sitio. El agua era roja, espesa, quieta. Y en la orilla, montado en un caballo espectral, azul y translúcido, que no hacía ruido al pisar, había un caballero.
 
@@ -324,67 +324,127 @@ Loretta se quitó el yelmo.
 
 Debajo había una cara de mujer vieja, muy vieja, con el pelo blanco cortado a la altura de la mandíbula, la piel arrugada, curtida, y una cicatriz larga en la frente. Tenía los ojos grises, húmedos.
 
-—Jugaba con ellos en el jardín —dijo—. Con la princesa. Con el lobo y el troll. Cuando la reina no miraba, bajaba la escalinata y jugaba con ellos. Con espadas de madera. —Se le escapó una risa rota—. La princesa me ganaba siempre. Era muy pequeña y muy rápida y muy seria. Y luego se reía. Pocas veces. Pero cuando se reía…
+Edda dejó de respirar.
 
-—La he oído.
+Conocía aquella cara. La conocía como se conoce el techo de la casa en la que una ha crecido. La había visto inclinarse sobre ella junto al fuego, con la rueca entre las rodillas, cada noche de su infancia. La había visto en el umbral de una casa de puerta azul, en una aldea de las Tierras Áridas, la mañana en que se fue a la guerra del pozo con el arco al hombro y un niño de seis años mordiéndose el labio en el escalón. _No prometas lo que no depende de ti._
 
-Loretta se quedó mirándola.
+La cicatriz de la frente. Edda se la había tocado de niña, mil veces, con el dedo, preguntándole cómo se la había hecho. _Un lobo_, decía la abuela. _Uno muy grande, cuando era joven y tonta._
 
-—¿La has oído reír?
+—Abuela —dijo.
 
-—Tres veces. —Edda se tocó el bolsillo de dentro—. La última en una catedral, cuando recuperó su cuerpo. Le dije que tenía pecas.
+Le salió sin voz. Como se sale el aire de un golpe.
 
-Loretta se tapó la boca con la mano.
+Loretta se quedó completamente inmóvil en su caballo espectral. La mano que sujetaba el yelmo empezó a temblar. Luego todo el brazo. Luego el cuerpo entero, dentro de la armadura de plata, como tiembla un árbol viejo cuando se levanta el viento.
 
-—¿Su cuerpo? —susurró—. ¿Ha recuperado su cuerpo?
+—No —susurró—. No. No puede ser. Tú no.
 
-—En la Catedral de Manus Celes. Con el anillo de la luna oscura. Le temblaban las manos. —Edda la miró—. Me pidió que la acompañara. Como su consorte. Al final del camino.
+—Abuela.
 
-Loretta no dijo nada. Las lágrimas le corrían por la cara arrugada, hasta la barbilla, y caían al agua roja del lago.
+—Te enterré. —La voz de Loretta se rompió—. Te enterré yo, con estas manos, en la colina del pozo. Te trajo un soldado del valle de abajo, envuelta en tu capa, con una flecha en el pecho. Te lavé la cara. Te peiné. Te puse tu arco al lado. —Se tapó la boca—. Y le dije a Arn que no volverías. Y se sentó en el escalón igual. Todos los días. Durante años.
 
-—¿Y vas a ir?
+Edda bajó de la roca donde estaba. Caminó por la orilla del lago rojo, entre las raíces, sin sentir los pies. Se detuvo junto al caballo espectral. Levantó la mano.
 
-Edda sacó la piedra azul del bolsillo de dentro. La sostuvo en la palma. La luna diminuta giraba dentro, fría, despacio.
+Loretta se inclinó desde la silla. Despacio. Y le tocó la cara a Edda con la mano llena de manchas de edad, como la tocaba cuando era niña y tenía fiebre. La frente. Las mejillas. Los ojos.
 
-—Voy a ir —dijo.
+—Has vuelto —dijo.
 
-Era la primera vez que lo decía en voz alta.
+—La luz me trajo. —Edda tenía la cara mojada—. Una luz dorada. Junto a mi cuerpo. Me desperté en una capilla, muerta, y la seguí. —Le cogió la mano a la vieja—. ¿Qué haces aquí, abuela? ¿Qué es esta armadura? ¿Por qué hablas de princesas y de torres? Tú hilabas lana. Tú no sabías leer. Tú…
+
+—Yo no sé leer. Eso es verdad. —Loretta se rio, una risa rota, llena de lágrimas—. Soy hija de un pescador de un lago. Nunca aprendí. Lo demás… —Bajó la mano. Se irguió en la silla, despacio, con un crujido de armadura—. Lo demás era mentira, niña. Casi todo.
 
 ---
 
-—Me fui por la Academia —dijo Loretta, después de un rato—. Cuando nos traicionaron. Cuando encerraron a la reina en su biblioteca y la mansión se quedó vacía y los herederos se fueron cada uno por su lado. Me quedé un tiempo. Guardando una casa sin nadie. —Se le endureció la cara—. Y un día me llegó un sueño. Con nenúfares. Un niño dorado que me decía que en el norte había un árbol para los que nadie quería. Que necesitaba caballeros. —Hizo una pausa—. Y vine. Dejé mi eco en la escalera y vine.
+Se sentaron juntas en la orilla del lago rojo, entre las raíces. Loretta bajó del caballo espectral, que se quedó quieto a su lado, translúcido, sin respirar. Se quitó los guanteletes. Tenía las mismas manos que junto a la rueca.
 
-—¿Por el perfume?
+—Nunca fui tu abuela —dijo.
 
-Loretta la miró sin entender. Luego frunció el ceño.
+Edda no contestó.
 
-—Por el sueño —dijo—. Por los nenúfares. —Se detuvo—. No sé si era por el perfume. Nunca lo pensé así. —Se tocó el pecho—. Llevo siglos aquí. Protegiendo el árbol. Protegiendo a los albinauricos. Protegiéndola a ella, abajo, en las raíces. —Bajó la vista hacia el agua roja—. Y el árbol se pudre. Y los albinauricos se pudren. Y ella espera. Y yo la guardo.
+—Te traje del otro lado del mar cuando eras pequeña. A ti y a tu hermano. Me lo pidió alguien. Alguien a quien yo… —Se detuvo—. Alguien a quien yo habría seguido al fondo de ese lago, si me lo hubiera pedido. Me pidió que os llevara lejos. Que os criara como a dos niños cualesquiera. Que no supierais quiénes erais hasta que fuerais lo bastante mayores para elegir qué hacer con ello. —Se miró las manos—. Y luego te hiciste mayor. Y te casaste con aquel muchacho pelirrojo que se murió de fiebres. Y tuviste a Arn. Y nunca encontré el momento. Siempre había una cosecha, o una sequía, o un niño con fiebre. Siempre había un mañana. —Le tembló la voz—. Y una mañana te fuiste a la guerra del pozo. Y no hubo más mañanas.
 
-—El niño no va a volver.
+—¿Quién? —Edda la miró—. ¿Quién te lo pidió?
 
-Loretta levantó la cabeza.
+Loretta tardó mucho en contestar.
 
-—Lo sé —dijo—. Lo sentí. Hace unas semanas. Una luz que se apagaba en el cielo, muy lejos, al otro lado. Y ella también lo sintió. Abajo. La oí gritar. Desde aquí. Un grito que hizo temblar las raíces.
+—Ahora no —dijo al fin.
 
-—Tengo un mensaje para ella. De él.
+—Abuela…
 
-Loretta se quedó inmóvil.
+—Ahora no, Edda. Por favor. —La vieja le cogió la cara con las dos manos—. Se lo prometí. A él. Que lo sabríais cuando pudierais elegir. Y tú todavía no puedes. Lo veo. Llevas una piedra azul en el bolsillo y una lista de muertos en la cara y una muchacha sin dedos esperándote al pie de este árbol para algo que no te ha dicho. —Le apretó la cara—. Cuando termines lo que has venido a terminar, lo sabrás. Te lo juro. Lo sabrás entero.
 
-—¿De Miquella?
+—¿Cómo, si tú no me lo dices?
 
-—Antes de irse. Me lo dio para ella.
+—Porque lo que se esconde para proteger a alguien acaba buscando la manera de volver. —Loretta sonrió—. Siempre. Lo he visto pasar con todos los secretos de esa familia.
 
-Loretta se quedó mirándola. Luego, despacio, bajó del caballo espectral. Recogió la alabarda del agua roja. Se quedó de pie en la orilla, entre Edda y la entrada de las raíces.
+—¿Qué familia?
+
+Loretta no contestó. Le soltó la cara.
+
+—Tu nombre no era Edda —dijo, en voz muy baja—. Te lo puse yo. En el barco. Por una arquera de las historias de la aldea, una que había seguido a un rey de melena de león al destierro. Me pareció un buen nombre para una niña que tenía que empezar de cero. —Se miró las manos otra vez—. El de antes te lo puso tu madre.
+
+—¿Y cuál era?
+
+La vieja se quedó callada mucho rato. Luego negó con la cabeza.
+
+—Ahora no.
+
+---
+
+—Me fui de la mansión para buscar a un hombre —dijo Loretta, después de un rato, mirando el agua roja—. A un acantilado. Antes de todo eso. Mucho antes del barco. Llevaba tres años sentado junto a una tumba, sin hablar, y el cielo encima de él se había vuelto gris. —Se le endureció la cara—. Lo levanté. Le grité. Le dije que lo odiaba. Y se levantó. —Hizo una pausa—. Lo seguí al norte, a este árbol. Fui una de sus nueve. Los caballeros sagrados. Él era el general del árbol, y yo su… —Se detuvo—. Su Loretta. Desde que yo tenía once años y le ganaba a nado.
+
+—¿Lynx?
+
+Loretta se volvió hacia ella de golpe.
+
+—¿Cómo sabes ese nombre?
+
+—Me lo dijo su madre. Una dragona. En unas ruinas sobre el lago de Liurnia, donde las piedras están calientes. —Edda bajó la voz—. Me olió. Me dijo que olía a tormenta. Y me preguntó qué jurábamos en mi familia cuando teníamos miedo.
+
+Loretta se quedó muy quieta.
+
+—¿Y qué le dijiste?
+
+—«Por la sangre que vuelve.» —Edda la miró—. Como decías tú. Junto al fuego. Cuando murió el abuelo. Cuando vino la sequía.
+
+—No hubo abuelo —dijo Loretta, muy bajo—. Me lo inventé. Para que las vecinas no preguntaran.
+
+Se tapó la cara con las manos. Y Edda, por primera vez en su vida, vio llorar a su abuela. No como lloran las viejas en los entierros, despacio, por costumbre. Como llora una muchacha de dieciséis años en un puente, después de matar a cien hombres.
+
+---
+
+—¿Y por qué volviste aquí? —preguntó Edda, cuando Loretta se calmó—. ¿Por qué te fuiste de la aldea?
+
+—Por él. —Loretta no dudó—. Me pidió dos cosas, antes de irse. Que os llevara lejos. Y que, cuando ya no me necesitarais, volviera aquí y cuidara de ella. —Señaló con la cabeza hacia las raíces—. Dijo que Malenia no tenía a nadie que la oyera respirar. —Bajó la vista hacia el agua roja—. Me quedé en la aldea hasta que Arn tuvo veinte años y una barba que no le crecía. Y luego crucé el mar otra vez. Llevo siglos aquí, niña. Protegiendo el árbol. Protegiendo a los albinauricos. Protegiéndola a ella, abajo, en las raíces. Y el árbol se pudre. Y los albinauricos se pudren. Y ella espera. Y yo la guardo.
+
+—¿Qué espera?
+
+—A su hermano. —Loretta miró hacia la oscuridad de las raíces—. El niño que no crece. Mohg se lo llevó en un capullo. Y luego… —Frunció el ceño—. Hace tiempo dejé de sentirlo. Como si se hubiera ido a otra parte. A algún sitio que no está en este mundo.
+
+—Está vacío —dijo Edda—. El capullo. Lo he visto, en el palacio de la sangre. Solo queda un brazo. Seco. Con los dedos abiertos hacia arriba.
+
+Loretta cerró los ojos.
+
+—Entonces ella también lo sabe. Abajo. Lo noto en cómo grita algunas noches. —Abrió los ojos—. ¿A qué has venido tú?
+
+Edda se tocó la capa, donde llevaba envuelto el brazo dorado de Millicent y la aguja de oro sin alear.
+
+—A devolverle algo. De una muchacha que nació de su flor y no quiso florecer.
+
+Loretta miró el bulto. Luego miró a Edda. Luego, despacio, se levantó. Recogió la alabarda del agua roja. Se quedó de pie en la orilla, entre Edda y la entrada de las raíces.
 
 —Entonces tengo que dejarte pasar —dijo—. Y no puedo.
 
-—¿Por qué?
+—Abuela.
 
-—Porque juré guardarla. —Loretta levantó la alabarda—. Igual que juré guardar la mansión. Y la mansión la abandoné. No puedo abandonar esto también. No puedo dejar otro eco.
+—Escúchame. —Loretta se puso el yelmo. Despacio. La cara de la abuela desapareció detrás de la plata, y quedó la caballera—. Él me pidió que la cuidara. Si te dejo pasar así, sin más, ella te matará. No por maldad: porque es lo que es. Es la Espada de Miquella, y nunca ha perdido. Y lo que lleva dentro está despierto. —Levantó la alabarda—. Si no puedes conmigo, no podrás con ella. Así que vas a pelear conmigo, niña. Como en la orilla del pozo, con los palos de avellano. Y si me ganas, bajarás.
 
-Edda pensó en Rellana. En Niall. En Gaius. En Messmer. Todos guardando puertas que ya no hacía falta guardar.
+—No voy a pelear contigo.
 
-—Lo sé —dijo, y desenvainó.
+—Vas a pelear. —La voz detrás del yelmo era dura, la de una capitana de Caria—. Porque yo te enseñé a tirar con arco y a no soltar la cuerda hasta que el viento se calla. Y porque la última lección siempre es la que más duele.
+
+Edda pensó en un círculo de piedras sobre un acantilado. En Morgott ante las espinas. En el eco de una caballera montando guardia sobre una casa vacía. Todos guardando puertas que ya no hacía falta guardar.
+
+—Lo sé —dijo, con la voz rota, y desenvainó.
 
 ---
 
@@ -392,9 +452,11 @@ Lucharon junto al lago rojo.
 
 Loretta luchaba con la magia de Caria, como su eco. Flechas de luz azul que caían del techo de la caverna como lluvia, que se clavaban en el agua roja y levantaban columnas de vapor. Arcos de la alabarda que habrían partido a un caballo. Cargas con su montura espectral por la orilla, sin ruido. Era rápida y precisa, una guerrera de verdad. Más que su eco, que solo repetía.
 
-Pero era vieja. Y estaba cansada. Y a veces, en mitad de un ataque, se detenía un instante y miraba el bolsillo de dentro de la capa de Edda, donde estaba la piedra azul, y la alabarda le temblaba.
+Pero era vieja. Y estaba cansada. Y a veces, en mitad de un ataque, se detenía un instante y miraba a Edda a la cara, y la alabarda le temblaba.
 
-Edda murió dos veces. A la tercera, encontró el ritmo. No era el mismo que el del eco; Loretta improvisaba, variaba. Pero tenía una costumbre, una sola, que el eco también tenía: al tercer giro de la alabarda, siempre levantaba el codo un poco más de la cuenta.
+Edda murió dos veces. Despertó en la gracia de las raíces, de rodillas, llorando, y volvió a bajar. A la tercera, encontró el ritmo. No lo encontró: lo recordó. Porque aquella costumbre la conocía de toda la vida, de las tardes en la orilla del pozo, con un palo de avellano en la mano y una vieja que le enseñaba a pelear riéndose. Al tercer giro, la abuela siempre levantaba el codo un poco más de la cuenta. Siempre. _Fíjate en el codo, niña_, le decía. _Todo el mundo tiene un codo que se le escapa. El mío es este._
+
+Se lo había enseñado ella.
 
 Edda se metió por debajo.
 
@@ -402,27 +464,35 @@ Edda se metió por debajo.
 
 Loretta cayó de su caballo espectral. Se quedó tumbada de espaldas en la orilla del lago, con la alabarda a un lado, mirando las raíces del techo. El caballo espectral se deshizo en luz azul.
 
-Edda se arrodilló a su lado. Le cogió la mano. Estaba fría.
+Edda se arrodilló a su lado. Le quitó el yelmo. Le cogió la mano. Estaba fría.
 
-—Rennala… —susurró Loretta—. ¿Sigue viva?
+—Has bajado la guardia —dijo—. Al final. Lo he visto.
+
+—Has aprendido lo del codo. —Loretta sonrió—. Buena chica.
+
+—Abuela…
+
+—Rennala… —susurró Loretta, mirando el techo—. ¿Sigue viva?
 
 —Sí. En su biblioteca. Con su huevo. —Edda dudó—. La dejé viva. Su hija me lo pidió.
 
 —Bien. —Loretta sonrió—. Bien. Era una buena reina. —Cerró los ojos—. Una buena… madre. A su manera. Quería mucho. Demasiado. Y cuando perdía algo, se quedaba vacía.
 
-—Su hermana me dijo lo mismo.
+—¿Y Rellana? La de las dos lunas. —Edda le apretó la mano—. La dragona me dijo que la mitad que juró guarda un castillo en una tierra que no está en los mapas.
 
-Loretta abrió los ojos.
+—La otra mitad la enterramos nosotros —dijo Loretta, con los ojos cerrados—. En un círculo de piedras. Con sus dos espadas sobre el pecho. Junto a él, después. —Se rio, una risa débil—. Tan de nuestra familia. Todos guardando puertas. Todos esperando. —Respiró con dificultad.
 
-—¿Rellana?
+Se quedó un rato callada, mirando las raíces del techo, que goteaban luz.
 
-—En la Tierra de las Sombras. Guardaba un castillo. —Edda le apretó la mano—. También murió guardando una puerta.
+—¿Sabes qué es lo peor de querer a alguien que ya tiene a quien querer, niña? —dijo al fin, muy bajo—. No es que no te elija. Eso se aprende pronto, a los once años, en una orilla, cuando ves cómo mira a otra que le pega con una vara de sauce. Lo peor es que te vuelves buena en ello. Aprendes a estar a su lado sin pedir. A sujetarle el caballo, a reñirle porque no come, a levantarlo de una piedra donde lleva tres años sentado. Aprendes a ser útil, que es la forma que tienen de amar los que no van a ser amados del mismo modo. —Le apretó la mano—. Y un día te das cuenta de que eso también es amor. Uno distinto. Uno que no espera nada a cambio. Y de que te ha hecho más feliz que muchos de los otros. —Sonrió con los ojos cerrados—. Él lo sabía. Nunca me lo dijo, porque no hacía falta. Pero la última noche, antes de una plaza debajo de la tierra, me cogió la cara con las dos manos y me dio las gracias. Por todo. Por la orilla, por el puente, por la piedra. Y me pidió que os llevara lejos. A vosotros. A lo que más quería. —Se le quebró la voz—. Me dio lo que más quería para que lo guardara yo. ¿Entiendes? No me eligió a mí. Pero me eligió para eso. Y eso fue suficiente. Fue más que suficiente. Fue una vida entera.
 
-—Tan de nuestra familia —dijo Loretta, y se rio, una risa débil—. Todos guardando puertas. Todos esperando. —Respiró con dificultad—. Dile a la princesa…
+Edda no podía hablar.
+
+—Dile a la princesa…
 
 —¿Qué?
 
-Loretta tosió sangre dentro del yelmo.
+Loretta tosió sangre.
 
 —Dile que el eco tenía razón —dijo al fin—. Que lo siento. Que me fui. Y dile que me alegro de que haya recuperado las pecas. Las tenía de niña. En la nariz. Tres. Se las tapaba con polvo de luna para que su madre no las viera. —Sonrió—. Su madre decía que las princesas de Caria no tenían pecas.
 
@@ -430,14 +500,38 @@ Edda sintió que algo se le rompía dentro.
 
 —Se lo diré.
 
-—Y cuídala. —Loretta le apretó la mano con las últimas fuerzas—. Es muy lista. Más que todos nosotros. Pero nunca ha sabido que alguien la cuidara sin que ella lo pidiera.
+—Y cuídala. —Loretta le apretó la mano con las últimas fuerzas—. Es muy lista. Más que todos nosotros. Pero nunca ha sabido que alguien la cuidara sin que ella lo pidiera. —Abrió los ojos—. Él la cuidaba así. Cuando era pequeña. La subía a hombros para que tocara las ramas altas del jardín. —Se le escapó una lágrima—. Ella no te lo dirá. Pero se acuerda.
 
-—Lo haré.
+—¿Quién, abuela? ¿Él quién?
 
-Loretta sonrió una última vez. Y se deshizo en luz azul, como su eco en el patio, como una brasa que se apaga despacio.
+Loretta la miró. Se quedó mirándole los ojos, de cerca, a la luz azul de la caverna, que les daba de lado.
+
+—Tus ojos —murmuró—. Se estrechan. Cuando la luz les da de lado. Como los de un gato. —Le tocó la frente, el sitio donde a veces, de niña, a Edda se le ponía un mechón de pelo más claro que el resto con el sol del verano—. Siempre se te estrecharon. Desde el barco. Te mareabas. Vomitaste todo el viaje. —Se rio, apenas un hilo de aire—. Y tu hermano te sujetaba el pelo.
+
+—Aldren.
+
+—Aldren. —Loretta cerró los ojos—. Se fue con las caravanas del este. A los quince años. Nunca supe… —Se le apagó la voz.
+
+—Abuela. ¿Cómo me llamaba? Antes.
+
+Loretta no abrió los ojos. Pero sonrió, una sonrisa muy pequeña, de alguien que guarda un secreto hasta el final porque se lo prometió a alguien a quien quería.
+
+—Tu madre te puso un nombre que era una promesa —susurró—. Y la has cumplido. Has vuelto.
+
+Y se deshizo en luz azul, como su eco en el patio, como una brasa que se apaga despacio.
 
 En la orilla del lago quedó la alabarda. Y el yelmo con la corona de puntas finas.
 
-Edda se agachó y recogió de la orilla una piedra pequeña, azul, del mismo color que la luz de la caverna, con una veta de plata. La decimonovena.
+Edda se quedó de rodillas junto a la alabarda mucho tiempo. No lloró. Ya había llorado. Se quedó mirando el agua roja, con las manos abiertas en el regazo, como las de una niña que ha perdido algo en un pozo y no sabe cómo bajar a buscarlo.
 
-Luego se levantó, se tocó el bolsillo de dentro —la piedra azul, la piedra de colores, la nota, el colgante, los nombres, la hoja roja de Millicent—, y siguió bajando hacia las raíces.
+Al final cogió el yelmo para dejarlo junto a la alabarda, ordenado, como se dejan las cosas de los muertos. Algo tintineó dentro.
+
+En el forro, atada con un cordón de cuero gastado a la altura de la frente, donde la caballera lo habría llevado contra la piel durante siglos, había una escama. Pequeña. Gris clara, veteada de plata. Engarzada en oro.
+
+Edda la desató. La sostuvo en la palma. Estaba caliente, como las piedras de un círculo sobre un acantilado.
+
+No supo por qué, pero se la colgó al cuello.
+
+Edda se agachó y recogió de la orilla una piedra pequeña, azul, del mismo color que la luz de la caverna, con una veta de plata. La decimocuarta.
+
+Luego se levantó, se tocó el bolsillo de dentro —la piedra azul, la piedra de colores, la nota, el colgante, la hoja roja de Millicent—, y siguió bajando hacia las raíces.

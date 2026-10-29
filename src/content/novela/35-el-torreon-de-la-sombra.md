@@ -126,11 +126,17 @@ Gaius abrió los ojos.
 
 —¿Rellana? ¿La de las dos lunas?
 
-—Me lo contó antes de morir. Que se enamoró de él por eso. Por la mano.
+—Me dijo que por eso le guardó la puerta tantos siglos. No solo por el juramento. Por la mano. Porque debajo de todo seguía habiendo un muchacho que le dio la mano a un albinaurio con la barba ardiendo.
 
 El albinaurio se quedó mirándola. Luego se echó a reír. Una risa enorme, rota, que se convirtió en tos y luego en lágrimas.
 
-—¡Por la mano! —dijo—. ¡Se enamoró por la mano que le di yo! —Se le escapaban las lágrimas—. Nunca me lo dijo. Siglos detrás de él, como su sombra, y nunca me lo dijo. —Resopló, como su jabalí—. Bueno. Él tampoco se lo dijo a ella. Eran así los dos.
+—¡Por la mano! —dijo—. ¡Por la mano que le di yo! —Se le escapaban las lágrimas—. Y él pensando todos estos siglos que se la guardaba por otra cosa. Yo también lo pensé. Todos lo pensábamos.
+
+—No era por otra cosa —dijo Edda—. Ella quería a otro. Desde siempre. Desde un lago. Messmer lo sabía.
+
+Gaius dejó de reír.
+
+—Pobre crío —dijo, muy bajo—. Pobre crío. —Resopló, como su jabalí—. Y aun así se quedó a su lado. Eran así los dos.
 
 —¿Qué querías decirme de él?
 
@@ -258,7 +264,7 @@ Edda pensó en Mohg llevándose la mano a la cabeza. En la cara de niño que des
 
 En una sala pequeña, junto a la escalera principal que subía hacia lo alto del Torreón, Edda encontró una caja.
 
-Estaba sobre una mesa, sola. Era de madera oscura, sencilla, con una cerradura de hierro sin llave. Ansel le había hablado de ella en el puente de Castillo Ensis. _Le escribe cartas. Las guarda en una caja en el Torreón. Nunca las envía._
+Estaba sobre una mesa, sola. Era de madera oscura, sencilla, con una cerradura de hierro sin llave. Ansel le había hablado de ella en el patio de Castillo Ensis, con el libro sobre las rodillas. _Le escribe cartas. Las guarda en una caja en el Torreón. Nunca las envía._
 
 La abrió.
 
@@ -268,15 +274,17 @@ _Madre._
 
 Edda cogió la de arriba. La más reciente. La tinta todavía no había amarilleado.
 
-_Madre. Hoy ha llegado una forastera del otro lado. La han visto los centinelas del río. Ha vencido a Rellana. Rellana está muerta._
+_Madre. Hace dos días llegó una forastera del otro lado. Cruzó la puerta de Ensis. Rellana no la mató. Ella no mató a Rellana._
 
-_No sé por qué te cuento esto. No vas a leerlo. Nunca has leído ninguna. No sé siquiera si sigues viva, ni dónde estás, ni si te acuerdas de que existo._
+_Esa noche llovió con sol sobre el castillo y la luz de la torre no se encendió._
 
-_Pero Rellana ha muerto, y no tengo a nadie más a quien decírselo._
+_No sé por qué te cuento esto. No vas a leerlo. Nunca has leído ninguna. Rellana dice que estás rota, tendida en el suelo de tu Árbol, que tu Árbol ha ardido. No me lo creo. Si fuera verdad, me habrías llamado._
 
-_Me siguió siglos. Nunca le dije nada. Ni una palabra. Pensé que había tiempo. Siempre pensé que había tiempo. Es lo que pasa cuando uno vive tanto: piensa que siempre hay tiempo para las cosas que no se atreve a decir._
+_Rellana ha venido hoy a despedirse. Se va. Con un hombre que cayó del cielo hace siglos en un barranco de Cornudos y que resulta que era el del lago. Siempre fue el del lago. Me lo dijo en una muralla cuando yo tenía la edad de no saber nada, y yo no la creí. Pensé que había tiempo. Siempre pensé que había tiempo. Es lo que pasa cuando uno vive tanto: piensa que siempre hay tiempo para que las cosas cambien solas._
 
-_La serpiente que le di sigue viva. La he encontrado esta mañana en la puerta del Torreón. Ha volado desde Ensis sola. Se ha enroscado en mi brazo y no quiere soltarse._
+_Me ha besado en la frente. Como tú no lo hiciste nunca._
+
+_Me ha devuelto la serpiente. Primavera. La que te puse de nombre por ti. Me ha dicho que ella ya no está sola y yo sí. Tiene razón. No se lo he dicho._
 
 _Mañana vendrá la forastera. Viene a matarme. No voy a huir. Tú me enseñaste a no huir._
 

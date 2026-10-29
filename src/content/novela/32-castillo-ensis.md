@@ -2,21 +2,41 @@ Para llegar al corazón de la Tierra de las Sombras había que cruzar un río, y
 
 Castillo Ensis se alzaba sobre un acantilado, entre la llanura de las cruces y los bosques del interior, con sus murallas grises y sus torres afiladas cortando el cielo plateado como cuchillas. Era una fortaleza de frontera. La habían construido los soldados de Messmer en los años de la conquista, piedra a piedra, con manos de Cornamentados esclavizados, para que nadie entrara en las tierras del interior sin permiso. Desde la llanura parecía una sola roca tallada, sin juntas, sin puertas. Solo cuando uno se acercaba veía el puente levadizo, alzado, y la cadena que lo sujetaba, gruesa como un tronco.
 
-—Hay una entrada lateral —dijo Leda, que la había acompañado hasta el pie del acantilado—. Por los muros del norte. Los caballeros de Messmer la usan para bajar a la llanura de noche.
+Llegaron al río a media mañana, ella y el hombre del barranco, por un sendero de cabras que Hornen les había señalado con la pipa. No hablaron casi en todo el camino. Él iba delante, abriendo paso entre los helechos con los brazos, sin mirar atrás, y cada tanto se detenía a esperarla sin decir nada, como se espera a alguien con quien se ha caminado muchas veces.
 
-—¿Y tú no vienes?
+Al llegar a la orilla se detuvo. El agua bajaba ancha y lenta, de un gris acerado, y al otro lado se levantaba el acantilado, y encima del acantilado, el castillo.
 
-—No. —Leda miró el castillo con una expresión que Edda no supo leer—. Hay alguien dentro que me conoce. Y no quiero que me vea.
+Edda lo vio mirarse las manos. Le temblaban.
 
-—¿Quién?
+—Hasta aquí —dijo él.
 
-—La guardiana. —Leda se ajustó la aguja en la cintura—. Hace mucho, cuando el señor Miquella todavía era un niño en Leyndell, ella fue a verlo. Le llevó un regalo. Una luna pequeña de cristal azul, para colgarla en la ventana de su cuarto. —Hizo una pausa—. Yo estaba allí. Era su guardia. Ella me sonrió al pasar.
+—Hasta aquí.
 
-—¿Y por qué no quieres que te vea?
+—Te espero. —Se sentó en una piedra de la orilla, de cara al castillo, con las manos apretadas entre las rodillas para que no se le movieran—. Si no bajas antes de la noche, subo. Aunque me tiemble todo.
 
-Leda no contestó. Se dio la vuelta y echó a andar hacia la llanura.
+—Bajaré.
 
-—Hay serpientes —dijo, sin volverse—. Muchas. No las mires a los ojos.
+—Eso dicen todos. —Casi sonrió—. Hornen dice que los de tu tierra prometen mucho.
+
+—Mi abuela decía que no se promete lo que no depende de una. —Edda se ajustó la espada a la espalda—. Y luego prometía igual.
+
+Él se quedó mirándola un instante con una expresión rara. Como si la frase le hubiera rozado algo, igual que la palabra _dragona_ la noche antes.
+
+—Ve —dijo.
+
+---
+
+Leda le había explicado la entrada en la iglesia de la llanura, días atrás, cuando aún no sabía si Edda iría a Ensis o no. Una poterna en los muros del norte. La que usaban los caballeros de Messmer para bajar de noche a la llanura.
+
+—¿Y tú no vendrás? —le había preguntado Edda.
+
+—No. —Leda había mirado hacia el oeste con una expresión que Edda no supo leer—. Hay alguien dentro que me conoce. La guardiana. Hace mucho, cuando el señor Miquella todavía era un niño en Leyndell, ella fue a verlo. Le llevó un regalo. Una luna pequeña de cristal azul, para colgarla en la ventana de su cuarto. Yo estaba allí. Era su guardia. Ella me sonrió al pasar. —Hizo una pausa—. Y luego la volví a ver. Más tarde. En otro sitio. Con otra gente. Y no quiero que me vea ahora.
+
+—¿Por qué?
+
+Leda no había contestado. Solo había dicho, dándose la vuelta:
+
+—Hay serpientes. Muchas. No las mires a los ojos.
 
 ---
 
@@ -26,7 +46,7 @@ Edda entró en el castillo por la entrada del norte, una poterna estrecha excava
 
 No la atacaron. Ni una. Pero la siguieron con la mirada todo el tiempo, por todos los patios, por todos los pasillos, y Edda tuvo la sensación de que lo que la miraba no eran las serpientes, sino algo que miraba a través de ellas.
 
-—Las serpientes de Messmer —le había dicho Leda en la llanura—. Le salen del cuerpo. Las lleva dentro desde que nació.
+—Las serpientes de Messmer —le había dicho Leda en la iglesia—. Le salen del cuerpo. Las lleva dentro desde que nació.
 
 —¿Dentro?
 
@@ -100,7 +120,7 @@ El caballero negó con la cabeza.
 
 —Sigue.
 
-—Vaya. —El caballero se quedó pensativo—. La guardiana pregunta por ella a veces. Por la muchacha que le abrió la puerta del cuarto del niño, en Leyndell, hace siglos. —Volvió a bajar la vista al libro—. Ten cuidado con la guardiana. Es la mejor espada que he visto nunca. Y no está aquí por obligación. Está aquí por amor. Que es mucho peor.
+—Vaya. —El caballero se quedó pensativo—. La guardiana pregunta por ella a veces. Por la muchacha que le abrió la puerta del cuarto del niño, en Leyndell, hace siglos. —Volvió a bajar la vista al libro—. Ten cuidado con la guardiana. Es la mejor espada que he visto nunca. Y no está aquí por obligación. Está aquí por un juramento. Que es mucho peor que el amor. El amor se cansa.
 
 ---
 
@@ -134,9 +154,11 @@ Rellana se quedó inmóvil.
 
 —Loretta —dijo—. ¿Sigue allí?
 
-—Su eco sí. Ella se fue. Me pidió que le dijera a la princesa que lo sentía.
+—Su eco sí. Ella no. —Edda se tocó la escama del cuello—. Murió hace poco. Junto a un lago rojo, debajo de un árbol. Con una alabarda en la mano. Me crió ella. Hizo de abuela mía toda mi vida, y yo no lo supe hasta el final.
 
 La llama de la espada dorada parpadeó.
+
+—¿Loretta? ¿Una abuela? —Detrás de la máscara, la voz se volvió extraña—. Tenía dieciséis años la última vez que la vi de verdad. Juró en la escalinata de la mansión. Era hija de un pescador. Juró el mismo día que… —Se detuvo—. Que alguien. Juró el mismo día que alguien. —Bajó un poco la espada azul—. No me acuerdo de quién. Qué raro. Me acuerdo de la escalinata, de la lluvia, de la cara de Loretta, tan seria. Y a su lado hay un hueco con la forma de una persona.
 
 —Mi hermana era la reina de la luna llena —dijo Rellana al fin—. Rennala. ¿La conoces?
 
@@ -172,7 +194,7 @@ La caballera se quedó muy quieta. Las dos espadas bajaron un poco.
 
 —Ranni —repitió—. La pequeña. La de la luna fea. —Detrás de la máscara, la voz se le quebró—. ¿Vive?
 
-—Vive. En una torre al oeste del lago. En un cuerpo de muñeca, durante siglos. Ahora… —Edda se detuvo—. Ahora en el suyo. Lo recuperó.
+—Vive. Pasó siglos en un cuerpo de muñeca, en una torre al oeste del lago. Ahora vuelve a estar en el suyo. —Edda se detuvo—. Y se ha llevado la Orden. Lejos. A las estrellas. Para que nadie pueda volver a atar el mundo con ella. Me está esperando en su torre.
 
 Rellana se acercó. Despacio. Sin levantar las espadas. Se detuvo a tres pasos de Edda, y se quedó mirándola a través de la máscara de los ojos cerrados. Y luego, de pronto, bajó la vista. Hacia su pecho. Hacia la capa. Hacia el bolsillo de dentro.
 
@@ -204,71 +226,125 @@ Rellana se quitó el yelmo.
 
 ---
 
-Debajo había una cara de mujer madura, bella, de facciones finas, con el pelo blanco que en otro tiempo había sido negro. Tenía arrugas finas alrededor de los ojos y una cicatriz pequeña en la barbilla. Tenía los ojos azules de su hermana. Los de Ranni. Pero al contrario que los de Rennala, estos no estaban tristes ni perdidos. Estaban tranquilos. Y un poco húmedos.
+Debajo había una cara de mujer, bella, de facciones finas, con el pelo blanco que en otro tiempo había sido negro. Tenía arrugas finas alrededor de los ojos y una cicatriz pequeña en la barbilla. Tenía los ojos azules de su hermana. Los de Ranni. Pero al contrario que los de Rennala, estos no estaban tristes ni perdidos. Estaban tranquilos. Y un poco húmedos.
 
 —Mi sobrina se ha enamorado de una Sinluz —dijo, con una sonrisa que le temblaba en los labios—. Qué disparate. Qué disparate tan de nuestra familia.
 
 —No sé si…
 
-—Yo sí lo sé. —Rellana miró la piedra—. Nadie regala su luna sin más. En Caria no. Es lo más íntimo que tenemos. Es como regalar un trozo de la cara. —Levantó la vista hacia Edda—. Mi hermana se enamoró de un campeón que vino a conquistarla con un martillo. Mi madre, de una luna que no hablaba. Yo, de un hombre con una serpiente en el ojo. En mi familia nos enamoramos de cosas extrañas. —Hizo una pausa—. Una Sinluz que coge piedras para un niño muerto es de lo menos extraño que ha pasado en mi familia.
+—Yo sí lo sé. —Rellana miró la piedra—. Nadie regala su luna sin más. En Caria no. Es lo más íntimo que tenemos. Es como regalar un trozo de la cara. —Levantó la vista hacia Edda—. Mi hermana se enamoró de un campeón que vino a conquistarla con un martillo. Mi madre, de una luna que no hablaba. Yo… —Se detuvo. Frunció el ceño, como quien busca una palabra que tenía en la punta de la lengua y se le ha ido—. Yo no lo sé. Es curioso. Sé que me enamoré. Lo sé como se sabe que una tuvo fiebre de niña, porque te lo han contado y porque te quedó una marca. Pero no sé de quién. —Sacudió la cabeza—. En mi familia nos enamoramos de cosas extrañas. Una Sinluz que coge piedras para un niño muerto es de lo menos extraño que ha pasado en mi familia.
+
+—Tu sobrina me dio un mensaje para ti —dijo Edda, sin mirarla, todavía con la cara ardiendo—. Que le dabas la razón. Bueno. Que ella te da la razón. En lo de las lunas. Que la suya era suya, aunque fuera fea. Y que te lo agradece. Que se sentaras a su lado aquel día.
+
+Rellana no contestó. Se llevó la mano a la boca, por encima de la sonrisa, y la dejó allí un rato.
 
 Edda guardó la piedra en el bolsillo de dentro. Le ardían las mejillas.
 
-—¿Messmer? —preguntó, para cambiar de tema—. ¿El hombre de la serpiente?
+—¿Y Messmer? —preguntó, para cambiar de tema—. Ansel dice que estás aquí por él.
 
 Rellana se volvió hacia el ventanal. Hacia el castillo negro.
 
-—Lo vi luchar por primera vez en un torneo de las tierras bajas —dijo—. Hace siglos. Yo era joven. Él también. Luchó contra un albinaurio enorme que montaba un jabalí. Le quemó la armadura. Lo tiró al suelo. Y luego, cuando el albinaurio estaba en el suelo, vencido, con todo el mundo gritando que lo rematara… le dio la mano. Le dio la mano para levantarlo. Eso fue lo que vi. No el fuego. La mano.
+—Le serví porque lo juré —dijo—. Hace siglos. Juré servir al Árbol allí adonde el Árbol me enviara, para que terminara una guerra en el lago de mi hermana. Y el Árbol me envió con él. —Apoyó la mano en el cristal del ventanal—. Lo vi quemar esta tierra. Lo vi quemar Belurat. Lo vi colgar a los Cornamentados en cruces de hierro. Y me quedé. Porque lo había jurado. Y porque una vez, después del último incendio, lo encontré en las ruinas de un templo, de rodillas, solo, con un niño Cornudo muerto en los brazos, llorando. No lloraba nunca. —Cerró los ojos—. Y porque de joven, en un torneo en Leyndell, quemó a un albinaurio que se levantó del suelo riéndose, con la barba ardiendo, y Messmer le dio la mano. Delante de todos. Delante de su madre. Eso no se lo olvido. Desde entonces le guardo la puerta. Le tengo cariño. Le tengo pena. Es mi amigo, el único que tengo en esta tierra. Pero no estoy aquí por él. Estoy aquí por lo que juré.
 
-—Y lo seguiste.
+—¿Lo amabas?
 
-—Renuncié a Caria. A mi derecho de nacimiento. A mi hermana. —Rellana apoyó la mano en el cristal del ventanal—. Me fui a Leyndell y gané un duelo ritual para que me dejaran servir al Árbol, solo para estar cerca de él. Y cuando su madre lo mandó aquí a quemar esta tierra, vine con él. Lo vi quemarla. Lo vi quemar Belurat. Lo vi colgar a los Cornamentados en cruces de hierro. Y me quedé. Porque esperaba volver a ver la mano.
+—No. —Rellana lo dijo sin dudar, enseguida, como se aparta la mano de una plancha—. Nunca. Él a mí sí. Me lo dijo una vez, hace siglos, en una muralla de Leyndell, antes de la cruzada, con su única mano buena temblándole. Me preguntó si alguna vez podría. —Cerró los ojos—. Le dije que no. Que mi corazón estaba en un lago. Lo recuerdo perfectamente: la muralla, el viento, la cara que puso. Recuerdo que le dije _en un lago_.
 
-—¿Y la viste?
+—¿Qué lago?
 
-—Una vez —dijo al fin—. Después del último incendio. Lo encontré en las ruinas de un templo, de rodillas, solo, con un niño muerto en los brazos. Un niño Cornudo. Lo había sacado de entre las cenizas. Y estaba llorando. —Cerró los ojos—. No lloraba nunca. Ni cuando su madre lo dejaba. Ni cuando las nodrizas lo llamaban monstruo. Pero ese día lloraba con un niño muerto en los brazos, uno de los que él mismo había quemado. —Abrió los ojos—. Y yo supe que me quedaría para siempre. Por si volvía a pasar.
+—Ahí está. —Rellana abrió los ojos, y había algo perdido en ellos—. No lo sé. Liurnia, supongo. Mi casa. Pero cuando lo pienso, cuando pienso en lo que había en ese lago para que yo le dijera eso a un príncipe que me lo pedía temblando… no hay nada. Hay agua. Una barca, quizá. Y nada más. Es raro. Hay cosas que recuerdo con mucha claridad: el juramento, el duelo en el coliseo, la cruzada, la mano. Y hay otras que… no están. Como si me las hubieran cortado. —Se llevó la mano al pecho, al lado izquierdo—. Siempre tengo frío en este lado, ¿sabes? Desde hace siglos. Desde una noche de luna llena en que la sombra de esta tierra se abrió un instante y algo salió por el hueco. Algo mío. Como cuando se te queda dormido un brazo. —Abrió los ojos—. Tuve dos lunas toda la vida, forastera. Ahora solo sé llamar a las dos en la batalla. El resto del tiempo, solo me queda una. La que juró.
 
-Edda no dijo nada.
+Edda se quedó muy quieta. Pensó en un círculo de piedras calientes sobre un acantilado. En una luna de cristal azul girando sobre una tumba. En un hombre sentado en una piedra, al pie de aquel mismo acantilado, con las manos apretadas entre las rodillas para que no le temblaran.
 
-—No ha vuelto a pasar —dijo Rellana—. En siglos. Pero aquí sigo. Guardando su puerta.
+—Juraste servir al Árbol —dijo despacio.
+
+—Allí adonde me enviara.
+
+—El Árbol ha ardido.
+
+Rellana se volvió.
+
+—Lo quemé yo —siguió Edda—. Hace muy poco. Con una llama que no se apaga. Ya no está. En las Tierras Intermedias, donde estaba el Árbol Áureo, ahora hay un tronco negro y ceniza que cae como nieve. La reina está rota. La Orden se ha ido a las estrellas con tu sobrina. —Tragó saliva—. No queda Árbol al que servir. Tu juramento no tiene a quién obedecer.
+
+La caballera no dijo nada durante mucho tiempo. Se quedó de pie junto al ventanal, con la cara descubierta, mirando a Edda como si le hubiera hablado en una lengua que entendía a medias.
+
+Luego se llevó la mano al pecho. Al lado izquierdo. Al lado frío.
+
+—Qué extraño —murmuró.
+
+—¿Qué?
+
+—Está menos frío. —Apretó la mano—. Un poco. Como cuando se te despierta un brazo dormido y te empiezan a picar los dedos.
 
 ---
 
-Se quedaron un rato en silencio, las dos, junto al ventanal, mirando el castillo negro al otro lado del río.
+—Me dieron otro mensaje para ti —dijo Edda—. En Altus. En unas ruinas sobre el lago de Liurnia.
 
-—Tengo que cruzar —dijo Edda al fin.
+—¿Para mí?
 
-—Hacia allí. Hacia el Torreón. Hacia él.
+—Para una mujer con dos espadas, una dorada y otra azul, que guarda una puerta. —Edda respiró en dos veces—. Me dijeron que te dijera que él te esperó. En un círculo de piedras. Hasta el final.
+
+Rellana no se movió.
+
+—¿Quién?
+
+—Se llamaba Lynx.
+
+El nombre se quedó en el aire de la sala, entre las dos, como una piedra que se tira a un pozo y no hace ruido al llegar al fondo. Rellana lo repitió en voz baja, despacio, probándolo, como quien prueba una palabra en una lengua que estudió de niña y ha olvidado.
+
+—Lynx.
+
+—Era hijo de Godwyn. Y de una dragona. Lo criaron en Caria. Tu hermana. Y tú.
+
+—No lo conozco. —Rellana negó con la cabeza—. No… no lo recuerdo. —Pero se había llevado otra vez la mano al pecho, al lado que ya no estaba tan frío, y la apretaba, y le temblaban los dedos—. Qué nombre tan raro. Es un nombre raro.
+
+—Era un niño raro —dijo Edda, sin saber de dónde le salía la frase.
+
+Rellana se volvió hacia ella de golpe. En su cara descubierta, Edda vio algo que podía ser un sollozo, o una risa, o las dos cosas.
+
+—Entonces aquí estará bien —murmuró la caballera, como quien recita algo que ha oído en un sueño.
+
+Se quedó callada mucho tiempo, mirando el castillo negro al otro lado del río.
+
+Edda abrió la boca para hablarle del hombre del barranco. De la piedra en la orilla. De la lluvia con sol. Y la cerró. No era suyo decirlo. No sabía si era verdad. Y si no lo era, si se equivocaba, si aquel hombre era otra cosa, le estaría haciendo a aquella mujer lo peor que se le puede hacer a alguien que lleva siglos esperando: darle una fecha.
+
+---
+
+—Tengo que cruzar —dijo Edda al fin—. Hacia el Torreón. Hacia Messmer.
 
 —Lo sé. —Rellana se volvió hacia ella—. Vas a matarlo.
 
 Edda no contestó.
 
-—Lo vas a matar —repitió Rellana, muy tranquila—. Lo he visto en cuanto has entrado. Llevas la muerte de muchos encima. De semidioses. De mi sobrino Radahn, incluso. Lo noto. —Hizo una pausa—. Y de Rykard. Y de Morgott. Y de Mohg. Los llevas a todos. Y no los llevas con orgullo. Los llevas con pena.
+—Lo vas a matar —repitió Rellana, muy tranquila—. Lo he visto en cuanto has entrado. Llevas la muerte de muchos encima. De semidioses. De mi sobrino Radahn, incluso. Lo noto. Y de Rykard. Y de Morgott. Y de Mohg. Los llevas a todos. Y no los llevas con orgullo. Los llevas con pena.
 
 —¿Y vas a dejarme pasar?
 
-Bajo la luz plateada, Edda vio algo que podía ser una sonrisa.
+—No lo sé. —Por primera vez desde que Edda había entrado en la sala, la voz de la caballera dudó—. Llevo siglos siendo una sola cosa. La que guarda esta puerta. La que juró. Y ahora vienes tú y me dices que no hay a quién jurar. —Se miró las espadas—. No sé quién soy sin eso. No me acuerdo de quién era antes. Tengo un hueco con la forma de una persona y un lago sin nada dentro.
 
-—No —dijo Rellana—. Mi deber no ha cambiado. Nadie pasa por Castillo Ensis sin vencerme.
+Se puso el yelmo, despacio, y la cara de mujer de ojos cerrados volvió a cubrir la suya.
 
-—¿Aunque te lo pida?
+—Lucha conmigo —dijo—. No por la puerta. Por mí. Quiero saber quién soy cuando pierdo.
 
-—Aunque me lo pidas. —Rellana se puso el yelmo, despacio, y la cara de mujer de ojos cerrados volvió a cubrir la suya—. Si te dejara pasar, sería como decirle que he dejado de esperar. Y no he dejado de esperar.
+—¿Y si no pierdes?
 
-Se puso en guardia. La espada azul y la dorada, una a cada lado.
-
-—Pero si me vences —dijo— te diré una cosa antes de irme. Una cosa que solo sé yo.
+—Entonces seguiré aquí. —Rellana se puso en guardia, la espada azul y la dorada, una a cada lado—. Y él seguirá teniendo quien le guarde la puerta.
 
 ---
 
 Rellana luchaba como luchaban en Caria: con elegancia, con precisión, con una mezcla de espada y magia que hacía que cada movimiento fuera un hechizo. La espada azul lanzaba ondas de luz lunar que congelaban el aire y dejaban escarcha en el mármol. La espada dorada lanzaba arcos de fuego que lo fundían. Las dos juntas se entrelazaban en una danza de luz y llamas que llenaba la sala de vapor, de reflejos, de chispas.
 
-Era la mejor espada que Edda había visto nunca. Mejor que Godrick, que Rykard, que la sombra de Godfrey. Se movía como Millicent en las dunas, como si supiera dónde iba a estar Edda antes de que lo estuviera. Pero sin la memoria de otra. Con la suya propia. Con siglos de práctica en aquella sala vacía, esperando.
+Era la mejor espada que Edda había visto nunca. Mejor que Godrick, que Rykard, que la sombra de Godfrey. Mejor que Loretta junto al lago rojo. Se movía como Millicent en las dunas, como si supiera dónde iba a estar Edda antes de que lo estuviera. Pero sin la memoria de otra. Con la suya propia. Con siglos de práctica en aquella sala vacía, esperando.
+
+Y había algo más. Algo que Edda tardó tres muertes en ver.
+
+Rellana recogía el codo. Al parar con la espada azul por la izquierda, antes de devolver el golpe, recogía el codo contra el costado, un instante, y lo soltaba. Igual que Loretta. Igual que Edda, que lo hacía desde niña porque su abuela se lo había enseñado a golpes de vara en el patio de la casa de la puerta azul.
+
+_Me lo enseñó alguien que lo aprendió de alguien_, le había dicho Loretta junto al lago, con el yelmo en la mano. _Así pasan las cosas buenas. De mano en mano._
 
 En un momento de la batalla, Rellana se apartó de un salto hasta el centro de la sala y levantó las dos espadas por encima de la cabeza. Sobre ella aparecieron dos lunas.
 
-Una azul, fría, enorme, como la que había lanzado Rennala en la biblioteca. Y otra dorada, ardiente, como un sol pequeño. Superpuestas. Una encima de la otra, como dos amantes que se abrazan. Como las que habían visto dos niñas de diez años sobre un lago una noche de otoño.
+Una azul, fría, enorme, como la que había lanzado Rennala en la biblioteca. Y otra dorada, ardiente, como un sol pequeño. Superpuestas. Una encima de la otra, como dos amantes que se abrazan. Como las que habían visto dos niñas de diez años sobre un lago una noche de otoño, con un bebé de pelo oscuro dormido en los brazos de una de ellas.
 
 —¡Lunas gemelas! —gritó Rellana, y su voz se quebró en la última palabra.
 
@@ -276,7 +352,7 @@ Y las lanzó.
 
 Edda corrió. Las dos lunas cayeron tras ella, una helando el suelo, la otra fundiéndolo. La sala se llenó de vapor y de un estruendo como de hielo que se rompe y agua que hierve.
 
-Murió cuatro veces. Cada vez volvía a una gracia pálida en el patio central, junto al caballero de las gafas, que la veía aparecer y levantaba la vista del libro y no decía nada. Cada vez volvía a subir.
+Murió cuatro veces. Cada vez volvía a una gracia pálida en el patio central, junto a Ansel, que la veía aparecer y levantaba la vista del libro y no decía nada. Cada vez volvía a subir.
 
 A la quinta, cuando Rellana lanzó de nuevo las lunas, Edda no corrió.
 
@@ -288,102 +364,68 @@ Rellana la vio llegar. Tuvo tiempo de reaccionar. Edda lo vio: vio la espada azu
 
 Y vio que se detenían.
 
-Rellana bajó las espadas un instante antes de que la de Edda la alcanzara.
+Rellana bajó las espadas.
+
+Y Edda detuvo la suya a un dedo del cuello de la caballera. Allí. En el aire. Sin que nadie se lo pidiera. La punta tembló contra la juntura del yelmo y no siguió.
+
+Se quedaron así las dos, quietas, en el centro de la sala, entre el vapor que subía del mármol.
 
 ---
 
-La caballera cayó de rodillas en el suelo helado de la sala. La espada azul se le escapó de la mano y resbaló por el mármol. La dorada se apagó.
+Rellana cayó de rodillas.
 
-Se quitó el yelmo despacio. Tenía la cara tranquila. Le salía sangre por la comisura de los labios.
+No estaba herida. Edda lo vio enseguida. Cayó como cae alguien a quien le han quitado de golpe un peso que llevaba siglos cargando, y las piernas no saben qué hacer con la ligereza. La espada azul se le escapó de la mano y resbaló por el mármol helado. La dorada se apagó.
 
-—Bien luchado —dijo—. Mejor que muchos.
+Se quitó el yelmo despacio.
 
-—Has bajado las espadas.
+—No me has matado —dijo.
 
-—¿Sí? —Rellana sonrió—. Será que estoy vieja. —Se miró las manos—. O será que he visto el camino de plata entre las dos lunas, y que lo has encontrado. Nadie lo había encontrado nunca. Ni él. —Hizo una pausa—. Solo Ranni, de niña. Una vez. Jugando en el jardín con mi espada de madera. Lo vio y se metió por él y me dio en la rodilla. Y se rio. —Cerró los ojos—. Me pareció justo que lo encontrara alguien a quien ella quiere.
+—No.
 
-Edda se arrodilló a su lado. Le cogió la mano. Estaba fría, de la espada azul, y caliente, de la dorada, las dos cosas a la vez.
+—Podías.
 
-—Lo siento —dijo.
+—Lo sé. —Edda bajó la espada—. Tú también has bajado las tuyas.
 
-—No lo sientas. —Rellana abrió los ojos—. He guardado esta puerta durante siglos. Estoy cansada. Muy cansada. —Miró por el ventanal, hacia el río, hacia el castillo negro—. Te he dicho que te diría una cosa.
+—¿Sí? —Rellana sonrió. Le corría el sudor por la frente y tenía el pelo blanco pegado a las sienes—. Será que estoy vieja. —Se miró las manos—. O será que has encontrado el camino de plata entre las dos lunas. Nadie lo había encontrado nunca. Solo Ranni, de niña. Una vez. Jugando en el jardín con mi espada de madera. Lo vio y se metió por él y me dio en la rodilla. Y se rio.
 
-—Sí.
+Se calló.
 
-—Escucha bien. —Rellana le apretó la mano—. Cuando llegues a él. Cuando lo tengas delante, con su fuego y sus serpientes, y te parezca un monstruo, que te lo parecerá… acuérdate de la mano. Del albinaurio en el torneo. Del niño muerto en las cenizas. Debajo de todo lo que es, sigue habiendo un muchacho al que su madre arrancó un ojo al nacer y visitaba dos veces al año. Que se sentaba en lo alto de una torre a mirar el camino por donde tenía que llegar ella. Que todavía la espera.
+Frunció el ceño. Se quedó mirando el mármol con una cara rara, de pronto, como quien oye una música muy lejos y no sabe de dónde viene.
 
-—Lo recordaré.
+—No —dijo—. No solo Ranni.
 
-—Y si puedes… —Rellana se detuvo—. Si puedes, no lo dejes morir solo. Como ha vivido.
+Edda no dijo nada. No se atrevió.
 
-—Te lo prometo.
+—Hubo alguien antes. —Rellana hablaba despacio, sin levantar la vista, como si fuera leyendo algo escrito muy pequeño en el suelo—. Antes de Ranni. Mucho antes. Lo encontró a… a los dieciocho años. En la orilla del lago. Llevaba ocho años perdiendo contra mí. Ocho años. Todos los días. Le daba en la rodilla, en el hombro, en la cabeza, y él se levantaba y volvía, y volvía, y yo pensaba _este no aprende nunca_. —Se le quebró la voz—. Y un día aprendió. Se metió por el camino de plata entre mis dos lunas y me puso la espada de madera en el cuello. Así. Como tú. Y se quedó así, sin moverse, muy serio. Y yo le dije…
 
-Rellana sonrió.
+Se llevó las manos a la cara.
 
-—Mi sobrina ha elegido bien —dijo—. Qué disparate.
+—Le dije que le seguiría enseñando otras cosas —dijo, detrás de las manos—. Y lo besé. Y él hizo llover con sol. Encima del lago. La primera vez.
 
-Se quedó un momento callada, mirando el techo de la sala.
-
-—Si ves a mi hermana —dijo al fin, más bajo—. Cuando vuelvas. Dile que lo siento. Que no debí irme. Que la quería. Que la luna azul no se fue esa noche, que me la quedé yo, y que la he llevado conmigo siempre. —Cerró los ojos—. Que nunca fue justo. Que nada es justo. Que lo decía padre.
-
-—Se lo diré.
-
-Rellana asintió. Muy despacio. Y su cuerpo se deshizo en una lluvia de luz azul y dorada, como dos lunas que se apagan a la vez, y la luz subió hacia el techo abovedado de la sala y se quedó allí un instante, superpuesta, abrazada, antes de desaparecer.
-
-En la mano de Edda no quedó nada. Solo frío en un lado de la palma y calor en el otro.
+Fuera, sobre el río, retumbó un trueno.
 
 ---
 
-Al otro lado del castillo, el puente levadizo había bajado solo. Cruzaba el río hacia el interior de la Tierra de las Sombras: los bosques negros, las ruinas, las montañas. Y a lo lejos, sobre su colina, el castillo negro con torres como lanzas. El Torreón de la Sombra. La fortaleza de Messmer.
+Rellana levantó la cabeza.
 
-El caballero de las gafas estaba en mitad del puente, con su libro bajo el brazo. La serpiente pequeña que dormía en su yelmo se había enroscado ahora en su muñeca.
+Se levantó. Despacio, primero. Luego no tan despacio. Fue hasta el ventanal central, el que daba al río, y apoyó las dos manos en el cristal.
 
-—La has vencido —dijo, sin sorpresa—. Ella sabía que algún día alguien lo haría. Me lo decía a veces. Que esperaba que fuera alguien que mereciera la pena.
+Edda fue detrás de ella.
 
-—Bajó las espadas.
+Sobre el río, sin una nube, estaba lloviendo. Una lluvia fina, cálida, que caía en una franja estrecha sobre la orilla de enfrente, al pie del acantilado, y que brillaba dorada en cada gota, como si cada gota llevara dentro un sol pequeño. Solo allí. Solo sobre aquella orilla. El resto de la Tierra de las Sombras seguía gris y seco bajo el cielo plateado.
 
-El caballero se subió las gafas.
+Y en el centro de la lluvia, de pie junto a una piedra, con la cara levantada hacia la torre, había un hombre enorme.
 
-—Sí —dijo al fin—. Lo imaginaba. —Miró hacia la torre del río, donde ya no había luz—. Llevaba años esperando una excusa para dejar de esperar.
+Desde aquella altura no se le veía la cara. No se le veían las manos. No se le veía el mechón de la frente. Solo se veía que era muy grande, que estaba quieto y que miraba hacia arriba. Hacia la ventana. Hacia ellas.
 
-—¿Por qué no me detuviste tú?
+Rellana no dijo nada. Se le había puesto la cara blanca, del color del pelo.
 
-—Ya te lo dije. No soy un buen guerrero. —El caballero sonrió—. Y además, creo que esta tierra necesita que alguien la cruce. Que alguien vea lo que pasó aquí. Que alguien lo cuente al otro lado, donde no está en ningún libro. —Le tendió el libro—. Toma. Para que no lo olvides. Para que alguien allí lo lea.
+Se llevó la mano al pecho. Al lado izquierdo. La dejó allí.
 
-Edda cogió el libro. Era pesado, encuadernado en cuero negro, con las páginas amarillentas y una escritura fina, apretada, en una lengua antigua que no conocía. En la primera página había un dibujo hecho con tinta, a mano: una muchacha de pelo dorado saliendo de una tinaja rota, con los brazos abiertos, mirando hacia arriba. Y en el suelo, junto a la tinaja, una planta pequeña, de dos hojas.
+—Está caliente —dijo, sin voz.
 
-Edda se quedó mirando el dibujo.
+Y antes de que Edda pudiera decir nada, la caballera de las lunas gemelas, guardiana de Castillo Ensis durante siglos, que no había abandonado aquella sala en todo ese tiempo más que para ir a la muralla y volver, se dio la vuelta, cruzó la sala corriendo por el mármol helado, sin espadas, sin yelmo, con la trenza blanca golpeándole la espalda, y desapareció escaleras abajo.
 
-—¿Quién lo dibujó?
+Edda se quedó sola junto al ventanal, viendo llover con sol sobre la orilla de enfrente.
 
-—Yo. —El caballero se encogió de hombros—. Es como me la imagino. No sé si es verdad. —Hizo una pausa—. La planta es lo que nunca sale en los libros. Lo que salió de la tinaja de verdad, dicen los Cornamentados viejos. No una diosa. Una hierba.
-
-Edda se tocó la bolsa de cuero que llevaba al cuello. No dijo nada.
-
-—¿Cómo te llamas? —preguntó, en cambio.
-
-El caballero la miró un momento. Luego sonrió, como si nadie se lo hubiera preguntado nunca dos veces.
-
-—Ansel —dijo—. Me llamo Ansel. De Leyndell. Hijo de un encuadernador.
-
-—Se lo diré a quien lea el libro.
-
-—Bien. —Ansel se volvió hacia el castillo, despacio, de vuelta a su biblioteca—. Eso estaría bien.
-
----
-
-Esa noche, Edda acampó en el otro lado del río, al borde del bosque negro. No encendió fuego. Se sentó con la espalda contra un árbol y sacó la piedra azul del bolsillo de dentro.
-
-_Mi sobrina se ha enamorado de una Sinluz. Qué disparate._
-
-_Nadie regala su luna sin más. Es como regalar un trozo de la cara._
-
-Se quedó mirando la luna diminuta girar dentro de la piedra. Pensó en Rogier, en su sofá, diciendo _ella lo planeó todo_. Pensó en Rellana bajando las espadas porque alguien había encontrado el camino de plata que solo Ranni había encontrado de niña.
-
-Pensó que no sabía nada. Que Ranni había hecho cosas terribles, quizá. Que había abierto o no había abierto una puerta, que había robado o no había robado una runa, que había matado o no había matado a un príncipe al que todos querían. Que ella misma había matado a mucha gente en una guerra antes de morir, y a muchos más después. Que Messmer había quemado niños y había llorado con uno en brazos. Que Marika había quemado Belurat y su madre le seguía cantando desde un cántaro.
-
-Que nadie era una sola cosa.
-
-Guardó la piedra. Se sacó la bolsa de cuero del cuello y le echó unas gotas de agua al brote. Las dos hojas brillaban un poco a la luz plateada del cielo sin sol.
-
-Luego sacó el libro de Ansel, lo abrió por la primera página, y se quedó dormida mirando el dibujo de la muchacha saliendo de la tinaja.
+En el suelo de la sala, junto a la espada azul caída, la escarcha se estaba derritiendo.

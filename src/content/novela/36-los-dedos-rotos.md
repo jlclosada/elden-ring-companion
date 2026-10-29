@@ -76,13 +76,13 @@ Ymir dejó la copa en la mesa. Despacio.
 
 —¿Cómo sabes eso?
 
-—Una de ellas me lo contó. Antes de morir.
+—Una de ellas me lo contó. Hace dos semanas.
 
 El conde se quedó inmóvil. Detrás de la máscara, los ojos se le abrieron mucho.
 
-—¿Antes de morir? —repitió—. ¿Cuál?
+—¿Hace dos semanas? —repitió—. ¿Cuál?
 
-—Rellana. La de las dos lunas. —Edda lo miró—. La maté en Castillo Ensis. Hace dos semanas. Guardaba la puerta de Messmer.
+—Rellana. La de las dos lunas. —Edda lo miró—. La vencí en Castillo Ensis. Guardaba la puerta de Messmer. Ya no la guarda.
 
 Ymir se quedó sentado, inmóvil, con las manos sobre la mesa. Luego, muy despacio, se quitó la máscara de plata.
 
@@ -96,9 +96,25 @@ Debajo había una cara vieja, viejísima, de piel arrugada como el papel, con un
 
 Edda no dijo nada.
 
-—¿Cómo murió? —preguntó Ymir.
+—¿Y ahora? —preguntó Ymir—. ¿Qué es de ella?
 
-—Bajó las espadas. —Edda se miró las manos—. En el último momento. Cuando encontré el hueco entre sus dos lunas. Dijo que solo una persona lo había encontrado antes que yo. Su sobrina. De niña. Jugando en el jardín.
+—Bajó las espadas. —Edda se miró las manos—. En el último momento. Cuando encontré el hueco entre sus dos lunas. Dijo que solo una persona lo había encontrado antes que yo. Su sobrina. De niña. Jugando en el jardín. —Hizo una pausa—. Y luego se acordó de que no. De que hubo otro antes. Un muchacho, en la orilla de un lago, a los dieciocho años.
+
+Ymir se quedó muy quieto.
+
+—Y ese muchacho estaba al otro lado del río —siguió Edda—. Esperando. Lleva siglos en esta tierra, en un barranco de Cornudos, sin memoria, sin nombre. Cayó del cielo como una estrella. Ahora tiene las dos cosas. Y la tiene a ella.
+
+El conde no dijo nada durante mucho tiempo. Luego, muy despacio, se le empezó a mover la boca, como si fuera a decir algo y no le saliera. Y se le llenaron los ojos de lágrimas.
+
+—¿Lynx? —dijo al fin—. ¿El hijo del rayo? ¿El del mechón?
+
+—Lynx.
+
+—Los casé yo. —A Ymir se le quebró la voz—. En la Iglesia de los Votos. En una isla, con el tejado hundido. Se me cayeron las gafas al agua y un caballero enorme tuvo que bucear para sacarlas. —Se rio, y se le saltaron las lágrimas—. Les dije que las estrellas que se separan vuelven a cruzarse. Millones de años después. No porque lo busquen. Porque giran alrededor de lo mismo. —Se tapó la cara con las manos viejas—. Lo dije porque quedaba bonito. No me lo creía. Era una cosa que se dice en las bodas.
+
+—Era verdad.
+
+—Era verdad. —Ymir bajó las manos—. Y yo aquí, siglos, preguntándome quién las puso en el cielo. Cuando lo único que había que saber de ellas lo dije yo mismo en una iglesia en ruinas, sin darme cuenta. —Miró por la ventana redonda—. Qué viejo tonto.
 
 —Ranni. —Ymir cerró los ojos—. La de la luna fea. Le enseñé a dibujar estrellas. Tenía siete años. Dibujaba mejor que su madre. Se manchaba de tinta hasta los codos.
 
@@ -106,7 +122,7 @@ Edda no dijo nada.
 
 Ymir abrió los ojos. Miró por la ventana redonda, hacia el cielo plateado, sin estrellas.
 
-—Porque un día miré hacia arriba —dijo— y me pregunté quién las había puesto allí. Y no pude dejar de preguntármelo. Amar algo no basta, forastera. Cuando amas algo muchos años, quieres saber de dónde viene. Quieres conocer a quien lo hizo. Quieres que te mire. —Se tocó la cicatriz de la frente, con la punta de los dedos—. Y seguí el rastro. De las estrellas a los Dedos. De los Dedos a su madre. Crucé al otro lado detrás de Rellana, porque pensé que donde iba ella iría la respuesta. Y la encontré aquí. En esta catedral. Durmiendo.
+—Porque un día miré hacia arriba —dijo— y me pregunté quién las había puesto allí. Y no pude dejar de preguntármelo. Amar algo no basta, forastera. Cuando amas algo muchos años, quieres saber de dónde viene. Quieres conocer a quien lo hizo. Quieres que te mire. —Se tocó la cicatriz de la frente, con la punta de los dedos—. Y seguí el rastro. De las estrellas a los Dedos. De los Dedos a su madre. Crucé al otro lado detrás de la mitad de Rellana que juró, porque pensé que donde iba ella iría la respuesta. Y la encontré aquí. En esta catedral. Durmiendo.
 
 —¿Y te ha mirado?
 
@@ -221,6 +237,12 @@ Edda se arrodilló a su lado.
 —Se lo diré.
 
 —Y dile… —Se detuvo. Respiró—. Dile que el polvo de estrellas no me amaba. Pero que yo sí lo amé. Que eso fue mío.
+
+—¿Y a Rellana?
+
+Debajo de los dedos, algo que podía ser una sonrisa.
+
+—A Rellana no le digas nada —dijo el conde—. Ya lo sabe todo. Ya se ha cruzado.
 
 Se deshizo en una lluvia de pequeñas manos blancas, como las de la Mansión de Caria, que se arrastraron por el suelo de la capilla y desaparecieron por las grietas de la piedra.
 

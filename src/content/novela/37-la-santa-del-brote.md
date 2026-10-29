@@ -408,7 +408,7 @@ Ansbach se volvió hacia ella.
 
 Edda cerró la lámpara de bronce. La llama de Messmer seguía ardiendo dentro, más pequeña. La serpiente roja se le había subido al hombro y miraba la lámpara.
 
-Se agachó y recogió de entre las cenizas del árbol de sellado una piedra: pequeña, blanca, lisa, con una veta dorada. Olía todavía un poco a miel. La decimoquinta.
+Se agachó y recogió de entre las cenizas del árbol de sellado una piedra: pequeña, blanca, lisa, con una veta dorada. Olía todavía un poco a miel. La vigesimotercera.
 
 La guardó con las otras.
 

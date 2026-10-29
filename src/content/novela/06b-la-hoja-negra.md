@@ -44,7 +44,7 @@ Hubo un movimiento en la paja. Isolde oyó cómo algo muy grande se incorporaba 
 
 —Maliketh.
 
-Isolde se quedó muy quieta. Conocía ese nombre. Todo el mundo en Leyndell lo conocía. La sombra de la diosa. La bestia negra. El que había ido solo a los llanos de hierba roja y había matado a la Reina de los Ojos Lóbregos y a todos sus monstruos.
+Isolde se quedó muy quieta. Conocía ese nombre. Todo el mundo en Leyndell lo conocía. La sombra de la diosa. La bestia negra. El que había ido solo a los llanos de hierba roja y había vencido a la Reina de los Ojos Lóbregos y a todos sus monstruos.
 
 —Ah —dijo.
 
@@ -80,7 +80,7 @@ Maliketh notó, bajo las yemas endurecidas de los dedos, pequeñas marcas en rel
 
 —Esta es la primera letra —dijo Isolde, guiándole el dedo—. La que empieza el nombre del Árbol. Tócala bien. Ahora esta. Esta es la de la diosa.
 
-Le enseñó tres letras aquella noche. A la semana siguiente sabía doce. Al cabo de un mes, Maliketh, la sombra de la diosa, la bestia que había matado a la Reina de los Ojos Lóbregos, leía en voz alta, despacio, con su voz de gruñido, las oraciones del libro de los ciegos, sentado en un jergón de paja en el sótano de la catedral, mientras una mujer pecosa que no podía verlo le corregía la pronunciación.
+Le enseñó tres letras aquella noche. A la semana siguiente sabía doce. Al cabo de un mes, Maliketh, la sombra de la diosa, la bestia que había vencido a la Reina de los Ojos Lóbregos, leía en voz alta, despacio, con su voz de gruñido, las oraciones del libro de los ciegos, sentado en un jergón de paja en el sótano de la catedral, mientras una mujer pecosa que no podía verlo le corregía la pronunciación.
 
 —«Que el oro guíe nuestros pasos» —leyó él—. «Que la luz…» No sé esta palabra.
 

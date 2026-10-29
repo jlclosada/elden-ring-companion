@@ -34,7 +34,25 @@ El gigante se levantó del trono.
 
 Despacio. Con un crujido de huesos que no eran suyos. Se quedó de pie junto a las raíces doradas, enorme, con la melena roja moviéndose con aquel viento que no se sentía. En las manos tenía dos espadas curvas, gigantescas, como las que había llevado en las dunas. Pero estas no estaban melladas ni oxidadas. Brillaban con una luz dorada, la misma luz del jardín.
 
-Miró a Edda. Tardó en hablar.
+Miró a Edda. Y luego, por encima del hombro de Edda, al hombre enorme que había entrado detrás de ella, con la túnica gris pegada al cuerpo y un mechón dorado en la frente.
+
+Las espadas le temblaron en las manos.
+
+—Maestro —dijo.
+
+Lynx no contestó enseguida. Se quedó mirando aquel cuerpo que no era el de su alumno, los cuernos, las cicatrices, la piel oscura, y la melena roja de león encima de todo, como una bandera puesta en el castillo equivocado.
+
+—Hola, pequeño —dijo al fin.
+
+—Dijeron que habías muerto. —La voz de Radahn, saliendo de la garganta de Mohg, se quebró como la de un muchacho—. Lo dijeron en Aeonia. Que te habías ido y que luego habías muerto. Debajo de la tierra. Por… —Frunció el ceño—. No sé por qué. Nadie lo sabía.
+
+—Me morí un poco —dijo Lynx—. Ya ves que no del todo.
+
+—Me enseñaste a levantarme. —Radahn bajó la vista hacia las espadas doradas—. En el patio de Melenarroja. Con ocho años. Me tirabas al suelo y me decías: «Arriba. Otra vez. Los que caen no son los que pierden. Pierden los que se quedan abajo». —Levantó la vista—. Me he levantado tantas veces, maestro. Tantas. Ya no sé quedarme abajo.
+
+Lynx no dijo nada. Pero Edda, a su lado, vio que se le cerraban las manos.
+
+El gigante se volvió hacia ella. Tardó en hablar.
 
 —Te conozco —dijo. La voz era grave, profunda, la de Radahn, pero salía de una garganta que no era la suya y sonaba extraña, como un instrumento tocado por otra persona—. De la playa. Del cráter. Tú me diste la muerte.
 
@@ -93,6 +111,26 @@ _Has llegado hasta aquí_, dijo Miquella. _Has sufrido mucho. Lo veo. Llevas a t
 Edda cerró los ojos.
 
 _Ya no tienes que sufrir más._
+
+Luego la voz se volvió. Edda lo notó como se nota que alguien que estaba de cara a ti se gira. Hacia su derecha. Hacia el hombre enorme.
+
+_Tú_, dijo Miquella.
+
+Lynx no bajó la vista. Lo miraba. Directamente. A la cara, a los ojos cerrados, a la luz. Edda lo vio de reojo y se le encogió el estómago, porque nadie podía hacer eso. Nadie.
+
+_Te pedí que te quedaras. En Aeonia. Delante de todos._
+
+—Me pediste que te amara —dijo Lynx—. Con una sonrisa. No es lo mismo.
+
+_Te bendije con mi sangre. A ti y a tus nueve._
+
+—Lo sé. Y te lo agradezco. —Lynx no se movió—. Pero me crió una reina que cantaba en el suelo junto a una ventana cuando había tormenta. Y me enseñó a pelear una mujer que me pegaba en el codo con una vara de sauce. Y mi padre me escribió una vez, en una carta que tardé años en abrir, que no fuera de nadie que me lo pidiera sonriendo. —Se le estrecharon los ojos—. Ya tenía a quién querer, Miquella. Antes de ti. No había sitio.
+
+La luz parpadeó.
+
+_Todo el mundo tiene sitio._
+
+—No —dijo Rellana, detrás de él, muy tranquila—. No todo el mundo.
 
 ---
 
@@ -256,17 +294,55 @@ Radahn, en el cuerpo de Mohg, era más fuerte que nunca. Más que en las dunas, 
 
 Y Miquella flotaba por encima de él, invisible a los ojos de Edda, que no lo miraba, envolviéndolo en una luz dorada que lo hacía todavía más fuerte.
 
+Lynx se puso delante.
+
+No tenía espada. No había cogido una en siglos. Se puso delante de Edda con las manos desnudas, y la primera vez que la gravedad de Radahn tiró de ella hacia el gigante, Lynx levantó una mano y del cielo de oro cayó un rayo, rojo y dorado y azul, que reventó en el suelo entre los dos y deshizo el tirón como se deshace un nudo de un tajo. El jardín entero tembló. Las flores ardieron en un círculo.
+
+Radahn se detuvo. Miró el rayo. Miró a su maestro.
+
+—Sigues sin saber controlarlos —dijo.
+
+—Sigues sin recoger el codo —dijo Lynx.
+
+Y durante un momento, en medio de la batalla más terrible que Edda había visto nunca, el gigante se rio.
+
+Rellana no luchaba contra Radahn. Luchaba contra la luz. Cada vez que el oro de Miquella bajaba sobre el gigante para hacerlo más fuerte, ella levantaba las dos espadas y ponía entre la luz y el consorte sus dos lunas, la azul y la dorada, superpuestas, y la luz del niño tenía que atravesarlas para llegar abajo, y llegaba más débil, más fría, filtrada, como el sol a través de un cristal sucio.
+
+—No es justo —le dijo Rellana a la luz, en voz alta, con la trenza blanca suelta de nuevo y la cara mojada de sudor—. Nada es justo. Lo decía mi padre. Pero esto menos.
+
 Edda murió.
 
 Una y otra vez. Diez veces. Veinte. Treinta. Perdió la cuenta. Cada vez despertaba en la gracia al pie de la escalinata, en la plaza, junto al cuerpo de Ansbach sentado contra la columna, con la espada cruzada sobre el pecho, y junto al de Leda, tumbada en las losas. Cada vez se quedaba unos segundos de rodillas, temblando, con el sabor del hierro en la boca. Cada vez volvía a subir.
 
 Freyja subía con ella todas las veces. Cada vez que Edda moría en el jardín, la gladiadora bajaba la escalinata corriendo y la esperaba en la gracia, y le tendía la mano para levantarla, y subían juntas.
 
+Y cada vez, al volver al jardín, encontraba a Lynx de pie entre Radahn y la puerta. Sangrando. Con las cicatrices del rayo encendidas en los brazos como venas de fuego. Sin retroceder un paso. Él no podía volver de una gracia. Ella lo sabía. Él lo sabía. Y aguantaba igual, cada vez, el tiempo exacto que ella tardaba en subir la escalinata, como habían aguantado treinta y un caballeros en un puente cinco días, para que alguien llegara.
+
+—¿Por qué? —le gritó Edda la décima vez, cuando lo encontró de rodillas, con un tajo en el hombro que le llegaba al hueso—. ¡Yo vuelvo! ¡Tú no! ¡Apártate!
+
+—No sé —jadeó Lynx—. No lo sé. —Se levantó. Se puso otra vez delante—. Me sale así.
+
+Rellana, detrás, con las dos lunas encima, lo miró a él y luego a Edda. Y Edda vio en su cara algo que no supo leer, algo que se parecía al miedo y a la esperanza a la vez.
+
 —Otra vez —decía Freyja.
 
 —Otra vez.
 
 Cada vez aprendía algo. Cada vez llegaba un poco más lejos. La lágrima de plata luchaba a su lado, con su cara, con sus movimientos, y moría también, y volvía al frasco, y salía otra vez. La serpiente roja chillaba en su hombro cada vez que Radahn atacaba, como si avisara.
+
+En la vigésima, Radahn la alcanzó de lleno. Edda salió despedida y cayó en la hierba gris de espaldas, sin aire, con algo roto dentro del pecho, y se quedó allí tirada, respirando en dos veces, contener y soltar, como un perro que ha corrido, sin poder hacerlo de otra manera.
+
+Lynx se volvió hacia ella.
+
+La oyó. Edda vio que la oía. Vio que se le estrechaban los ojos. Y vio otra cosa, algo que no había visto nunca en él ni en nadie: vio cómo la cara se le deshacía de miedo. Un miedo enorme, antiguo, sin nombre, de animal.
+
+El cielo de oro sobre el jardín se puso negro.
+
+Y cayeron rayos. No uno. Veinte. Cincuenta. Rojos y dorados y azules, sobre el jardín, sobre el trono, sobre el consorte, como no habían caído en Liurnia desde la noche en que un niño de cinco años lloró por la muerte de un rey viejo. Radahn retrocedió tres pasos con los brazos sobre la cabeza. La luz de Miquella se encogió.
+
+—¡NO LA TOQUES! —rugió Lynx, y la voz no era del todo de hombre.
+
+Luego se quedó quieto, jadeando, con la tormenta encima, mirando a Edda tirada en la hierba. Y se le vio en la cara que no sabía por qué había gritado eso.
 
 En la vigésima, o en la trigésima, Edda se dio cuenta de algo.
 
@@ -292,7 +368,7 @@ Justo donde, en el cuerpo de Mohg, había estado la Gran Runa. Justo donde, hac�
 
 Fue el golpe que le había dado a Dane en el puente. Lo justo.
 
-Pero detrás del golpe iba todo. Las quince piedras de la bolsa. El brote de cuatro hojas. La piedra azul. Las cartas de Messmer. El colgante de Fia. Los nombres de la familia de Midra. La carta de Godwyn que Melina guardaba contra el pecho. El sueño del umbral.
+Pero detrás del golpe iba todo. Las veintitrés piedras de la bolsa. El brote de cuatro hojas. La piedra azul. Las cartas de Messmer. El colgante de Fia. Los nombres de la familia de Midra. La carta de Godwyn que había dejado junto a una reina rota. El sueño del umbral.
 
 Todo lo que había elegido querer.
 
@@ -319,6 +395,18 @@ Tristeza. Y alivio.
 —Era verdad entonces. —Radahn cerró los ojos—. Lo quería como se quiere a un hermano pequeño. No como él quería que lo quisiera. —Abrió los ojos—. Dile a Jerren… no. Jerren no está aquí. Dile a quien quieras que el pequeño de Caria aprendió a montar en un caballo flaco y nunca lo cambió. Que eso fue mío. Que eso lo elegí yo.
 
 —Se lo diré.
+
+Radahn volvió la cabeza hacia Lynx, que se había arrodillado a su lado, sangrando, con la tormenta ya deshecha sobre el jardín.
+
+—Maestro.
+
+—Pequeño.
+
+—Me enseñaste a levantarme. —Radahn sonrió—. No me enseñaste a quedarme en el suelo.
+
+—Eso no se enseña. —Lynx le puso la mano en la frente, sobre los cuernos que no eran suyos, como había hecho Jerren en una playa roja—. Se aprende solo. Al final.
+
+—Ya veo. —Radahn cerró los ojos—. Es fácil. Debí haberlo aprendido antes.
 
 —Bien. —Radahn se volvió hacia arriba una última vez. Hacia el niño—. Lo siento, Miquella. Te quise. De verdad. Pero no así.
 
@@ -370,7 +458,7 @@ El niño levantó la vista hacia ella. Se quedó mirándola.
 
 _¿Tú no tienes miedo de que duela?_
 
-Edda se tocó la bolsa del cinturón. Quince piedras. Cada una pesando más que la anterior.
+Edda se tocó la bolsa del cinturón. Veintitrés piedras. Cada una pesando más que la anterior.
 
 —Todos los días —dijo—. Pero duele porque es mío.
 
@@ -388,7 +476,17 @@ _Leda_ —dijo—. _¿Ha muerto?_
 
 Miquella cerró los ojos.
 
-_Me la regaló mi tía Rellana_ —dijo—. _La luna. La colgué en la ventana porque me daba miedo la oscuridad. Leda la miraba siempre que entraba en mi cuarto._ Abrió los ojos. _No le pedí que me amara. Lo juro. No le pedí nada. Solo le sonreí._
+_Me la regaló mi tía Rellana_ —dijo—. _La luna. La colgué en la ventana porque me daba miedo la oscuridad. Leda la miraba siempre que entraba en mi cuarto._
+
+—Te la regalé yo —dijo Rellana.
+
+El niño la miró. Se quedó mirándola mucho rato, como si la viera por primera vez, como si hasta entonces solo hubiera visto a alguien que ponía lunas entre él y su consorte.
+
+_Tía_ —dijo.
+
+—Tenías miedo de la oscuridad —dijo Rellana—. Y tu hermana se reía de ti. Y yo pensé que una luna en la ventana no le hacía daño a nadie. —Se le quebró la voz—. Lo siento, Miquella. No sabía que alguien la iba a mirar tanto.
+
+Miquella abrió los ojos. _No le pedí que me amara. Lo juro. No le pedí nada. Solo le sonreí._
 
 —Ya.
 
@@ -398,13 +496,23 @@ Empezó a desvanecerse.
 
 No en oro, ni en sangre, ni en llamas. En luz. Una luz suave, blanca, sin calor, que le salía de los bordes del cuerpo, de las puntas de los dedos, de los extremos del pelo, y subía despacio hacia el cielo de plomo.
 
-_Mi hermana_ —dijo, de pronto, con urgencia—. _Malenia. ¿La verás?_
+_Mi hermana_ —dijo, de pronto, con urgencia—. _Malenia. ¿La has visto?_
 
-Edda pensó en Millicent. En la guerrera del brazo de metal de sus sueños. En un árbol enorme, al norte del mundo, en lo alto de las montañas, donde según Melina vivían los que nadie quería.
+Edda tardó en contestar.
 
-—Puede que sí.
+—La vi —dijo al fin—. En las raíces de tu árbol. Sabía que el capullo estaba vacío. Que no ibas a volver. —Tragó saliva—. Luchamos. Murió. No la maté con odio.
 
-_Dile que ya puede dejar de esperar._ La luz le subía por los brazos. _Que no voy a volver. Que lo siento. Que la quise más que a nadie, y que por eso me fui. Para no tener que elegirla a ella por encima de todos._ _Dile que fue una tontería._
+La luz le subía por los brazos. El niño cerró los ojos.
+
+_Entonces ya no espera_ —dijo, casi sin voz—. _Bien. Bien. Era lo único que hacía bien. Esperar. Y yo no volvía nunca._ Abrió los ojos y miró a Lynx. _Ella te quería. A ti. Lo sabías._
+
+—Lo sabía —dijo Lynx.
+
+_Me lo contó. En el árbol. Que te lo había dicho una noche, en lo alto de las ramas, y que le cogiste la mano de metal con las dos tuyas._ La voz se le volvió pequeña. _Yo me enfadé. No con ella. Contigo. Porque ella era mía y te quería a ti._ Se le escapó algo que podía ser una risa. _Ves. Hasta yo elegía. Hasta yo quería a alguien más que a los demás._
+
+—Todos lo hacemos —dijo Lynx.
+
+_Sí._ La luz ya le llegaba al cuello. _Dile a quien la recuerde que fue una tontería. Irme. Para no tener que elegirla a ella por encima de todos._
 
 —Se lo diré.
 
@@ -467,99 +575,3 @@ Y se volvió a dormir.
 Edda se quedó mirándolos. Al envenenador que había dejado de contar caras y a la santa que dejaba elegir. Luego se dio la vuelta.
 
 Cuando volvió a mirar, ya no estaban. Solo quedaba, en la hierba gris, una flor morada. Y una hilera de piedrecitas pequeñas, colocadas en fila.
-
----
-
-Bajó de Enir-Ilim con Freyja, por la escalera de raíces, durante tres días.
-
-En la plaza, enterraron a Ansbach y a Leda juntos, al pie de la columna donde había muerto él, en la única franja de tierra que había entre las losas. Freyja cavó. Edda colocó los cuerpos. A Ansbach le puso la espada cruzada sobre el pecho. A Leda, la aguja. Y entre los dos, en la tierra removida, Edda dejó un trozo de pergamino en blanco del libro de Ansel, con unas palabras escritas con el carbón de la casa de los niños.
-
-_Ansbach, que leía._
-
-_Leda, que miraba una luna azul._
-
-En la llanura de las cruces, la iglesia estaba llena. Moore había vuelto con Yalda y Hornen, y Tavi de Morne había llegado unos días antes, y estaban arreglando el tejado hundido. Bruto dormía en la puerta. Hornen había plantado algo en la tierra junto al muro: un árbol pequeño, un esqueje, que Edda no reconoció.
-
-—Un manzano —dijo Yalda, cuando la vio mirarlo—. De los que crecían en los huertos de la llanura antes del fuego. Moore encontró un esqueje vivo. —Se apoyó en el bastón—. Tardará años en dar manzanas.
-
-—¿Vais a quedaros?
-
-—Es nuestra tierra. —Yalda la miró con sus ojos amarillos—. Aunque nadie la recuerde. Alguien tiene que estar aquí cuando pase algo.
-
-Freyja se quedó también. Edda no se lo pidió ni se lo prohibió. La gladiadora se sentó una noche junto a Moore en la puerta de la iglesia y empezaron a hablar de las tierras que había al sur, de las aldeas que quedaban por reconstruir, de los huertos abandonados. Y a la mañana siguiente, cuando Edda se despidió, Freyja le dio un abrazo torpe, de soldado.
-
-—Las puertas azules —dijo—. Cuando las encuentres. Avísame.
-
-—¿Cómo?
-
-—No lo sé. —Freyja sonrió—. Ya se te ocurrirá.
-
----
-
-Volvió al otro lado por donde había venido.
-
-En el centro de la llanura de las cruces, junto a la cruz más pequeña, la que estaba inclinada sobre un arroyo seco —_He dejado aquí mi amor_—, había ahora algo que no estaba antes. Un brazo. Un brazo marchito, blanco, de niño, que salía de la tierra con los dedos abiertos hacia arriba, como el del capullo de Mohgwyn.
-
-Edda se arrodilló a su lado. Lo miró.
-
-Ya no sentía nada. Ni ternura, ni perfume, ni ganas de protegerlo. Solo un brazo de niño que salía de la tierra.
-
-Lo tocó.
-
----
-
-Despertó en el salón del trono de Mohgwyn, de rodillas, en el lago de sangre, junto al mausoleo blanco.
-
-El capullo dorado ya no estaba. El mausoleo estaba vacío.
-
-Subió. Encontró la gracia roja del pantano, donde había muerto Varré. La tocó. Y se dejó llevar por ella hacia arriba, hacia el mundo, hacia la luz dorada de las Tierras Intermedias, que después de tanto tiempo en el cielo plateado de la Tierra de las Sombras le pareció tan intensa que tuvo que taparse los ojos.
-
-Abrió los ojos en una plaza de Leyndell.
-
-Junto a una fuente seca. Con las hojas doradas cayendo despacio a su alrededor, como siempre. Con una muñeca de trapo sentada en el borde de la fuente, cubierta de hojas hasta la cintura.
-
-Y junto a la muñeca, sentada en el borde de la fuente, con la capa gris cubierta también de hojas doradas, con una carta doblada en las manos, estaba Melina.
-
----
-
-Melina levantó la vista.
-
-No dijo nada. Se quedó mirándola. A Edda, de pie en la plaza, con la ropa rota y manchada de ceniza y de sangre y de polvo rojo, con una serpiente roja enroscada en el cuello, con una caja de madera atada al costado, con una bolsa de cuero colgada al pecho de la que asomaban cuatro hojas verdes.
-
-Se le cayó la carta de las manos. Se le quedó en el regazo.
-
-—Has vuelto —dijo, casi sin voz.
-
-—He vuelto.
-
-—Has tardado mucho.
-
-—Lo sé.
-
-—Te he esperado aquí. —A Melina le temblaba la voz—. Todo el tiempo. No sabía cuánto. No sabía si ibas a volver. Las hojas me han cubierto tres veces. —Se miró la capa—. Le he leído la carta a la muñeca. Muchas veces. Para no estar sola.
-
-Edda se acercó. Despacio. Se sentó en el borde de la fuente, al otro lado de la muñeca de trapo.
-
-No dijeron nada. Las hojas caían.
-
-Luego Melina alargó la mano. Despacio. Y le tocó la cara. La mejilla. Como si comprobara que era real.
-
-—Hueles distinto —dijo.
-
-—He estado lejos.
-
-—No. —Melina negó con la cabeza—. No es eso. Hueles a… —Se detuvo. Frunció el ceño—. Hueles a mi abuela.
-
-Edda se quedó inmóvil.
-
-Se sacó la bolsa de cuero del cuello. La abrió. Las cuatro hojas verdes, tiernas, en la tierra oscura.
-
-—Es una larga historia —dijo.
-
-Melina se quedó mirando el brote. Mucho tiempo. Luego, con la punta de un dedo, muy despacio, le tocó una hoja.
-
-Y la hoja se movió. Un poco. Hacia ella. Como se inclina una planta hacia la ventana.
-
-—Cuéntamela —dijo Melina.
-
-Edda se la contó.

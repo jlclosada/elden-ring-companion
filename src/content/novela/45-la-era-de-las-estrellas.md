@@ -80,39 +80,19 @@ Ranni se quedó inmóvil.
 
 —¿Quién?
 
-—Ymir.
-
-Los cuatro ojos de Ranni se abrieron. Los cuatro. A la vez.
-
-—El conde Ymir —dijo Edda—. Tu maestro. El que os enseñaba a amar el polvo de estrellas sentado en el suelo de la torre con las piernas cruzadas. Lo encontré en la Tierra de las Sombras. En una catedral donde se rezaba a una mano. Había dejado las estrellas para buscar a quien las hizo. —Tragó saliva—. Ha muerto. La Madre de los Dedos lo convirtió en uno de sus hijos. Le salieron dedos de la frente.
-
-Ranni se llevó una mano a la boca.
-
-—Antes de morir me pidió que te dijera una cosa —siguió Edda—. Que tu luna fea era mejor. Que te lo dijo entonces, cuando tenías siete años, y no le creíste.
-
-—No le creí —susurró Ranni, entre los dedos—. Pensé que lo decía porque era mi maestro. Que me tenía lástima.
-
-—No te tenía lástima. —Edda se metió la mano en la bolsa del cinturón y sacó algo—. Tenía tu nombre grabado aquí.
-
-Era la máscara de plata de Ymir. Edda no la había dejado en el altar de la capilla, al final. La había vuelto a coger antes de bajar a la Madre de los Dedos, sin saber por qué. La giró. Por dentro, en el lado que tocaba la cara, con letra pequeña, cuidada, de maestro:
-
-_Rennala. Rellana. Ranni. Radahn. Rykard._
-
-Ranni cogió la máscara con las dos manos. Se quedó mirando los nombres.
-
-—Rykard primero no —dijo, con la voz rota—. Rykard último. Siempre era el último en llegar a clase. —Le temblaron las manos—. Y yo antes que Radahn. Porque era más pequeña pero aprendía más deprisa.
-
-—Lo sabía. Por eso te puso ahí.
-
-Ranni apretó la máscara contra el pecho.
-
----
-
 —Loretta —dijo Edda.
 
 Ranni levantó la cabeza.
 
-—La de verdad. No su eco. Estaba en el Árbol Hierático. Guardaba la entrada a las raíces, donde estaba Malenia. —Edda hizo una pausa—. Ha muerto. Luchando conmigo. Junto a un lago rojo.
+—La de verdad. No su eco. Estaba en el Árbol Hierático. Guardaba la entrada a las raíces, donde estaba Malenia. —Edda hizo una pausa, y le costó seguir—. Ha muerto. Luchando conmigo. Junto a un lago rojo. —Tragó saliva—. Era mi abuela, Ranni. La que me crio. La que hilaba junto al fuego en la aldea de las puertas azules. Me lo dijo con el yelmo en la mano. Que no lo era. Que nunca lo había sido. Y luego bajó la guardia a propósito.
+
+Los cuatro ojos de Ranni se abrieron a la vez.
+
+—¿Tu abuela?
+
+—Eso creía yo. —Edda se tocó la escama del cuello—. No sé lo que era. No me lo quiso decir. Dijo que lo sabría al final.
+
+Ranni se quedó mirándola un largo momento. Luego miró la escama. No dijo nada. Pero Edda vio que le temblaban las manos.
 
 —Loretta. —Ranni cerró los ojos—. Me enseñaba a usar la espada de madera en el jardín cuando mi madre no miraba. Yo le ganaba siempre.
 
@@ -134,37 +114,29 @@ Luego, muy despacio, se llevó la mano libre a la nariz. Como en la catedral. Co
 
 ---
 
-—Y Rellana —dijo Edda.
+—Y me dijo una cosa más —dijo Edda, más bajo—. Al final. Que eras muy lista. Más que todos. Pero que nunca habías sabido que alguien te cuidara sin que tú se lo pidieras. —Sintió que se le subía la sangre a la cara—. Y que te cuidara yo.
 
-Ranni abrió los cuatro ojos otra vez.
+Ranni bajó la vista.
 
-—Mi tía —susurró.
+—Alguien me cuidaba así —dijo al fin, muy bajo—. De pequeña. Un general enorme, con un mechón dorado en la frente. Me subía a hombros en el jardín de la mansión para que tocara las ramas altas, y cuando lloraba porque mi luna era fea, hacía llover con sol encima del lago para que me riera. —Se tocó la nariz, las pecas—. Se fue cuando yo era una muchacha. Y luego se murió. Le llevé una flor de hielo a su tumba, en un acantilado. No le dije nada. No supe.
 
-—Guardaba un castillo en la Tierra de las Sombras. El de Messmer. Por amor. Lo siguió siglos sin decírselo. —Edda sacó la piedra azul del bolsillo y la levantó—. Me vio esto. Lo notó antes de verlo. Dijo que llevaba algo tuyo. Tu luna fría. La que dibujaste a los siete años en el suelo del jardín con una tiza.
+Edda se quedó muy quieta. La escama le quemaba contra el pecho.
 
-—Ella estaba allí —dijo Ranni—. Ese día. Se sentó a mi lado. Me ofreció una de sus lunas.
+—Lynx —dijo.
 
-—Y dijiste que la tuya era la tuya. Aunque fuera fea. —Edda casi sonrió—. Me lo contó.
+Ranni la miró.
 
-Ranni no dijo nada. Le temblaban los labios.
+—¿Cómo lo sabes?
 
-—Luchamos —siguió Edda—. Tenía que vencerla para pasar. Y en mitad de la pelea lanzó sus dos lunas, la azul y la dorada, superpuestas. Y entre las dos había un hueco. Un camino de plata. Me metí por él.
+—Todo el mundo me habla de él —dijo Edda—. Su madre. Mi abuela. Malenia. Maliketh. Como si me estuvieran avisando de algo que no entiendo.
 
-—El camino de plata —susurró Ranni—. Entre las lunas. Lo encontré yo de niña. Jugando. Le di en la rodilla con la espada de madera.
+Ranni no contestó enseguida. Alargó una mano fría y le apartó a Edda el pelo de la frente, despacio, como había hecho la dragona en el círculo de piedras.
 
-—Me dijo que solo lo habías encontrado tú. —Edda hizo una pausa—. Y bajó las espadas. En el último momento. Porque lo había encontrado alguien a quien tú querías.
+—La noche de la iglesia de Elleh —dijo al fin—, cuando me paré en el camino y te di la campanilla. ¿Sabes por qué me paré? Iba a seguir de largo. Había cientos de Sinluz aquel año.
 
-Ranni se tapó la cara con la máscara de Ymir.
+—¿Por qué?
 
-—Me dijo otra cosa —dijo Edda, más bajo—. Antes de eso. Cuando vio la piedra.
-
-Ranni bajó la máscara.
-
-—¿Qué?
-
-Edda sintió que se le subía la sangre a la cara, como en la torre de Ensis.
-
-—Que su sobrina se había enamorado de una Sinluz —dijo—. Y que qué disparate. Qué disparate tan de vuestra familia.
+—Porque olías a tormenta de verano. —Ranni retiró la mano—. A la buena. A la que limpia el aire. Hacía novecientos años que no olía a nadie así. —Sonrió, apenas—. Te elegí por las piedras. Pero me paré por el olor.
 
 ---
 
@@ -172,13 +144,13 @@ Ranni se rio.
 
 Fue una risa pequeña, sorprendida, como un hipo, que se le escapó sin querer y se le mezcló con las lágrimas. Como en la catedral. Pero esta vez no se cortó enseguida. Siguió. Más alta. Una risa de verdad, de muchacha, que resonó en la noche estrellada que había traído consigo y se perdió entre las constelaciones.
 
-—Cuatro —dijo, sin dejar de reír, con la máscara de Ymir apretada contra el pecho—. Han sido cuatro.
+—Cuatro —dijo, sin dejar de reír—. Han sido cuatro.
 
 —Llevo la cuenta.
 
-—Qué disparate —dijo Ranni, secándose la cara con el dorso de la mano—. Mi tía tenía razón. Siempre tenía razón en las cosas que no importaban. —Se le quebró la risa—. Y en las que sí.
+—Qué disparate —dijo Ranni, secándose la cara con el dorso de la mano—. Que me tenga que cuidar alguien. A mí. —Se le quebró la risa—. Qué disparate tan de mi familia.
 
-Se quedaron mirándose. La princesa de la luna con la máscara de su maestro contra el pecho y la Sinluz con la piedra azul en la mano.
+Se quedaron mirándose. La princesa de la luna con las manos temblando y la Sinluz con la piedra azul en la mano.
 
 —También es verdad —dijo Edda.
 
@@ -186,7 +158,7 @@ Ranni dejó de reír.
 
 —¿El qué?
 
-—Lo del disparate.
+—Lo de cuidarte.
 
 Ranni se quedó muy quieta. Los cuatro ojos fijos en ella.
 
@@ -262,9 +234,9 @@ Pensó en todos los que habían intentado hacer lo mismo.
 
 Pensó en Melina, en la forja. _Lo que hagas dentro, es tuyo. Elige lo que quieras. Elige bien._
 
-Pensó en Trina en el umbral. _Lo que eliges querer es tuyo. Lo que te obligan a querer no._
+Pensó en Loretta, con el yelmo en la mano. _Lo sabrás cuando puedas elegir._
 
-Pensó en Midra, separado, con su nombre, cogido de la mano.
+Pensó en una frase que no sabía de dónde le venía. _No seas de nadie que te lo pida sonriendo._
 
 —Llévatelos —dijo.
 
@@ -334,50 +306,68 @@ Y la besó en la frente. Como Rykard había besado a Tanith en el umbral de la c
 
 Los labios de Marika se movieron. Edda lo vio. Una sonrisa. Pequeña. La de una niña en un valle del oeste, escondida en los helechos, que ve a su madre volverse a mirarla desde la fila de tinajas.
 
-Y luego la última luz de las grietas se apagó.
+Y luego la luz de las grietas se apagó.
+
+Casi toda. En el pecho de la reina, bajo la clavícula rota, se quedó una brasa. Una sola. Pequeña, dorada, que latía muy despacio, como un corazón que se ha olvidado de pararse.
+
+Ranni la miró.
+
+—Le queda algo por oír —dijo—. Lo noto. Algo que todavía no le ha llegado.
 
 ---
 
 Se quedaron un rato junto a ella. En silencio. Con las estrellas girando y los fragmentos del Anillo brillando plateados alrededor de Ranni.
 
-Luego Edda recogió las cosas del suelo. La caja de cartas de Messmer. Las dos piedras grises de Godfrey. La carta de Godwyn. Las puso junto a Marika, a su lado, cerca de su mano cerrada sobre la hoja. Como se dejan las cosas en una tumba.
-
-Abrió la caja de cartas. Cogió una al azar, del fondo, de las más antiguas. La desdobló. La letra era la misma, firme, cuidada, pero más infantil. Como la de alguien que acaba de aprender a escribir con un tutor paciente.
-
-_Madre. Hoy ha venido una serpiente nueva a mi ventana. Es roja. Le he puesto de nombre Primavera porque has venido en primavera. Aldous dice que las serpientes no tienen nombre. Le he dicho que esta sí. Vuelve pronto. Te espero en lo alto de la torre. Messmer._
-
-Edda la volvió a doblar. La dejó encima de las demás.
-
-La serpiente roja de Rellana se le había subido al hombro. Miraba la caja.
-
-—Primavera —dijo Edda.
-
-La serpiente levantó la cabeza.
+Luego Edda recogió las cosas del suelo. Las dos piedras grises de Godfrey. La carta de Godwyn. Las puso junto a Marika, a su lado, cerca de su mano. Como se dejan las cosas junto a alguien que duerme.
 
 ---
 
 —Vamos —dijo Ranni, levantándose.
 
-Edda se levantó también. Se tocó el bolsillo de dentro. La piedra azul, que ya no brillaba tanto. La piedra de colores de la tumba de Aspa. La nota, otra vez en el bolsillo, ya con sitio. El colgante de Fia. Los nombres de la familia de Midra. La hoja roja de Millicent. La cuenta de hierro de Brund. El cuaderno de Gideon.
+Edda se levantó también. Se tocó el bolsillo de dentro. La piedra azul, que ya no brillaba tanto. La piedra de colores de la tumba de Aspa. La nota, otra vez en el bolsillo, ya con sitio. El colgante de Fia. La hoja roja de Millicent. La cuenta de hierro de Brund. El cuaderno de Gideon.
 
-Se tocó la bolsa del cuello. El brote. Seis hojas.
+Se tocó el cuello. La escama de Loretta. Caliente.
 
-Se tocó la bolsa del cinturón. Veintitrés piedras y dos carbones.
+Se tocó la bolsa del cinturón. Dieciocho piedras y dos carbones.
 
 Se tocó el puño. La piedra ámbar.
 
-—Antes de cruzar el mar —dijo— tengo que devolver algunas cosas.
+—Antes de cruzar el mar —dijo— tengo que ir a un sitio.
 
-—Me lo imaginaba. —Ranni le cogió la mano—. Te acompaño.
+Ranni levantó la vista.
 
-—¿Puedes?
+—Al palacio de la sangre. Al brazo. —Edda se miró las manos—. Hay un niño que se ha ido detrás de ese brazo a hacerse dios. Uno que quiere que todos lo amen. Por igual. Sin poder elegir. —Levantó la vista hacia los fragmentos plateados que giraban alrededor de Ranni—. Tú te llevas la Orden para que nadie pueda volver a atar el mundo. Él va a atarlo con otra cosa. Con amor. Si llega.
 
-—Ahora puedo ir a donde quiera. —Ranni sonrió—. Hay un troll en mi torre que lleva mil años esperando a que vuelva. Y un lobo que ya no aúlla. —Hizo una pausa—. Y quiero que me presentes a la niña del brazo de más. La que se acuerda de su nombre.
+Ranni se quedó muy quieta.
 
-Edda se quedó mirándola.
+—Lo sé —dijo al fin—. Lo noto desde hace tiempo. Una tierra al otro lado de una sombra, donde mis ojos no llegan. La luna no entra ahí. Ni la mía ni la de nadie. —Le cogió la mano—. No puedo ir contigo.
 
-—¿Cómo sabes…?
+—Ya lo sé.
 
-—Tengo ojos en muchos sitios —dijo Ranni.
+—Y tampoco puedo pedirte que no vayas.
+
+—También lo sé.
+
+Ranni la miró con sus cuatro ojos. Mucho rato.
+
+—Mi tía está allí —dijo al fin—. La mitad que juró. Guarda un castillo para un hijo de la diosa al que nadie quería. —Le apretó la mano—. Si la ves, dile que su sobrina le dio la razón. En lo de las lunas. Que la mía era mía, aunque fuera fea. Y que se lo agradezco.
+
+—Se lo diré.
+
+—Y hay alguien más allí. —Ranni frunció el ceño, como quien intenta ver algo a través de una niebla—. No sé quién. No lo veo. Pero lo noto. Algo que cayó allí hace mucho, como cae una estrella, y que todavía no sabe dónde está. —Negó con la cabeza—. Ten cuidado.
+
+—Siempre tengo cuidado.
+
+—Mentirosa. —Ranni sonrió, apenas—. Te esperaré en la torre. Con los fragmentos. Las estrellas pueden esperar. Llevan esperando desde antes que el Árbol. —Hizo una pausa—. Pero vuelve. No te lo prometo yo. Prométemelo tú.
+
+—Mi abuela decía…
+
+—Sé lo que decía tu abuela. —Ranni le cogió la cara con las dos manos frías—. Prométemelo igual.
+
+—Te lo prometo igual —dijo Edda.
 
 Y salieron juntas del Árbol. De la mano. A la explanada de ceniza, donde Hoarah Loux dormía de espaldas con su león, y donde las estrellas, por primera vez en eras, se veían enteras en el cielo sobre Leyndell.
+
+Allí se separaron. Ranni abrió una luna en el aire, una puerta redonda de luz azul, y se fue hacia su torre con los fragmentos girando a su alrededor. Edda se quedó mirando el sitio donde había estado la puerta hasta que se apagó.
+
+Luego bajó a las cloacas, a buscar el portal de las catacumbas que llevaba al palacio de la sangre.

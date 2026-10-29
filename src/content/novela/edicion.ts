@@ -19,7 +19,19 @@ export const EDICION = {
   },
 }
 
-/** Epígrafe de la portadilla de cada libro (índice = número de libro) */
+/** Epígrafe de la portadilla de cada uno de los dos libros */
+export const EPIGRAFES_VOLUMEN: Record<number, { texto: string; fuente: string }> = {
+  1: {
+    texto: 'Todo lo que se esconde para proteger a alguien acaba buscando la manera de volver.',
+    fuente: 'Inscripción en una piedra caliente de Andrax',
+  },
+  2: {
+    texto: 'Los que vuelven no recuerdan de dónde vienen. Por eso vuelven.',
+    fuente: 'Dicho de las Tierras Áridas',
+  },
+}
+
+/** Epígrafe de la portadilla de cada parte (índice = número de parte) */
 export const EPIGRAFES_LIBRO: Record<number, { texto: string; fuente: string }> = {
   1: {
     texto:
@@ -40,13 +52,13 @@ export const EPIGRAFES_LIBRO: Record<number, { texto: string; fuente: string }> 
     fuente: 'Atribuido a una doncella de dedos sin nombre',
   },
   5: {
-    texto: 'Lo que se borra de los mapas no deja de existir. Solo deja de ser perdonado.',
-    fuente: 'Dicho de los Cornamentados de la Tierra de las Sombras',
-  },
-  6: {
     texto:
       'Para que crezca un árbol nuevo, alguien tiene que quemar el viejo, y quedarse a mirar cómo arde.',
     fuente: 'Palabras atribuidas a Melina',
+  },
+  6: {
+    texto: 'Lo que se borra de los mapas no deja de existir. Solo deja de ser perdonado.',
+    fuente: 'Dicho de los Cornamentados de la Tierra de las Sombras',
   },
 }
 
@@ -56,6 +68,11 @@ export interface GlossaryEntry {
 }
 
 export const GLOSARIO: GlossaryEntry[] = [
+  {
+    termino: 'Andrax',
+    definicion:
+      'Castillo de Lynx sobre los acantilados entre Altus y Liurnia, levantado en el círculo de piedras donde nació. En la lengua de los dragones, «donde cae el rayo». Tras la Era de las Estrellas, Lynx y Rellana lo reconstruyen sin bandera.',
+  },
   {
     termino: 'Anillo de Elden',
     definicion:
@@ -85,6 +102,11 @@ export const GLOSARIO: GlossaryEntry[] = [
     termino: 'Brillo',
     definicion:
       'Piedra azul que conserva la luz de las estrellas. Los hechiceros de Liurnia la usan como fuente de su magia.',
+  },
+  {
+    termino: 'Caballeros sagrados',
+    definicion:
+      'Los nueve capitanes de Lynx en el Árbol Hierático, bendecidos con la sangre de Miquella: Loretta, Moongrum, Oru, Arja, Avizeth, Neolo, Critz, Perios y Leda. Juraron proteger a los que no tienen a nadie, aunque se lo prohibiera el propio Miquella.',
   },
   {
     termino: 'Ciudades eternas',
@@ -131,6 +153,11 @@ export const GLOSARIO: GlossaryEntry[] = [
       'Cada uno de los fragmentos mayores del Anillo de Elden, que eligieron a los semidioses tras la rotura y les otorgaron un poder inmenso.',
   },
   {
+    termino: 'Hijo del rayo',
+    definicion:
+      'Nacido de un dragón antiguo y de un ser humano o semidiós. Crece deprisa y domina el rayo de los dragones. Lynx fue el primero en eras.',
+  },
+  {
     termino: 'Llama de la Ruina',
     definicion:
       'Fuego capaz de quemar el Árbol Áureo, custodiado durante eras por el último de los gigantes en lo alto de su forja.',
@@ -139,6 +166,11 @@ export const GLOSARIO: GlossaryEntry[] = [
     termino: 'Llama Frenética',
     definicion:
       'Fuego amarillo de la locura que promete disolver todas las cosas en una sola, sin sufrimiento ni distinción.',
+  },
+  {
+    termino: 'Lluvia con sol',
+    definicion:
+      'Lluvia fina y cálida que cae con luz dorada aunque no haya sol. La provoca Lynx sin querer cuando lo desborda lo que siente, sobre todo por Rellana. En el voto de su boda le pidió que, si alguna vez se perdía, lo buscara donde lloviera así.',
   },
   {
     termino: 'Los que viven en la muerte',
@@ -156,6 +188,11 @@ export const GLOSARIO: GlossaryEntry[] = [
       'Refugio de los Sinluz, fuera del tiempo y del espacio, donde se reúnen los aspirantes a Señor de Elden.',
   },
   {
+    termino: 'Nyra',
+    definicion:
+      '«La que vuelve», en la lengua de los dragones. Nombre que Rellana dio a su hija, gemela de Aldren. Tras el rito de los Nox, Loretta la crió en las Tierras Áridas con el nombre de Edda.',
+  },
+  {
     termino: 'Orden Áurea',
     definicion: 'Fe y ley fundadas por Marika en torno al Árbol Áureo y el Anillo de Elden.',
   },
@@ -168,6 +205,11 @@ export const GLOSARIO: GlossaryEntry[] = [
     termino: 'Raíz de la Muerte',
     definicion:
       'Raíz negra que brota allí donde las raíces del Árbol tocan la muerte del Príncipe Godwyn.',
+  },
+  {
+    termino: 'Rito de los Nox',
+    definicion:
+      'Ceremonia prohibida de Nokstella que arranca la gracia de una sangre para ocultarla de los Dedos. Exige un alma de igual peso y borra los recuerdos que sostenía la luz. Lynx lo pagó por sus hijos; su alma cayó en la Tierra de las Sombras.',
   },
   {
     termino: 'Runa de la Muerte',
@@ -187,7 +229,7 @@ export const GLOSARIO: GlossaryEntry[] = [
   {
     termino: 'Tierra de las Sombras',
     definicion:
-      'Región sellada y borrada de los mapas por Marika, donde nació su divinidad y donde Messmer quedó prisionero.',
+      'Región sellada y borrada de los mapas por Marika, donde nació su divinidad y donde Messmer quedó prisionero. Volvió al mundo cuando se apagó la última brasa de la reina.',
   },
   {
     termino: 'Voluntad Mayor',
@@ -222,7 +264,7 @@ export const CRONOLOGIA: ChronologyEntry[] = [
   {
     era: 'Albor del Árbol',
     hechos:
-      'Ascensión de Marika. Guerra contra los gigantes y sellado de la Llama de la Ruina. Cacería de dioses de la Reina de los Ojos Lóbregos.',
+      'Ascensión de Marika. Guerra contra los gigantes y sellado de la Llama de la Ruina. Cacería de dioses de la Reina de los Ojos Lóbregos. Maliketh le arranca la Runa de la Muerte del ojo, pero la deja vivir.',
     desde: '05-los-gigantes',
     hasta: '06-ojos-lobregos',
   },
@@ -236,23 +278,23 @@ export const CRONOLOGIA: ChronologyEntry[] = [
   {
     era: 'Edad Dorada',
     hechos:
-      'La Abundancia. Godwyn hace las paces con los dragones. Cruzada de Messmer y sellado de la Tierra de las Sombras. Guerras de Liurnia.',
+      'La Abundancia. Godwyn hace las paces con los dragones. Nace Lynx, hijo secreto de Godwyn y Lansseax, y crece en Caria. Cruzada de Messmer y sellado de la Tierra de las Sombras. Guerras de Liurnia y juramento de Rellana.',
     desde: '07-la-abundancia',
     hasta: '10-las-guerras-de-liurnia',
   },
   {
     era: 'Destierro de Godfrey',
     hechos:
-      'Los primeros Sinluz son expulsados. Radagon abandona a Rennala y se convierte en el segundo Señor de Elden. Nacen Miquella y Malenia.',
+      'Los primeros Sinluz son expulsados. Radagon abandona a Rennala y se convierte en el segundo Señor de Elden. Exilio y condena de Lynx; destruye a la Reina de los Ojos Velados y funda Andrax. Muerte de Rellana y batalla de la Escalinata Azul. Nacen Miquella y Malenia; el Árbol Hierático y los nueve caballeros sagrados.',
     desde: '11-la-larga-marcha',
-    hasta: '13-el-nino-que-no-crecia',
+    hasta: '13a-los-nueve',
   },
   {
     era: 'La Fractura',
     hechos:
-      'Noche de los Cuchillos Negros y muerte de Godwyn. Marika rompe el Anillo. Guerra de los semidioses. Batalla de Aeonia.',
+      'Noche de los Cuchillos Negros y muerte de Godwyn. Marika rompe el Anillo. Guerra de los semidioses y asedio de Leyndell por el Árbol Hierático. Batalla de Aeonia. Lynx da su alma en Nokstella por sus hijos; su alma cae como una estrella en la Tierra de las Sombras.',
     desde: '14-los-cuchillos-negros',
-    hasta: '18-aeonia',
+    hasta: '18a-el-precio-de-un-alma',
   },
   {
     era: 'Regreso de los Sinluz',
@@ -262,23 +304,24 @@ export const CRONOLOGIA: ChronologyEntry[] = [
     hasta: '30-el-senor-de-la-sangre',
   },
   {
-    era: 'Tierra de las Sombras',
-    hechos:
-      'Edda sigue a Miquella al reino sellado. Caída de Messmer, de Romina y del Consorte Prometido.',
-    desde: '31-la-llanura-de-las-tumbas',
-    hasta: '38-enir-ilim',
-  },
-  {
     era: 'La llama de la ruina',
     hechos:
-      'Ascenso a la Forja de los Gigantes. Quema del Árbol. Farum Azula, la Capital de Ceniza y el interior del Árbol.',
+      'Ascenso a la Forja de los Gigantes y sacrificio de Melina. Quema del Árbol. Muerte de Loretta y de Malenia. Farum Azula, la Capital de Ceniza y el interior del Árbol. Ranni se lleva la Orden a las estrellas; Marika conserva una última brasa.',
     desde: '39-las-cumbres',
-    hasta: '44-dentro-del-arbol',
+    hasta: '45-la-era-de-las-estrellas',
+  },
+  {
+    era: 'Tierra de las Sombras',
+    hechos:
+      'Edda toca el brazo marchito y sigue a Miquella al reino sellado. Encuentra a Lynx sin memoria entre los Cornudos; Lynx y Rellana se reencuentran en Castillo Ensis. Caída de Messmer, de Metyr y del Consorte Prometido. En Enir-Ilim, Edda descubre que es Nyra, hija de Lynx y de Rellana.',
+    desde: '45b-el-brazo-marchito',
+    hasta: '38b-la-que-vuelve',
   },
   {
     era: 'Después',
-    hechos: 'Nace una nueva era. Las ramas de lo que pudo haber sido.',
-    desde: '45-la-era-de-las-estrellas',
+    hechos:
+      'Muere la última brasa de Marika y la Tierra de las Sombras vuelve al mundo. Lynx regresa con Lansseax y con Rennala. Edda deja las piedras en la puerta azul y parte con Ranni. Las ramas de lo que pudo haber sido.',
+    desde: '45c-la-ultima-brasa',
     hasta: '46-epilogo',
   },
 ]

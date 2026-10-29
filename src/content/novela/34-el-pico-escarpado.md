@@ -370,7 +370,7 @@ No sabía todavía dónde las dejaría. Pero sabía que habría un sitio. Uno do
 
 Esa noche, sola junto a una gracia en la ladera del pico, Edda miró hacia el oeste. A lo lejos, sobre el horizonte, más allá del valle de ceniza, se alzaba el Torreón de la Sombra. La fortaleza de Messmer. Una silueta negra contra el cielo gris, con torres como lanzas y un resplandor rojo en las ventanas más altas, como ojos.
 
-Sacó de la bolsa del cinturón una piedra que había cogido en la cumbre, antes de bajar: negra, porosa, con un brillo dorado en el fondo de los agujeros, donde la sangre del dragón se había secado. La decimotercera.
+Sacó de la bolsa del cinturón una piedra que había cogido en la cumbre, antes de bajar: negra, porosa, con un brillo dorado en el fondo de los agujeros, donde la sangre del dragón se había secado. La vigesimoprimera.
 
 La miró.
 

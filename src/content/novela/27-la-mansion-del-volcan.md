@@ -64,6 +64,138 @@ Lo dijo sin entusiasmo. Lo dijo como se dice de una persona que fue hermosa y ya
 
 * * *
 
+Antes de adentrarse en la meseta, siguieron un rato el borde del acantilado hacia el norte, porque Melina quería ver el lago desde arriba.
+
+A media legua del ascensor encontraron unas ruinas.
+
+Estaban en lo alto de un risco que se asomaba al vacío sobre Liurnia: una muralla baja, de piedra gris, derrumbada en varios sitios; unas casas sin tejado en la ladera, comidas por la hierba dorada; una escalera tallada en la roca del acantilado que bajaba hacia el lago y se perdía en la niebla. Y en el centro, una torre. O lo que quedaba de ella: un muñón de piedra ennegrecida, partido a media altura, como si un rayo lo hubiera alcanzado hacía mucho y nadie lo hubiera reconstruido.
+
+En lo alto del muñón, atada a un asta de hierro oxidado, colgaba una bandera.
+
+Estaba tan descolorida que casi no se veía el dibujo. Era azul, o lo había sido. Y en el centro, apenas una sombra en la tela deshilachada, se adivinaba un dragón de plata atravesado de arriba abajo por un rayo.
+
+—¿Qué es esto? —preguntó Edda.
+
+Melina no contestó. Se había quedado quieta en la entrada de la muralla, mirando la bandera, con una expresión extraña.
+
+—No lo sé —dijo al fin—. No sale en ningún mapa.
+
+Dentro de la muralla, en el centro de un patio cubierto de hierba, había un círculo de piedras antiguas. Altas, grises, gastadas, más viejas que la muralla y que la torre, más viejas que cualquier cosa que Edda hubiera visto en las Tierras Intermedias. Y en el centro del círculo, dos tumbas. Dos lápidas sencillas, una junto a la otra, cubiertas de líquenes. Sobre una de ellas colgaba de un hilo, de una rama de un árbol seco que había crecido entre las piedras, una luna pequeña de cristal azul, que giraba despacio con el viento.
+
+Edda entró en el círculo. Y se detuvo.
+
+Las piedras estaban calientes.
+
+Lo notó en la cara, como se nota el calor de una chimenea al entrar en una casa. Hacía viento en lo alto del acantilado, un viento frío que venía del lago, y sin embargo dentro del círculo el aire estaba tibio, quieto, como en una habitación cerrada. Se acercó a la piedra más grande. Le puso la mano encima. Estaba caliente como la piel de alguien vivo.
+
+En la piedra había una inscripción. Medio borrada por los siglos, tallada con una mano temblorosa. Edda tuvo que inclinarse para leerla.
+
+_Aquí yace un semidiós que nadie nombró. Un Empíreo que nadie eligió. Un hijo del rayo que pudo serlo todo, y decidió dar su alma por otros._
+
+Debajo, más pequeño:
+
+_Hizo llover con sol._
+
+—Hacía mucho que nadie lo leía en voz alta —dijo una voz a su espalda.
+
+---
+
+Era una mujer. Estaba sentada en lo alto de la muralla derrumbada, con las piernas colgando hacia el lago, envuelta en un manto gris de sacerdotisa. Tenía el cabello largo, plateado, revuelto por el viento, y unos ojos de un dorado tan pálido que casi parecían blancos. Edda no la había oído llegar. Melina, en la entrada del círculo, se había llevado la mano a la empuñadura de un cuchillo que Edda no sabía que llevaba.
+
+—No temas, muchacha sin dedos —dijo la mujer, sin volverse hacia ella—. No vengo a hacerle daño a nadie. Vengo aquí cada otoño. Desde hace mucho.
+
+—¿A qué? —preguntó Edda.
+
+—A cantar. —La mujer bajó de la muralla con un salto ligero, demasiado ligero para alguien de su tamaño, y se acercó al círculo de piedras. Se detuvo en el borde, sin entrar—. Es mi hijo.
+
+Edda miró la tumba de la inscripción.
+
+—¿Quién era?
+
+La mujer tardó mucho en contestar. Se sentó en una de las piedras del círculo, la que estaba frente a la tumba, y se quedó mirando la luna de cristal que giraba sobre la otra.
+
+—Se llamaba Lynx —dijo al fin—. Era hijo del príncipe Godwyn, el Dorado. Y mío.
+
+—Godwyn… —Edda frunció el ceño—. ¿El que mataron los cuchillos negros?
+
+—El mismo. —La mujer sonrió apenas—. Lo tuvimos en secreto, porque la Orden no lo habría perdonado. Lo escondimos en Liurnia, en casa de la reina de la luna, al otro lado de ese lago. Creció sin saber quién era. Fue general de los magos. Venció tres veces al Señor de Elden y tres veces lo dejó vivir. Defendió a los albinauricos de las piras. Lo encadenaron, lo pasearon por la capital como a una fiera, lo mandaron a morir en la nieve contra una reina que mataba dioses. —Le brilló algo en los ojos pálidos—. No murió. La desintegró con dos rayos. Construyó este sitio sobre las piedras donde nació. Amó a una mujer de dos espadas. La mataron por castigarlo a él.
+
+Señaló la otra tumba, la de la luna de cristal.
+
+—Ahí está ella. Rellana. La de las lunas gemelas. —La mujer se quedó callada un momento—. O la mitad de ella. La otra mitad se quedó lejos, en una tierra que no está en los mapas, guardando un castillo para un hijo de la diosa al que nadie quería. Había jurado hacerlo. Y los juramentos, muchacha, son más tercos que las personas.
+
+Edda miró las dos tumbas. Las dos lápidas, una junto a la otra. La luna de cristal.
+
+—¿Cómo murió él? —preguntó en voz baja.
+
+—Le dio su alma a la noche para que dos niños dejaran de arder. —La mujer lo dijo con calma, como quien dice algo que ha repetido muchas veces para sí misma, hasta gastarlo—. Sus hijos. Llevaban dentro la luz del Árbol, la de su abuelo y su bisabuela, y les quemaba, y los Dedos la rastreaban como perros. Él se la quitó. Los dejó sin gracia, libres, invisibles. Y la noche se llevó su alma a cambio. —Miró a Edda—. No volverá. No está en las raíces del Árbol. No renacerá. Es lo único que no le perdono. —Se quedó callada un momento, con las manos en el regazo—. Los dragones vivimos mucho, Sinluz. Demasiado. Vemos nacer montañas y caer reyes. Y aprendemos pronto que la única manera de soportarlo es no querer a nada que no dure tanto como nosotros. Yo lo sabía. Lo sabía desde antes de que existiera el Árbol. Y una noche, en esta misma roca, con un príncipe dorado que lloraba de miedo a mi lado, tuve en brazos algo que no iba a durar. Y lo quise igual. —Le tembló la boca—. Lo dejé en un embarcadero para que viviera más. Y vivió. Lo suficiente para hacer llover con sol encima de un lago, para que una caballera le pegara con una vara de sauce, para darle a la noche lo único que yo le había dado entero. No le perdono que se fuera adonde no puedo seguirlo. Pero si volviera a nacer, haría lo mismo. Y yo volvería a dejarlo en el mismo embarcadero. Así somos las madres de los que no duran.
+
+—¿Y los niños?
+
+—Se los llevó una caballera muy lejos, al otro lado del mar. —La mujer se encogió de hombros—. No volví a saber de ellos. Así tenía que ser.
+
+---
+
+Se quedaron un rato en silencio. Melina seguía en la entrada del círculo, inmóvil, con la mano en el cuchillo. La mujer de cabello plateado no le hacía caso. Miraba a Edda.
+
+—Ven —dijo de pronto—. Acércate.
+
+Edda dudó. Luego cruzó el círculo hasta ella. La mujer se inclinó hacia delante y la olfateó, una vez, despacio, como olfatean los perros. Como olfatean las bestias.
+
+Se quedó muy quieta.
+
+—Hueles a tormenta —dijo.
+
+—¿Cómo?
+
+—Poco. Muy al fondo. Como una brasa debajo de la ceniza. —La mujer la miró con unos ojos de oro pálido que de pronto parecían mucho más viejos—. ¿De dónde vienes, Sinluz?
+
+—De las Tierras Áridas. —Edda se encogió de hombros—. De una aldea de pastores, al pie de unas colinas rojas. Mi familia eran arqueros. Lo han sido siempre.
+
+—¿Y qué juráis, en tu familia, cuando tenéis miedo?
+
+Edda se la quedó mirando. Era una pregunta extraña. Y sin embargo, por algún motivo, no se le ocurrió no contestarla.
+
+—«Por la sangre de Edda» —dijo—. Por una antepasada. Una arquera de un rey antiguo.
+
+—¿Nada más?
+
+Edda tardó en contestar.
+
+—Mi abuela decía otra cosa a veces —dijo al fin—. Cuando estaba muy asustada. Cuando murió mi abuelo, cuando vino la sequía. Decía «por la sangre que vuelve». —Sonrió sin querer—. Nunca supe qué significaba. Ella tampoco. Decía que se lo había oído a su abuela, y su abuela a la suya.
+
+La mujer de cabello plateado no dijo nada.
+
+Se quedó mirándola durante tanto tiempo que Edda empezó a sentirse incómoda. Luego levantó la mano, despacio, como quien toca algo que no sabe si tiene derecho a tocar, y le apartó a Edda el pelo de la frente con un dedo. Le miró la frente. Le miró los ojos. Los ojos de Edda, que eran grises, y que a la luz dorada del atardecer de Altus, por un instante, solo uno, se estrecharon como los de un gato.
+
+La mujer retiró la mano. Tenía los ojos húmedos.
+
+—Vuelve, entonces —dijo, en voz muy baja—. Vuelve, y mira esta tierra, y decide si vale la pena.
+
+—¿Por qué me dice eso?
+
+—Porque alguien se lo pidió una vez a alguien. —La mujer se levantó—. Y me gustaría saber que alguien lo cumplió.
+
+Echó a andar hacia el borde del acantilado. Se detuvo un instante, de espaldas, junto a la muralla derrumbada.
+
+—Si alguna vez llegas a la tierra que no está en los mapas —dijo—, y encuentras a una mujer con dos espadas, una dorada y otra azul, guardando una puerta… dile que él la esperó. En este círculo. Hasta el final.
+
+Y saltó al vacío.
+
+Edda corrió hasta el borde. Abajo, sobre la niebla del lago, una dragona de piedra gris clara, con las escamas del cuello veteadas de plata, desplegaba las alas y se alejaba hacia el oeste, sobre Liurnia, sin hacer ruido.
+
+Melina se acercó a su lado. Se quedó mirando la dragona hasta que desapareció en la niebla.
+
+—Era Lansseax —dijo—. La hermana de Fortissax. Una de las dragonas antiguas. —Se volvió hacia Edda—. ¿Qué te ha dicho, al final? Cuando te ha tocado la frente.
+
+Edda se llevó la mano a la frente. Al sitio donde la mujer la había tocado. Estaba caliente.
+
+—Nada —dijo—. No me ha dicho nada.
+
+Pero aquella noche, junto a la gracia, en mitad de la meseta dorada, soñó con un círculo de piedras sobre un acantilado. Y en el sueño llovía con sol.
+
+* * *
+
 Tardaron dos días en cruzar la meseta hacia el norte. Altus no estaba vacío. Había aldeas habitadas, por primera vez desde que Edda había despertado: aldeas pequeñas, de casas de piedra con tejados de pizarra, donde vivía gente que no tenía la gracia en los ojos ni la había tenido nunca. Gente normal. Campesinos. Pastores. Niños que corrían entre las ovejas y se paraban a mirarla pasar con una mezcla de curiosidad y miedo.
 
 En una de ellas, junto a un molino, una mujer le ofreció agua de un pozo.

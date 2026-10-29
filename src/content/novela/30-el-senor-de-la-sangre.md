@@ -408,48 +408,82 @@ El brazo no contestó. Pero los dedos —Edda habría jurado que lo vio— se mo
 
 ---
 
-Fue un impulso, como cuando había empujado la tinaja de Alejandro o le había dado la mano a Hyetta en las escaleras: algo que su cuerpo hizo antes de que su cabeza lo decidiera. O quizá sí lo decidió. Quizá fue la ternura, el perfume, lo que Ansbach temía. O quizá fue otra cosa: la pregunta de Mohg, _¿por qué no me lee nadie?_, y la certeza de que aquel brazo extendido hacia arriba llevaba siglos pidiendo lo mismo.
+Fue un impulso, como cuando había empujado la tinaja de Alejandro o le había dado la mano a Hyetta en las escaleras: algo que su cuerpo empezó a hacer antes de que su cabeza lo decidiera. La pregunta de Mohg, _¿por qué no me lee nadie?_, y la certeza de que aquel brazo extendido hacia arriba llevaba siglos pidiendo lo mismo.
 
-Extendió la mano y tocó el brazo marchito.
+Extendió la mano.
 
-El mundo desapareció.
+Y a un dedo del brazo marchito, se detuvo.
 
-No en rojo, como con el trapo de Varré. En dorado. Una luz dorada, suave, cálida, que lo envolvió todo y borró el palacio, la sangre, los cadáveres, el capullo. Edda sintió que caía, pero no hacia abajo, ni hacia arriba: hacia dentro. Hacia un lugar que estaba detrás de las cosas. Detrás del mundo. Como si el mundo fuera una tela y ella acabara de atravesarla.
+No supo por qué. O sí lo supo, a medias: por el calor. Porque el calor del pecho había crecido de golpe al acercarse, dulce, enorme, como el agua que sube en un pozo, y debajo del calor, en algún sitio muy hondo de ella misma que no sabía que tenía, algo se había despertado y había dicho que no. No con palabras. Con una sensación extraña, como el pelo que se eriza antes de una tormenta.
 
-Y en esa luz oyó una voz.
+_No seas de nadie que te lo pida sonriendo._
 
-Ni la de Melina ni la de Ranni. Era la de una mujer joven, dulce y firme a la vez, que hablaba como quien recita una oración aprendida de memoria.
+No sabía de dónde le venía aquella frase. No recordaba haberla oído nunca. Pero la tenía en la cabeza, entera, con la voz de alguien, como se tienen las nanas.
 
-—Sinluz. Has tocado la mano de nuestro señor. Ahora lo seguirás. Como lo seguimos todos.
+Retiró la mano.
+
+El calor se apagó de golpe, como una vela cuando se abre una puerta. Y en su lugar quedó un frío pequeño, limpio, y una voz. Ni la de Melina ni la de Ranni. Era la de una mujer joven, dulce y firme a la vez, que hablaba desde ninguna parte, como quien recita una oración aprendida de memoria.
+
+—Sinluz. Te has apartado.
 
 —¿Quién eres?
 
-—Me llamo Leda. —La voz sonrió; se le notaba—. Y te espero en la Tierra de las Sombras.
+—Me llamo Leda. —La voz no sonrió—. Nadie se aparta de él. Nadie, salvo uno. Hace mucho. —Hubo un silencio largo—. Volverás. Cuando ya no te quede nada que hacer en tu mundo, volverás a esta mano. Todos vuelven. Y yo te estaré esperando en la Tierra de las Sombras.
+
+La voz se apagó. El brazo siguió allí, extendido, inmóvil.
+
+Edda se dio la vuelta y salió del salón sin mirar atrás.
 
 ---
 
-En el salón de Mohgwyn, junto al mausoleo vacío, no quedaba nadie.
+Ansbach estaba en su escalón, con la espada sobre las rodillas. Levantó la vista al verla bajar.
 
-Ansbach subió la escalinata un rato después. Despacio, apoyándose en la espada. Entró en el salón. Vio la sangre del suelo, quieta ya, sin remolinos. Vio el mausoleo blanco. Vio el capullo, con el brazo marchito extendido hacia arriba.
+—No lo has tocado —dijo. No era una pregunta.
 
-No había nadie más.
+—No.
 
-Se quedó de pie en la entrada del salón, mirando el capullo. Luego miró el lugar donde había estado su señor. No quedaba nada de él. Solo la sangre, que era la misma que antes.
+—¿Por qué?
 
-—Te dije que no lo pensabas tú solo —dijo en voz alta, a nadie—. Te lo dije muchas veces.
+Edda se sentó a su lado, en el escalón, entre la sangre. Le temblaban las manos.
 
-Se acercó al capullo. Despacio. Se detuvo a un paso, como se había detenido Edda. Sintió el calor en el pecho. La ternura. El perfume.
+—No lo sé —dijo al fin—. Iba a hacerlo. Y algo me dijo que no. Una frase. —Se miró las manos—. Que no fuera de nadie que me lo pidiera sonriendo.
 
-Cerró los ojos.
+El viejo caballero se quedó muy quieto.
 
-—Te seguiré —dijo—. Pero no porque te quiera. —Abrió los ojos—. Te seguiré para saber qué le hiciste.
+—¿Quién te dijo eso?
 
-Extendió la mano y tocó el brazo.
+—Nadie. No me acuerdo. —Edda se encogió de hombros—. A lo mejor mi abuela. Decía muchas cosas.
 
-Y el salón del trono de Mohgwyn se quedó vacío del todo, con su lago de sangre quieto y su capullo dorado, mientras arriba, muy lejos, en una plaza de Leyndell junto a una fuente seca, una muchacha de capa gris esperaba sentada junto a una muñeca de trapo a alguien que no iba a volver pronto.
+Ansbach la miró durante mucho tiempo, con una expresión que Edda no supo leer.
 
-Melina no supo cuándo exactamente se dio cuenta. Quizá fue cuando la gracia de la fuente parpadeó, una sola vez, como una vela cuando alguien abre una puerta en otra habitación. Quizá fue más tarde, al amanecer, cuando las hojas doradas le cubrieron los pies y nadie vino a sacudírselas.
+—Hubo un hombre que se apartó de él —dijo al fin—. Una vez. En Aeonia, delante de un millón de soldados. Lo contaban en las tabernas de los Melenarrojas cuando yo era joven. Nadie sabía cómo lo había hecho. —Se levantó, apoyándose en la espada—. Yo no sé apartarme. Pero quiero saber qué le hizo a mi señor. Así que iré.
 
-Se quedó allí igual. Había dicho que esperaría.
+—¿Adónde?
 
-Sacó de la capa la carta de Godwyn y la leyó en voz alta, despacio, a la muñeca de trapo. Para no estar sola. Para que alguien la oyera.
+—Adonde lleve esa mano. —Ansbach miró hacia el salón—. Ve tú a lo tuyo, Sinluz. Tienes una doncella esperándote y un árbol que te espera más. Si algún día te queda tiempo, ya sabes dónde está la puerta.
+
+Subió la escalinata. Despacio. Entró en el salón. Edda lo oyó detenerse junto al mausoleo. Lo oyó decir algo en voz baja, algo que sonó a «no porque te quiera». Y luego no lo oyó más.
+
+Cuando subió a mirar, el salón estaba vacío. Solo el lago de sangre, quieto, y el capullo dorado, y el brazo marchito con los dedos abiertos hacia el techo.
+
+---
+
+Volvió a Leyndell al amanecer, por el mismo portal escondido en las catacumbas por el que había bajado.
+
+Melina estaba en la plaza, junto a la fuente seca, sentada al lado de una muñeca de trapo, con la carta de Godwyn abierta en el regazo. Había estado leyéndola en voz alta toda la noche, para no estar sola. Cuando vio a Edda cruzar la plaza entre las hojas doradas, se levantó tan deprisa que la carta se le cayó al suelo.
+
+—Has vuelto —dijo.
+
+—He vuelto.
+
+—Pensé que… —Melina se calló. Recogió la carta. La dobló con cuidado—. La gracia de la fuente parpadeó. A media noche. Como cuando alguien abre una puerta en otra habitación.
+
+—Alguien la abrió. —Edda se sentó junto a la fuente, agotada—. Ansbach. Yo no.
+
+Melina la miró con su único ojo. No preguntó nada más. Se sentó a su lado, y le sacudió las hojas doradas de los hombros, una a una, despacio, como si fuera lo más importante del mundo.
+
+—¿Y ahora? —preguntó al fin.
+
+Edda miró hacia arriba. Hacia el Árbol, enorme, dorado, rodeado de espinas.
+
+—Ahora tú me dices adónde.

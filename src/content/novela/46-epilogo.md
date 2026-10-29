@@ -104,7 +104,15 @@ En el Paso del Portón, en Necrolimbo, hay un columpio de cadenas colgado de un 
 
 En Velo Tormentoso gobierna una reina de pelo gris que no lleva corona. Tiene una hija que se llama Mirta y que ya sabe leer. Cada mes escriben juntas una carta que no mandan a ninguna parte, y la guardan en un cuaderno de tapas de cuero que fue de un hombre que lo sabía casi todo.
 
-En la torre del oeste del lago de Liurnia, un troll gris con un collar de cuentas de hierro y un lobo que ya no aúlla siguen encendiendo la luz azul cada noche. Por si acaso.
+En la torre del oeste del lago de Liurnia, un troll gris con un collar de cuentas de hierro y un lobo que ya no aúlla siguen encendiendo la luz azul cada noche. Por si acaso. Al otro lado del lago, en la gran biblioteca de la Academia, una reina muy alta que ya no flota ha vuelto a abrir las ventanas, y en las noches de tormenta se sienta en el suelo junto a una de ellas y canta, aunque ya no haya ningún niño en la habitación que lo necesite.
+
+En la meseta de Altus, sobre un acantilado que da a Liurnia, han vuelto a levantar una torre. No lleva bandera de nadie. La gente de las aldeas dice que la vive un hombre enorme con un mechón dorado en la frente y una mujer de trenza blanca que lleva dos espadas incluso para ir al huerto, y que a veces una dragona gris clara duerme enroscada alrededor de la torre como un gato alrededor de una lumbre. Dentro del círculo de piedras calientes del patio hay dos tumbas, y una de ellas tiene ahora flores frescas y la otra, la de él, la han dejado sin lápida, porque dicen que es de mal gusto llevar flores a la tumba de uno mismo.
+
+No están siempre. Pasan meses fuera, hacia el este, siguiendo rutas de caravanas que nadie recuerda, preguntando en las posadas del desierto por un hombre muy serio con una mano izquierda de piedra, o por sus nietos, o por los nietos de sus nietos. Dicen que la última vez volvieron con una figurita de madera tallada a mano, un caballero con dos espadas, comprada en un mercado de las Tierras Áridas a un viejo que no quiso decir quién se la había enseñado a tallar. La tienen en la ventana.
+
+Y cada otoño, cuando las estrellas están en el sitio exacto, llueve con sol sobre el lago de Liurnia. Una hora. A medianoche. Los astrónomos de la Academia lo apuntan en sus registros y no lo saben explicar. Los pescadores, sí.
+
+Al este, más allá de las cumbres, donde antes solo había cielo, se ve ahora un árbol gris. Por los caminos que bajan de él han empezado a llegar gentes con cuernos, despacio, con desconfianza, a comerciar en las aldeas de la frontera. Traen manzanas pequeñas y ácidas. Y un libro muy largo, escrito en una lengua antigua, que un caballero con gafas va copiando a mano en todas las bibliotecas que encuentra, para que lo que pasó en aquella tierra esté por fin en algún libro de este lado.
 
 Y en una aldea al borde de Caelid, donde ya vuelve a crecer la hierba, un hombre viejo que se llama Tavi de Morne, y que de joven llevaba un escudo demasiado grande para él, se sienta cada tarde junto al fuego con los niños y les cuenta una historia.
 

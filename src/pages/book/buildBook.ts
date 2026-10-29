@@ -1,5 +1,5 @@
-import { BOOKS, CHAPTERS, NOVEL_SUBTITLE, NOVEL_TITLE, type Block } from '../../content/novela'
-import { CRONOLOGIA, EDICION, EPIGRAFES_LIBRO, GLOSARIO, NOTA_EDITORIAL, capitulosDe, numeroEnLetras } from '../../content/novela/edicion'
+import { BOOKS, CHAPTERS, NOVEL_SUBTITLE, NOVEL_TITLE, VOLUMES, type Block } from '../../content/novela'
+import { CRONOLOGIA, EDICION, EPIGRAFES_LIBRO, EPIGRAFES_VOLUMEN, GLOSARIO, NOTA_EDITORIAL, capitulosDe, numeroEnLetras } from '../../content/novela/edicion'
 import { CHAPTERS as CRONICAS, CHARACTERS, LORE_PARTS } from '../../data/lore'
 
 export interface BookOptions {
@@ -61,7 +61,7 @@ export function buildBookHtml(chapters: Record<string, Block[]>, o: BookOptions)
   const tocLine = (href: string, n: string, t: string) => `<li><a href="#${href}"><span class="n">${n}</span><span class="t">${esc(t)}</span><span class="dots"></span></a></li>`
   out.push(`<section class="front indice"><h2 class="seccion-titulo">Índice</h2>
     <ol class="grupo">${tocLine('nota', '', 'Nota a esta edición')}</ol>
-    ${BOOKS.map((b) => `<div class="grupo"><div class="grupo-titulo">${esc(b.title)} · ${esc(b.name)}</div><ol>
+    ${BOOKS.map((b) => `${VOLUMES.find((v) => v.parts[0] === b.n) ? `<div class="grupo"><div class="grupo-titulo volumen">${esc(VOLUMES.find((v) => v.parts[0] === b.n)!.title)} · ${esc(VOLUMES.find((v) => v.parts[0] === b.n)!.name)}</div></div>` : ''}<div class="grupo"><div class="grupo-titulo">${esc(b.title)} · ${esc(b.name)}</div><ol>
       ${written.filter((c) => c.book === b.n).map((c) => tocLine(`cap-${c.slug}`, `${c.n}`, c.title)).join('')}
     </ol></div>`).join('')}
     <div class="grupo"><div class="grupo-titulo">Apéndices</div><ol>${backItems.map((x) => tocLine(x.id, '', x.t)).join('')}</ol></div>
@@ -78,6 +78,16 @@ export function buildBookHtml(chapters: Record<string, Block[]>, o: BookOptions)
 
   // ── Libros y capítulos ───────────────────────────────────────
   for (const b of BOOKS) {
+    const vol = VOLUMES.find((v) => v.parts[0] === b.n)
+    if (vol) {
+      const ve = EPIGRAFES_VOLUMEN[vol.n]
+      out.push(`<section class="part volumen">
+      <div class="num">${esc(vol.title.toUpperCase())}</div>
+      <h1>${esc(vol.name)}</h1>
+      <div class="orn">✦ ✦ ✦</div>
+      ${ve ? `<blockquote>${esc(ve.texto)}</blockquote><div class="fuente">${esc(ve.fuente)}</div>` : ''}
+    </section>`)
+    }
     const epi = EPIGRAFES_LIBRO[b.n]
     out.push(`<section class="part">
       <div class="num">${esc(b.title.toUpperCase())}</div>
@@ -85,7 +95,7 @@ export function buildBookHtml(chapters: Record<string, Block[]>, o: BookOptions)
       <div class="orn">✦</div>
       ${epi ? `<blockquote>${esc(epi.texto)}</blockquote><div class="fuente">${esc(epi.fuente)}</div>` : ''}
     </section>`)
-    if (o.mapa && b.n === 5) {
+    if (o.mapa && b.n === 6) {
       out.push(`<section class="front mapa"><figure><img src="/tiles/shadow-preview.webp" alt="Mapa de la Tierra de las Sombras"><figcaption>La Tierra de las Sombras</figcaption></figure></section>`)
     }
     for (const c of written.filter((x) => x.book === b.n)) {

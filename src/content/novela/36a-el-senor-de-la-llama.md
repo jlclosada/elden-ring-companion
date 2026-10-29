@@ -174,17 +174,17 @@ Midra se quedó en silencio. La llama de su frente creció. Ya no era del tamañ
 
 Se quedaron un rato en silencio, junto a la chimenea apagada. La llama de la frente de Midra seguía creciendo, despacio.
 
-—Hay una muchacha —dijo Midra de pronto—. Contigo. No aquí. En la otra tierra. Sin cuerpo. Con un ojo cerrado.
+—Hubo una muchacha —dijo Midra de pronto—. Contigo. No aquí. En la otra tierra. Sin cuerpo. Con un ojo cerrado.
 
 Edda se quedó inmóvil.
 
 —Melina.
 
-—No sé su nombre. —Midra la miró—. Pero la noto. En ti. Llevas su olor. Lleva una brasa. Una brasa como la mía. —Se tocó la frente—. No amarilla. Todavía no. Pero podría serlo.
+—No sé su nombre. —Midra la miró—. Pero todavía llevas su olor. Llevaba una brasa. Una brasa como la mía. —Se tocó la frente—. No amarilla.
 
-—Va a arder —dijo Edda—. Para quemar el Árbol. Para abrir las espinas. Dice que es para lo que existe.
+—Ardió —dijo Edda—. En la forja de las cumbres. Para quemar el Árbol. Dijo que era para lo que existía. —Se le cerró la garganta—. No me dejó hacerlo a mí.
 
-—Arderá. —Midra asintió despacio—. Y cuando arda, elegirá qué fuego. —Se inclinó hacia ella—. Hay dos, ¿sabes? Dos fuegos que pueden quemar un árbol. Uno quema para que crezca otra cosa. Como el fuego que quema un campo en otoño para que en primavera salga trigo. Ese fuego es el de los gigantes, el de la forja de las cumbres. El que la reina no pudo apagar. Ese es el que busca tu muchacha, creo.
+—Ardió. —Midra asintió despacio—. Y al arder, eligió qué fuego. —Se inclinó hacia ella—. Hay dos, ¿sabes? Dos fuegos que pueden quemar un árbol. Uno quema para que crezca otra cosa. Como el fuego que quema un campo en otoño para que en primavera salga trigo. Ese fuego es el de los gigantes, el de la forja. El que la reina no pudo apagar. Ese es el que eligió tu muchacha.
 
 —¿Y el otro?
 
@@ -192,17 +192,15 @@ Edda se quedó inmóvil.
 
 —¿Cómo se distinguen?
 
-—El primero te deja elegir qué quieres que crezca después —dijo al fin—. El segundo no te deja elegir nada. —Cerró los ojos—. Vigila a tu muchacha, Sinluz. Vigila qué luz le sale del ojo cuando llegue el momento.
+—El primero te deja elegir qué quieres que crezca después —dijo al fin—. El segundo no te deja elegir nada. —Cerró los ojos—. Tu muchacha ardió para dejarte elegir a ti. Es lo más grande que puede hacer una brasa.
 
-Edda pensó en la noche del acantilado de Liurnia. En la luz ámbar, cálida, que había brillado un instante en el ojo de Melina antes de apagarse.
+Edda pensó en la forja. En la luz ámbar, cálida, que se le había abierto a Melina en el ojo cerrado al final, por primera vez, mientras ardía con los brazos abiertos.
 
-*De que estés empezando a quererla. Y de que yo no pueda ir adonde vais a ir.*
-
-—¿Y si es la amarilla?
+—¿Y si me tocara a mí? —preguntó—. Elegir. ¿Y si me sale la amarilla?
 
 Midra abrió los ojos. La llama de su frente era ya del tamaño de una cabeza.
 
-—Entonces —dijo— tendrás que hacer lo que ella iba a hacer contigo si entrabas por la puerta.
+—Entonces —dijo— alguien que te quiera tendrá que hacer contigo lo que tú vas a hacer conmigo.
 
 * * *
 
@@ -240,7 +238,7 @@ Edda lanzó un fragmento de roca brillante contra el ojo. Lo atravesó sin hacer
 
 Esquivó un brazo de fuego. Le quemó el hombro.
 
-*Llevas piedras para un niño muerto. Catorce. Cada una pesa más que la anterior. Y no se las vas a dar nunca. Lo sabes. Ese sueño del umbral era mentira, lo sabes, te lo dijo la santa: no es verdad ni mentira, es consuelo. Arn murió esperándote. Solo. En un umbral. Y tú cargas con eso cada día.*
+*Llevas piedras para un niño muerto. Veintidós. Cada una pesa más que la anterior. Y no se las vas a dar nunca. Lo sabes. Ese sueño del umbral era mentira, lo sabes, te lo dijo la santa: no es verdad ni mentira, es consuelo. Arn murió esperándote. Solo. En un umbral. Y tú cargas con eso cada día.*
 
 Cayó de rodillas. La presión detrás de los ojos era casi insoportable. Sentía el calor. Sentía la llama queriendo entrar.
 
@@ -356,7 +354,7 @@ Ansbach se quedó mirándola. Luego asintió.
 
 Esa noche, junto a una gracia en el borde del bosque, Edda sacó la bolsa del cuello. Le echó agua al brote. Tres hojas.
 
-Luego sacó de la bolsa del cinturón las piedras de Arn y las contó a oscuras. Catorce. Las sostuvo un rato en la mano, todas juntas. Pesaban.
+Luego sacó de la bolsa del cinturón las piedras de Arn y las contó a oscuras. Veintidós. Las sostuvo un rato en la mano, todas juntas. Pesaban.
 
 *Cada una pesa más que la anterior. Y no se las vas a dar nunca.*
 

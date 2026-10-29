@@ -236,7 +236,7 @@ El caballo la miró con sus ojos negros, brillantes, muy inteligentes.
 
 —Ella te encontró primero —siguió Edda—. Melina. Antes que yo. Eras suyo. Me dijo que te gustaban las manzanas. Nunca te di ninguna. —Le apoyó la frente en el cuello—. Lo siento.
 
-Se metió la mano en la bolsa. Sacó una manzana. Pequeña, arrugada, de las de los huertos de la llanura de las cruces, de un esqueje que Moore había plantado junto a la iglesia y que ya había dado sus primeros frutos, tres, raquíticos, en la Tierra de las Sombras. Moore se las había dado a Edda antes de que se fuera. *Para el caballo de los cuernos*, le había dicho. *Tiene cara de que nunca le han dado una.*
+Se metió la mano en la bolsa. Sacó una manzana. Pequeña, arrugada, de las de los huertos de la llanura de las cruces, de un manzano viejo, medio quemado, que Moore había encontrado vivo en un huerto de la llanura de las cruces y que había dado tres, raquíticas, en la Tierra de las Sombras. Moore se las había dado a Edda antes de que se fuera. *Para el caballo de los cuernos*, le había dicho. *Tiene cara de que nunca le han dado una.*
 
 Torrente miró la manzana. Luego miró a Edda.
 
@@ -376,6 +376,32 @@ Edda se tapó la cara con las manos.
 
 * * *
 
+Los oyó llegar antes de verlos. Un ruido de alas enormes, sin batir, sobre el valle. Y luego, al levantar la cabeza, la sombra de una dragona gris clara cruzando el sol recién salido, en círculos, bajando despacio, hasta posarse en el llano rojo entre las puertas sin levantar el polvo.
+
+Lynx bajó el primero. Le tendió la mano a Rellana. Y se quedaron los dos de pie junto a la dragona, mirando el valle, las puertas desconchadas, el pozo seco, como se mira un sitio del que te han hablado tanto que ya no sabes si lo recuerdas o lo has soñado.
+
+—No queríamos llegar antes que tú —dijo Rellana, cuando Edda se acercó—. Esto era tuyo. Pero tampoco queríamos que lo hicieras sola.
+
+—Nunca ha estado sola —dijo Lynx, mirando a Ranni—. Aunque ella no lo supiera.
+
+Lo llevó a la puerta. A él, que no había visto crecer a su hija y no había sabido que tenía un nieto hasta hacía unos días. Lynx se arrodilló delante del escalón, despacio, con el hombro todavía vendado. Miró las rayas. Cientos. Pasó la yema de un dedo enorme por encima, sin tocarlas del todo, como se pasa la mano por encima de la cabeza de un niño dormido para no despertarlo.
+
+—Contaba los días —dijo.
+
+—Los días que yo no volvía.
+
+—No. —Lynx negó con la cabeza, sin apartar la vista de la madera—. Fíjate en cómo están hechas. No hay rabia en ninguna. Ni una raya más honda que otra. Un niño que cuenta los días de una ausencia con rabia aprieta la piedra, Nyra, y la madera se lo cuenta a quien sepa leerla. Estas son todas iguales. Pacientes. —Se le quebró la voz, y la dejó quebrarse—. Este no contaba lo que le faltaba. Contaba lo que le quedaba para verte. Es otra aritmética. La aprendí en un risco, con una luz azul delante, y no sabía que alguien de mi sangre la había aprendido antes que yo en un umbral.
+
+Leyó las letras de abajo. _Volvió. Lo sé._ Las leyó dos veces. Luego se quedó callado mucho tiempo.
+
+—Escribía mejor que yo a su edad —dijo al fin, con una sonrisa rota—. Tu madre puede confirmarlo. Me enseñó a escribir ella, con una vara de sauce en la mano por si acaso.
+
+—Escribías como un oso con guantes —dijo Rellana, detrás, con la voz húmeda.
+
+Sobre el valle de las puertas, sin una nube, empezó a llover con sol. Una lluvia fina, cálida, dorada, que mojó la madera recién pintada de una sola puerta y el escalón y las piedras en fila, y que duró exactamente lo que tardó Lynx en levantarse.
+
+* * *
+
 Luego se descolgó la bolsa del cinturón.
 
 La abrió en el escalón de piedra. Y sacó las piedras una por una.
@@ -400,16 +426,6 @@ El carbón de la casa de los niños de Leyndell. El de la mesa redonda, donde gr
 
 La blanca con la veta dorada de la explanada del Árbol, donde Morgott cayó.
 
-La nacarada de la llanura de las cruces, junto a *He dejado aquí mi amor*.
-
-La negra con la veta morada del lago de los ataúdes.
-
-La negra con el brillo dorado de la cumbre de Bayle.
-
-La negra con la brasa anaranjada de lo alto de la torre de Messmer.
-
-La blanca con la veta dorada de las cenizas del árbol de sellado.
-
 La gris con la veta blanca del castillo de Niall.
 
 La blanca con la mancha roja de la fuente helada de Ordina, donde Wenna echaba agua a los gatos.
@@ -423,6 +439,16 @@ La negra con el brillo naranja de entre las cuentas de Brund.
 El trozo de barro de Alejandro.
 
 La de mármol con la veta gris, como una cicatriz, de la explanada donde Hoarah Loux se rio.
+
+La nacarada de la llanura de las cruces, junto a *He dejado aquí mi amor*.
+
+La negra con la veta morada del lago de los ataúdes.
+
+La negra con el brillo dorado de la cumbre de Bayle.
+
+La negra con la brasa anaranjada de lo alto de la torre de Messmer.
+
+La blanca con la veta dorada de las cenizas del árbol de sellado.
 
 Y la gris, cualquiera, de la colina de Necrolimbo. La última. Como la primera.
 
@@ -474,11 +500,11 @@ Al anochecer, Edda plantó el brote.
 
 Eligió un sitio junto a la puerta de su casa. A un paso del escalón. Donde daba el sol por la mañana y por la tarde. Cavó un agujero con las manos en la tierra roja, que estaba dura, seca. Echó en el agujero un poco de agua del pozo, de la que Ranni había sacado para la pintura. Y sacó el brote de la bolsa de cuero.
 
-Seis hojas. Cinco verdes y una ámbar.
+Siete hojas. Seis verdes y una ámbar.
 
 Lo puso en el agujero, con su tierra oscura, la de la tinaja de Belurat. Lo cubrió con la tierra roja de las Tierras Áridas. Apretó con las manos.
 
-—Aquí hay sol —le dijo—. Sol de verdad. Del que no hay en la Tierra de las Sombras. Del que no había dentro del Árbol. Tu niña dijo que lo plantara donde hubiera sol. Y Yalda también. Y tu nieta te tocó una hoja y se fue contenta.
+—Aquí hay sol —le dijo—. Sol de verdad. Del que no hay en la Tierra de las Sombras. Del que no había dentro del Árbol. Tu niña dijo que lo plantara donde hubiera sol. Y Yalda también. Y tu niña te tocó una hoja y te cantó antes de irse.
 
 Las hojas no se movieron. No había viento.
 
@@ -548,11 +574,11 @@ No la luna de siempre. La suya. La fría, la fea, la distinta. La que había dib
 
 Edda se levantó del escalón. Miró por última vez la puerta azul. Las letras. *ARN. Volvió. Lo sé.* Las veinticuatro piedras en fila. La de colores. La de Melina. La capa gris. El brote, junto al escalón.
 
-Tenía siete hojas.
+Tenía ocho hojas.
 
 Edda se quedó inmóvil. Se agachó. La miró de cerca.
 
-Siete. La séptima era nueva. Pequeña, recién desdoblada. Durante la noche.
+Ocho. La octava era nueva. Pequeña, recién desdoblada. Durante la noche.
 
 Era verde.
 
@@ -564,7 +590,25 @@ Ranni se acercó. Miró el brote.
 
 * * *
 
-Edda se volvió hacia ella. Le cogió la mano.
+Edda se volvió. Sus padres estaban junto a la dragona. Lansseax había vuelto a su forma de mujer y se apoyaba en el hombro de su hijo como una vieja que se apoya en un árbol que plantó.
+
+—Me voy —dijo Edda—. Con ella. Lejos. Más allá de lo que se ve.
+
+—Lo sabemos —dijo Rellana.
+
+—Acabo de encontraros.
+
+—Y nosotros a ti. —Lynx se acercó. Le puso las manos en los hombros—. Escúchame bien, porque esto lo he pensado mucho y no sé decirlo de otra manera. Me pasé la vida escondiéndome de la gente que quería para protegerla. De ti, de tu hermano, de tu madre, incluso de Rennala, que me esperaba con la ventana abierta. Mi padre hizo lo mismo conmigo, y su madre con él, y así hacia atrás hasta una niña en unos helechos. Toda nuestra sangre es una cadena de gente que se va lejos por amor y deja a alguien sentado en un umbral. —Le apretó los hombros—. Tú vas a ser la primera que se va sin esconderse. Diciendo adónde. Prometiendo volver. Eso no es abandonarnos, Nyra. Es romper la cadena.
+
+—¿Y vosotros?
+
+—Nosotros vamos a buscar a tu hermano —dijo Rellana—. Por las caravanas del este. Siglos de polvo y de pistas falsas. Tu abuela dice que los tercos con la mano de piedra duran mucho.
+
+—Y vamos a reconstruir una torre en un acantilado —dijo Lynx—. Sin bandera de nadie. Y cada otoño, cuando las estrellas estén en el sitio exacto, haré llover con sol sobre el lago. —Sonrió—. Si lo ves desde allí arriba, sabrás que seguimos esperando. Pero esperando bien. Contando lo que falta para verte, no lo que te llevas.
+
+Edda no pudo contestar. Los abrazó a los dos. A la vez. Como en la copa de un árbol gris.
+
+Luego se volvió hacia Ranni. Le cogió la mano.
 
 —¿Lista? —preguntó Ranni.
 

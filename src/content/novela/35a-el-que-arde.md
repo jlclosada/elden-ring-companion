@@ -44,15 +44,15 @@ Tenía una cara fina, de rasgos delicados, demasiado delicados para un guerrero.
 
 —Me llamo Edda.
 
-—Edda. —Messmer repitió el nombre como Ranni lo había repetido en la torre, probándolo—. Has matado a Rellana.
+—Edda. —Messmer repitió el nombre como Ranni lo había repetido en la torre, probándolo—. Cruzaste la puerta de Rellana. Y después de ti, ella cruzó su propio puente. Hacia fuera.
 
 —Sí.
 
-—Y a Gaius. En el camino. Bruto ha subido hasta la puerta del Torreón esta mañana y se ha tumbado en el umbral. No quiere moverse. —La llama del ojo parpadeó—. Y a Radahn. En las dunas de Caelid. Lo sentí, hace tiempo, desde aquí. Como si se apagara una estrella.
+—Y mataste a Gaius. En el camino. Bruto ha subido hasta la puerta del Torreón esta mañana y se ha tumbado en el umbral. No quiere moverse. —La llama del ojo parpadeó—. Y a Radahn. En las dunas de Caelid. Lo sentí, hace tiempo, desde aquí. Como si se apagara una estrella.
 
 —Sí.
 
-—Has matado a todos los que me quedaban. —Messmer lo dijo sin rabia, como quien enumera los objetos de un catálogo—. Uno detrás de otro. —Bajó la vista hacia la serpiente roja de su brazo—. Salvo a esta. Que vino sola desde Ensis cuando murió su dueña.
+—Me has quitado a todos los que me quedaban. —Messmer lo dijo sin rabia, como quien enumera los objetos de un catálogo—. A unos con la espada. A otra con un nombre. —Bajó la vista hacia la serpiente roja de su brazo—. Salvo a esta. Que me la devolvió su dueña al irse, para que no estuviera solo.
 
 Edda no dijo nada.
 
@@ -68,13 +68,13 @@ El viento le movía la capa roja y la coleta. La serpiente de su brazo levantó 
 
 —¿Eso te dijo? —preguntó.
 
-—Antes de morir. Me lo hizo prometer.
+—Antes de irse con él. En la orilla del río. Me lo hizo prometer.
 
 —¿Qué más te dijo?
 
 Edda dio un paso hacia él. Despacio.
 
-—Que te vio luchar por primera vez en un torneo de las tierras bajas. Contra un albinaurio que montaba un jabalí. Que le quemaste la armadura y la barba. Y que cuando estaba en el suelo, vencido, con todo el mundo gritando que lo remataras, le diste la mano. —Hizo una pausa—. Que se enamoró de ti por eso. No por el fuego. Por la mano.
+—Que te vio luchar por primera vez en un torneo de las tierras bajas. Contra un albinaurio que montaba un jabalí. Que le quemaste la armadura y la barba. Y que cuando estaba en el suelo, vencido, con todo el mundo gritando que lo remataras, le diste la mano. —Hizo una pausa—. Que no se enamoró de ti. Nunca. Que te lo dijo en una muralla y que no te mintió jamás. Pero que te guardó la puerta siglos por eso. No por el fuego. Por la mano.
 
 Messmer no dijo nada.
 
@@ -120,7 +120,7 @@ Messmer levantó la vista.
 
 Messmer no dijo nada.
 
-—Voy a ir al Árbol de oro —siguió Edda—. Al otro lado. Al de verdad. Hay alguien dentro. Encerrado. Tu madre. —Hizo una pausa—. No sé si llegaré. No depende de mí. Pero si llego, se las daré.
+—Tu madre está rota —siguió Edda—. Al otro lado. Tendida en el suelo de su Árbol quemado, en lo alto de una ciudad de ceniza, con una brasa en el pecho. La he visto. Yo quemé su Árbol. —Hizo una pausa—. No sé si la brasa aguantará hasta que vuelva. No depende de mí. Pero si aguanta, se las daré.
 
 —No las leerá.
 
@@ -136,7 +136,7 @@ Levantó la lanza. La punta dorada brilló con la luz plateada.
 
 —Por eso no voy a dejar que pases —dijo—. Aunque no haya nada que pasar. Aunque no haya nada que guardar. Es lo único que sé hacer.
 
-Edda pensó en Rellana. _Si te dejara pasar, sería como decirle que he dejado de esperar._
+Edda pensó en Rellana en la sala de los ventanales. _Llevo siglos siendo una sola cosa. No sé quién soy sin eso._
 
 —Lo sé —dijo, y desenvainó.
 
@@ -280,7 +280,7 @@ Edda le clavó la espada con la otra mano. Por debajo de la armadura, en el cost
 
 Messmer no soltó la mano.
 
-Se quedó de rodillas, con la espada dentro, apoyado en ella. Respiraba despacio. La serpiente roja de Rellana se le desenroscó del brazo y le subió al hombro, y se acurrucó contra su cuello, como un gato. Como se había acurrucado en el hombro de Rellana la noche del balcón.
+Se quedó de rodillas, con la espada dentro, apoyado en ella. Respiraba despacio. La serpiente roja se le desenroscó del brazo y le subió al hombro, y se acurrucó contra su cuello, como un gato. Como se había acurrucado en el hombro de Rellana la noche del balcón.
 
 —Marika —susurró Messmer, mirando el cielo gris, hacia el oeste—. Te maldigo. A ti y a tu Orden. A tu Árbol. A todo lo que tocaste. —La llama del ojo se agitó—. Te maldigo…
 
@@ -426,7 +426,7 @@ El jabalí masticaba despacio, con los ojos cerrados.
 
 Edda se sentó a su lado en el escalón. Se quedaron un rato en silencio, mirando a Bruto comer manzanas secas, con la luz plateada del cielo sin sol sobre el Torreón vacío.
 
-Luego Edda sacó de la bolsa del cinturón una piedra que había cogido en lo alto de la torre, de entre las llamas que se apagaban: pequeña, negra, con un brillo anaranjado en el fondo, como una brasa que no termina de enfriarse. La decimocuarta.
+Luego Edda sacó de la bolsa del cinturón una piedra que había cogido en lo alto de la torre, de entre las llamas que se apagaban: pequeña, negra, con un brillo anaranjado en el fondo, como una brasa que no termina de enfriarse. La vigesimosegunda.
 
 La guardó con las otras. Se tocó la caja de cartas. La bolsa del cuello, con el brote. El bolsillo de dentro, con la piedra azul.
 

@@ -204,7 +204,7 @@ Hewg alargó la mano.
 
 —Dame esa porquería —dijo.
 
-Edda le tendió la espada. La que había llevado desde la Capilla. La que había estado en la misma sala que Godrick, que Rennala, que Radahn, que Rykard, que Morgott. En el mismo jardín que Miquella. En el mismo lago que Malenia. En la misma forja que Brund. En el mismo templo que Maliketh. La que Hewg había arreglado una y otra vez, mellada, partida, doblada, cada vez que Edda volvía a la Mesa Redonda.
+Edda le tendió la espada. La que había llevado desde la Capilla. La que había estado en la misma sala que Godrick, que Rennala, que Radahn, que Rykard, que Morgott. En el mismo lago que Malenia. En la misma forja que Brund. En el mismo templo que Maliketh. La que Hewg había arreglado una y otra vez, mellada, partida, doblada, cada vez que Edda volvía a la Mesa Redonda.
 
 El herrero la cogió. La miró a la luz del fuego. Pasó el pulgar por el filo, despacio.
 

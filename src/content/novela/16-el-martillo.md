@@ -326,9 +326,9 @@ La llamarían la Fractura.
 
 ---
 
-En las Tierras Áridas, al otro lado del mar, una arquera murió esa misma noche en una colina sin nombre.
+En las Tierras Áridas, al otro lado del mar, mucho después de aquella noche —cuando la Fractura ya había terminado y en las Tierras Intermedias nadie recordaba bien cómo había empezado—, una arquera murió en una colina sin nombre.
 
-Se llamaba como una antepasada suya de la que nadie recordaba nada salvo el nombre, y tenía treinta y dos años, una cicatriz en la ceja izquierda y un hijo pequeño en una aldea a tres días de camino. Había sido una escaramuza sin importancia, entre dos tribus que se disputaban un pozo seco. Una flecha perdida le había atravesado el pecho. Cayó de cara al barro y se quedó allí, respirando cada vez más despacio, mirando el cielo rojo de las Tierras Áridas.
+Se llamaba como una arquera de las historias de su aldea, aunque no había nacido con ese nombre; eso no lo sabía nadie salvo la vieja que la había criado, y tenía treinta y dos años, una cicatriz en la ceja izquierda y un hijo pequeño en una aldea a tres días de camino. Había sido una escaramuza sin importancia, entre dos tribus que se disputaban un pozo seco. Una flecha perdida le había atravesado el pecho. Cayó de cara al barro y se quedó allí, respirando cada vez más despacio, mirando el cielo rojo de las Tierras Áridas.
 
 Pensó en su hijo. Pensó que no había llegado a enseñarle a tensar el arco. Pensó que tenía frío.
 
