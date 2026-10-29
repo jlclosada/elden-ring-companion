@@ -1,0 +1,18 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# Los assets llevan hash en el nombre: caché larga
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# SPA: cualquier ruta (/mapa, /lore/novela/…) sirve index.html
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
